@@ -1,0 +1,5 @@
+﻿VariableName,award,count,type
+Defaults,{},999,0
+ID,award,count,type
+1,{coin12=1500;gold=100000;rmb=20},3,1
+2,{coin12=3000;gold=200000;502=1},8,2

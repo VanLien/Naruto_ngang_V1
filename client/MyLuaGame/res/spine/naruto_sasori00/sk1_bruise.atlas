@@ -1,0 +1,160 @@
+
+sk1_bruise.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_box_0
+  rotate: false
+  xy: 2, 47
+  size: 119, 205
+  orig: 119, 205
+  offset: 0, 0
+  index: -1
+fx_box_1
+  rotate: false
+  xy: 260, 305
+  size: 119, 205
+  orig: 119, 205
+  offset: 0, 0
+  index: -1
+fx_flash_10_0
+  rotate: true
+  xy: 123, 2
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+fx_glow_10
+  rotate: true
+  xy: 447, 322
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_006
+  rotate: false
+  xy: 260, 244
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_007
+  rotate: false
+  xy: 578, 325
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_008
+  rotate: false
+  xy: 381, 322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_009
+  rotate: false
+  xy: 641, 328
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_010
+  rotate: false
+  xy: 892, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_011
+  rotate: false
+  xy: 958, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_012
+  rotate: false
+  xy: 707, 327
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_4_013
+  rotate: false
+  xy: 512, 325
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_shockwave_1
+  rotate: false
+  xy: 123, 127
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+fx_steam_trail_1
+  rotate: true
+  xy: 635, 393
+  size: 117, 125
+  orig: 117, 125
+  offset: 0, 0
+  index: -1
+fx_trail_0
+  rotate: false
+  xy: 762, 420
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+glow_7
+  rotate: false
+  xy: 323, 251
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+points_3
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+smoke_13
+  rotate: false
+  xy: 381, 388
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+smoke_23
+  rotate: false
+  xy: 508, 391
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+trail_42_000
+  rotate: true
+  xy: 892, 415
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+trail_42_001
+  rotate: true
+  xy: 60, 11
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+trail_42_006
+  rotate: true
+  xy: 2, 13
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1

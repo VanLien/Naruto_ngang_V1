@@ -1,0 +1,62 @@
+
+loadingdog2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuntunjump_1
+  rotate: false
+  xy: 736, 136
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+tuntunjump_2
+  rotate: false
+  xy: 873, 149
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+tuntunjump_3
+  rotate: false
+  xy: 2, 2
+  size: 155, 113
+  orig: 155, 113
+  offset: 0, 0
+  index: -1
+tuntunjump_4
+  rotate: false
+  xy: 160, 125
+  size: 157, 127
+  orig: 157, 127
+  offset: 0, 0
+  index: -1
+tuntunjump_5
+  rotate: false
+  xy: 2, 117
+  size: 156, 135
+  orig: 156, 135
+  offset: 0, 0
+  index: -1
+tuntunjump_6
+  rotate: false
+  xy: 319, 121
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+tuntunjump_7
+  rotate: false
+  xy: 467, 123
+  size: 134, 129
+  orig: 134, 129
+  offset: 0, 0
+  index: -1
+tuntunjump_8
+  rotate: false
+  xy: 603, 127
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1

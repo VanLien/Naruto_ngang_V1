@@ -1,0 +1,48 @@
+
+hupazaixianlibao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lb_hb
+  rotate: false
+  xy: 43, 7
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+lb_hb1
+  rotate: true
+  xy: 74, 7
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+lb_hb2
+  rotate: false
+  xy: 70, 74
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+lb_hb3
+  rotate: false
+  xy: 70, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lb_x
+  rotate: false
+  xy: 2, 43
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+lb_x1
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

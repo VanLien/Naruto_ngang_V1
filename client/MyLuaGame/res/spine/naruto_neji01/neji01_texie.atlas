@@ -1,0 +1,474 @@
+
+neji01_texie.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1483, 315
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1533, 368
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 335, 120
+  size: 132, 164
+  orig: 132, 164
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1840, 446
+  size: 147, 64
+  orig: 147, 64
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1533, 304
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+15_1
+  rotate: true
+  xy: 1989, 439
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 995, 178
+  size: 140, 105
+  orig: 140, 105
+  offset: 0, 0
+  index: -1
+16_1
+  rotate: false
+  xy: 228, 31
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 516, 198
+  size: 190, 249
+  orig: 190, 249
+  offset: 0, 0
+  index: -1
+17_0
+  rotate: false
+  xy: 1645, 406
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+17_1
+  rotate: true
+  xy: 849, 320
+  size: 190, 238
+  orig: 190, 238
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1089, 320
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1
+18_1
+  rotate: false
+  xy: 1212, 307
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 849, 151
+  size: 144, 167
+  orig: 144, 167
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1525, 425
+  size: 85, 172
+  orig: 85, 172
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 1699, 413
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 995, 159
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 1211, 260
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 501, 121
+  size: 75, 127
+  orig: 75, 127
+  offset: 0, 0
+  index: -1
+23_1
+  rotate: false
+  xy: 1089, 405
+  size: 211, 105
+  orig: 211, 105
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 1404, 324
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 2, 128
+  size: 331, 124
+  orig: 331, 124
+  offset: 0, 0
+  index: -1
+25_1
+  rotate: false
+  xy: 516, 390
+  size: 331, 120
+  orig: 331, 120
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 334, 62
+  size: 152, 56
+  orig: 152, 56
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 767, 136
+  size: 252, 80
+  orig: 252, 80
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1302, 422
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1320, 310
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 630, 126
+  size: 120, 70
+  orig: 120, 70
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: false
+  xy: 1174, 238
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 34
+  size: 224, 92
+  orig: 224, 92
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: true
+  xy: 1102, 179
+  size: 139, 70
+  orig: 139, 70
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 3
+  size: 29, 157
+  orig: 29, 157
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 334, 41
+  size: 19, 150
+  orig: 19, 150
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1840, 425
+  size: 19, 122
+  orig: 19, 122
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 161, 2
+  size: 27, 155
+  orig: 27, 155
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 254
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+
+neji01_texie2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx_05
+  rotate: false
+  xy: 2, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_06
+  rotate: false
+  xy: 2, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_07
+  rotate: false
+  xy: 458, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_08
+  rotate: false
+  xy: 2, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_09
+  rotate: false
+  xy: 458, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_10
+  rotate: false
+  xy: 914, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_11
+  rotate: false
+  xy: 2, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_12
+  rotate: false
+  xy: 458, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_13
+  rotate: false
+  xy: 914, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_14
+  rotate: false
+  xy: 1370, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_15
+  rotate: false
+  xy: 458, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_16
+  rotate: false
+  xy: 914, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_17
+  rotate: false
+  xy: 1370, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_18
+  rotate: false
+  xy: 1826, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_19
+  rotate: false
+  xy: 914, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_20
+  rotate: false
+  xy: 1370, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_21
+  rotate: false
+  xy: 1826, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_22
+  rotate: false
+  xy: 2282, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_23
+  rotate: false
+  xy: 1370, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_24
+  rotate: false
+  xy: 1826, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_25
+  rotate: false
+  xy: 2282, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_26
+  rotate: false
+  xy: 2738, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_27
+  rotate: false
+  xy: 1826, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_28
+  rotate: false
+  xy: 2282, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_29
+  rotate: false
+  xy: 2738, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_30
+  rotate: false
+  xy: 3194, 638
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_31
+  rotate: false
+  xy: 2282, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_32
+  rotate: false
+  xy: 2738, 214
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_33
+  rotate: false
+  xy: 3194, 426
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1
+tx/tx_34
+  rotate: false
+  xy: 2738, 2
+  size: 454, 210
+  orig: 454, 210
+  offset: 0, 0
+  index: -1

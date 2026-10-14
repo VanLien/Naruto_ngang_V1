@@ -1,0 +1,27 @@
+
+sk2_bg.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_bg
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_glow_11
+  rotate: false
+  xy: 132, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

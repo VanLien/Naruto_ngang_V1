@@ -1,0 +1,258 @@
+
+zabuza00_ui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandage_01
+  rotate: true
+  xy: 848, 210
+  size: 178, 96
+  orig: 178, 96
+  offset: 0, 0
+  index: -1
+bandage_02
+  rotate: false
+  xy: 1113, 194
+  size: 106, 151
+  orig: 106, 151
+  offset: 0, 0
+  index: -1
+bandage_03a
+  rotate: true
+  xy: 1718, 369
+  size: 46, 236
+  orig: 46, 236
+  offset: 0, 0
+  index: -1
+bandage_04
+  rotate: false
+  xy: 1221, 215
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+bandage_05
+  rotate: false
+  xy: 1487, 204
+  size: 165, 75
+  orig: 165, 75
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 267, 141
+  size: 245, 247
+  orig: 245, 247
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 125
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1229, 346
+  size: 164, 233
+  orig: 164, 233
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 2, 390
+  size: 942, 120
+  orig: 942, 120
+  offset: 0, 0
+  index: -1
+knifeglow1
+  rotate: false
+  xy: 1664, 226
+  size: 156, 87
+  orig: 156, 87
+  offset: 0, 0
+  index: -1
+knifeglow2
+  rotate: false
+  xy: 1487, 281
+  size: 175, 86
+  orig: 175, 86
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 2, 18
+  size: 105, 256
+  orig: 105, 256
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 927, 167
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+l_eye_b
+  rotate: true
+  xy: 1956, 374
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 1979, 432
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+l_forearm
+  rotate: true
+  xy: 1718, 417
+  size: 93, 259
+  orig: 93, 259
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 755, 100
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 946, 347
+  size: 163, 281
+  orig: 163, 281
+  offset: 0, 0
+  index: -1
+l_shank
+  rotate: true
+  xy: 1369, 218
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+l_wrinkle
+  rotate: false
+  xy: 2022, 470
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+r_arm1
+  rotate: false
+  xy: 1464, 369
+  size: 252, 141
+  orig: 252, 141
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 1822, 292
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+r_eye_b
+  rotate: false
+  xy: 347, 31
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 1328, 195
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+r_finger
+  rotate: false
+  xy: 1979, 449
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+r_finger_02
+  rotate: false
+  xy: 432, 87
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+r_forearm
+  rotate: true
+  xy: 845, 99
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+r_forearm_02
+  rotate: true
+  xy: 514, 133
+  size: 95, 239
+  orig: 95, 239
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 260, 2
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+r_hand_02
+  rotate: false
+  xy: 1862, 291
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+r_hand_03
+  rotate: false
+  xy: 347, 54
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 514, 230
+  size: 158, 332
+  orig: 158, 332
+  offset: 0, 0
+  index: -1
+r_shank
+  rotate: true
+  xy: 946, 221
+  size: 124, 165
+  orig: 124, 165
+  offset: 0, 0
+  index: -1
+r_wrinkle
+  rotate: false
+  xy: 260, 100
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+scarf_01a
+  rotate: true
+  xy: 1221, 184
+  size: 29, 105
+  orig: 29, 105
+  offset: 0, 0
+  index: -1
+scarf_02b
+  rotate: true
+  xy: 1664, 315
+  size: 52, 196
+  orig: 52, 196
+  offset: 0, 0
+  index: -1

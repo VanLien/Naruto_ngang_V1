@@ -1,0 +1,62 @@
+
+nagato00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0004
+  rotate: true
+  xy: 506, 152
+  size: 158, 309
+  orig: 158, 309
+  offset: 0, 0
+  index: -1
+idle_0009
+  rotate: false
+  xy: 0, 184
+  size: 192, 309
+  orig: 192, 309
+  offset: 0, 0
+  index: -1
+idle_0015
+  rotate: true
+  xy: 194, 312
+  size: 181, 310
+  orig: 181, 310
+  offset: 0, 0
+  index: -1
+idle_0017
+  rotate: true
+  xy: 506, 312
+  size: 181, 310
+  orig: 181, 310
+  offset: 0, 0
+  index: -1
+idle_0019
+  rotate: true
+  xy: 194, 129
+  size: 181, 310
+  orig: 181, 310
+  offset: 0, 0
+  index: -1
+stand_0002
+  rotate: false
+  xy: 818, 184
+  size: 127, 309
+  orig: 127, 309
+  offset: 0, 0
+  index: -1
+stand_0005
+  rotate: true
+  xy: 0, 0
+  size: 127, 309
+  orig: 127, 309
+  offset: 0, 0
+  index: -1
+stand_0008
+  rotate: true
+  xy: 506, 22
+  size: 128, 309
+  orig: 128, 309
+  offset: 0, 0
+  index: -1

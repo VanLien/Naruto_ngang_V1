@@ -1,0 +1,97 @@
+
+xuetiao_loop.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chih1
+  rotate: true
+  xy: 1761, 356
+  size: 150, 253
+  orig: 150, 253
+  offset: 0, 0
+  index: -1
+tx/guangyun
+  rotate: true
+  xy: 1050, 326
+  size: 180, 360
+  orig: 180, 360
+  offset: 0, 0
+  index: -1
+tx/huo_qiu2_1
+  rotate: false
+  xy: 1245, 178
+  size: 157, 146
+  orig: 157, 146
+  offset: 0, 0
+  index: -1
+tx/huo_qiu2_2
+  rotate: false
+  xy: 1404, 170
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+tx/huoxin
+  rotate: false
+  xy: 1050, 169
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+tx/psh6
+  rotate: false
+  xy: 2, 136
+  size: 381, 370
+  orig: 381, 370
+  offset: 0, 0
+  index: -1
+tx/psh8
+  rotate: false
+  xy: 385, 138
+  size: 380, 368
+  orig: 380, 368
+  offset: 0, 0
+  index: -1
+tx/qiliu
+  rotate: true
+  xy: 767, 18
+  size: 219, 231
+  orig: 219, 231
+  offset: 0, 0
+  index: -1
+tx/xuetiao
+  rotate: true
+  xy: 2016, 367
+  size: 139, 9
+  orig: 139, 9
+  offset: 0, 0
+  index: -1
+tx/yanjiang
+  rotate: false
+  xy: 2, 2
+  size: 368, 132
+  orig: 368, 132
+  offset: 0, 0
+  index: -1
+tx/yun13
+  rotate: true
+  xy: 1412, 298
+  size: 77, 181
+  orig: 77, 181
+  offset: 0, 0
+  index: -1
+tx/yun_w1
+  rotate: false
+  xy: 767, 239
+  size: 281, 267
+  orig: 281, 267
+  offset: 0, 0
+  index: -1
+tx/zbt_d1
+  rotate: true
+  xy: 1412, 377
+  size: 129, 347
+  orig: 129, 347
+  offset: 0, 0
+  index: -1

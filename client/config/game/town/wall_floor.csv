@@ -1,0 +1,12 @@
+﻿VariableName,attr,furnId,res,roomID,size,type
+Defaults,{},,,,{},
+ID,attr,furnId,res,roomID,size,type
+1,{maxNum=50;maxScale=0.8;minScale=0.4;k=0.5},70001,town/floor70001.tmx,1,{y=6;wallHeight=5;x=6;height=18;width=18},1
+2,{maxNum=50;maxScale=0.8;minScale=0.4;k=0.5},70002,town/floor70002.tmx,2,{y=6;wallHeight=5;x=6;height=18;width=18},1
+3,{maxNum=50;maxScale=0.8;minScale=0.4;k=0.5},70003,town/floor70003.tmx,3,{y=6;wallHeight=5;x=6;height=18;width=18},1
+4,{maxNum=50;maxScale=0.8;minScale=0.4;k=0.5},70004,town/floor70004.tmx,4,{y=6;wallHeight=5;x=6;height=18;width=18},1
+5,{maxNum=50;maxScale=0.8;minScale=0.4;k=0.5},70005,town/floor70005.tmx,1,{y=6;wallHeight=5;x=6;height=18;width=18},1
+1001,,71001,town/wall71001.tmx,1,{height=5;width=18},2
+1002,,71002,town/wall71001.tmx,2,{height=5;width=18},2
+1003,,71003,town/wall71001.tmx,3,{height=5;width=18},2
+1004,,71004,town/wall71001.tmx,4,{height=5;width=18},2

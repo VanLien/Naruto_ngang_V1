@@ -1,0 +1,146 @@
+
+yunshi.png
+size: 1742,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: true
+  xy: 519, 525
+  size: 506, 503
+  orig: 506, 503
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 318, 355
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+liuxing
+  rotate: true
+  xy: 692, 18
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+suishi1
+  rotate: false
+  xy: 355, 5
+  size: 250, 60
+  orig: 250, 60
+  offset: 0, 0
+  index: -1
+suishi2
+  rotate: true
+  xy: 355, 67
+  size: 302, 109
+  orig: 302, 109
+  offset: 0, 0
+  index: -1
+suishi3
+  rotate: false
+  xy: 1443, 513
+  size: 273, 250
+  orig: 273, 250
+  offset: 0, 0
+  index: -1
+wenlu_x
+  rotate: true
+  xy: 318, 371
+  size: 660, 199
+  orig: 660, 199
+  offset: 0, 0
+  index: -1
+xingqiu_1
+  rotate: false
+  xy: 519, 386
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+xingqiu_2
+  rotate: false
+  xy: 736, 36
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+xingqiu_3
+  rotate: false
+  xy: 736, 1
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+xingqiu_4
+  rotate: false
+  xy: 466, 91
+  size: 386, 278
+  orig: 386, 278
+  offset: 0, 0
+  index: -1
+xx_bj_c
+  rotate: true
+  xy: 1443, 765
+  size: 266, 275
+  orig: 281, 287
+  offset: 15, 7
+  index: -1
+xx_dd
+  rotate: false
+  xy: 607, 6
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+yueqiu
+  rotate: true
+  xy: 1, 343
+  size: 688, 315
+  orig: 688, 315
+  offset: 0, 0
+  index: -1
+yunshi_1
+  rotate: true
+  xy: 1575, 51
+  size: 189, 166
+  orig: 189, 166
+  offset: 0, 0
+  index: -1
+yunshi_2
+  rotate: false
+  xy: 854, 18
+  size: 500, 505
+  orig: 500, 505
+  offset: 0, 0
+  index: -1
+yunshi_3
+  rotate: false
+  xy: 1356, 242
+  size: 271, 269
+  orig: 271, 269
+  offset: 0, 0
+  index: -1
+yunshi_4
+  rotate: true
+  xy: 1356, 5
+  size: 235, 217
+  orig: 235, 217
+  offset: 0, 0
+  index: -1
+yunshi_5
+  rotate: true
+  xy: 1, 4
+  size: 337, 352
+  orig: 337, 352
+  offset: 0, 0
+  index: -1
+yunshi_7
+  rotate: true
+  xy: 1024, 532
+  size: 499, 417
+  orig: 499, 417
+  offset: 0, 0
+  index: -1

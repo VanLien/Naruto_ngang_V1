@@ -1,0 +1,16 @@
+﻿VariableName,card1,card2,posRes1,posRes2,res1,res2,resPos1,resPos2,resScale1,resScale2,titleRes1,titleRes2
+Defaults,,,,,,,{y=0;x=0},{y=0;x=0},1,1,,
+ID,card1,card2,posRes1,posRes2,res1,res2,resPos1,resPos2,resScale1,resScale2,titleRes1,titleRes2
+1,4381,2071,common/txt/txt_dw_woailuofengying.png,common/txt/txt_dw_qilabi.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_woailuofengying.png,common/txt/txt_qilabi.png
+2,3041,2141,common/txt/txt_dw_gangshoubaihao.png,common/txt/txt_dw_zilaiye.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_gangshoubaihao.png,common/txt/txt_zilaiye.png
+3,3061,4931,common/txt/txt_dw_yuanfeirizhan.png,common/txt/txt_dw_dayemu.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_yuanfeirizhan.png,common/txt/txt_dayemu.png
+4,4221,4281,common/txt/txt_dw_aisidaileiying.png,common/txt/txt_dw_daluyi.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_aisidaileiying.png,common/txt/txt_daluyi.png
+5,2001,2011,common/txt/txt_dw_shoujurenjiedazhan.png,common/txt/txt_dw_kanjiulangrenjiedazhan.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_shoujurenjiedazhan.png,common/txt/txt_kanjiulangrenjiedazhan.png
+6,2161,3121,common/txt/txt_dw_yuzhiboyou.png,common/txt/txt_dw_zuozhuxuzuo.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_yuzhiboyou.png,common/txt/txt_zuozhuxuzuo.png
+7,3141,4261,common/txt/txt_dw_peientiandao.png,common/txt/txt_dw_chushengdao.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_peientiandao.png,common/txt/txt_chushengdao.png
+8,2081,4291,common/txt/txt_dw_qiandai.png,common/txt/txt_dw_shanjiaoyubanzang.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_qiandai.png,common/txt/txt_shanjiaoyubanzang.png
+9,4231,2111,common/txt/txt_dw_sanchuan.png,common/txt/txt_dw_zhicuntuanzang.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_sanchuan.png,common/txt/txt_zhicuntuanzang.png
+10,4461,4301,common/txt/txt_dw_yuzhibozhishui.png,common/txt/txt_dw_afei.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_yuzhibozhishui.png,common/txt/txt_afei.png
+11,3031,3071,common/txt/txt_dw_maitekaijingmen.png,common/txt/txt_dw_qianshoufeijian.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_maitekaijingmen.png,common/txt/txt_qianshoufeijian.png
+12,3011,4311,common/txt/txt_dw_bofengshuimen.png,common/txt/txt_dw_mingrenyiwei.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_bofengshuimen.png,common/txt/txt_mingrenyiwei.png
+13,5221,4851,common/txt/txt_dw_zhouyinzuozhu.png,common/txt/txt_dw_zhaomeiming.png,config/big_hero/normal/img_3001.png,config/big_hero/normal/img_3011.png,,,1.6,1.6,common/txt/txt_zhouyinzuozhu.png,common/txt/txt_zhaomeiming.png

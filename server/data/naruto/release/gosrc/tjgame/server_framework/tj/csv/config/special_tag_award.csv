@@ -1,0 +1,6 @@
+变量名,tag,award
+默认值,"""""",{}
+ID,特殊包tag,登录奖励附件
+1,en_android_mofang_1,{rmb=500;gold=3000000;502=5}
+2,th_android_mofang_1,{rmb=500;gold=3000000;502=5}
+3,th_ios_mofang_1,{rmb=500;gold=3000000;502=5}

@@ -1,0 +1,62 @@
+
+sk2_bg.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/glow_11
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/glow_8
+  rotate: false
+  xy: 1286, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/points_5
+  rotate: false
+  xy: 1286, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/ramp_v_5
+  rotate: false
+  xy: 1028, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx/stone_16_001
+  rotate: false
+  xy: 132, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/stone_16_003
+  rotate: false
+  xy: 1416, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/tex_sky_bg_0
+  rotate: false
+  xy: 2, 198
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1

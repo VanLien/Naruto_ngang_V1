@@ -1,0 +1,20 @@
+
+shuzisaoguang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/dimian
+  rotate: true
+  xy: 2, 2
+  size: 219, 362
+  orig: 219, 362
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 366, 155
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+﻿VariableName,award,desc,huodongID,needLevel
+Defaults,{},,0,1
+ID,award,desc,huodongID,needLevel
+1,{gold=10000;card=30041;21006=100;52=100},VIP1 có thể nhận,8001,
+2,{gold=10000;card=30041;21006=100;52=100},VIP2 có thể nhận,8001,2
+3,{gold=10000;card=30041;21006=100;52=100},VIP3 có thể nhận,8001,3
+4,{gold=10000;card=30041;21006=100;52=100},VIP4 có thể nhận,8001,4
+5,{gold=10000;card=30041;21006=100;52=100},VIP5 có thể nhận,8001,5
+6,{gold=10000;card=30041;21006=100;52=100},VIP6 có thể nhận,8001,6
+7,{gold=10000;card=30041;21006=100;52=100},VIP7 có thể nhận,8001,7
+8,{gold=10000;card=30041;21006=100;52=100},VIP8 có thể nhận,8001,8
+9,{gold=10000;card=30041;21006=100;52=100},VIP9 có thể nhận,8001,9
+10,{gold=10000;card=30041;21006=100;52=100},VIP10 có thể nhận,8001,10
+11,{gold=10000;card=30041;21006=100;52=100},VIP11 có thể nhận,8001,11
+12,{gold=10000;card=30041;21006=100;52=100},VIP12 có thể nhận,8001,12
+13,{gold=10000;card=30041;21006=100;52=100},VIP13 có thể nhận,8001,13
+14,{gold=10000;card=30041;21006=100;52=100},VIP14 có thể nhận,8001,14
+15,{gold=10000;card=30041;21006=100;52=100},VIP15 có thể nhận,8001,15

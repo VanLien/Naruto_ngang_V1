@@ -1,0 +1,62 @@
+
+hinata00_city.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0001
+  rotate: true
+  xy: 2, 161
+  size: 91, 263
+  orig: 91, 263
+  offset: 0, 0
+  index: -1
+idle_0010
+  rotate: true
+  xy: 267, 169
+  size: 83, 265
+  orig: 83, 265
+  offset: 0, 0
+  index: -1
+idle_0017
+  rotate: true
+  xy: 534, 169
+  size: 83, 265
+  orig: 83, 265
+  offset: 0, 0
+  index: -1
+idle_0026
+  rotate: true
+  xy: 2, 78
+  size: 81, 266
+  orig: 81, 266
+  offset: 0, 0
+  index: -1
+idle_0041
+  rotate: true
+  xy: 270, 12
+  size: 79, 255
+  orig: 79, 255
+  offset: 0, 0
+  index: -1
+stand_0033
+  rotate: true
+  xy: 270, 93
+  size: 74, 264
+  orig: 74, 264
+  offset: 0, 0
+  index: -1
+stand_0038
+  rotate: true
+  xy: 536, 93
+  size: 74, 264
+  orig: 74, 264
+  offset: 0, 0
+  index: -1
+stand_0044
+  rotate: true
+  xy: 2, 2
+  size: 74, 265
+  orig: 74, 265
+  offset: 0, 0
+  index: -1

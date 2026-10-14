@@ -1,0 +1,44 @@
+{
+	"login.dev.1": {
+		"debug": true,
+		"addr": ":16666",
+		"http_addr": ":18080",
+		"patch_url": "http://192.168.1.98:8008/pokemon/patch/",
+		"nsqlookupd": "http://192.168.1.125:4161/",
+		"mainnsqd": "192.168.1.125:4150",
+		"services": [
+			{
+				"name": "login.dev.1",
+				"dependent":[
+					"accountdb.dev.1",
+					"game.dev.1",
+					"game.dev.2",
+					"game.dev.3",
+					"game.dev.4",
+					"game.dev.5",
+					"game.dev.6",
+					"game.dev.7"
+				]
+			}
+		]
+	},
+
+	"login.dev.3": {
+		"debug": true,
+		"addr": ":16666",
+		"http_addr": ":18080",
+		"patch_url": "http://192.168.1.98:8008/pokemon/patch/",
+		"nsqlookupd": "http://192.168.1.125:4161/",
+		"mainnsqd": "192.168.1.125:4150",
+		"services": [
+			{
+				"name": "login.dev.3",
+				"dependent":[
+					"accountdb.dev.1",
+					"game.dev.1",
+					"game.dev.2"
+				]
+			}
+		]
+	}
+}

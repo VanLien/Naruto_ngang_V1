@@ -1,0 +1,97 @@
+
+kiba00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog_0010
+  rotate: false
+  xy: 955, 418
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+dog_0011
+  rotate: false
+  xy: 955, 355
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+dog_0014
+  rotate: false
+  xy: 931, 236
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+dog_0015
+  rotate: true
+  xy: 955, 298
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+idle_0021
+  rotate: false
+  xy: 2, 246
+  size: 188, 233
+  orig: 188, 233
+  offset: 0, 0
+  index: -1
+idle_0022
+  rotate: false
+  xy: 2, 2
+  size: 178, 242
+  orig: 178, 242
+  offset: 0, 0
+  index: -1
+idle_0023
+  rotate: true
+  xy: 704, 315
+  size: 164, 249
+  orig: 164, 249
+  offset: 0, 0
+  index: -1
+idle_0030
+  rotate: true
+  xy: 192, 318
+  size: 161, 254
+  orig: 161, 254
+  offset: 0, 0
+  index: -1
+idle_0044
+  rotate: true
+  xy: 448, 319
+  size: 160, 254
+  orig: 160, 254
+  offset: 0, 0
+  index: -1
+idle_0089
+  rotate: true
+  xy: 192, 164
+  size: 152, 246
+  orig: 152, 246
+  offset: 0, 0
+  index: -1
+stand_0001
+  rotate: true
+  xy: 690, 172
+  size: 141, 239
+  orig: 141, 239
+  offset: 0, 0
+  index: -1
+stand_0006
+  rotate: true
+  xy: 182, 21
+  size: 141, 240
+  orig: 141, 240
+  offset: 0, 0
+  index: -1
+stand_0013
+  rotate: true
+  xy: 448, 176
+  size: 141, 240
+  orig: 141, 240
+  offset: 0, 0
+  index: -1

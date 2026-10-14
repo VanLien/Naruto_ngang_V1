@@ -1,0 +1,43 @@
+# Cocos2d-x frameworks
+client/MyLuaGame/frameworks/
+
+# Build files
+**/build/
+**/.gradle/
+**/.cxx/
+**/intermediates/
+**/generated/
+**/outputs/
+
+# IDE
+**/.idea/
+**/.vs/
+**/.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.class
+
+# Android packages
+*.apk
+*.aab
+
+# Android build
+**/build/
+**/.gradle/
+**/.cxx/
+**/intermediates/
+**/generated/
+**/outputs/
+
+# MongoDB runtime
+**/journal/
+**/WiredTiger*
+**/mongod.lock
+**/*.wt
+
+# Temporary
+*.log
+*.tmp
+*.class

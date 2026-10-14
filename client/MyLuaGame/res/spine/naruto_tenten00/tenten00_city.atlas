@@ -1,0 +1,69 @@
+
+tenten00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0008
+  rotate: false
+  xy: 2, 88
+  size: 110, 281
+  orig: 110, 281
+  offset: 0, 0
+  index: -1
+idle_0011
+  rotate: false
+  xy: 114, 89
+  size: 98, 280
+  orig: 98, 280
+  offset: 0, 0
+  index: -1
+idle_0021
+  rotate: true
+  xy: 504, 175
+  size: 110, 250
+  orig: 110, 250
+  offset: 0, 0
+  index: -1
+idle_0026
+  rotate: true
+  xy: 504, 59
+  size: 114, 245
+  orig: 114, 245
+  offset: 0, 0
+  index: -1
+idle_0031
+  rotate: true
+  xy: 214, 2
+  size: 114, 244
+  orig: 114, 244
+  offset: 0, 0
+  index: -1
+stand_0000
+  rotate: true
+  xy: 214, 286
+  size: 83, 288
+  orig: 83, 288
+  offset: 0, 0
+  index: -1
+stand_0008
+  rotate: true
+  xy: 504, 287
+  size: 82, 288
+  orig: 82, 288
+  offset: 0, 0
+  index: -1
+stand_0019
+  rotate: true
+  xy: 214, 118
+  size: 82, 288
+  orig: 82, 288
+  offset: 0, 0
+  index: -1
+stand_0034
+  rotate: true
+  xy: 214, 202
+  size: 82, 288
+  orig: 82, 288
+  offset: 0, 0
+  index: -1

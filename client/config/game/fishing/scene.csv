@@ -1,0 +1,7 @@
+﻿VariableName,characterPos,lock,name,needLv,priview,res,type
+Defaults,<>,0,,1,<>,,1
+ID,characterPos,lock,name,needLv,priview,res,type
+1,<460;-160>,1,Bờ biển thủy triều,,<1;2;3;4;101;102;201;202>,fishing/diaoyu_cj_shatan.skel,
+2,<560;-100>,1,Đầm lầy đêm tĩnh lặng,4,<5;6;7;8;103;104;203;204>,fishing/diaoyu_cj_miwu.skel,
+3,<660;-160>,1,Thung lũng xoáy ngược,10,<9;10;11;105;106;107;205;206>,fishing/diaoyuchangjing3.skel,
+999,<360;-240>,1,Cuộc thi câu cá,,<1;3;5;7;10;101;103;106;201;203;206;9999>,fishing/diaoyu_cj_shatan.skel,2

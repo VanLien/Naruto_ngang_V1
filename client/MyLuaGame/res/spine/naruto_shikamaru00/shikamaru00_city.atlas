@@ -1,0 +1,55 @@
+
+shikamaru00_city.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0182
+  rotate: true
+  xy: 574, 2
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+idle_0183
+  rotate: true
+  xy: 782, 100
+  size: 97, 171
+  orig: 97, 171
+  offset: 0, 0
+  index: -1
+idle_0188
+  rotate: true
+  xy: 593, 99
+  size: 98, 187
+  orig: 98, 187
+  offset: 0, 0
+  index: -1
+idle_0200
+  rotate: true
+  xy: 297, 25
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+stand_0006
+  rotate: true
+  xy: 297, 114
+  size: 83, 294
+  orig: 83, 294
+  offset: 0, 0
+  index: -1
+stand_0013
+  rotate: true
+  xy: 2, 25
+  size: 84, 293
+  orig: 84, 293
+  offset: 0, 0
+  index: -1
+stand_0019
+  rotate: true
+  xy: 2, 111
+  size: 86, 293
+  orig: 86, 293
+  offset: 0, 0
+  index: -1

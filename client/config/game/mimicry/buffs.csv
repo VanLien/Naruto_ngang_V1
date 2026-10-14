@@ -1,0 +1,101 @@
+﻿VariableName,basicScores,bossID,coefficientIndex,desc,dropID,dropLimit,icon1,level,name,quality,scoresCondition,skill,tips
+Defaults,0,0,0,,0,0,,0,,0,0,,0
+ID,basicScores,bossID,coefficientIndex,desc,dropID,dropLimit,icon1,level,name,quality,scoresCondition,skill,tips
+1001,20,,1,Song công tăng 8%,1,1,city/adventure/random_tower/icon/icon_sh1.png,6,Tấn công,1,,450001,
+1002,20,,1,Thưởng sát thương tăng 10%,1,1,city/adventure/random_tower/icon/icon_gj1.png,6,Sát thương,1,,450002,
+1003,20,,1,Tỷ lệ bạo kích tăng 15%,1,1,city/adventure/random_tower/icon/icon_gj.png,6,Bạo kích,1,,450003,
+1004,20,,1,Sát thương bạo kích tăng 15%,1,1,city/adventure/random_tower/icon/icon_gj.png,6,Sát thương bạo kích,1,,450004,
+1005,20,,1,Sát thương tuyệt chiêu cuối tăng 15%,1,1,city/adventure/random_tower/icon/icon_dk.png,6,Tuyệt chiêu cuối,1,,450005,
+1006,20,,1,Song phòng tăng 15%,1,1,city/develop/talent/icon_wf.png,6,Phòng thủ,1,,450006,
+1007,20,,1,Giảm sát thương nhận vào 10%,1,1,city/develop/talent/icon_wf.png,6,Giảm sát thương,1,,450007,
+1008,20,,1,Kháng bạo kích tăng 15%,1,1,city/develop/talent/icon_gddj.png,6,Kháng bạo kích,1,,450008,
+1009,20,,1,Tỷ lệ kháng tăng 15%,1,1,city/develop/talent/icon_gddj_gdqd.png,6,Kháng,1,,450009,
+1010,20,,1,Kháng sát thương tuyệt chiêu cuối tăng 15%,1,1,city/develop/talent/icon_gdqd.png,6,Phòng thủ nâng cao,1,,450010,
+1011,30,,2,"Khi tiêu diệt 1 kẻ địch, song công tăng vĩnh viễn 10% (tối đa cộng dồn 3 tầng)",1,1,city/adventure/random_tower/icon/icon_js.png,6,Săn mồi I,1,,450011,
+1012,30,,2,"Mỗi lần tấn công, song công tăng vĩnh viễn 2% (tối đa cộng dồn 5 tầng)",1,1,city/adventure/random_tower/icon/icon_sh1.png,6,Dũng khí I,1,,450012,
+1013,30,,2,"Khi bị tấn công, giảm song phòng của mục tiêu 5% (tối đa cộng dồn 5 tầng)",1,1,city/adventure/random_tower/icon/icon_qr.png,6,Phá vỡ I,1,,450013,
+1014,30,,2,"Mỗi lần sử dụng tấn công thường hoặc kỹ năng thường 1 lần, lần sử dụng tuyệt chiêu cuối tiếp theo tăng sát thương 10%, sau khi dùng xong hiệu quả sẽ biến mất",1,1,city/adventure/random_tower/icon/icon_js2.png,6,Tích năng lượng,1,,450014,
+1015,30,,2,"Mỗi lần bạo kích, tỷ lệ bạo kích tăng 5% (tối đa cộng dồn 5 tầng)",1,1,city/adventure/random_tower/icon/icon_gj.png,6,Bùng nổ I,1,,450015,
+1016,30,,2,"Mỗi lượt lớn, song công tăng vĩnh viễn 6% (tối đa cộng dồn 3 tầng)",1,1,city/adventure/random_tower/icon/icon_sh1.png,6,Đột kích I,1,,450016,
+1017,30,,2,"Khi bị tấn công, giảm song công của mục tiêu 2% (tối đa cộng dồn 5 tầng)",1,1,city/adventure/random_tower/icon/icon_qr.png,6,Dịch bệnh I,1,,450017,
+1018,30,,2,"Mỗi lần sử dụng tuyệt chiêu cuối, tăng kháng sát thương tuyệt chiêu cuối 10% (tối đa cộng dồn 3 tầng)",1,1,city/develop/talent/icon_gdqd.png,6,Bất tử I,1,,450018,
+1019,30,,2,"Mỗi lần tấn công, song phòng tăng vĩnh viễn 5% (tối đa cộng dồn 5 tầng)",1,1,city/develop/talent/icon_wf.png,6,Chúa tể chiến trường I,1,,450019,
+1020,30,,2,"Mỗi lần bị tấn công, tăng giảm sát thương nhận vào 2% (tối đa cộng dồn 5 tầng)",1,1,city/develop/talent/icon_wf.png,6,Phòng thủ I,1,,450020,
+1021,30,,2,"Khi bị bạo kích, kháng bạo kích tăng 3% (tối đa cộng dồn 5 tầng)",1,1,city/develop/talent/icon_gddj.png,6,Cường hóa I,1,,450021,
+1022,30,,2,Mỗi lượt lớn ngẫu nhiên giảm song công của 1 kẻ địch 15% trong 2 lượt (tối đa cộng dồn 3 tầng),1,1,city/adventure/random_tower/icon/icon_qr.png,6,Trừng phạt,1,,450022,
+1023,30,,2,"Khi bị tấn công, có 12% xác suất khiến kẻ tấn công rơi vào trạng thái Silence 1 lượt",1,1,city/adventure/random_tower/icon/icon_ns.png,6,Im lặng·Phòng thủ I,1,,450023,
+1024,30,,2,"Khi bị tấn công, có 10% xác suất khiến kẻ tấn công rơi vào trạng thái Stun 1 lượt",1,1,city/adventure/random_tower/icon/icon_ns.png,6,Choáng·Phòng thủ I,1,,450024,
+1025,30,,2,"Khi bắt đầu chiến đấu, giảm tất cả thuộc tính chính của toàn bộ đơn vị 8% trong 2 lượt",1,1,city/adventure/random_tower/icon/icon_js1.png,6,Giảm chiều·Cơ hội đầu I,1,,450025,
+1026,30,,2,"Khi bắt đầu chiến đấu, nhận 500 Nộ khí và tăng sát thương tuyệt chiêu cuối 10% trong 2 lượt",1,1,city/adventure/random_tower/icon/icon_hn.png,6,Nộ khí·Cơ hội đầu I,1,,450026,
+1027,20,,1,Cường độ kháng tăng 15%,1,1,city/develop/talent/icon_gddj_gdqd.png,6,Phòng thủ chặn,1,,450027,
+1028,30,,2,Ngũ thuộc tính tăng 5%,1,1,city/develop/talent/icon_ysg.png,6,Cân bằng I,1,,450028,
+2001,50,,3,Tỷ lệ chính xác tăng 50% và song công tăng 20%,2,1,city/adventure/random_tower/icon/icon_sh1.png,15,Thấu thị,2,,451001,
+2002,50,,3,Tỷ lệ hồi Nộ khí tăng 20% và thưởng sát thương tăng 20%,2,1,city/adventure/random_tower/icon/icon_gj1.png,15,Nộ khí cuồng bạo,2,,451002,
+2003,50,,3,Tỷ lệ né tránh tăng 30% và giảm sát thương nhận vào 20%,2,1,city/develop/talent/icon_wf.png,15,Né tránh,2,,451003,
+2004,50,,3,Ngũ thuộc tính tăng 15%,2,1,city/develop/talent/icon_ysg.png,15,Cân bằng II,2,,451004,
+2005,50,,3,"Khi tiêu diệt 1 kẻ địch, song công tăng vĩnh viễn 20% (tối đa cộng dồn 3 tầng)",2,1,city/adventure/random_tower/icon/icon_js.png,15,Săn mồi II,2,,451005,
+2006,50,,3,"Mỗi lần tấn công, song công tăng vĩnh viễn 5% (tối đa cộng dồn 5 tầng)",2,1,city/adventure/random_tower/icon/icon_sh1.png,15,Dũng khí II,2,,451006,
+2007,50,,3,"Khi bị tấn công, giảm song phòng của mục tiêu 12% (tối đa cộng dồn 5 tầng)",2,1,city/adventure/random_tower/icon/icon_qr.png,15,Phá vỡ II,2,,451007,
+2008,50,,3,"Mỗi lần bạo kích, tỷ lệ bạo kích tăng 12% (tối đa cộng dồn 5 tầng)",2,1,city/adventure/random_tower/icon/icon_gj.png,15,Bùng nổ II,2,,451008,
+2009,50,,3,"Mỗi lượt lớn, song công tăng vĩnh viễn 18% (tối đa cộng dồn 3 tầng)",2,1,city/adventure/random_tower/icon/icon_sh1.png,15,Đột kích II,2,,451009,
+2010,50,,3,"Khi bị tấn công, giảm song công của mục tiêu 5% (tối đa cộng dồn 5 tầng)",2,1,city/adventure/random_tower/icon/icon_qr.png,15,Dịch bệnh II,2,,451010,
+2011,50,,3,"Mỗi lần sử dụng tuyệt chiêu cuối, tăng kháng sát thương tuyệt chiêu cuối 25% (tối đa cộng dồn 3 tầng)",2,1,city/develop/talent/icon_wf.png,15,Bất tử II,2,,451011,
+2012,50,,3,"Mỗi lần tấn công, song phòng tăng vĩnh viễn 12% (tối đa cộng dồn 5 tầng)",2,1,city/develop/talent/icon_wf.png,15,Chúa tể chiến trường II,2,,451012,
+2013,50,,3,"Mỗi lần bị tấn công, tăng giảm sát thương nhận vào 5% (tối đa cộng dồn 5 tầng)",2,1,city/develop/talent/icon_wf.png,15,Phòng thủ II,2,,451013,
+2014,50,,3,"Khi bị bạo kích, kháng bạo kích tăng 6% (tối đa cộng dồn 5 tầng)",2,1,city/develop/talent/icon_gddj.png,15,Cường hóa II,2,,451014,
+2015,50,,3,"Khi bị tấn công, có 50% xác suất khiến kẻ tấn công rơi vào trạng thái Silence 1 lượt",2,1,city/adventure/random_tower/icon/icon_ns.png,15,Im lặng·Phòng thủ II,2,,451015,
+2016,50,,3,"Khi bị tấn công, có 40% xác suất khiến kẻ tấn công rơi vào trạng thái Stun 1 lượt",2,1,city/adventure/random_tower/icon/icon_ns.png,15,Choáng·Phòng thủ II,2,,451016,
+2017,60,,4,"Mỗi lần tấn công, gây sát thương chuẩn bằng 8% HP tối đa của mục tiêu",2,1,city/adventure/random_tower/icon/icon_sw.png,15,Phán quyết giả,2,,451017,
+2018,60,,4,"Mỗi lần tấn công, gây sát thương chuẩn bằng 12% HP đã mất của mục tiêu",2,1,city/adventure/random_tower/icon/icon_sw.png,15,Trọng tài,2,,451018,
+2019,60,,4,"Khi bắt đầu chiến đấu, khiến tất cả đơn vị rơi vào trạng thái Silence 2 lượt",2,1,city/adventure/random_tower/icon/icon_ns.png,15,Im lặng·Cơ hội đầu,2,,451019,
+2020,60,,4,"Khi bắt đầu chiến đấu, khiến tất cả đơn vị rơi vào trạng thái Stun 2 lượt",2,1,city/adventure/random_tower/icon/icon_ns.png,15,Choáng·Cơ hội đầu,2,,451020,
+2021,60,,4,"Khi bắt đầu chiến đấu, giảm tất cả thuộc tính chính của toàn bộ đơn vị 20% trong 2 lượt",2,1,city/adventure/random_tower/icon/icon_js1.png,15,Giảm chiều·Cơ hội đầu II,2,,451021,
+2022,60,,4,"Khi bắt đầu chiến đấu, nhận đầy Nộ khí và tăng sát thương tuyệt chiêu cuối 30% trong 2 lượt",2,1,city/adventure/random_tower/icon/icon_hn.png,15,Nộ khí·Cơ hội đầu II,2,,451022,
+2023,60,,4,"Khi tiêu diệt 1 kẻ địch, nhận thêm 300 Nộ khí và song công tăng vĩnh viễn 12% (tối đa cộng dồn 5 tầng)",2,1,city/adventure/random_tower/icon/icon_hn.png,15,Nộ khí·Kết liễu,2,,451023,
+2024,60,,4,"Khi bị tấn công, nhận thêm 100 Nộ khí",2,1,city/adventure/random_tower/icon/icon_hn.png,15,Nộ khí·Phòng thủ,2,,451024,
+2025,60,,4,Nhận hiệu ứng Combo,2,1,city/adventure/random_tower/icon/icon_yybm1.png,15,Combo liên hoàn,2,,451025,
+2026,60,,4,Kỹ năng thường không có thời gian hồi,2,1,city/adventure/random_tower/icon/icon_yybm.png,15,Tâm như tĩnh thủy,2,,451026,
+3001,100,,5,"Khi tấn công, bỏ qua song phòng của mục tiêu",3,1,city/develop/talent/icon_bsjc.png,30,Xuyên giáp,3,50000,452001,1
+3002,100,,5,Tăng sát thương cuối cùng 30%,3,1,city/develop/talent/icon_shjc_shjm.png,30,Nộ khí cuồng loạn,3,50000,452002,1
+3003,100,,5,"Mỗi lượt lớn, sát thương tuyệt chiêu cuối đầu tiên nhận vào giảm 90%",3,1,city/develop/talent/icon_sf.png,30,Giáp sắt,3,50000,452003,1
+3004,100,,5,"Mỗi lượt lớn, sát thương đầu tiên nhận vào giảm 60%",3,1,city/develop/talent/icon_sf.png,30,Giáp cứng,3,50000,452004,1
+3005,100,,5,Giảm giới hạn Nộ khí tối đa 300,3,1,city/adventure/random_tower/icon/icon_nqhs.png,30,Trí tuệ,3,50000,452005,1
+3006,100,,5,"Khi bắt đầu lượt lớn, hồi phục 300 Nộ khí",3,1,city/adventure/random_tower/icon/icon_nqhs.png,30,Phẫn nộ,3,50000,452006,1
+3007,100,,5,"Mỗi lần kẻ địch hành động, hồi phục 100 Nộ khí",3,1,city/adventure/random_tower/icon/icon_nqhs.png,30,Suy tư sâu sắc,3,50000,452007,1
+3008,100,,5,"Sau lượt thứ 5, trước khi bắt đầu mỗi lượt sẽ miễn phí thi triển 1 lần tuyệt chiêu cuối",3,1,city/adventure/random_tower/icon/icon_zh.png,30,Pháp thuật tức thời,3,50000,452008,1
+3009,100,,5,"Sau mỗi lần sử dụng kỹ năng, có 50% xác suất thi triển ngẫu nhiên thêm 1 kỹ năng",3,1,city/adventure/random_tower/icon/icon_yybm1.png,30,Tấn công liên tục,3,50000,452009,1
+3010,100,,5,"Trước khi bắt đầu lượt lớn, có 60% xác suất thi triển kỹ năng “Thiên Lôi” ngẫu nhiên tấn công 1 kẻ địch, gây 300% sát thương Lôi dựa trên song công",3,1,city/adventure/random_tower/icon/icon_cxsh.png,30,Thiên Lôi,3,50000,452010,1
+3011,100,,5,"Trước khi kẻ địch hành động, có 50% xác suất trừng phạt 1 kẻ địch, giảm song công 99% trong 1 lượt (mỗi lượt lớn 1 lần)",3,1,city/adventure/random_tower/icon/icon_cxsh.png,30,Trừng phạt,3,50000,452011,1
+3012,100,,5,"Khi tấn công, có 100% xác suất ngẫu nhiên khiến 1 kẻ địch rơi vào trạng thái “Giam cầm”, không thể hành động (không thể xóa)",3,1,city/adventure/random_tower/icon/icon_cxsh.png,30,Giam cầm,3,50000,452012,1
+3013,100,,5,Nhận vật phẩm bị động 【Giày Roller tâm linh】、【Bảo vệ tay sức mạnh cao】、【Thuộc tính Chakra】,3,1,city/adventure/random_tower/icon/icon_yybm3.png,30,Mang theo·Tấn công,3,50000,452013,1
+3014,100,,5,Nhận vật phẩm bị động 【Kiếm bất tử】、【Dây chuyền bí ẩn】、【Dây đai khổng lồ】,3,1,city/adventure/random_tower/icon/icon_yybm3.png,30,Mang theo·Phòng thủ,3,50000,452014,1
+3015,120,1,6,【Greed】Hiệu ứng tăng cường: Trước khi bắt đầu lượt sẽ chịu thêm sát thương từ Meowth Robot bằng 60% công vật lý và 150% phòng vật lý,4,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj1.png,50,Kẻ keo kiệt,3,50000,,1
+3016,120,1,6,【Bribe】Không thể bị xóa và kéo dài thời gian thêm 2–3 lượt,4,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj2.png,50,Tham lam,3,50000,,1
+3017,120,1,6,Đơn vị bị【Bribe】có thể dùng kỹ năng (bao gồm tuyệt chiêu cuối) tấn công đồng minh và tăng 30% tỷ lệ bạo kích cùng thưởng sát thương,4,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj3.png,50,Mất cả người lẫn của,3,50000,,1
+3018,120,1,6,Meowth Robot nhận kỹ năng bị động: Thêm trạng thái【Greed】cho đơn vị trong phạm vi kỹ năng và có 30% xác suất thêm trạng thái【Bribe】,4,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj4.png,50,Mắt sáng khi thấy tiền,3,50000,,1
+3019,120,1,6,"【Spending Madness】Hiệu ứng tăng cường: Mỗi lần kẻ địch nhận【Bribe】hoặc【Greed】sẽ tăng song phòng và kháng bạo kích 5%, khi cộng dồn đủ 10 tầng sẽ tăng thêm 30% giảm sát thương cuối cùng",4,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj5.png,50,Tiêu tiền như giấy vụn,3,50000,,1
+3020,120,2,6,Kyuubi bỏ qua 100% song phòng và tăng sát thương cuối cùng 20%,4,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj1.png,50,Sức mạnh hủy diệt,3,50000,,1
+3021,120,2,6,"【Exhaustion】Tăng cường đặc biệt: Không thể bị xóa, giảm 30% tỷ lệ chính xác và sát thương, và có 50% xác suất không thể hành động trước khi ra tay",4,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj2.png,50,Kiệt sức nghiêm trọng,3,50000,,1
+3022,120,2,6,"【Steel Power】: Mỗi 1% HP đã mất sẽ tăng 1.5% thưởng sát thương và giảm sát thương, tối đa 100%",4,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj3.png,50,Sức mạnh thép,3,50000,,1
+3023,120,2,6,Mỗi lần tấn công sẽ thêm trạng thái【Blind】giảm 30% tỷ lệ chính xác hoặc thêm trạng thái【Exhaustion】trong 2 lượt,4,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj4.png,50,Đòn tấn công làm tàn phế,3,50000,,1
+3024,120,2,6,Mỗi lần phản kích sẽ tăng vĩnh viễn 3% giảm sát thương (tối đa cộng dồn 20 tầng),4,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj5.png,50,Thiết quyền,3,50000,,1
+3031,120,3,6,"Khi Gamabunta có mặt trên sân, Ninja ngoài khu vực biển thuộc hệ Thủy và Độc sẽ giảm 30% song công và 50% song phòng",4,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj1.png,50,Chúa tể đại dương,3,50000,,1
+3032,120,3,6,Hiệu ứng【Poison】tăng cường đặc biệt: Không thể bị xóa và kéo dài thêm 1 lượt,4,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj2.png,50,Độc cực mạnh nâng cao,3,50000,,1
+3033,120,3,6,"Hiệu ứng【Poison】cao cấp: (trong thời gian trúng độc, mỗi lượt có 60% xác suất không thể hành động) và gây sát thương chuẩn bằng 5% HP hiện tại",4,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj3.png,50,Tẩm độc,3,50000,,1
+3034,120,3,6,Sát thương tuyệt chiêu cuối “Jellyfish” tăng gấp đôi và kéo dài thời gian thêm 2 lượt,4,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj4.png,50,Bao bọc cường hóa,3,50000,,1
+3035,120,3,6,Khi Mechanical Medusa và Gamabunta tấn công kẻ địch có【Poison】hoặc【Severe Poison】sẽ gây thêm 80% thưởng sát thương và sát thương Độc bằng 5% HP đã mất,4,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj5.png,50,Chuyên gia độc,3,50000,,1
+4001,300,1,7,"Trong trạng thái【Collapse】: Giảm sát thương, song công và song phòng tăng mạnh, đồng thời sát thương nổ tăng cực lớn",5,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj6.png,150,Thức tỉnh sụp đổ,4,90000,,1
+4002,300,1,7,Điều kiện vào trạng thái【Collapse】giảm: Meowth Robot sẽ vào trạng thái này sau mỗi 5 lần bị tấn công và sẽ vào vĩnh viễn ở lượt 6,5,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj7.png,150,Bùng nổ sụp đổ,4,90000,,1
+4003,300,1,7,"Meowth Robot có thể thi triển tuyệt chiêu đặc biệt “Laser Attack” trước khi bắt đầu lượt lớn sau lượt 6, gây sát thương chuẩn lên toàn bộ kẻ địch",5,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj8.png,150,Tấn công Laser,4,90000,,1
+4004,300,1,8,Trong thời gian【Collapse】mỗi lần dùng tuyệt chiêu cuối hoặc “Laser Attack” sẽ kích hoạt thêm 1 lần sát thương nổ và sát thương của “Laser Attack” cùng nổ sẽ tăng mạnh,5,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj9.png,150,Mưa tiền quét sạch,4,90000,,1
+4005,300,1,8,Sát thương nổ của Meowth Robot sẽ tăng giới hạn Nộ khí của kẻ địch thêm 80 và giảm 12% song công cùng 25% song phòng (có thể cộng dồn),5,1,city/adventure/mimicry/nitai_icon/icon_mmjqr_jj10.png,150,Mèo đến từ hành tinh mèo,4,90000,,1
+4006,300,2,7,Sau khi sử dụng kỹ năng sẽ thi triển thêm kỹ năng【Steel Roar】gây sát thương bằng 60% công vật lý và 150% phòng vật lý,5,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj6.png,150,Tiếng gầm thép của Nộ khí,4,90000,,1
+4007,300,2,7,"Khi【Steel Will】kích hoạt sẽ thi triển kỹ năng【Ultimate·Hyper Beam】gây sát thương vật lý mạnh lên hai hàng ngẫu nhiên, trong thời gian【Steel Will】sẽ tăng mạnh song phòng, giảm sát thương và giảm sát thương chuẩn",5,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj7.png,150,Ultimate·Hyper Beam,4,90000,,1
+4008,300,2,7,"Điều kiện kích hoạt【Steel Will】giảm dần 90%, 80%, 70%, 60%, 50%, 40%, 30%, 20%, 10%",5,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj8.png,150,Ý chí thép,4,90000,,1
+4009,300,2,8,Trong trạng thái【Steel Will】nếu bị tấn công sẽ có xác suất rất cao phản kích bằng【Steel·Hyper Beam】hoặc【Ultimate·Hyper Beam】,5,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj9.png,150,Phản kích thép,4,90000,,1
+4010,300,2,8,Mỗi 1 lượt sẽ vào trạng thái【Steel Will】trong 1 lượt,5,1,city/adventure/mimicry/nitai_icon/icon_gtbjls_jj10.png,150,Bá chủ thép vô song,4,90000,,1
+4011,300,3,7,Sát thương nổ của Mechanical Medusa tăng 50%; mỗi lần chết sẽ tăng vĩnh viễn 10% song công của Toxic Jellyfish và 5% giảm sát thương,5,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj6.png,150,Thiên tài nổ,4,90000,,1
+4012,300,3,7,Mechanical Medusa được triệu hồi sẽ kế thừa vĩnh viễn 25% HP và kế thừa 100% thuộc tính của Toxic Jellyfish,5,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj7.png,150,Cường hóa triệu hồi,4,90000,,1
+4013,300,3,7,"Mechanical Medusa được triệu hồi sẽ nhận kỹ năng thường, có thời gian hồi 1 lượt và có 20% xác suất khiến kẻ địch nhận【Severe Poison】2 lượt (trạng thái độc, không thể xóa, mỗi lượt có 20% xác suất không thể hành động và mất 3% HP hiện tại, tối đa cộng dồn 10 tầng)",5,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj8.png,150,Thức tỉnh nâng cao,4,90000,,1
+4014,300,3,8,Khi Jellyfish tấn công sẽ triệu hồi Gamabunta và Mechanical Medusa khác tham chiến,5,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj9.png,150,"Này em, em đi trước đi!",4,90000,,1
+4015,300,3,8,Mỗi lượt lớn sẽ triệu hồi thêm 1 Mechanical Medusa,5,1,city/adventure/mimicry/nitai_icon/icon_jxdcsm_jj10.png,150,Triệu hồi kép,4,90000,,1

@@ -1,0 +1,195 @@
+
+tobirama01_ui.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_1
+  rotate: true
+  xy: 2178, 524
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+c_10
+  rotate: false
+  xy: 2294, 522
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+c_11
+  rotate: true
+  xy: 2382, 531
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+c_12
+  rotate: false
+  xy: 1294, 292
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+c_13
+  rotate: false
+  xy: 2606, 619
+  size: 185, 96
+  orig: 185, 96
+  offset: 0, 0
+  index: -1
+c_14
+  rotate: false
+  xy: 871, 293
+  size: 277, 88
+  orig: 277, 88
+  offset: 0, 0
+  index: -1
+c_15
+  rotate: false
+  xy: 1416, 421
+  size: 313, 229
+  orig: 313, 229
+  offset: 0, 0
+  index: -1
+c_16
+  rotate: true
+  xy: 3593, 810
+  size: 198, 216
+  orig: 198, 216
+  offset: 0, 0
+  index: -1
+c_17
+  rotate: true
+  xy: 717, 63
+  size: 215, 143
+  orig: 215, 143
+  offset: 0, 0
+  index: -1
+c_18
+  rotate: true
+  xy: 1416, 652
+  size: 356, 660
+  orig: 356, 660
+  offset: 0, 0
+  index: -1
+c_19
+  rotate: true
+  xy: 435, 70
+  size: 208, 280
+  orig: 208, 280
+  offset: 0, 0
+  index: -1
+c_2
+  rotate: false
+  xy: 1150, 294
+  size: 142, 87
+  orig: 142, 87
+  offset: 0, 0
+  index: -1
+c_20
+  rotate: true
+  xy: 1731, 446
+  size: 204, 262
+  orig: 204, 262
+  offset: 0, 0
+  index: -1
+c_21
+  rotate: true
+  xy: 3811, 848
+  size: 160, 207
+  orig: 160, 207
+  offset: 0, 0
+  index: -1
+c_22
+  rotate: true
+  xy: 2606, 717
+  size: 291, 460
+  orig: 291, 460
+  offset: 0, 0
+  index: -1
+c_23
+  rotate: true
+  xy: 2, 2
+  size: 276, 431
+  orig: 276, 431
+  offset: 0, 0
+  index: -1
+c_24
+  rotate: false
+  xy: 2959, 599
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+c_25
+  rotate: true
+  xy: 2078, 610
+  size: 398, 526
+  orig: 398, 526
+  offset: 0, 0
+  index: -1
+c_26
+  rotate: false
+  xy: 871, 383
+  size: 543, 625
+  orig: 543, 625
+  offset: 0, 0
+  index: -1
+c_27
+  rotate: false
+  xy: 3328, 811
+  size: 263, 197
+  orig: 263, 197
+  offset: 0, 0
+  index: -1
+c_3
+  rotate: false
+  xy: 2068, 502
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+c_4
+  rotate: false
+  xy: 3068, 742
+  size: 258, 266
+  orig: 258, 266
+  offset: 0, 0
+  index: -1
+c_5
+  rotate: true
+  xy: 3811, 812
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+c_6
+  rotate: true
+  xy: 3328, 763
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+c_7
+  rotate: false
+  xy: 1995, 471
+  size: 71, 179
+  orig: 71, 179
+  offset: 0, 0
+  index: -1
+c_8
+  rotate: false
+  xy: 2, 280
+  size: 867, 728
+  orig: 867, 728
+  offset: 0, 0
+  index: -1
+c_9
+  rotate: true
+  xy: 2793, 577
+  size: 138, 164
+  orig: 138, 164
+  offset: 0, 0
+  index: -1

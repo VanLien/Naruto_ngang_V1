@@ -1,0 +1,7 @@
+﻿VariableName,award,huodongID,point,rank
+Defaults,{},1001,10000,1
+ID,award,huodongID,point,rank
+1,{6393=8;rmb=188;502=2},,100,
+2,{6393=6;rmb=138;502=1},,70,2
+3,{951=2;6393=4;rmb=108},,50,3
+4,{951=1;6393=3;rmb=88},,30,4

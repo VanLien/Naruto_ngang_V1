@@ -1,0 +1,99 @@
+{
+  "cn": {
+    "game_key_prefix": ["game.cn", "game.dev"],
+
+    "rmb_return": false,
+    "newest": 1,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "服务器维护时间0:30-2:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "即将上线，请耐心等待",
+    "white_list_all": ["180.93.98.5"],
+    "white_list": {
+      "com_lzl_jxjjb": ["180.93.98.5"]
+    },
+
+    "register_disable": []
+  },
+  "vn": {
+    "game_key_prefix": ["game.vn", "game.dev"],
+
+    "rmb_return": false,
+    "newest": 1,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "Thời gian bảo trì máy chủ 0:30-2:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "Sắp có rồi, hãy kiên nhẫn",
+    "white_list_all": ["180.93.98.5"],
+    "white_list": {
+      "com_lzl_jxjjb": ["180.93.98.5"]
+    },
+
+    "register_disable": []
+  },
+  "dev": {
+    "game_key_prefix": ["game.dev"],
+
+    "rmb_return": false,
+    "newest": 1,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "Thời gian bảo trì máy chủ 0:30-2:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "Sắp có rồi, hãy kiên nhẫn",
+    "white_list_all": ["180.93.98.5"],
+    "white_list": {
+      "com_lzl_jxjjb": ["180.93.98.5"]
+    },
+
+    "register_disable": []
+  },
+  "en": {
+    "game_key_prefix": ["game.en", "game.dev"],
+
+    "rmb_return": false,
+    "newest": 1,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "Server maintenance time 0:30-2:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "Get ready! The server opens at 10:00 on August 06.",
+    "white_list_all": [
+      "15.235.218.69",
+      "104.28.195.231",
+      "14.191.158.33",
+      "14.168.29.155",
+      "117.5.147.86",
+      "104.28.227.235"
+    ],
+    "white_list": {
+      "com_lzl_jxjjb": ["15.235.218.69"]
+    },
+
+    "register_disable": []
+  },
+  "th": {
+    "game_key_prefix": ["game.th", "game.dev", "gamemerge.th"],
+
+    "rmb_return": false,
+    "newest": 1,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "เวลาบำรุงรักษาเซิร์ฟเวอร์ 0:30-2:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "ปิดเซิฟเวอร์อัพเดทเเพทช์ เวลา 00.00 - 00.30 น",
+    "white_list_all": ["117.5.147.111"],
+    "white_list": {
+      "com_lzl_jxjjb": ["15.235.181.86"]
+    },
+
+    "register_disable": []
+  }
+}

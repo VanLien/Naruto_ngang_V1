@@ -1,0 +1,12 @@
+﻿VariableName,icon,languages,name,unlockDesc
+Defaults,,<cn;tw;en;vn;th;kr>,,特殊途径解锁
+ID,icon,languages,name,unlockDesc
+1,config/portrait/frame/frame_1.png,<cn>,Khung hồ sơ mặc định,
+2,config/portrait/frame/frame_2.png,<cn>,Khung hồ sơ nạp lần đầu,
+3,config/portrait/frame/frame_3.png,<cn>,Khung hồ sơ VIP7,
+4,config/portrait/frame/frame_4.png,<cn>,Khung hồ sơ VIP12,
+29,config/portrait/frame/frame_29.png,<cn>,Khung hồ sơ Lửa chiến tranh,
+40,config/portrait/frame/frame_40.png,<cn>,Khung hồ sơ Battle Pass S1 Đồng,
+41,config/portrait/frame/frame_41.png,<cn>,Khung hồ sơ Battle Pass S1 Bạc,
+42,config/portrait/frame/frame_42.png,<cn>,Khung hồ sơ Battle Pass S1 Vàng,
+250,config/portrait/frame/frame_117.png,<cn>,Khung hồ sơ Tuổi thơ ngây thơ,

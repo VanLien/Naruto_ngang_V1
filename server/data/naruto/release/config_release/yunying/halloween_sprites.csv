@@ -1,0 +1,10 @@
+﻿VariableName,award,buildNum,finalPos,huodongID,needClick,normPos,pos,posClick,randDistance,range,res,scale,spcialAct,type,weight
+Defaults,{},0,<>,-1,<>,<>,<>,<>,<>,<>,,1.4,0,1,1
+ID,award,buildNum,finalPos,huodongID,needClick,normPos,pos,posClick,randDistance,range,res,scale,spcialAct,type,weight
+1,{libs=<10083;10083>},2,,2152,<3;4>,<2316;678>,<<2487;655>;<2149;670>>,,,<<2100;553>;<2508;867>>,wanshengjie/wsj_yexunling.skel,,,,
+2,{libs=<10083;10083>},1,,2152,<3;4>,<600;1078>,<<976;775>>,<1154;773>,,<<1516;370>;<1416;970>>,wanshengjie/wsj_mengyao.skel,1.5,1,,
+3,{libs=<10083;10083>},1,,2152,<2;2>,<600;1078>,<<840;990>>,<937;586>,,<<230;576>;<1416;970>>,wanshengjie/dd_genggui.skel,2,2,,
+4,{libs=<10083;10083>},,<3780;300>,2152,<3;4>,,<<560;850>>,,<400;800>,<<550;344>;<3803;1200>>,wanshengjie/wsj_yuanyingwawa.skel,,,2,
+5,{libs=<10083;10083>},,<3895;300>,2152,<3;5>,,<<2810;792>>,,<500;700>,<<550;344>;<3803;1200>>,wanshengjie/wsj_kukumianju.skel,,,2,
+6,{libs=<10083;10083>},,<3815;300>,2152,<3;5>,,<<1300;700>>,,<400;800>,<<1550;600>;<3630;800>>,wanshengjie/wsj_piaopiaoqiu.skel,,,2,
+7,{libs=<10083;10083>},,<3820;300>,2152,<3;5>,,<<878;363>>,,<500;700>,<<550;344>;<3803;800>>,wanshengjie/wsj_nanguajing.skel,,,2,

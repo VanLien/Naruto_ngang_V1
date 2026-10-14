@@ -1,0 +1,17 @@
+﻿VariableName,drawTriggerTimes,drawTriggerType,drawType,effectLimit,lotteryType1,lotteryType10,lotteryType2,lotteryType3,lotteryType4,lotteryType5,lotteryType6,lotteryType7,lotteryType8,lotteryType9,lotteryWeight1,lotteryWeight10,lotteryWeight2,lotteryWeight3,lotteryWeight4,lotteryWeight5,lotteryWeight6,lotteryWeight7,lotteryWeight8,lotteryWeight9,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,startCount,weightEnd,weightStart
+Defaults,0,2,,0,{},{},{},{},{},{},{},{},{},{},0,0,0,0,0,0,0,0,0,0,50,0,0.2,30,0.01,0,0,0
+ID,drawTriggerTimes,drawTriggerType,drawType,effectLimit,lotteryType1,lotteryType10,lotteryType2,lotteryType3,lotteryType4,lotteryType5,lotteryType6,lotteryType7,lotteryType8,lotteryType9,lotteryWeight1,lotteryWeight10,lotteryWeight2,lotteryWeight3,lotteryWeight4,lotteryWeight5,lotteryWeight6,lotteryWeight7,lotteryWeight8,lotteryWeight9,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,startCount,weightEnd,weightStart
+11,1,0,coin4_1,1,{171=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+12,2,4,coin4_1,1,{180=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+13,3,4,coin4_1,1,{181=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+14,4,4,coin4_1,1,{175=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+15,6,4,coin4_1,1,{182=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+16,5,4,coin4_1,1,{172=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+21,20,,coin4_1,,{173=1},,,,,,,,,,100,,,,,,,,,,20,1,1,1,1,20,,
+22,5,,coin4_1,,{172=1},,,,,,,,,,100,,,,,,,,,,20,1,1,1,1,15,,
+23,5,,coin4_1,,{172=1},,,,,,,,,,100,,,,,,,,,,20,1,1,1,1,10,,
+24,5,,coin4_1,,{172=1},,,,,,,,,,100,,,,,,,,,,20,1,1,1,1,5,,
+25,2,0,coin4_1,,{170=1},,{171=1},{175=1},,,,,,,100,,50,100,,,,,,,,,,,,,,
+121,1,0,lucky_egg_rmb1_400000,,{9005=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+122,10,4,lucky_egg_rmb1_400000,,{9007=1},,,,,,,,,,100,,,,,,,,,,,,,,,,,
+123,1,0,lucky_egg_rmb10_400000,,{9007=1;9006=1;9008=8},,,,,,,,,,100,,,,,,,,,,,,,,,,,

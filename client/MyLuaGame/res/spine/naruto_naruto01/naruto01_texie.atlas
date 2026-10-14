@@ -1,0 +1,418 @@
+
+naruto01_texie.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baobao
+  rotate: false
+  xy: 986, 201
+  size: 53, 134
+  orig: 53, 134
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 1236, 381
+  size: 210, 46
+  orig: 210, 46
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 1236, 429
+  size: 214, 55
+  orig: 214, 55
+  offset: 0, 0
+  index: -1
+pigu
+  rotate: true
+  xy: 330, 20
+  size: 206, 170
+  orig: 206, 170
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 726, 207
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1946, 344
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1269, 230
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1045, 245
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 1604, 343
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 1561, 350
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: true
+  xy: 2, 2
+  size: 224, 326
+  orig: 224, 326
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 516, 247
+  size: 208, 86
+  orig: 208, 86
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 1197, 233
+  size: 127, 70
+  orig: 127, 70
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 1453, 251
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 1988, 425
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+youshou4
+  rotate: true
+  xy: 1809, 416
+  size: 68, 177
+  orig: 68, 177
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 516, 335
+  size: 149, 288
+  orig: 149, 288
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 848, 217
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+youtui3
+  rotate: false
+  xy: 1366, 265
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+youtui4
+  rotate: false
+  xy: 1809, 326
+  size: 135, 88
+  orig: 135, 88
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 228
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 1452, 400
+  size: 84, 183
+  orig: 84, 183
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 1637, 394
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 1453, 331
+  size: 106, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 1045, 362
+  size: 122, 189
+  orig: 122, 189
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: true
+  xy: 806, 337
+  size: 147, 237
+  orig: 147, 237
+  offset: 0, 0
+  index: -1
+zuotui3
+  rotate: true
+  xy: 1041, 160
+  size: 83, 141
+  orig: 83, 141
+  offset: 0, 0
+  index: -1
+zuotui4
+  rotate: false
+  xy: 1269, 260
+  size: 95, 119
+  orig: 95, 119
+  offset: 0, 0
+  index: -1
+
+naruto01_texie2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx_05
+  rotate: false
+  xy: 2, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_06
+  rotate: false
+  xy: 2, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_07
+  rotate: false
+  xy: 459, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_08
+  rotate: false
+  xy: 2, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_09
+  rotate: false
+  xy: 459, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_10
+  rotate: false
+  xy: 916, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_11
+  rotate: false
+  xy: 2, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_12
+  rotate: false
+  xy: 459, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_13
+  rotate: false
+  xy: 916, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_14
+  rotate: false
+  xy: 1373, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_15
+  rotate: false
+  xy: 459, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_16
+  rotate: false
+  xy: 916, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_17
+  rotate: false
+  xy: 1373, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_18
+  rotate: false
+  xy: 1830, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_19
+  rotate: false
+  xy: 916, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_20
+  rotate: false
+  xy: 1373, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_21
+  rotate: false
+  xy: 1830, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_22
+  rotate: false
+  xy: 2287, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_23
+  rotate: false
+  xy: 1373, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_24
+  rotate: false
+  xy: 1830, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_25
+  rotate: false
+  xy: 2287, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_26
+  rotate: false
+  xy: 2744, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_27
+  rotate: false
+  xy: 1830, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_28
+  rotate: false
+  xy: 2287, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_29
+  rotate: false
+  xy: 2744, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_30
+  rotate: false
+  xy: 3201, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_31
+  rotate: false
+  xy: 2287, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_32
+  rotate: false
+  xy: 2744, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_33
+  rotate: false
+  xy: 3201, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_34
+  rotate: false
+  xy: 2744, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1

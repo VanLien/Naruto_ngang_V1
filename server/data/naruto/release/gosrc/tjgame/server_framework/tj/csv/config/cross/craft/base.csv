@@ -1,0 +1,4 @@
+变量名,winAward,winAward_tw,winAward_en,winAward_vn,winAward_th,failAward,failAward_tw,failAward_en,failAward_vn,failAward_th,servOpenDays,autoSignVIP,minBetRate,betRateFix,maxBetWin
+默认值,{},{},{},{},{},{},{},{},{},{},,,,,
+ID,胜利奖励,胜利奖励,胜利奖励,胜利奖励,胜利奖励,失败奖励,失败奖励,失败奖励,失败奖励,失败奖励,相对开服开启时间,自动报名VIP,赔率最小值,赔率修正系数,下注最高金币奖励
+1,{916=1},{916=1},{916=1},{916=1},{916=1},{917=1},{917=1},{917=1},{917=1},{917=1},30,3,2.5,1,1500000

@@ -1,0 +1,15 @@
+﻿VariableName,desc,taskParam,taskSpecialParam,taskType
+Defaults,,9999,{},0
+ID,desc,taskParam,taskSpecialParam,taskType
+1,Đại sảnh đạt cấp 1,,{1=1},1
+2,Đại sảnh đạt cấp 2,,{1=2},1
+3,Đại sảnh đạt cấp 3,,{1=3},1
+4,Đại sảnh đạt cấp 4,,{1=4},1
+5,Đại sảnh đạt cấp 5,,{1=5},1
+6,Đại sảnh đạt cấp 6,,{1=6},1
+7,Đại sảnh đạt cấp 7,,{1=7},1
+8,Đại sảnh đạt cấp 8,,{1=8},1
+9,Đại sảnh đạt cấp 9,,{1=9},1
+201,Số lượng trang trí trong nhà đạt 15 món,15,,2
+202,Số lượng trang trí trong nhà đạt 20 món,20,,2
+203,Số lượng trang trí trong nhà đạt 30 món,30,,2

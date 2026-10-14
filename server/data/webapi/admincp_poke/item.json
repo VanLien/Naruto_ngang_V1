@@ -1,0 +1,5755 @@
+[
+
+  {
+    "label": "Bánh bao (nhỏ)",
+    "value": "config/item/icon_exp_baozi.png"
+  },
+  {
+    "label": "Bánh bao (vừa)",
+    "value": "config/item/icon_exp_xiaolongbao.png"
+  },
+  {
+    "label": "Bánh bao (lớn)",
+    "value": "config/item/icon_exp_fantuan_1.png"
+  },
+  {
+    "label": "Cơm nắm (nhỏ)",
+    "value": "config/item/icon_exp_fantuan_2.png"
+  },
+  {
+    "label": "Cơm nắm (vừa)",
+    "value": "config/item/icon_exp_fantuan_3.png"
+  },
+  {
+    "label": "Cơm nắm (lớn)",
+    "value": "config/item/icon_exp_fantuan_4.png"
+  },
+  {
+    "label": "Tiền tệ tinh luyện",
+    "value": "config/item/icon_txjn.png"
+  },
+  {
+    "label": "Tuyển tập ghép hình hoạt hình đặc sắc",
+    "value": "config/item/icon_xwsp.png"
+  },
+  {
+    "label": "Tinh hoa ghép hình thay đồ",
+    "value": "config/item/icon_xwtp.png"
+  },
+  {
+    "label": "Bạc hà nhút nhát",
+    "value": "config/item/character_item/icon_bh_dx.png"
+  },
+  {
+    "label": "Bạc hà cay",
+    "value": "config/item/character_item/icon_bh_tz.png"
+  },
+  {
+    "label": "Bạc hà sảng khoái",
+    "value": "config/item/character_item/icon_bh_jz.png"
+  },
+  {
+    "label": "Bạc hà ngây thơ",
+    "value": "config/item/character_item/icon_bh_sl.png"
+  },
+  {
+    "label": "Sợ cô đơn bạc hà",
+    "value": "config/item/character_item/icon_bh_pjm.png"
+  },
+  {
+    "label": "Bạc hà dũng cảm",
+    "value": "config/item/character_item/icon_bh_yg.png"
+  },
+  {
+    "label": "Bạc hà cứng đầu",
+    "value": "config/item/character_item/icon_bh_gz.png"
+  },
+  {
+    "label": "Bạc hà tinh nghịch",
+    "value": "config/item/character_item/icon_bh_wp.png"
+  },
+  {
+    "label": "Bạc hà táo bạo",
+    "value": "config/item/character_item/icon_bh_dd.png"
+  },
+  {
+    "label": "Bạc hà thư giãn",
+    "value": "config/item/character_item/icon_bh_yx.png"
+  },
+  {
+    "label": "Bạc hà tinh nghịch",
+    "value": "config/item/character_item/icon_bh_tq.png"
+  },
+  {
+    "label": "Bạc hà Lotte",
+    "value": "config/item/character_item/icon_bh_lt.png"
+  },
+  {
+    "label": "Bạc hà kín đáo",
+    "value": "config/item/character_item/icon_bh_nl.png"
+  },
+  {
+    "label": "Kẹo bạc hà chậm tan",
+    "value": "config/item/character_item/icon_bh_lj.png"
+  },
+  {
+    "label": "Bạc hà thanh mát",
+    "value": "config/item/character_item/icon_bh_mtt.png"
+  },
+  {
+    "label": "Bạc hà cẩu thả",
+    "value": "config/item/character_item/icon_bh_mh.png"
+  },
+  {
+    "label": "Bạc hà ôn hòa",
+    "value": "config/item/character_item/icon_bh_wh.png"
+  },
+  {
+    "label": "Bạc hà hiền lành",
+    "value": "config/item/character_item/icon_bh_zd.png"
+  },
+  {
+    "label": "Bạc hà tự đại",
+    "value": "config/item/character_item/icon_bh_ws.png"
+  },
+  {
+    "label": "Bạc hà thận trọng",
+    "value": "config/item/character_item/icon_bh_sz.png"
+  },
+  {
+    "label": "Tinh túy Triệu hồi thú",
+    "value": "config/item/icon_sqjc.png"
+  },
+  {
+    "label": "Tinh phách Linh thú",
+    "value": "config/item/icon_sqjp.png"
+  },
+  {
+    "label": "Tinh thể Long Hồn",
+    "value": "config/item/icon_lhsj.png"
+  },
+  {
+    "label": "Tinh huy cầu nguyện",
+    "value": "config/item/icon_qyxh.png"
+  },
+  {
+    "label": "Túi phúc lộc Giáng Sinh",
+    "value": "config/item/icon_shengdan.png"
+  },
+  {
+    "label": "Huy hiệu cường hóa trang sức",
+    "value": "config/item/icon_sptz_purple.png"
+  },
+  {
+    "label": "Tinh Thể Khắc Ấn",
+    "value": "config/item/icon_keyinjingshi.png"
+  },
+  {
+    "label": "Ngọc Bích Đột Phá Khắc Ấn",
+    "value": "config/item/icon_keyinjiejing.png"
+  },
+  {
+    "label": "Tinh chỉnh cốt lõi",
+    "value": "config/item/icon_chuanchengmijuan.png"
+  },
+  {
+    "label": "Sách kinh nghiệm sơ cấp",
+    "value": "config/item/icon_miji_lvsejingyanshu.png"
+  },
+  {
+    "label": "Sách kinh nghiệm trung cấp",
+    "value": "config/item/icon_miji_lansejingyanshu.png"
+  },
+  {
+    "label": "Sách kinh nghiệm cao cấp",
+    "value": "config/item/icon_miji_zisejingyanshu.png"
+  },
+  {
+    "label": "Đá bảo thạch Ngự Hồn",
+    "value": "config/item/icon_baguasuipian.png"
+  },
+  {
+    "label": "Hồn Hỏa Hạch Tâm",
+    "value": "config/item/icon_juexingzhihuo.png"
+  },
+  {
+    "label": "Tinh thạch linh hồn",
+    "value": "config/item/icon_pozhangjiejing.png"
+  },
+  {
+    "label": "Vòng tay đá quý",
+    "value": "config/item/shouzhuo_1_lei_2.png"
+  },
+  {
+    "label": "Vòng tay Đất Mẹ",
+    "value": "config/item/shouzhuo_1_tu_2.png"
+  },
+  {
+    "label": "Vòng tay Tốc Phong",
+    "value": "config/item/shouzhuo_1_feng_2.png"
+  },
+  {
+    "label": "Vòng tay Bích Hải",
+    "value": "config/item/shouzhuo_1_shui_2.png"
+  },
+  {
+    "label": "Vòng tay Kim Diễm",
+    "value": "config/item/shouzhuo_1_huo_2.png"
+  },
+  {
+    "label": "Vòng tay hoa anh đào",
+    "value": "config/item/shouzhuo_1_wu_2.png"
+  },
+  {
+    "label": "Bông tai ngọc bích",
+    "value": "config/item/erhuan_1_lei_2.png"
+  },
+  {
+    "label": "Bông tai đất",
+    "value": "config/item/erhuan_1_tu_2.png"
+  },
+  {
+    "label": "Bông tai Tốc Phong",
+    "value": "config/item/erhuan_1_feng_2.png"
+  },
+  {
+    "label": "Bông tai",
+    "value": "config/item/erhuan_1_shui_2.png"
+  },
+  {
+    "label": "Bông tai ngọn lửa vàng",
+    "value": "config/item/erhuan_1_huo_2.png"
+  },
+  {
+    "label": "Bông tai hoa anh đào",
+    "value": "config/item/erhuan_1_wu_2.png"
+  },
+  {
+    "label": "Nhẫn ánh sáng bảo thạch",
+    "value": "config/item/jiezhi_1_lei_2.png"
+  },
+  {
+    "label": "Giới Chỉ Tinh Thổ",
+    "value": "config/item/jiezhi_1_tu_2.png"
+  },
+  {
+    "label": "Nhẫn Tốc Độ",
+    "value": "config/item/jiezhi_1_feng_2.png"
+  },
+  {
+    "label": "Nhẫn Bích Hải",
+    "value": "config/item/jiezhi_1_shui_2.png"
+  },
+  {
+    "label": "Kim Diễm Hắc Giới",
+    "value": "config/item/jiezhi_1_huo_2.png"
+  },
+  {
+    "label": "Nhẫn hoa anh đào",
+    "value": "config/item/jiezhi_1_wu_2.png"
+  },
+  {
+    "label": "Dây chuyền đá quý",
+    "value": "config/item/xianglian_1_lei_2.png"
+  },
+  {
+    "label": "Dây chuyền đất",
+    "value": "config/item/xianglian_1_tu_2.png"
+  },
+  {
+    "label": "Dây chuyền Tốc Phong",
+    "value": "config/item/xianglian_1_feng_2.png"
+  },
+  {
+    "label": "Xiềng Xích Biển Xanh",
+    "value": "config/item/xianglian_1_shui_2.png"
+  },
+  {
+    "label": "Dây chuyền Kim Diễm",
+    "value": "config/item/xianglian_1_huo_2.png"
+  },
+  {
+    "label": "Dây chuyền hoa anh đào",
+    "value": "config/item/xianglian_1_wu_2.png"
+  },
+  {
+    "label": "Điểm hoạt động",
+    "value": "config/item/icon_hyd.png"
+  },
+  {
+    "label": "Kinh nghiệm Huấn luyện viên",
+    "value": "config/item/icon_exp.png"
+  },
+  {
+    "label": "Vàng",
+    "value": "config/item/icon_jbd.png"
+  },
+  {
+    "label": "Kim cương",
+    "value": "config/item/icon_zsd.png"
+  },
+  {
+    "label": "Thể lực",
+    "value": "config/item/icon_tpcl.png"
+  },
+  {
+    "label": "VIP",
+    "value": "config/item/icon_vip.png"
+  },
+  {
+    "label": "Kinh nghiệm VIP",
+    "value": "config/item/icon_vip.png"
+  },
+  {
+    "label": "Điểm tu hành",
+    "value": "config/item/icon_tfd.png"
+  },
+  {
+    "label": "Lá cây vàng",
+    "value": "config/item/icon_shipinjinghua.png"
+  },
+  {
+    "label": "Kinh nghiệm Guild",
+    "value": "config/item/icon_zuzhijingyan.png"
+  },
+  {
+    "label": "Huy chương danh dự",
+    "value": "config/item/icon_ryb.png"
+  },
+  {
+    "label": "Tiền tệ không gian",
+    "value": "config/item/icon_ytjj.png"
+  },
+  {
+    "label": "Tiền hội",
+    "value": "config/item/icon_ghb.png"
+  },
+  {
+    "label": "Tiền ảo tâm linh",
+    "value": "config/item/icon_jxlj.png"
+  },
+  {
+    "label": "Hồn thạch anh hùng",
+    "value": "config/item/icon_frgitm.png"
+  },
+  {
+    "label": "Huy chương vàng võ đạo",
+    "value": "config/item/icon_sydhdb1.png"
+  },
+  {
+    "label": "Tích phân theo chiều",
+    "value": "config/item/icon_leyuanjifen.png"
+  },
+  {
+    "label": "ID tiền tệ chưa sử dụng",
+    "value": "config/item/icon_spdb.png"
+  },
+  {
+    "label": "Huy chương bạc Võ Đạo",
+    "value": "config/item/icon_sydhdb2.png"
+  },
+  {
+    "label": "Vàng Võ Đạo Liên Server",
+    "value": "config/item/icon_kfsydhdb1.png"
+  },
+  {
+    "label": "Ngân tệ Võ Đạo Liên Server",
+    "value": "config/item/icon_kfsydhdb2.png"
+  },
+  {
+    "label": "Huy hiệu Guild",
+    "value": "config/item/icon_ghzb1.png"
+  },
+  {
+    "label": "Huân chương bạc Guild Chiến",
+    "value": "config/item/icon_ghzb2.png"
+  },
+  {
+    "label": "Điểm kỹ năng",
+    "value": "config/item/icon_jnd.png"
+  },
+  {
+    "label": "Kim nguyên bảo",
+    "value": "config/item/icon_dzjjchb.png"
+  },
+  {
+    "label": "Điểm tăng cường khiêu chiến",
+    "value": "city/adventure/gym_challenge/icon_jcd.png"
+  },
+  {
+    "label": "Tệ thử luyện",
+    "value": "common/icon/icon_kfzy.png"
+  },
+  {
+    "label": "Tệ viễn chinh",
+    "value": "config/item/icon_yzb.png"
+  },
+  {
+    "label": "Tệ đỉnh phong",
+    "value": "config/item/icon_dfb.png"
+  },
+  {
+    "label": "Đá tiềm năng thường",
+    "value": "config/item/icon_pt.png"
+  },
+  {
+    "label": "Đá tiềm năng cao cấp",
+    "value": "config/item/icon_gj.png"
+  },
+  {
+    "label": "Lệnh bài chỉ huy",
+    "value": "config/item/icon_tqb.png"
+  },
+  {
+    "label": "Mảnh vạn năng siêu cấp",
+    "value": "config/item/icon_debris3.png"
+  },
+  {
+    "label": "Mì Ichiraku",
+    "value": "config/item/icon_yilelamian.png"
+  },
+  {
+    "label": "Đá Sao Trang Sức",
+    "value": "config/item/icon_shipinshengxing.png"
+  },
+  {
+    "label": "Mảnh vạn năng",
+    "value": "config/item/icon_debris2.png"
+  },
+  {
+    "label": "Chìa khóa vàng",
+    "value": "config/item/icon_jys.png"
+  },
+  {
+    "label": "Tinh hoa đấu hồn",
+    "value": "config/item/icon_dwqszb.png"
+  },
+  {
+    "label": "Tinh hoa thánh vật",
+    "value": "config/item/icon_yj.png"
+  },
+  {
+    "label": "Túi tiền đơn giản",
+    "value": "config/item/icon_maitongqiandaoju_1.png"
+  },
+  {
+    "label": "Ví tiền thông thường",
+    "value": "config/item/icon_maitongqiandaoju_2.png"
+  },
+  {
+    "label": "Ví cao cấp",
+    "value": "config/item/icon_maitongqiandaoju_3.png"
+  },
+  {
+    "label": "Túi tiền trân quý",
+    "value": "config/item/icon_maitongqiandaoju_4.png"
+  },
+  {
+    "label": "Ví da sang trọng",
+    "value": "config/item/icon_maitongqiandaoju_5.png"
+  },
+  {
+    "label": "Mì gói của Beerus",
+    "value": "config/item/icon_bds.png"
+  },
+  {
+    "label": "Kem viên",
+    "value": "config/item/icon_ft.png"
+  },
+  {
+    "label": "Vé Thách Đấu Đấu Trường",
+    "value": "config/item/icon_jjctzj_item_1.png"
+  },
+  {
+    "label": "Vé Triệu Hồi Bằng Vàng",
+    "value": "config/item/icon_jbdjq.png"
+  },
+  {
+    "label": "Vé triệu hồi Kim Cương",
+    "value": "config/item/icon_zsdjq.png"
+  },
+  {
+    "label": "Tinh thể khế ước",
+    "value": "config/item/icon_xunbaoquan.png"
+  },
+  {
+    "label": "Mảnh Vạn Năng Cao Cấp",
+    "value": "config/item/icon_debris.png"
+  },
+  {
+    "label": "Quả cầu làm mới",
+    "value": "config/item/icon_sxq.png"
+  },
+  {
+    "label": "Quả cầu thường",
+    "value": "config/item/icon_redball.png"
+  },
+  {
+    "label": "Siêu cầu",
+    "value": "config/item/icon_ball2.png"
+  },
+  {
+    "label": "Đại sư cầu",
+    "value": "config/item/icon_ball4.png"
+  },
+  {
+    "label": "Vé triệu hồi giới hạn",
+    "value": "config/item/icon_xsdjq.png"
+  },
+  {
+    "label": "Vé giới hạn",
+    "value": "config/item/icon_xdq.png"
+  },
+  {
+    "label": "Kem viên",
+    "value": "config/item/daibi/icon_qiaokeli.png"
+  },
+  {
+    "label": "Tinh hoa chiến văn",
+    "value": "config/item/icon_yinjijinghua.png"
+  },
+  {
+    "label": "Chiến công Bạch Ngân",
+    "value": "config/item/icon_fscl1.png"
+  },
+  {
+    "label": "Chiến công vàng",
+    "value": "config/item/icon_fscl.png"
+  },
+  {
+    "label": "Huy chương phiêu lưu",
+    "value": "config/item/icon_mxxz.png"
+  },
+  {
+    "label": "Huy chương đại sư",
+    "value": "config/item/icon_dsxz.png"
+  },
+  {
+    "label": "Tiền vàng câu cá",
+    "value": "config/item/fishing/icon_dysys_swb.png"
+  },
+  {
+    "label": "Đồng câu cá",
+    "value": "config/item/fishing/icon_dysys_swb2.png"
+  },
+  {
+    "label": "Phiếu Thời Trang",
+    "value": "config/item/icon_szq.png"
+  },
+  {
+    "label": "Bản Đồ Bí Thuật",
+    "value": "config/item/icon_ckcl.png"
+  },
+  {
+    "label": "Bản đồ bí ẩn",
+    "value": "config/item/icon_ckcl2.png"
+  },
+  {
+    "label": "Mảnh Vạn Năng Siêu Cấp",
+    "value": "config/item/icon_debris3.png"
+  },
+  {
+    "label": "Đạt Ma (nhỏ)",
+    "value": "config/item/icon_hgd_max_1.png"
+  },
+  {
+    "label": "Đạt Ma (Trung Quốc)",
+    "value": "config/item/icon_hgd_max_2.png"
+  },
+  {
+    "label": "Đạt Ma (Đại)",
+    "value": "config/item/icon_hgd_max_3.png"
+  },
+  {
+    "label": "Đạt Ma hàng tuyển chọn",
+    "value": "config/item/icon_hgd_max_4.png"
+  },
+  {
+    "label": "Đạt Ma sang trọng",
+    "value": "config/item/icon_hgd_max_5.png"
+  },
+  {
+    "label": "Sushi",
+    "value": "config/item/icon_hgd_lei_1.png"
+  },
+  {
+    "label": "Mì ramen tonkotsu",
+    "value": "config/item/icon_hgd_lei_2.png"
+  },
+  {
+    "label": "Hải sản sashimi",
+    "value": "config/item/icon_hgd_lei_3.png"
+  },
+  {
+    "label": "Bò bít tết",
+    "value": "config/item/icon_hgd_tu_1.png"
+  },
+  {
+    "label": "Vịt quay",
+    "value": "config/item/icon_hgd_tu_2.png"
+  },
+  {
+    "label": "Thịt nướng hảo hạng",
+    "value": "config/item/icon_hgd_tu_3.png"
+  },
+  {
+    "label": "Tempura",
+    "value": "config/item/icon_hgd_feng_1.png"
+  },
+  {
+    "label": "Yakitori",
+    "value": "config/item/icon_hgd_feng_2.png"
+  },
+  {
+    "label": "Trứng cá muối",
+    "value": "config/item/icon_hgd_feng_3.png"
+  },
+  {
+    "label": "Kem Sundae",
+    "value": "config/item/icon_hgd_huo_1.png"
+  },
+  {
+    "label": "kem ốc quế",
+    "value": "config/item/icon_hgd_huo_2.png"
+  },
+  {
+    "label": "Bánh kem dâu tây",
+    "value": "config/item/icon_hgd_huo_3.png"
+  },
+  {
+    "label": "Bánh mì ngọt nhỏ",
+    "value": "config/item/icon_hgd_shui_1.png"
+  },
+  {
+    "label": "Macaron",
+    "value": "config/item/icon_hgd_shui_2.png"
+  },
+  {
+    "label": "Bánh ngọt cao cấp",
+    "value": "config/item/icon_hgd_shui_3.png"
+  },
+  {
+    "label": "Canh súp kỳ dị",
+    "value": "config/item/icon_hgd_wu_1.png"
+  },
+  {
+    "label": "Cá tuyết đen nướng than",
+    "value": "config/item/icon_hgd_wu_2.png"
+  },
+  {
+    "label": "Bạch tuộc sống ngâm",
+    "value": "config/item/icon_hgd_wu_3.png"
+  },
+  {
+    "label": "Gói quà thử nghiệm chọn 2",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_0tyls2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_0tylanse3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_0tyzs4.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_0tycs5.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_1rg1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_1schb2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_1hhps3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_2jksg1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_2sgz2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_2gssy3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_3zrb1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_3tfl2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_3ttdc3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_4jydg1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_4yyqs2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_4xyms3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_5hsnmc1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_5mkl2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_5xcdtt3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_6gynt1.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_6bkmsyl2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_6hadgll3.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_6bkmsyl2.png"
+  },
+  {
+    "label": "Đang chờ xóa",
+    "value": "config/item/icon_6hadgll3.png"
+  },
+  {
+    "label": "Đang chờ loại bỏ",
+    "value": "config/item/icon_kjsx.png"
+  },
+  {
+    "label": "Đang chờ loại bỏ",
+    "value": "config/item/icon_kjsx2.png"
+  },
+  {
+    "label": "Đá thiên phú lam ngọc",
+    "value": "config/card_ability/icon_lanyuqiannengshi.png"
+  },
+  {
+    "label": "Đá thiên phú tử tinh",
+    "value": "config/card_ability/icon_ziyuqiannengshi.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Cũ Cấp 1",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Lam Chàm Bậc 2",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi quà vật liệu đột phá lam coban bậc 3",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà đột phá Quang Lam bậc 4",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi quà đột phá Bích Tử bậc 5",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà đột phá phẩm chất Lục Giai - Đãi Tử",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi quà đột phá cấp 7 - Cam nở rộ",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi quà vật liệu đột phá Cam Khoáng bậc 8",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Quang Diệu Bậc Chín",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Nhật Quang Bậc 10",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Tâm Kim",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi quà tặng đột phá vật liệu quả lựu",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Chu Y",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Đỏ Thẫm",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Viêm Đỏ",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Liệu Đột Phá Đỏ Thẫm",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Hộp quà hảo cảm sơ cấp",
+    "value": "config/item/icon_lb1.png"
+  },
+  {
+    "label": "Hộp quà hảo cảm trung cấp",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Hộp quà hảo cảm cao cấp",
+    "value": "config/item/icon_lb3.png"
+  },
+  {
+    "label": "Gói quà anh hùng sơ cấp",
+    "value": "config/item/box/box_19_1@.png"
+  },
+  {
+    "label": "Gói quà anh hùng cao cấp",
+    "value": "config/item/box/box_19_2@.png"
+  },
+  {
+    "label": "Gói Quà Anh Hùng Bậc Thầy",
+    "value": "config/item/box/box_19_3@.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng S",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Túi quà đột phá vật liệu",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Túi Quà Vật Phẩm Đột Phá Guild",
+    "value": "config/item/box/box_8_2.png"
+  },
+  {
+    "label": "Túi Quà Vật Phẩm Đột Phá Guild",
+    "value": "config/item/box/box_8_2.png"
+  },
+  {
+    "label": "Hệ thống ngẫu nhiên mở túi quà vật liệu đột phá",
+    "value": "config/item/icon_cld.png"
+  },
+  {
+    "label": "Gói quà tự chọn \"Tính cách bạc hà\"",
+    "value": "config/item/icon_sgzzp.png"
+  },
+  {
+    "label": "Hộp Quà Trang Bị Siêu Phàm Lục Sắc",
+    "value": "config/item/icon_ywx1.png"
+  },
+  {
+    "label": "Hộp Quà Trang Bị Siêu Phàm Lam",
+    "value": "config/item/icon_dwdwp.png"
+  },
+  {
+    "label": "Rương Quà Trang Bị Siêu Phàm Tím",
+    "value": "config/item/icon_ywx2.png"
+  },
+  {
+    "label": "Rương Tự Chọn Trang Bị Siêu Phàm Tím",
+    "value": "config/item/box/box_11_2.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Túi quà mảnh anh hùng",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Túi quà mảnh anh hùng cấp S",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Túi Quà Mảnh Anh Hùng Hạng A",
+    "value": "config/item/box/box_2_3.png"
+  },
+  {
+    "label": "Túi Quà Mảnh Anh Hùng Hạng B",
+    "value": "config/item/box/box_2_2.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Rương Linh Thú Lục Sắc",
+    "value": "config/item/box/box_2_1.png"
+  },
+  {
+    "label": "Rương Linh Thú Lam Sắc",
+    "value": "config/item/box/box_2_2.png"
+  },
+  {
+    "label": "Rương Thú Triệu Hồi Tím",
+    "value": "config/item/box/box_2_3.png"
+  },
+  {
+    "label": "Rương Thông Linh Thú Vàng",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Rương Chọn Thú Triệu Hồi Tím",
+    "value": "config/item/box/box_2_3.png"
+  },
+  {
+    "label": "Hộp Chọn Thú Triệu Hồi Vàng",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Rương Chiến Văn Lục Ngẫu Nhiên",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Chiến Văn Lam Ngẫu Nhiên",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Chiến Văn Tím Ngẫu Nhiên",
+    "value": "config/item/box/box_40_2.png"
+  },
+  {
+    "label": "Rương Chiến Văn Vàng Ngẫu Nhiên",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Hộp Chiến Văn Đỏ Ngẫu Nhiên",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Rương Chiến Văn Lục Sắc",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Chiến Văn Lam Sắc",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Chiến Văn Tím",
+    "value": "config/item/box/box_40_2.png"
+  },
+  {
+    "label": "Rương Chiến Văn Vàng",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Rương Chiến Văn Đỏ",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Lục Sắc",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Lam Sắc",
+    "value": "config/item/box/box_40_1.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Tím",
+    "value": "config/item/box/box_40_2.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Vàng",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Đỏ",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Gói quà toàn năng",
+    "value": "config/item/icon_lb1.png"
+  },
+  {
+    "label": "Gói quà vật liệu đột phá",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói quà tiêu hao",
+    "value": "config/item/icon_lb3.png"
+  },
+  {
+    "label": "Gói quà bán ra",
+    "value": "config/item/icon_lb4.png"
+  },
+  {
+    "label": "Gói quà pin ngẫu nhiên",
+    "value": "config/item/icon_lb5.png"
+  },
+  {
+    "label": "Gói quà pin ngẫu nhiên",
+    "value": "config/item/icon_lb1.png"
+  },
+  {
+    "label": "Gói quà pin ngẫu nhiên",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói quà khung avatar",
+    "value": "config/item/icon_lb3.png"
+  },
+  {
+    "label": "Gói bổ sung thể lực",
+    "value": "config/item/icon_lb4.png"
+  },
+  {
+    "label": "Gói quà mảnh ghép",
+    "value": "config/item/icon_lb5.png"
+  },
+  {
+    "label": "Gói quà thẻ bài",
+    "value": "config/item/icon_lb1.png"
+  },
+  {
+    "label": "Gói thử nghiệm icon",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói thuốc kinh nghiệm",
+    "value": "config/item/icon_lb5.png"
+  },
+  {
+    "label": "Gói thử nghiệm danh hiệu",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói thử nghiệm danh hiệu",
+    "value": "config/item/icon_lb5.png"
+  },
+  {
+    "label": "Gói Trang Bị Siêu Phàm",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói quà tiền tệ đặc biệt",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói quà hảo cảm",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói thử nghiệm chọn 1 trong nhiều",
+    "value": "config/item/icon_lb2.png"
+  },
+  {
+    "label": "Gói Mảnh Triệu Hồi Thú",
+    "value": "config/item/icon_lb1.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 1",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 1",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 2",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 2",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 3",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 3",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 3",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 4",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 4",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 4",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 5",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 5",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 5",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 6",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 6",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 6",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 7",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 7",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 7",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 8",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 8",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 8",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 9",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 9",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 9",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 10",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 10",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 10",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 11",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 11",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 11",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 12",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 12",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 12",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 13",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 13",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 13",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 14",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 14",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 14",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 15",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 15",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 15",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 16",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 16",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 16",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 17",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 17",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 17",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 18",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 18",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 18",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 19",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 19",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 19",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 20",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 20",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 20",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 21",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 21",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 21",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 22",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 22",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 22",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 23",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 23",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 23",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 24",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 24",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 24",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 25",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 25",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 25",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 26",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 26",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải thường chương 26",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 1",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 2",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 3",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 4",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 5",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 6",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 7",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 8",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 9",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 10",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 11",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 12",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 13",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 14",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 15",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 16",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 17",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 18",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 19",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 20",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 21",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 22",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 23",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 24",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Phần thưởng vượt ải tinh anh chương 25",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 26: Cửa ải tinh anh",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Khung avatar Chỉ Huy Vàng",
+    "value": "config/item/frame/icon_huangjin.png"
+  },
+  {
+    "label": "Khung avatar Kagura",
+    "value": "config/item/frame/icon_shenle.png"
+  },
+  {
+    "label": "Khung avatar Kaneki Ken",
+    "value": "config/item/frame/icon_jinmuyan.png"
+  },
+  {
+    "label": "Khung avatar Kakashi",
+    "value": "config/item/frame/icon_kakaxi.png"
+  },
+  {
+    "label": "Khung avatar Shana",
+    "value": "config/item/frame/icon_xn.png"
+  },
+  {
+    "label": "Khung avatar Hinata Hyūga",
+    "value": "config/item/frame/icon_xiangrichutian.png"
+  },
+  {
+    "label": "Khung avatar Gilgamesh",
+    "value": "config/item/frame/icon_jejms.png"
+  },
+  {
+    "label": "Khung avatar Kirisame Marisa",
+    "value": "config/item/frame/icon_tx_11.png"
+  },
+  {
+    "label": "Khung avatar Giáng Sinh đặc biệt",
+    "value": "config/item/frame/icon_sdtxk.png"
+  },
+  {
+    "label": "Khung avatar Tết Nguyên Đán đặc biệt",
+    "value": "config/item/frame/icon_longnian.png"
+  },
+  {
+    "label": "Khung avatar Thủy thủ Mặt Trăng",
+    "value": "config/item/frame/icon_tx_2.png"
+  },
+  {
+    "label": "Khung avatar S1 Thông Hành",
+    "value": "config/item/frame/icon_s1.png"
+  },
+  {
+    "label": "Lao động là vinh quang",
+    "value": "config/item/frame/icon_12.png"
+  },
+  {
+    "label": "Khung ảnh Vegeta",
+    "value": "config/item/frame/icon_beijita.png"
+  },
+  {
+    "label": "Thanh Trúc Quân Tử",
+    "value": "config/item/frame/icon_qingzhujunzi.png"
+  },
+  {
+    "label": "Khung avatar Maple",
+    "value": "config/item/frame/icon_meipulu.png"
+  },
+  {
+    "label": "Tình yêu Tết Đoan Ngọ",
+    "value": "config/item/title/img_zqdw.png"
+  },
+  {
+    "label": "Thỏ ngọc Trung Thu",
+    "value": "config/item/frame/icon_zqtxk.png"
+  },
+  {
+    "label": "Lễ hội",
+    "value": "config/item/frame/icon_gqtxk.png"
+  },
+  {
+    "label": "Ác quỷ Halloween",
+    "value": "config/item/frame/icon_wsj.png"
+  },
+  {
+    "label": "Tuần lộc Giáng Sinh 2020",
+    "value": "config/item/frame/icon_2021sdtxk.png"
+  },
+  {
+    "label": "Múa lân đón năm mới",
+    "value": "config/item/frame/icon_2021ydtxk.png"
+  },
+  {
+    "label": "Nguyên Tiêu đón xuân",
+    "value": "config/item/frame/icon_yxjtxk.png"
+  },
+  {
+    "label": "Chúc mừng phát tài",
+    "value": "config/item/frame/icon_2021.png"
+  },
+  {
+    "label": "Yêu là bên nhau",
+    "value": "config/item/frame/icon_qrjtxk80.png"
+  },
+  {
+    "label": "Kỷ niệm 1 năm",
+    "value": "config/item/frame/icon_zntxk.png"
+  },
+  {
+    "label": "Khung avatar Trảm- Xich Đồng",
+    "value": "config/item/frame/icon_cjlkz.png"
+  },
+  {
+    "label": "Giới hạn lễ Lao Động 2021",
+    "value": "config/item/frame/icon_ldjtxk.png"
+  },
+  {
+    "label": "Ngày Quốc Tế Thiếu Nhi vui vẻ",
+    "value": "config/item/frame/icon_lyetj.png"
+  },
+  {
+    "label": "Tết Đoan Ngọ vui chơi",
+    "value": "config/item/frame/icon_90.png"
+  },
+  {
+    "label": "Hè vui chơi",
+    "value": "config/item/frame/icon_xrj@.png"
+  },
+  {
+    "label": "Đoàn viên Trung Thu",
+    "value": "config/item/frame/icon_zqjtxk.png"
+  },
+  {
+    "label": "Lễ hội cuồng nhiệt",
+    "value": "config/item/frame/icon_21gqtxk.png"
+  },
+  {
+    "label": "Khung avatar Than Uy-Kakashi",
+    "value": "config/item/frame/icon_cjgldtxk.png"
+  },
+  {
+    "label": "Khung avatar",
+    "value": "config/item/frame/icon_cjgldtxk.png"
+  },
+  {
+    "label": "Khung avatar Nguyên Thủy Kyogre",
+    "value": "config/item/frame/icon_41.png"
+  },
+  {
+    "label": "Khung avatar S1",
+    "value": "config/item/frame/icon_s1.png"
+  },
+  {
+    "label": "Khung đầu rắn lớn",
+    "value": "config/item/frame/icon_tx_6.png"
+  },
+  {
+    "label": "Khung avatar Hades",
+    "value": "config/item/frame/icon_hadisi.png"
+  },
+  {
+    "label": "Khung avatar Mắt Đỏ",
+    "value": "config/item/frame/icon_tx_10.png"
+  },
+  {
+    "label": "Khung ảnh Levi",
+    "value": "config/item/frame/icon_liwei.png"
+  },
+  {
+    "label": "Khung ảnh chân dung Tohsaka Rin",
+    "value": "config/item/frame/icon_yuanbanlin.png"
+  },
+  {
+    "label": "khung avatar tròn nhỏ",
+    "value": "config/item/frame/icon_xiaoyuan.png"
+  },
+  {
+    "label": "Khung avatar Kurosaki Ichigo",
+    "value": "config/item/frame/icon_heiqiyihu.png"
+  },
+  {
+    "label": "Khung avatar Hatsune Miku",
+    "value": "config/item/frame/icon_tx_9.png"
+  },
+  {
+    "label": "Khung ảnh Altria",
+    "value": "config/item/frame/icon_tx_8.png"
+  },
+  {
+    "label": "Khung ảnh Xiaomei Yan",
+    "value": "config/item/frame/icon_xiaomeiyan.png"
+  },
+  {
+    "label": "Khung avatar Lich Vương",
+    "value": "config/item/frame/icon_tx_3.png"
+  },
+  {
+    "label": "Khung avatar Tsunade",
+    "value": "config/item/frame/icon_tx_1.png"
+  },
+  {
+    "label": "Khung avatar Icarus",
+    "value": "config/item/frame/icon_yikaluosi.png"
+  },
+  {
+    "label": "Khung avatar Thiên Nữ Thú",
+    "value": "config/item/frame/icon_tiannvshou.png"
+  },
+  {
+    "label": "Khung ảnh Thiên Thần Thú",
+    "value": "config/item/frame/icon_tianshishou.png"
+  },
+  {
+    "label": "Khung avatar Kakarot",
+    "value": "config/item/frame/icon_kakaluote.png"
+  },
+  {
+    "label": "Khung ảnh Beerus",
+    "value": "config/item/frame/icon_tx_4.png"
+  },
+  {
+    "label": "Khung avatar Tia chớp Tiga",
+    "value": "config/item/frame/icon_shandiandijia.png"
+  },
+  {
+    "label": "Khung avatar Asuna",
+    "value": "config/item/frame/icon_tx_7.png"
+  },
+  {
+    "label": "Khung ảnh Saitama",
+    "value": "config/item/frame/icon_tx_5.png"
+  },
+  {
+    "label": "Khung avatar Thiên Thần Thời Gian",
+    "value": "config/item/frame/icon_tx_ksjx.png"
+  },
+  {
+    "label": "Khung avatar Ngọn lửa Ác quỷ",
+    "value": "config/item/frame/icon_tx_xmyjx.png"
+  },
+  {
+    "label": "Khung ảnh Phi Ảnh",
+    "value": "config/item/frame/icon_feiying.png"
+  },
+  {
+    "label": "Khung avatar Aqua",
+    "value": "config/item/frame/icon_akeya.png"
+  },
+  {
+    "label": "Khung avatar Quy Lão Tiên Sinh",
+    "value": "config/item/frame/icon_akeya.png"
+  },
+  {
+    "label": "Khung avatar Albedo",
+    "value": "config/item/frame/icon_yebd.png"
+  },
+  {
+    "label": "Khung avatar Nữ Đế",
+    "value": "config/item/frame/icon_nvdi_1.png"
+  },
+  {
+    "label": "Khung avatar Jiraiya",
+    "value": "config/item/frame/icon_zilaiye_1.png"
+  },
+  {
+    "label": "Khung avatar Daki",
+    "value": "config/item/frame/img_2391.png"
+  },
+  {
+    "label": "Khung avatar Anh Hùng Vương",
+    "value": "config/item/frame/img_yxw.png"
+  },
+  {
+    "label": "Khung avatar Uchiha Itachi",
+    "value": "config/item/frame/img_3221.png"
+  },
+  {
+    "label": "Khung avatar S2 Thông Hành",
+    "value": "config/item/frame/icon_s2.png"
+  },
+  {
+    "label": "Khung avatar S3 Thông Hành",
+    "value": "config/item/frame/icon_s3.png"
+  },
+  {
+    "label": "Khung avatar S4 Thông Hành",
+    "value": "config/item/frame/icon_s4.png"
+  },
+  {
+    "label": "Khung avatar S5 Thông Hành",
+    "value": "config/item/frame/icon_s5.png"
+  },
+  {
+    "label": "Khung avatar S6 Thông Hành",
+    "value": "config/item/frame/icon_s6.png"
+  },
+  {
+    "label": "Khung avatar S7 Thông Hành",
+    "value": "config/item/frame/icon_s7.png"
+  },
+  {
+    "label": "Khung avatar S8 Thông Hành",
+    "value": "config/item/frame/icon_s8.png"
+  },
+  {
+    "label": "Khung avatar S9 Thông Hành",
+    "value": "config/item/frame/icon_s9.png"
+  },
+  {
+    "label": "Khung avatar S10 Thông Hành",
+    "value": "config/item/frame/icon_s10.png"
+  },
+  {
+    "label": "Đá hồn sơ cấp",
+    "value": "config/item/icon_xddj1.png"
+  },
+  {
+    "label": "Đá hồn trung cấp",
+    "value": "config/item/icon_xddj2.png"
+  },
+  {
+    "label": "Đá hồn cao cấp",
+    "value": "config/item/icon_xddj3.png"
+  },
+  {
+    "label": "Đá vạn năng xanh lam",
+    "value": "config/item/icon_sxcl3.png"
+  },
+  {
+    "label": "Đá vạn năng tím",
+    "value": "config/item/icon_sxcl2.png"
+  },
+  {
+    "label": "Đá vạn năng vàng",
+    "value": "config/item/icon_sxcl1.png"
+  },
+  {
+    "label": "Hộp chọn hình tượng Thông Hành",
+    "value": "config/item/event/icon_gqlb2.png"
+  },
+  {
+    "label": "Linh vật Temari",
+    "value": "config/portrait/toptouxiang/img_hy_2001.png"
+  },
+  {
+    "label": "Vật gia truyền của Kankuro",
+    "value": "config/portrait/toptouxiang/img_hy_2011.png"
+  },
+  {
+    "label": "Tín vật của Yakushi Kabuto",
+    "value": "config/portrait/toptouxiang/img_hy_2021.png"
+  },
+  {
+    "label": "Tín vật của Hidan",
+    "value": "config/portrait/toptouxiang/img_hy_2031.png"
+  },
+  {
+    "label": "Kỷ vật của Deidara",
+    "value": "config/portrait/toptouxiang/img_hy_2041.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Kisame Hoshigaki",
+    "value": "config/portrait/toptouxiang/img_hy_2051.png"
+  },
+  {
+    "label": "Tín vật của Kakuzu",
+    "value": "config/portrait/toptouxiang/img_hy_2061.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Killer Bee",
+    "value": "config/portrait/toptouxiang/img_hy_2071.png"
+  },
+  {
+    "label": "Ngoại hình của Men in Black",
+    "value": "config/portrait/toptouxiang/img_793.png"
+  },
+  {
+    "label": "Kỷ vật của Konan",
+    "value": "config/portrait/toptouxiang/img_hy_2091.png"
+  },
+  {
+    "label": "Bùa hình bọ cạp",
+    "value": "config/portrait/toptouxiang/img_hy_2101.png"
+  },
+  {
+    "label": "Vật gia truyền của Shimura Danzo",
+    "value": "config/portrait/toptouxiang/img_hy_2111.png"
+  },
+  {
+    "label": "Kỷ vật của Sarutobi Asuma",
+    "value": "config/portrait/toptouxiang/img_hy_2121.png"
+  },
+  {
+    "label": "Tín vật của Yamato",
+    "value": "config/portrait/toptouxiang/img_hy_2131.png"
+  },
+  {
+    "label": "Vật gia truyền của Jiraiya",
+    "value": "config/portrait/toptouxiang/img_hy_2141.png"
+  },
+  {
+    "label": "Tín vật của Yuuhi Kurenai",
+    "value": "config/portrait/toptouxiang/img_hy_2151.png"
+  },
+  {
+    "label": "Vật gia truyền của Uchiha Itachi",
+    "value": "config/portrait/toptouxiang/img_hy_2161.png"
+  },
+  {
+    "label": "Vật gia truyền của Might Guy",
+    "value": "config/portrait/toptouxiang/img_hy_2171.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Hatake Kakashi",
+    "value": "config/portrait/toptouxiang/img_hy_2181.png"
+  },
+  {
+    "label": "Vật gia truyền của Tsunade",
+    "value": "config/portrait/toptouxiang/img_hy_2191.png"
+  },
+  {
+    "label": "Tín vật của Orochimaru",
+    "value": "config/portrait/toptouxiang/img_hy_2201.png"
+  },
+  {
+    "label": "Vật gia truyền của Gaara",
+    "value": "config/portrait/toptouxiang/img_hy_2211.png"
+  },
+  {
+    "label": "Tín vật của Uzumaki Naruto (Tiên nhân)",
+    "value": "config/portrait/toptouxiang/img_hy_3001.png"
+  },
+  {
+    "label": "Vật gia truyền của Minato Namikaze",
+    "value": "config/portrait/toptouxiang/img_hy_3011.png"
+  },
+  {
+    "label": "Tín vật của Kakashi (Kamui)",
+    "value": "config/portrait/toptouxiang/img_hy_3021.png"
+  },
+  {
+    "label": "Vật phẩm kỷ niệm của Kai (Bát Môn)",
+    "value": "config/portrait/toptouxiang/img_hy_3031.png"
+  },
+  {
+    "label": "Vật gia truyền của Tsunade (Byakugo)",
+    "value": "config/portrait/toptouxiang/img_hy_3041.png"
+  },
+  {
+    "label": "Vật gia truyền của Jiraiya (Tiên nhân)",
+    "value": "config/portrait/toptouxiang/img_hy_3051.png"
+  },
+  {
+    "label": "Vật gia truyền của Sarutobi Hiruzen",
+    "value": "config/portrait/toptouxiang/img_hy_3061.png"
+  },
+  {
+    "label": "Tín vật của Senju Tobirama",
+    "value": "config/portrait/toptouxiang/img_hy_3071.png"
+  },
+  {
+    "label": "Pikachu phiên bản Giáng Sinh",
+    "value": "config/portrait/toptouxiang/img_pkq.png"
+  },
+  {
+    "label": "Pikachu phiên bản Tết Nguyên Đán",
+    "value": "config/portrait/toptouxiang/img_dds.png"
+  },
+  {
+    "label": "Piplup",
+    "value": "config/portrait/toptouxiang/icon_sd_bjm.png"
+  },
+  {
+    "label": "Gengar",
+    "value": "config/portrait/toptouxiang/icon_sd_gs.png"
+  },
+  {
+    "label": "Squirtle",
+    "value": "config/portrait/toptouxiang/icon_sd_jng.png"
+  },
+  {
+    "label": "Meowth",
+    "value": "config/portrait/toptouxiang/icon_sd_mm.png"
+  },
+  {
+    "label": "Rowlet",
+    "value": "config/portrait/toptouxiang/icon_sd_mmx.png"
+  },
+  {
+    "label": "Bulbasaur",
+    "value": "config/portrait/toptouxiang/icon_sd_mwzz.png"
+  },
+  {
+    "label": "Pikachu",
+    "value": "config/portrait/toptouxiang/icon_sd_pkq.png"
+  },
+  {
+    "label": "Charmander",
+    "value": "config/portrait/toptouxiang/icon_sd_xhl.png"
+  },
+  {
+    "label": "Eevee",
+    "value": "config/portrait/toptouxiang/icon_sd_yb.png"
+  },
+  {
+    "label": "Anh hùng tháng",
+    "value": "config/portrait/toptouxiang/icon_sd_yjl.png"
+  },
+  {
+    "label": "Mudkip",
+    "value": "config/portrait/toptouxiang/icon_sd_zyy.png"
+  },
+  {
+    "label": "Snorlax phiên bản lễ Lao Động",
+    "value": "config/portrait/toptouxiang/img_wy.png"
+  },
+  {
+    "label": "Gothita phiên bản Quốc Tế Thiếu Nhi",
+    "value": "config/portrait/toptouxiang/img_ly.png"
+  },
+  {
+    "label": "Bulbasaur phiên bản Tết Đoan Ngọ",
+    "value": "config/portrait/toptouxiang/icon_mwzz_tx.png"
+  },
+  {
+    "label": "Ăn bánh không?",
+    "value": "config/portrait/toptouxiang/icon_ddzq.png"
+  },
+  {
+    "label": "Tỏ tình",
+    "value": "config/portrait/toptouxiang/icon_pkqgq.png"
+  },
+  {
+    "label": "Ngụy trang",
+    "value": "config/portrait/toptouxiang/icon_wsj.png"
+  },
+  {
+    "label": "Mặc đồ gấu phiên bản Giáng Sinh 2020",
+    "value": "config/portrait/toptouxiang/icon_2021sdtx.png"
+  },
+  {
+    "label": "Chansey phiên bản năm mới 2021",
+    "value": "config/portrait/toptouxiang/icon_2021ydtx.png"
+  },
+  {
+    "label": "Miltank-2021",
+    "value": "config/portrait/toptouxiang/img_dng.png"
+  },
+  {
+    "label": "Đưa lì xì đây",
+    "value": "config/portrait/toptouxiang/icon_2021year@.png"
+  },
+  {
+    "label": "Kết duyên- 2021",
+    "value": "config/portrait/toptouxiang/icon_qrj_tx.png"
+  },
+  {
+    "label": "1 nam-Pikachu",
+    "value": "config/portrait/toptouxiang/img_pkq_znq.png"
+  },
+  {
+    "label": "Meowth đi làm thợ xây",
+    "value": "config/portrait/toptouxiang/icon_wy_tx.png"
+  },
+  {
+    "label": "Ngày Quốc Tể Thiểu Nhi - Gau trúc tinh nghịch",
+    "value": "config/portrait/toptouxiang/img_lyetj.png"
+  },
+  {
+    "label": "Bé lá dong",
+    "value": "config/portrait/toptouxiang/icon_dwj2_tx.png"
+  },
+  {
+    "label": "Mùa hè- Pikachu",
+    "value": "config/portrait/toptouxiang/img_xrj1@.png"
+  },
+  {
+    "label": "Mùa hè-Squirtle",
+    "value": "config/portrait/toptouxiang/img_xrj2@.png"
+  },
+  {
+    "label": "Cyndaquil- Trung Thu",
+    "value": "config/portrait/toptouxiang/icon_zqj_tx.png"
+  },
+  {
+    "label": "Đại lể-Cubone",
+    "value": "config/portrait/toptouxiang/icon_21gq_tx.png"
+  },
+  {
+    "label": "Avatar",
+    "value": "config/portrait/toptouxiang/icon_21gq_tx.png"
+  },
+  {
+    "label": "Giáng Sinh vui vẻ",
+    "value": "config/item/title/img_sdkl.png"
+  },
+  {
+    "label": "Năm mới vui vẻ",
+    "value": "config/item/title/img_xckl.png"
+  },
+  {
+    "label": "Thông Hành S1",
+    "value": "config/item/title/imag_ch_S1.png"
+  },
+  {
+    "label": "Lao động là vinh quang",
+    "value": "config/title/title_104.png"
+  },
+  {
+    "label": "Trẻ con nghịch ngợm",
+    "value": "config/item/title/img_xhz.png"
+  },
+  {
+    "label": "Tình yêu Tết Đoan Ngọ",
+    "value": "config/item/title/title_105_1.png"
+  },
+  {
+    "label": "Trăng tròn đẹp đẽ",
+    "value": "config/item/title/img_yyjs.png"
+  },
+  {
+    "label": "Nhân chứng lễ hội",
+    "value": "config/item/title/img_qdjzz.png"
+  },
+  {
+    "label": "Skr kẻ tinh ranh nhỏ",
+    "value": "config/item/title/img_wsj.png"
+  },
+  {
+    "label": "Phiên bản Giáng Sinh 2020",
+    "value": "config/item/title/img_lexdd.png"
+  },
+  {
+    "label": "Chúc mừng năm mới 2021",
+    "value": "config/item/title/img_2021.png"
+  },
+  {
+    "label": "Viên mãn tròn đầy",
+    "value": "config/item/title/img_yymm.png"
+  },
+  {
+    "label": "Khởi đầu năm mới",
+    "value": "config/item/title/icon_xnys.png"
+  },
+  {
+    "label": "Chuyên gia phát lương thực",
+    "value": "config/item/title/icon_qrj.png"
+  },
+  {
+    "label": "Cảm ơn vì có bạn",
+    "value": "config/item/title/img_1zn_1.png"
+  },
+  {
+    "label": "Anh hùng thức tỉnh",
+    "value": "config/item/title/img_yzjx.png"
+  },
+  {
+    "label": "Người lao động đáng yêu nhất",
+    "value": "config/item/title/icon_dgr.png"
+  },
+  {
+    "label": "Trái tim trẻ thơ không đổi",
+    "value": "config/item/title/img_txwm.png"
+  },
+  {
+    "label": "Tình yêu Tết Đoan Ngọ",
+    "value": "config/item/title/img_zqdw.png"
+  },
+  {
+    "label": "Thợ săn kho báu",
+    "value": "config/item/title/icon_bzlr.png"
+  },
+  {
+    "label": "Mùa hè rực rỡ",
+    "value": "config/item/title/img_sxgn@.png"
+  },
+  {
+    "label": "Chạy trốn lên mặt trăng",
+    "value": "config/item/title/icon_sbdyq.png"
+  },
+  {
+    "label": "Bữa tiệc cuồng nhiệt",
+    "value": "config/item/title/icon_khsy1.png"
+  },
+  {
+    "label": "Danh hiệu",
+    "value": "config/item/title/icon_khsy1.png"
+  },
+  {
+    "label": "Thông Hành S2",
+    "value": "config/item/title/imag_ch_S2.png"
+  },
+  {
+    "label": "Thông Hành S3",
+    "value": "config/item/title/imag_ch_S3.png"
+  },
+  {
+    "label": "Thông Hành S4",
+    "value": "config/item/title/imag_ch_S4.png"
+  },
+  {
+    "label": "Thông Hành S5",
+    "value": "config/item/title/imag_ch_S5.png"
+  },
+  {
+    "label": "Thông Hành S6",
+    "value": "config/item/title/imag_ch_S6.png"
+  },
+  {
+    "label": "Thông Hành S7",
+    "value": "config/item/title/imag_ch_S7.png"
+  },
+  {
+    "label": "Thông Hành S8",
+    "value": "config/item/title/imag_ch_S8.png"
+  },
+  {
+    "label": "Thông Hành S9",
+    "value": "config/item/title/imag_ch_S9.png"
+  },
+  {
+    "label": "Thông Hành S10",
+    "value": "config/item/title/imag_ch_S10.png"
+  },
+  {
+    "label": "Ước mơ ban đầu",
+    "value": "config/item/title/title_78.png"
+  },
+  {
+    "label": "Ngôi sao của giới ninja",
+    "value": "config/item/title/title_43.png"
+  },
+  {
+    "label": "Ý chí chiến đấu",
+    "value": "config/item/title/title_29.png"
+  },
+  {
+    "label": "Anh hùng Đấu Chiến",
+    "value": "config/item/title/title_30.png"
+  },
+  {
+    "label": "Siêu hạch thủ",
+    "value": "config/item/title/title_65.png"
+  },
+  {
+    "label": "Đỉnh Tinh Tú",
+    "value": "config/item/title/title_83.png"
+  },
+  {
+    "label": "Anh Hùng Hẻm Núi Sâu",
+    "value": "config/item/title/title_88.png"
+  },
+  {
+    "label": "Huyền Thoại Về Tình Bạn",
+    "value": "config/item/title/title_8.png"
+  },
+  {
+    "label": "Tiên phong dày dạn kinh nghiệm",
+    "value": "config/item/title/title_6.png"
+  },
+  {
+    "label": "Sứ giả hoa",
+    "value": "config/item/title/title_63.png"
+  },
+  {
+    "label": "Điều kỳ diệu của cát",
+    "value": "config/item/title/title_85.png"
+  },
+  {
+    "label": "Mối liên kết",
+    "value": "config/item/title/title_96.png"
+  },
+  {
+    "label": "Lá cây Konoha bay lượn",
+    "value": "config/item/title/title_75.png"
+  },
+  {
+    "label": "Hòa tan vạn vật",
+    "value": "config/item/title/title_58.png"
+  },
+  {
+    "label": "Chúa Tể Vực Sâu",
+    "value": "config/item/title/title_87.png"
+  },
+  {
+    "label": "Tiên Phong Phục Ma",
+    "value": "config/item/title/title_81.png"
+  },
+  {
+    "label": "Hy vọng vàng",
+    "value": "config/item/title/title_102.png"
+  },
+  {
+    "label": "Ngư phủ",
+    "value": "config/title/img_blue2@.png"
+  },
+  {
+    "label": "Cao thủ câu cá",
+    "value": "config/title/img_blue2@.png"
+  },
+  {
+    "label": "Bậc thầy câu cá",
+    "value": "config/title/img_purple2@.png"
+  },
+  {
+    "label": "Tông sư câu cá",
+    "value": "config/title/img_red2@.png"
+  },
+  {
+    "label": "Ông già và biển cả",
+    "value": "config/title/img_purple2@.png"
+  },
+  {
+    "label": "Vùng hoang dã rèn luyện",
+    "value": "config/title/img_red2@.png"
+  },
+  {
+    "label": "Hào quang nhân vật chính",
+    "value": "config/title/img_red2@.png"
+  },
+  {
+    "label": "Hoàng tử phiêu lưu",
+    "value": "config/title/img_red2@.png"
+  },
+  {
+    "label": "Danh hiệu mới-1",
+    "value": "config/title/title_new1.png"
+  },
+  {
+    "label": "Danh hiệu mới-2",
+    "value": "config/title/title_new2.png"
+  },
+  {
+    "label": "Danh hiệu mới-3",
+    "value": "config/title/title_new3.png"
+  },
+  {
+    "label": "Danh hiệu mới-4",
+    "value": "config/title/title_new4.png"
+  },
+  {
+    "label": "Danh hiệu mới-5",
+    "value": "config/title/title_new5.png"
+  },
+  {
+    "label": "Danh hiệu mới-6",
+    "value": "config/title/title_new6.png"
+  },
+  {
+    "label": "Danh hiệu mới-7",
+    "value": "config/title/title_new7.png"
+  },
+  {
+    "label": "Danh hiệu mới-8",
+    "value": "config/title/title_new8.png"
+  },
+  {
+    "label": "Danh hiệu mới-9",
+    "value": "config/title/title_new9.png"
+  },
+  {
+    "label": "Danh hiệu mới-10",
+    "value": "config/title/title_new10.png"
+  },
+  {
+    "label": "Danh hiệu mới-11",
+    "value": "config/title/title_new11.png"
+  },
+  {
+    "label": "Danh hiệu mới-12",
+    "value": "config/title/title_new12.png"
+  },
+  {
+    "label": "Danh hiệu mới-13",
+    "value": "config/title/title_new13.png"
+  },
+  {
+    "label": "Danh hiệu mới-14",
+    "value": "config/title/title_new14.png"
+  },
+  {
+    "label": "Danh hiệu mới-15",
+    "value": "config/title/title_new15.png"
+  },
+  {
+    "label": "Danh hiệu mới-16",
+    "value": "config/title/title_new16.png"
+  },
+  {
+    "label": "Danh hiệu mới-17",
+    "value": "config/title/title_new17.png"
+  },
+  {
+    "label": "Danh hiệu mới-18",
+    "value": "config/title/title_new18.png"
+  },
+  {
+    "label": "Danh hiệu mới-19",
+    "value": "config/title/title_new19.png"
+  },
+  {
+    "label": "Danh hiệu mới-20",
+    "value": "config/title/title_new20.png"
+  },
+  {
+    "label": "Danh hiệu mới-21",
+    "value": "config/title/title_new21.png"
+  },
+  {
+    "label": "Danh hiệu mới-22",
+    "value": "config/title/title_new22.png"
+  },
+  {
+    "label": "Danh hiệu mới-23",
+    "value": "config/title/title_new23.png"
+  },
+  {
+    "label": "Danh hiệu mới-24",
+    "value": "config/title/title_new24.png"
+  },
+  {
+    "label": "Danh hiệu mới-25",
+    "value": "config/title/title_new25.png"
+  },
+  {
+    "label": "Danh hiệu mới-26",
+    "value": "config/title/title_new26.png"
+  },
+  {
+    "label": "Danh hiệu mới-27",
+    "value": "config/title/title_new27.png"
+  },
+  {
+    "label": "Danh hiệu mới-28",
+    "value": "config/title/title_new28.png"
+  },
+  {
+    "label": "Danh hiệu mới-29",
+    "value": "config/title/title_new29.png"
+  },
+  {
+    "label": "Danh hiệu mới-30",
+    "value": "config/title/title_new30.png"
+  },
+  {
+    "label": "Danh hiệu mới-31",
+    "value": "config/title/title_new31.png"
+  },
+  {
+    "label": "Danh hiệu mới-32",
+    "value": "config/title/title_new32.png"
+  },
+  {
+    "label": "Danh hiệu mới-33",
+    "value": "config/title/title_new33.png"
+  },
+  {
+    "label": "Danh hiệu mới-34",
+    "value": "config/title/title_new34.png"
+  },
+  {
+    "label": "Danh hiệu mới-35",
+    "value": "config/title/title_new35.png"
+  },
+  {
+    "label": "Danh hiệu mới-36",
+    "value": "config/title/title_new36.png"
+  },
+  {
+    "label": "Danh hiệu mới-37",
+    "value": "config/title/title_new37.png"
+  },
+  {
+    "label": "Danh hiệu mới-38",
+    "value": "config/title/title_new38.png"
+  },
+  {
+    "label": "Danh hiệu mới-39",
+    "value": "config/title/title_new39.png"
+  },
+  {
+    "label": "Danh hiệu mới-40",
+    "value": "config/title/title_new40.png"
+  },
+  {
+    "label": "Danh hiệu mới-41",
+    "value": "config/title/title_new41.png"
+  },
+  {
+    "label": "Danh hiệu mới-42",
+    "value": "config/title/title_new42.png"
+  },
+  {
+    "label": "Danh hiệu mới-43",
+    "value": "config/title/title_new43.png"
+  },
+  {
+    "label": "Danh hiệu mới-44",
+    "value": "config/title/title_new44.png"
+  },
+  {
+    "label": "Danh hiệu mới-45",
+    "value": "config/title/title_new45.png"
+  },
+  {
+    "label": "Danh hiệu mới-46",
+    "value": "config/title/title_new46.png"
+  },
+  {
+    "label": "Danh hiệu mới-47",
+    "value": "config/title/title_new47.png"
+  },
+  {
+    "label": "Danh hiệu mới-48",
+    "value": "config/title/title_new48.png"
+  },
+  {
+    "label": "Danh hiệu mới-49",
+    "value": "config/title/title_new49.png"
+  },
+  {
+    "label": "Danh hiệu mới-50",
+    "value": "config/title/title_new50.png"
+  },
+  {
+    "label": "Danh hiệu mới-51",
+    "value": "config/title/title_new51.png"
+  },
+  {
+    "label": "Danh hiệu mới-52",
+    "value": "config/title/title_new52.png"
+  },
+  {
+    "label": "Danh hiệu mới-53",
+    "value": "config/title/title_new53.png"
+  },
+  {
+    "label": "Danh hiệu mới-54",
+    "value": "config/title/title_new54.png"
+  },
+  {
+    "label": "Danh hiệu mới-55",
+    "value": "config/title/title_new55.png"
+  },
+  {
+    "label": "Danh hiệu mới-56",
+    "value": "config/title/title_new56.png"
+  },
+  {
+    "label": "Danh hiệu mới-57",
+    "value": "config/title/title_new57.png"
+  },
+  {
+    "label": "Danh hiệu mới-58",
+    "value": "config/title/title_new58.png"
+  },
+  {
+    "label": "Danh hiệu mới-59",
+    "value": "config/title/title_new59.png"
+  },
+  {
+    "label": "Danh hiệu mới-60",
+    "value": "config/title/title_new60.png"
+  },
+  {
+    "label": "Danh hiệu mới-61",
+    "value": "config/title/title_new61.png"
+  },
+  {
+    "label": "Danh hiệu mới-62",
+    "value": "config/title/title_new62.png"
+  },
+  {
+    "label": "Danh hiệu mới-63",
+    "value": "config/title/title_new63.png"
+  },
+  {
+    "label": "Danh hiệu mới-64",
+    "value": "config/title/title_new64.png"
+  },
+  {
+    "label": "Danh hiệu mới-65",
+    "value": "config/title/title_new65.png"
+  },
+  {
+    "label": "Danh hiệu mới-66",
+    "value": "config/title/title_new66.png"
+  },
+  {
+    "label": "Danh hiệu mới-67",
+    "value": "config/title/title_new67.png"
+  },
+  {
+    "label": "Danh hiệu mới-68",
+    "value": "config/title/title_new68.png"
+  },
+  {
+    "label": "Danh hiệu mới-69",
+    "value": "config/title/title_new69.png"
+  },
+  {
+    "label": "Danh hiệu mới-70",
+    "value": "config/title/title_new70.png"
+  },
+  {
+    "label": "Đá Lửa",
+    "value": "config/item/icon__jhhzs.png"
+  },
+  {
+    "label": "Đá Nước",
+    "value": "config/item/icon__jhszs.png"
+  },
+  {
+    "label": "Đá Sấm Sét",
+    "value": "config/item/icon__jhlzs.png"
+  },
+  {
+    "label": "Đá Lá",
+    "value": "config/item/icon__jhyzs.png"
+  },
+  {
+    "label": "Đá Mặt Trăng",
+    "value": "config/item/icon__jhyzs1.png"
+  },
+  {
+    "label": "Đá Mặt Trời",
+    "value": "config/item/icon__jhrzs.png"
+  },
+  {
+    "label": "Đá Ánh Sáng",
+    "value": "config/item/icon__jhgzs.png"
+  },
+  {
+    "label": "Đá Bóng Tối",
+    "value": "config/item/icon__jhazs.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh",
+    "value": "config/item/icon__jhjxzs.png"
+  },
+  {
+    "label": "Đá Băng",
+    "value": "config/item/icon__jhbzs.png"
+  },
+  {
+    "label": "Thánh Quang Thạch Tiến Hóa",
+    "value": "config/item/icon__jhybjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Lửa",
+    "value": "config/item/icon__jhhzjhs.png"
+  },
+  {
+    "label": "Đá tiến hóa Huyền Thủy",
+    "value": "config/item/icon__jhszjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Tốc Độ",
+    "value": "config/item/icon__jhczjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Sấm Sét",
+    "value": "config/item/icon__jhdzjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Băng Giá",
+    "value": "config/item/icon__jhbzjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Giác Đấu",
+    "value": "config/item/icon__jhgdjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Kịch Độc",
+    "value": "config/item/icon__jhdzjhs1.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Đất",
+    "value": "config/item/icon__jhdmjhs.png"
+  },
+  {
+    "label": "Đá tiến hóa hệ Bay",
+    "value": "config/item/icon__jhfxjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Siêu Cấp",
+    "value": "config/item/icon__jhcnljhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Kiếm Thuật",
+    "value": "config/item/icon__jhczjhs1.png"
+  },
+  {
+    "label": "Đá tiến hóa",
+    "value": "config/item/icon__jhysjhs.png"
+  },
+  {
+    "label": "Đá tiến hóa vong linh",
+    "value": "config/item/icon__jhyljhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Ma Thần",
+    "value": "config/item/icon__jhlzjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Bóng Tối",
+    "value": "config/item/icon__jhezjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Cơ Khí",
+    "value": "config/item/icon__jhgzjhs.png"
+  },
+  {
+    "label": "Đá Tiến Hóa Nhẫn Thuật",
+    "value": "config/item/icon__jhyjjhs.png"
+  },
+  {
+    "label": "Nguyên Thạch Tiến Hóa Tím",
+    "value": "config/item/cjh/icon_jhs1.png"
+  },
+  {
+    "label": "Khóa Tiến Hóa Vàng",
+    "value": "config/item/cjh/icon_jhs2.png"
+  },
+  {
+    "label": "Tinh Thạch Thức Tỉnh Linh Hồn",
+    "value": "config/item/cjh/icon_jhs3.png"
+  },
+  {
+    "label": "Chìa Khóa Không Hoàn Hảo",
+    "value": "config/item/cjh/icon_cjjhs2.png"
+  },
+  {
+    "label": "Đá tiến hóa kỳ diệu",
+    "value": "config/item/cjh/icon_jhssp_2.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Akame",
+    "value": "config/item/cjh/icon_jhs_ct.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Kakashi",
+    "value": "config/item/cjh/icon_jhs_kkx.png"
+  },
+  {
+    "label": "Đá thức tỉnh Homura Akemi",
+    "value": "config/item/cjh/icon_jhs_xmy.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Tokisaki Kurumi",
+    "value": "config/item/cjh/icon_jhs_ks.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Asuna",
+    "value": "config/item/cjh/icon_jhs_ysn.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Anh Hùng Vương",
+    "value": "config/item/cjh/icon_jhs_yxw.png"
+  },
+  {
+    "label": "Đá Thức Tỉnh Agatsuma Zenitsu",
+    "value": "config/item/cjh/icon_jhs_zns.png"
+  },
+  {
+    "label": "Cuộn giấy triệu hồi",
+    "value": "config/item/icon_tbq1.png"
+  },
+  {
+    "label": "Mảnh vỡ Long Toad1",
+    "value": "config/item/icon_txncl1.png"
+  },
+  {
+    "label": "Mảnh vỡ Long Cóc2",
+    "value": "config/item/icon_txncl2.png"
+  },
+  {
+    "label": "Mảnh Vỡ Long Toad3",
+    "value": "config/item/icon_txncl3.png"
+  },
+  {
+    "label": "Mảnh Ếch ộp1",
+    "value": "config/item/icon_djcl1.png"
+  },
+  {
+    "label": "Mảnh Ếch Xanh2",
+    "value": "config/item/icon_djcl2.png"
+  },
+  {
+    "label": "Mảnh vỡ Gamabunta3",
+    "value": "config/item/icon_djcl3.png"
+  },
+  {
+    "label": "Mảnh Nhẫn Quy1",
+    "value": "config/item/icon_nywcl1.png"
+  },
+  {
+    "label": "Mảnh Nhẫn Quy2",
+    "value": "config/item/icon_nywcl2.png"
+  },
+  {
+    "label": "Mảnh Nhẫn Quy3",
+    "value": "config/item/icon_nywcl3.png"
+  },
+  {
+    "label": "Cần loại bỏ thiết bị dò thời tiết",
+    "value": "config/item/icon_nywcl4.png"
+  },
+  {
+    "label": "Mảnh Vỡ Kamarot1",
+    "value": "config/item/icon_hlkls1.png"
+  },
+  {
+    "label": "Mảnh vỡ Kamtori2",
+    "value": "config/item/icon_hlkls2.png"
+  },
+  {
+    "label": "Mảnh vỡ Kamtori3",
+    "value": "config/item/icon_hlkls3.png"
+  },
+  {
+    "label": "Lốp gai đinh -- Chờ tháo",
+    "value": "config/item/icon_hlkls4.png"
+  },
+  {
+    "label": "Mảnh vỡ Parker1",
+    "value": "config/item/icon_ldds3.png"
+  },
+  {
+    "label": "Mảnh vỡ của Parker2",
+    "value": "config/item/icon_ldds4.png"
+  },
+  {
+    "label": "Mảnh vỡ Parker3",
+    "value": "config/item/icon_ldds5.png"
+  },
+  {
+    "label": "Thân máy lăn--Chờ tháo",
+    "value": "config/item/icon_ldds1.png"
+  },
+  {
+    "label": "Đường ray thẳng đứng -- Chờ loại bỏ",
+    "value": "config/item/icon_ldds2.png"
+  },
+  {
+    "label": "Mảnh Vụn Bunta1",
+    "value": "config/item/icon_dd1.png"
+  },
+  {
+    "label": "Mảnh Vỡ của Bunta2",
+    "value": "config/item/icon_dd2.png"
+  },
+  {
+    "label": "Mảnh vỡ Bunta3",
+    "value": "config/item/icon_dd3.png"
+  },
+  {
+    "label": "Mảnh vỡ Bunta4",
+    "value": "config/item/icon_dd4.png"
+  },
+  {
+    "label": "Chèo bằng máy -- Chờ gỡ bỏ",
+    "value": "config/item/icon_dd5.png"
+  },
+  {
+    "label": "Mảnh Vạn Xà1",
+    "value": "config/item/icon_wxwcl1.png"
+  },
+  {
+    "label": "Mảnh vỡ Vạn Xà2",
+    "value": "config/item/icon_wxwcl2.png"
+  },
+  {
+    "label": "Mảnh Vạn Xà3",
+    "value": "config/item/icon_wxwcl3.png"
+  },
+  {
+    "label": "Mảnh Vạn Xà4",
+    "value": "config/item/icon_wxwcl4.png"
+  },
+  {
+    "label": "Đầu nối cơ khí--Chờ tháo",
+    "value": "config/item/icon_wxwcl5.png"
+  },
+  {
+    "label": "Nhất Vĩ - Thủ Hạc Mảnh1",
+    "value": "config/item/icon_gok1.png"
+  },
+  {
+    "label": "Mảnh Vỡ Shukaku Một Đuôi2",
+    "value": "config/item/icon_gok2.png"
+  },
+  {
+    "label": "Nhất Vĩ - Shukaku Mảnh3",
+    "value": "config/item/icon_gok3.png"
+  },
+  {
+    "label": "Mảnh Vĩ thú Nhất Vĩ Shukaku4",
+    "value": "config/item/icon_gok4.png"
+  },
+  {
+    "label": "Mảnh Vỡ Shukaku Một Đuôi5",
+    "value": "config/item/icon_gok5.png"
+  },
+  {
+    "label": "Bộ phát tín hiệu--Đang chờ gỡ bỏ",
+    "value": "config/item/icon_gok6.png"
+  },
+  {
+    "label": "Buồng lái hợp kim--Chờ tháo dỡ",
+    "value": "config/item/icon_bekne1.png"
+  },
+  {
+    "label": "Nhị Vĩ-Mèo Gấm Mảnh1",
+    "value": "config/item/icon_bekne2.png"
+  },
+  {
+    "label": "Nhị Vĩ - Mèo Nguồn Mảnh2",
+    "value": "config/item/icon_bekne3.png"
+  },
+  {
+    "label": "Nhị Vĩ - Vĩ Miêu Mảnh3",
+    "value": "config/item/icon_bekne4.png"
+  },
+  {
+    "label": "Nhị Vĩ - Vĩ Miêu Mảnh4",
+    "value": "config/item/icon_bekne5.png"
+  },
+  {
+    "label": "Mảnh Vĩ Nhị - Linh Miêu5",
+    "value": "config/item/icon_bekne6.png"
+  },
+  {
+    "label": "Tinh Thạch Đột Phá",
+    "value": "config/item/icon_zsxxqh.png"
+  },
+  {
+    "label": "Ngọc Bích Sinh Mệnh Lam",
+    "value": "config/item/icon_hp_green_1.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Chàm Bậc 1",
+    "value": "config/item/icon_atk_green_1.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Lam Chàm Cấp 1",
+    "value": "config/item/icon_def_green_1.png"
+  },
+  {
+    "label": "Nhị Giai - Bảo Thạch Sinh Mệnh Lam Tím",
+    "value": "config/item/icon_hp_green_2.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Tím Cấp 2",
+    "value": "config/item/icon_atk_green_2.png"
+  },
+  {
+    "label": "Ngọc Bích Lam Phòng Thủ Cấp 2",
+    "value": "config/item/icon_def_green_2.png"
+  },
+  {
+    "label": "Cấp 3-Đá quý cuộc sống màu chàm",
+    "value": "config/item/icon_hp_blue_1.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Chàm Cấp 3",
+    "value": "config/item/icon_atk_blue_1.png"
+  },
+  {
+    "label": "Cấp 3-Đá quý Phòng thủ Chàm",
+    "value": "config/item/icon_def_blue_1.png"
+  },
+  {
+    "label": "Bảo Thạch Sinh Mệnh Lam Chàm Cấp Bốn",
+    "value": "config/item/icon_hp_blue_2.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Chàm Cấp 4",
+    "value": "config/item/icon_atk_blue_2.png"
+  },
+  {
+    "label": "Cấp 4-Đá quý Phòng thủ Chàm",
+    "value": "config/item/icon_def_blue_2.png"
+  },
+  {
+    "label": "Ngọc Sinh Mệnh Lam Quang cấp 5",
+    "value": "config/item/icon_hp_purple_1.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Quang Cấp 5",
+    "value": "config/item/icon_atk_purple_1.png"
+  },
+  {
+    "label": "Ngọc Lam Phòng Thủ cấp 5",
+    "value": "config/item/icon_def_purple_1.png"
+  },
+  {
+    "label": "Lục giai - Bích Tử Sinh Mệnh Bảo Thạch",
+    "value": "config/item/icon_hp_purple_2.png"
+  },
+  {
+    "label": "Cấp 6 - Đá quý tấn công Azure",
+    "value": "config/item/icon_atk_purple_2.png"
+  },
+  {
+    "label": "Lục giai - Bích Tử Bảo Thạch Phòng Ngự",
+    "value": "config/item/icon_def_purple_2.png"
+  },
+  {
+    "label": "Bảo Thạch Sinh Mệnh Màu Tím Sẫm Bậc Bảy",
+    "value": "config/item/icon_hp_purple_3.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Lam Tím Bậc 7",
+    "value": "config/item/icon_atk_purple_3.png"
+  },
+  {
+    "label": "Cấp 7 -Đá quý phòng thủ Dai Zi",
+    "value": "config/item/icon_def_purple_3.png"
+  },
+  {
+    "label": "Bát giai - Bảo thạch sinh mệnh cam nở rộ",
+    "value": "config/item/icon_hp_orange_1.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Bậc 8 - Cam Rực Rỡ",
+    "value": "config/item/icon_atk_orange_1.png"
+  },
+  {
+    "label": "Bát giai - Bảo thạch phòng ngự cam nở rộ",
+    "value": "config/item/icon_def_orange_1.png"
+  },
+  {
+    "label": "Cửu giai - Bảo thạch sinh mệnh cam khoáng",
+    "value": "config/item/icon_hp_orange_2.png"
+  },
+  {
+    "label": "Cấp 9 - Đá quý tấn công Cheng Kuang",
+    "value": "config/item/icon_atk_orange_2.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Cam Khoáng Cấp Chín",
+    "value": "config/item/icon_def_orange_2.png"
+  },
+  {
+    "label": "Thập giai - Bảo Thạch Quang Diệu Sinh Mệnh",
+    "value": "config/item/icon_hp_orange_3.png"
+  },
+  {
+    "label": "Ngọc Ánh Sáng Tấn Công Bậc 10",
+    "value": "config/item/icon_atk_orange_3.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Quang Diệu Cấp 10",
+    "value": "config/item/icon_def_orange_3.png"
+  },
+  {
+    "label": "Bảo Thạch Sinh Mệnh Ánh Nhật Cấp Mười Một",
+    "value": "config/item/icon_hp_orange_4.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Ánh Sáng Cấp 11",
+    "value": "config/item/icon_atk_orange_4.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Ánh Sáng Cấp 11",
+    "value": "config/item/icon_def_orange_4.png"
+  },
+  {
+    "label": "Bảo Thạch Tâm Kim Sinh Mệnh Cấp Mười Hai",
+    "value": "config/item/icon_hp_yellow_1.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Tâm Kim Bậc 12",
+    "value": "config/item/icon_atk_yellow_1.png"
+  },
+  {
+    "label": "Cấp 12-Đá quý phòng thủ vàng trái tim",
+    "value": "config/item/icon_def_yellow_1.png"
+  },
+  {
+    "label": "Thập Tam Giai - Bảo Thạch Kim Cương Sinh Mệnh",
+    "value": "config/item/icon_hp_yellow_2.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Kim Cương Bậc 13",
+    "value": "config/item/icon_atk_yellow_2.png"
+  },
+  {
+    "label": "Đá Phòng Thủ Kim Cương Bậc 13",
+    "value": "config/item/icon_def_yellow_2.png"
+  },
+  {
+    "label": "Bảo Thạch Sinh Mệnh Chu Y Cấp Mười Bốn",
+    "value": "config/item/icon_hp_yellow_3.png"
+  },
+  {
+    "label": "Ngọc công kích Chu Y cấp 14",
+    "value": "config/item/icon_atk_yellow_3.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Chu Y Cấp 14",
+    "value": "config/item/icon_def_yellow_3.png"
+  },
+  {
+    "label": "Ngọc Sinh Mệnh Đỏ Thẫm Bậc 15",
+    "value": "config/item/icon_hp_yellow_4.png"
+  },
+  {
+    "label": "Ngọc Tấn Công Đỏ Thẫm Bậc 15",
+    "value": "config/item/icon_atk_yellow_4.png"
+  },
+  {
+    "label": "Ngọc Phòng Thủ Đỏ Thẫm Bậc 15",
+    "value": "config/item/icon_def_yellow_4.png"
+  },
+  {
+    "label": "Thạch anh nguyên sinh Xích Diệm Thảo",
+    "value": "config/item/icon_hp_yellow_5.png"
+  },
+  {
+    "label": "Thạch anh hỏa nguyên Xích Viêm",
+    "value": "config/item/icon_atk_yellow_5.png"
+  },
+  {
+    "label": "Silic đioxit nguyên tố nước ngọn lửa đỏ",
+    "value": "config/item/icon_def_yellow_5.png"
+  },
+  {
+    "label": "Titanit cỏ đỏ thẫm",
+    "value": "config/item/icon_hp_yellow_6.png"
+  },
+  {
+    "label": "Titanit đỏ cam",
+    "value": "config/item/icon_atk_yellow_6.png"
+  },
+  {
+    "label": "Sphene Titanit Đỏ Thẫm Nước",
+    "value": "config/item/icon_def_yellow_6.png"
+  },
+  {
+    "label": "Huỳnh thạch thảo dược Xích Diệu",
+    "value": "config/item/icon_hp_red_1.png"
+  },
+  {
+    "label": "Huỳnh thạch Hỏa Nguyên Thứ Ba",
+    "value": "config/item/icon_atk_red_1.png"
+  },
+  {
+    "label": "Thạch Anh Tinh Thể Thủy Nguyên Đỏ",
+    "value": "config/item/icon_def_red_1.png"
+  },
+  {
+    "label": "Kim cương cỏ hồng mai",
+    "value": "config/item/icon_hp_red_2.png"
+  },
+  {
+    "label": "Hồng Fuchsia Lửa Kim Cương",
+    "value": "config/item/icon_atk_red_2.png"
+  },
+  {
+    "label": "Kim cương nước hoa hồng đỏ",
+    "value": "config/item/icon_def_red_2.png"
+  },
+  {
+    "label": "Nguyên Tinh Thạch Hoa Hồng Nở Rộ",
+    "value": "config/item/icon_hp_red_3.png"
+  },
+  {
+    "label": "Tinh thể hỏa nguyên tố tường vi nở rộ",
+    "value": "config/item/icon_atk_red_3.png"
+  },
+  {
+    "label": "Tinh thể Thủy Nguyên Hoa Hồng Nở Rộ",
+    "value": "config/item/icon_def_red_3.png"
+  },
+  {
+    "label": "Thạch Titan Yao Mei Cao",
+    "value": "config/item/icon_hp_red_4.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Lửa Chói Lọi",
+    "value": "config/item/icon_atk_red_4.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Nước Chói Lọi",
+    "value": "config/item/icon_def_red_4.png"
+  },
+  {
+    "label": "Ngọc bích silic bán quý hoa hồng rực rỡ",
+    "value": "config/item/icon_hp_red_5.png"
+  },
+  {
+    "label": "Đá silic lửa hoa hồng rực rỡ",
+    "value": "config/item/icon_atk_red_5.png"
+  },
+  {
+    "label": "Thạch anh silic nước hoa hồng rực rỡ",
+    "value": "config/item/icon_def_red_5.png"
+  },
+  {
+    "label": "Sphene Titanit của Ân Môi Thảo",
+    "value": "config/item/icon_hp_red_6.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Lửa U Ám",
+    "value": "config/item/icon_atk_red_6.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Nước U Ám",
+    "value": "config/item/icon_def_red_6.png"
+  },
+  {
+    "label": "Thạch anh hồng ánh vàng đồng",
+    "value": "config/item/icon_hp_red_6.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Lửa Vàng Hồng",
+    "value": "config/item/icon_atk_red_6.png"
+  },
+  {
+    "label": "Đá Nguyên Tố Nước Vàng Hồng",
+    "value": "config/item/icon_def_red_6.png"
+  },
+  {
+    "label": "Mảnh Vỡ Isobu Ba Đuôi1",
+    "value": "config/item/icon_szbf1.png"
+  },
+  {
+    "label": "Mảnh Vỡ Isobu Ba Đuôi2",
+    "value": "config/item/icon_szbf2.png"
+  },
+  {
+    "label": "Mảnh vỡ Tam Vĩ Isobu3",
+    "value": "config/item/icon_szbf3.png"
+  },
+  {
+    "label": "Mảnh vỡ Isobu Ba Đuôi4",
+    "value": "config/item/icon_szbf4.png"
+  },
+  {
+    "label": "Mảnh Vỡ Isobu Ba Đuôi5",
+    "value": "config/item/icon_szbf5.png"
+  },
+  {
+    "label": "Mảnh vỡ Ngoại Đạo Ma Tượng1",
+    "value": "config/item/icon_xls1.png"
+  },
+  {
+    "label": "Mảnh vỡ Ngoại Đạo Ma Tượng2",
+    "value": "config/item/icon_xls2.png"
+  },
+  {
+    "label": "Mảnh Vỡ Ngoại Đạo Ma Tượng3",
+    "value": "config/item/icon_xls3.png"
+  },
+  {
+    "label": "Mảnh vỡ Ngoại Đạo Ma Tượng4",
+    "value": "config/item/icon_xls4.png"
+  },
+  {
+    "label": "Mảnh Vỡ Ngoại Đạo Ma Tượng5",
+    "value": "config/item/icon_xls5.png"
+  },
+  {
+    "label": "Mảnh vỡ Yamata no Orochi1",
+    "value": "config/item/icon_ycj1.png"
+  },
+  {
+    "label": "Mảnh vỡ Yamata no Orochi2",
+    "value": "config/item/icon_ycj2.png"
+  },
+  {
+    "label": "Mảnh vỡ Yamata no Orochi3",
+    "value": "config/item/icon_ycj3.png"
+  },
+  {
+    "label": "Mảnh Bát Kỳ Đại Xà4",
+    "value": "config/item/icon_ycj4.png"
+  },
+  {
+    "label": "Mảnh Bát Kỳ Đại Xà5",
+    "value": "config/item/icon_ycj5.png"
+  },
+  {
+    "label": "Rương chiến bang",
+    "value": "config/item/box/icon_fslh_2_4.png"
+  },
+  {
+    "label": "Rương Vinh Quang Chiến Bang",
+    "value": "config/item/box/icon_fslh_2_5.png"
+  },
+  {
+    "label": "Rương chiến bang",
+    "value": "config/item/box/icon_fslh_2_4.png"
+  },
+  {
+    "label": "Rương Vinh Quang Chiến Bang",
+    "value": "config/item/box/icon_fslh_2_5.png"
+  },
+  {
+    "label": "Tinh Thạch Tiến Cấp Sơ Cấp Guild Chiến",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Tinh thể tiến cấp cùng cấp độ chiến bang",
+    "value": "ICON/item/jshz.png"
+  },
+  {
+    "label": "Hộp quà tím Guild chiến",
+    "value": "ICON/item/lwxz3.png"
+  },
+  {
+    "label": "Rương Mảnh Anh Hùng A Chiến Bang",
+    "value": "ICON/item/bx2_3.png"
+  },
+  {
+    "label": "Rương Mảnh Anh Hùng S Guild Chiến",
+    "value": "ICON/item/bx2_4.png"
+  },
+  {
+    "label": "Hộp quà xanh chiến bang",
+    "value": "ICON/item/lwxz1.png"
+  },
+  {
+    "label": "Hộp quà màu xanh Guild chiến",
+    "value": "ICON/item/lwxz2.png"
+  },
+  {
+    "label": "Đại Hội Võ Thuật Rương Vàng",
+    "value": "config/item/icon_box_vs2.png"
+  },
+  {
+    "label": "Hộp bạc giải đấu võ thuật",
+    "value": "config/item/icon_box_vs1.png"
+  },
+  {
+    "label": "Đại Hội Võ Thuật Rương Vàng",
+    "value": "config/item/icon_box_vs2.png"
+  },
+  {
+    "label": "Hộp bạc giải đấu võ thuật",
+    "value": "config/item/icon_box_vs1.png"
+  },
+  {
+    "label": "Đại Hội Võ Thuật Rương Vàng",
+    "value": "config/item/icon_box_vs2.png"
+  },
+  {
+    "label": "Hộp bạc giải đấu võ thuật",
+    "value": "config/item/icon_box_vs1.png"
+  },
+  {
+    "label": "Rương Báu Khắc Ấn Vàng Võ Đạo",
+    "value": "config/item/icon_box_vs2.png"
+  },
+  {
+    "label": "Rương Khắc Ấn Bạc Võ Đạo",
+    "value": "config/item/icon_box_vs1.png"
+  },
+  {
+    "label": "Tài nguyên khắc ấn võ đạo - Vàng",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Tài nguyên khắc ấn võ đạo - Bạc",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Rương Vàng Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Rương Bạc Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Rương Vàng Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Rương Bạc Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Rương Vàng Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Rương Bạc Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Rương Vàng Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Rương Bạc Võ Đạo Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Tinh Thạch Đồng Cấp Rương Vàng Vua Liên Server",
+    "value": "config/item/icon_lmdh1.png"
+  },
+  {
+    "label": "Tinh Thạch Đồng Cấp Rương Bạc Vua Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Quà Rương Vàng Vua Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Quà Rương Bạc Vua Liên Server",
+    "value": "config/item/icon_lmdh2.png"
+  },
+  {
+    "label": "Hộp ngẫu nhiên thức tỉnh trang sức",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp Chọn Thức Tỉnh Bùa Hộ Mệnh",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp Chọn Bông Tai Thức Tỉnh",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp Chọn Nhẫn Thức Tỉnh",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp Chọn Tỉnh Thức Dây Chuyền",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp ngẫu nhiên bùa hộ mệnh",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp ngẫu nhiên bông tai",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp ngẫu nhiên nhẫn",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp bí mật vòng cổ",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Hộp Chọn Trang Sức Thức Tỉnh",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Tinh chất hộ mệnh",
+    "value": "config/item/qingming/icon_spjy1.png"
+  },
+  {
+    "label": "Tinh chất hoa tai",
+    "value": "config/item/qingming/icon_spjy2.png"
+  },
+  {
+    "label": "Tinh chất nhẫn",
+    "value": "config/item/qingming/icon_spjy4.png"
+  },
+  {
+    "label": "Tinh chất vòng cổ",
+    "value": "config/item/qingming/icon_spjy3.png"
+  },
+  {
+    "label": "Lõi Siêu Việt",
+    "value": "config/item/qingming/icon_dhdj2.png"
+  },
+  {
+    "label": "Mảnh Đạo Cụ Hiếm",
+    "value": "config/item/qingming/icon_dhdj2.png"
+  },
+  {
+    "label": "Rương Văn Thái",
+    "value": "config/item/box/box_7_2.png"
+  },
+  {
+    "label": "Rương Nhất Vĩ Shukaku",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Hai cái đuôi-Hộp kho báu Meerkat",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Kiếm Khách SS Chọn Rương",
+    "value": "config/item/box/box_15_4@.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương lựa chọn mảnh Kiếm Khách SS",
+    "value": "config/item/box/box_15_4@.png"
+  },
+  {
+    "label": "Rương Chọn Token Triệu Hồi",
+    "value": "config/item/box/box_14_1.png"
+  },
+  {
+    "label": "tiền vàng",
+    "value": "config/item/icon_jbd.png"
+  },
+  {
+    "label": "Rương Báu Sanbi Isobu",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Ma Tượng Ngoại Đạo",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Bát Kỳ Đại Xà",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Hộp Chọn Thú Triệu Hồi Vàng",
+    "value": "config/item/box/box_23_1.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói quà chọn một trong hai anh hùng",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4.png"
+  },
+  {
+    "label": "Rương Mảnh Liên Minh Công Lý",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Rương Ba Chú Lính Ngự Lâm",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Hòm Đồ Liên Minh Công Lý",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Rương Chọn Anh Hùng S",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng S",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng S",
+    "value": "config/item/box/box_15_3@.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S1",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S2",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S3",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S4",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S5",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S6",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S7",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S8",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Mảnh Thông Hành S9",
+    "value": "config/item/box/box_7_3.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Vàng Giới Hạn",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Vàng Giới Hạn",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Vàng Giới Hạn",
+    "value": "config/item/box/box_40_3.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Đỏ Giới Hạn",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Đỏ Giới Hạn",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Rương Tự Chọn Chiến Văn Đỏ Giới Hạn",
+    "value": "config/item/box/box_40_4.png"
+  },
+  {
+    "label": "Phiếu Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_dui_1.png"
+  },
+  {
+    "label": "Phiếu Mua Sắm Màu Tím",
+    "value": "config/item/icon_dui_2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/box/box_2_2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/box/box_2_3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Kẹo Giáng Sinh",
+    "value": "config/item/daibi/icon_sd_gzt.png"
+  },
+  {
+    "label": "Bánh Gừng Giáng Sinh",
+    "value": "config/item/daibi/icon_sd_jbr.png"
+  },
+  {
+    "label": "Chuông Giáng Sinh",
+    "value": "config/item/daibi/icon_sd_ld.png"
+  },
+  {
+    "label": "Gói Quà Giáng Sinh Màu Xanh Dương",
+    "value": "config/item/icon_sdlh1.png"
+  },
+  {
+    "label": "Gói Quà Giáng Sinh Màu Tím",
+    "value": "config/item/icon_sdlh1.png"
+  },
+  {
+    "label": "Gói Quà Giáng Sinh Màu Vàng",
+    "value": "config/item/icon_sdlh2.png"
+  },
+  {
+    "label": "Tất Giáng Sinh",
+    "value": "config/item/icon_sdw.png"
+  },
+  {
+    "label": "Gói Đạo Cụ Mở Trực Tiếp",
+    "value": "config/item/icon_sdw.png"
+  },
+  {
+    "label": "Xu Quay Trứng",
+    "value": "config/item/icon_ndb.png"
+  },
+  {
+    "label": "Điểm Quay Trứng",
+    "value": "config/item/icon_ndjf.png"
+  },
+  {
+    "label": "Bánh Trôi Nguyên Tiêu",
+    "value": "config/item/daibi/icon_yx_ty.png"
+  },
+  {
+    "label": "Hộp quà Thất Tịch",
+    "value": "config/item/icon_mgh.png"
+  },
+  {
+    "label": "Gà Tây Lễ Tạ Ơn",
+    "value": "config/item/icon_hj.png"
+  },
+  {
+    "label": "Bông Tuyết Đầu Mùa",
+    "value": "config/item/icon_snow1.png"
+  },
+  {
+    "label": "Tất Giáng Sinh",
+    "value": "config/item/icon_sdw.png"
+  },
+  {
+    "label": "Gói Quà Bông Tuyết Màu Xanh Dương",
+    "value": "config/item/icon_sdlh1.png"
+  },
+  {
+    "label": "Gói Quà Bông Tuyết Màu Tím",
+    "value": "config/item/icon_sdlh1.png"
+  },
+  {
+    "label": "Gói Quà Bông Tuyết Màu Vàng",
+    "value": "config/item/icon_sdlh2.png"
+  },
+  {
+    "label": "Rương Siêu Tài Nguyên",
+    "value": "config/item/icon_mgh1.png"
+  },
+  {
+    "label": "Gói Quà Năm Mới",
+    "value": "config/item/icon_cjbox.png"
+  },
+  {
+    "label": "Hộp quà Tết Nguyên Đán",
+    "value": "config/item/51/icon_ldzgr.png"
+  },
+  {
+    "label": "Hộp Quà Mùa Hè",
+    "value": "config/item/icon_sqqtl_2.png"
+  },
+  {
+    "label": "Hộp Quà Cuồng Hoan",
+    "value": "config/item/icon_khsd.png"
+  },
+  {
+    "label": "Hộp Quà Tết Nguyên Đán",
+    "value": "config/item/icon_sd_3.png"
+  },
+  {
+    "label": "Đèn Hoa Nguyên Tiêu",
+    "value": "config/item/daibi/icon_yx_hd.png"
+  },
+  {
+    "label": "Đầu Lân Múa Lân",
+    "value": "config/item/daibi/icon_szt.png"
+  },
+  {
+    "label": "Bánh Trôi Nguyên Tiêu",
+    "value": "config/item/daibi/icon_yx_ty.png"
+  },
+  {
+    "label": "Hộp Quà Kỷ Niệm 1 Năm",
+    "value": "config/item/icon_jnh_znqbox1.png"
+  },
+  {
+    "label": "Ngải Cứu",
+    "value": "config/item/qingming/icon_qm1.png"
+  },
+  {
+    "label": "Bánh Thanh Đoàn Ngon Lành",
+    "value": "config/item/qingming/icon_qm2.png"
+  },
+  {
+    "label": "Hộp Cỏ Liễu",
+    "value": "config/item/qingming/icon_qmlh2.png"
+  },
+  {
+    "label": "Hộp Quà Dã Ngoại",
+    "value": "config/item/qingming/icon_qmlh1.png"
+  },
+  {
+    "label": "Bia Thủ Công Nguyên Chất",
+    "value": "config/item/51/icon_pj.png"
+  },
+  {
+    "label": "Ngôi Sao Nhỏ",
+    "value": "config/item/51/icon_laodongzhixing.png"
+  },
+  {
+    "label": "Hộp Quà Lao Động",
+    "value": "config/item/51/icon_51lb1.png"
+  },
+  {
+    "label": "Hộp Quà Bất Ngờ",
+    "value": "config/item/51/icon_51lb2.png"
+  },
+  {
+    "label": "Máy Bay Giấy",
+    "value": "config/item/icon_etj_zfj.png"
+  },
+  {
+    "label": "Bóng Bay Gấu Nhỏ",
+    "value": "config/item/icon_etj_qq.png"
+  },
+  {
+    "label": "Hộp Quà Tuổi Thơ",
+    "value": "config/item/box/box_14_1.png"
+  },
+  {
+    "label": "Bào Ngư",
+    "value": "config/item/zongzi/icon_baoyu.png"
+  },
+  {
+    "label": "Thịt Tươi",
+    "value": "config/item/zongzi/icon_xianzhurou.png"
+  },
+  {
+    "label": "Táo Mật",
+    "value": "config/item/zongzi/icon_dazao.png"
+  },
+  {
+    "label": "Hoa Quế",
+    "value": "config/item/zongzi/icon_guihua.png"
+  },
+  {
+    "label": "Trứng Muối",
+    "value": "config/item/zongzi/icon_xiandanhuang.png"
+  },
+  {
+    "label": "Hạt Dẻ",
+    "value": "config/item/zongzi/icon_lizi.png"
+  },
+  {
+    "label": "Bánh ú Bào Ngư Thuyền Rồng",
+    "value": "config/item/zongzi/icon_bylzz.png"
+  },
+  {
+    "label": "Bánh ú Đôi Mới Lạ",
+    "value": "config/item/zongzi/icon_xsspz.png"
+  },
+  {
+    "label": "Bánh ú Nhân Thịt Tươi Kim Sa",
+    "value": "config/item/zongzi/icon_jsxrz.png"
+  },
+  {
+    "label": "Bánh ú Đại Nhân Hạt Dẻ",
+    "value": "config/item/zongzi/icon_bldrz.png"
+  },
+  {
+    "label": "Bánh ú Táo Mật Hạt Dẻ",
+    "value": "config/item/zongzi/icon_hlmzz.png"
+  },
+  {
+    "label": "Bánh ú Táo Mật Hoa Quế",
+    "value": "config/item/zongzi/icon_dgmzz.png"
+  },
+  {
+    "label": "Hộp Quà Nguyên Liệu Bánh ú",
+    "value": "config/item/zongzi/icon_dwlh.png"
+  },
+  {
+    "label": "Kim cương bánh ú",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Thể Lực Bánh ú",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Đồng tiền vàng bánh ú",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Vũ",
+    "value": "config/item/icon_txt_d.png"
+  },
+  {
+    "label": "Trụ",
+    "value": "config/item/icon_txt_h.png"
+  },
+  {
+    "label": "Man",
+    "value": "config/item/icon_txt_k.png"
+  },
+  {
+    "label": "Ga",
+    "value": "config/item/icon_txt_s.png"
+  },
+  {
+    "label": "Phong bao lì xì kim cương lễ hội cuồng nhiệt",
+    "value": "config/item/icon_hb1.png"
+  },
+  {
+    "label": "Phong bao lì xì vàng lễ hội cuồng nhiệt",
+    "value": "config/item/icon_hb2.png"
+  },
+  {
+    "label": "Hồng Bao Đạo Cụ Đại Lễ Hội Cuồng Hoan",
+    "value": "config/item/icon_hb3.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Đại Lễ Hội Cuồng Hoan",
+    "value": "config/item/event/icon_gqlb2.png"
+  },
+  {
+    "label": "Bánh Trung Thu",
+    "value": "config/item/event/icon_wryb.png"
+  },
+  {
+    "label": "Phong bao lì xì kim cương ngẫu nhiên",
+    "value": "config/item/icon_tjhb_3.png"
+  },
+  {
+    "label": "Phong bao lì xì vàng ngẫu nhiên",
+    "value": "config/item/icon_tjhb_2.png"
+  },
+  {
+    "label": "Hồng Bao Đạo Cụ Ngẫu Nhiên",
+    "value": "config/item/icon_tjhb_1.png"
+  },
+  {
+    "label": "Túi phúc Nguyên Đán",
+    "value": "config/item/icon_yuandanfudai.png"
+  },
+  {
+    "label": "Mũ Phù Thủy Halloween",
+    "value": "config/item/event/icon_wsm.png"
+  },
+  {
+    "label": "Bí Ngô Halloween",
+    "value": "config/item/event/icon_ng.png"
+  },
+  {
+    "label": "Hộp quà đồng xu vàng Halloween",
+    "value": "config/item/event/icon_y_ws.png"
+  },
+  {
+    "label": "Hộp quà kim cương Halloween",
+    "value": "config/item/event/icon_p_ws2.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy2.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy3.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy4.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy.png"
+  },
+  {
+    "label": "Kẹo Halloween",
+    "value": "config/item/event/icon_candy2.png"
+  },
+  {
+    "label": "Hộp Ngẫu Nhiên Mảnh Hệ Ma Quỷ",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Hộp Ngẫu Nhiên Tiền Tệ",
+    "value": "ICON/item/ghbx4.png"
+  },
+  {
+    "label": "Phiếu Quà Tặng Kỷ Niệm",
+    "value": "config/item/event/icon_lq.png"
+  },
+  {
+    "label": "Token Lễ Hội Mùa Hè",
+    "value": "config/item/event/icon_xrb.png"
+  },
+  {
+    "label": "Bánh Trung Thu Hình Hoa",
+    "value": "config/item/event/icon_yb_1.png"
+  },
+  {
+    "label": "Bánh Trung Thu Da Tuyết",
+    "value": "config/item/event/icon_yb_2.png"
+  },
+  {
+    "label": "Bánh Trứng Muối Tan Chảy",
+    "value": "config/item/icon_yb_3.png"
+  },
+  {
+    "label": "Hồng Bao Đạo Cụ Ngẫu Nhiên",
+    "value": "config/item/icon_tjhb_1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Xanh Dương",
+    "value": "config/item/icon_box1.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Tím",
+    "value": "config/item/icon_box2.png"
+  },
+  {
+    "label": "Gói Quà Mua Sắm Màu Vàng",
+    "value": "config/item/icon_box3.png"
+  },
+  {
+    "label": "Chương 1 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 2 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 3 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 4 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 5 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 6 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 7 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 8 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 9 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 10 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 11 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 12 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 13 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 14 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 15 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 16 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 17 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 18 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 19 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 20 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 21 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 22 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 23 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 24 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 25 Ải Ác Mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Chương 26: Cửa ải ác mộng",
+    "value": "config/item/icon_tdpyj.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_1_4.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói quà chọn 1 trong 2 anh hùng SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Gói Quà Tự Chọn Mảnh SS",
+    "value": "config/item/box/box_20_4@.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/icon_boxh_4.png"
+  },
+  {
+    "label": "Cần Câu Cơ Bản",
+    "value": "config/item/fishing/icon_rod.png"
+  },
+  {
+    "label": "Cần Câu Sơ Cấp",
+    "value": "config/item/fishing/icon_rod_1.png"
+  },
+  {
+    "label": "Cần Câu Trung Cấp",
+    "value": "config/item/fishing/icon_rod_2.png"
+  },
+  {
+    "label": "Cần Câu Cao Cấp",
+    "value": "config/item/fishing/icon_rod_3.png"
+  },
+  {
+    "label": "Cần Câu Đặc Cấp",
+    "value": "config/item/fishing/icon_rod_4.png"
+  },
+  {
+    "label": "Cần Câu Nhanh Nhẹn",
+    "value": "config/item/fishing/icon_rod_5.png"
+  },
+  {
+    "label": "Cần Câu Tinh Luyện",
+    "value": "config/item/fishing/icon_rod_6.png"
+  },
+  {
+    "label": "Cần Câu Quyến Rũ",
+    "value": "config/item/fishing/icon_rod_7.png"
+  },
+  {
+    "label": "Cần Câu Thư Giãn",
+    "value": "config/item/fishing/icon_rod_8.png"
+  },
+  {
+    "label": "Cần Câu Thử Nghiệm 10",
+    "value": "config/item/fishing/icon_rod_9.png"
+  },
+  {
+    "label": "Giun Đỏ",
+    "value": "config/item/fishing/icon_bait_qy.png"
+  },
+  {
+    "label": "Cá Chạch Ngon",
+    "value": "config/item/fishing/icon_bait_nq.png"
+  },
+  {
+    "label": "Mồi Cá Vàng",
+    "value": "config/item/fishing/icon_bait_jjy.png"
+  },
+  {
+    "label": "Mồi Cá Ngựa Đen",
+    "value": "config/item/fishing/icon_bait_mhm.png"
+  },
+  {
+    "label": "Mồi Cá Rồng Mini",
+    "value": "config/item/fishing/icon_bait_mnl.png"
+  },
+  {
+    "label": "Mồi Phát Sáng",
+    "value": "config/item/fishing/icon_bait_fgye.png"
+  },
+  {
+    "label": "Mồi Câu Sơ Cấp Dành Riêng Cho Giải Đấu",
+    "value": "config/item/fishing/icon_bait_2.png"
+  },
+  {
+    "label": "Mồi Câu Cao Cấp Dành Riêng Cho Giải Đấu",
+    "value": "config/item/fishing/icon_bait_1.png"
+  },
+  {
+    "label": "Rương Bí Mật Xanh Lục Ngẫu Nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Bí Kíp Lam Ngẫu Nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Bí Kíp Tím Ngẫu Nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương báu ngẫu nhiên bí kíp vàng",
+    "value": "config/item/box/box_30_2.png"
+  },
+  {
+    "label": "Hộp Bí Kíp Lục Ngẫu Nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Hộp Bí Kíp Lam Ngẫu Nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Hộp bí kíp tím ngẫu nhiên",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Hộp Bí Kíp Vàng Ngẫu Nhiên",
+    "value": "config/item/box/box_30_2.png"
+  },
+  {
+    "label": "Hộp Bí Kíp Đỏ Ngẫu Nhiên",
+    "value": "config/item/box/box_30_3.png"
+  },
+  {
+    "label": "Rương Bí Mật Xanh Lục",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Bí Kíp Xanh",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương bí kíp tím",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương báu bí mật màu vàng kim",
+    "value": "config/item/box/box_30_2.png"
+  },
+  {
+    "label": "Rương Bí Kíp Đỏ",
+    "value": "config/item/box/box_30_3.png"
+  },
+  {
+    "label": "Rương Bí Kíp Xanh Tự Chọn",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Tự Chọn Bí Kíp Lam Sắc",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Bí Kíp Tím Tự Chọn",
+    "value": "config/item/box/box_30_1.png"
+  },
+  {
+    "label": "Rương Báu Tự Chọn Bí Kíp Vàng",
+    "value": "config/item/box/box_30_2.png"
+  },
+  {
+    "label": "Rương Bí Kíp Đỏ Tự Chọn",
+    "value": "config/item/box/box_30_3.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Mảnh",
+    "value": "config/item/box/box_2_4.png"
+  },
+  {
+    "label": "Akame ga Kill! - Akame",
+    "value": "config/portrait/jinglingtouxiang/img_574.png"
+  },
+  {
+    "label": "Ninjutsu Neon - Thần Uy Kakashi",
+    "value": "config/portrait/jinglingtouxiang/img_335.png"
+  },
+  {
+    "label": "Ác ma thuần khiết - Ngọn lửa của ác ma",
+    "value": "config/portrait/jinglingtouxiang/img_1397.png"
+  },
+  {
+    "label": "Thiên Thần Thời Gian - Người Yêu Giáng Sinh",
+    "value": "config/portrait/jinglingtouxiang/img_974.png"
+  },
+  {
+    "label": "đpcm",
+    "value": "config/portrait/jinglingtouxiang/img_762.png"
+  },
+  {
+    "label": "Xúc Xắc Kỳ Lạ",
+    "value": "config/item/icon_hj.png"
+  },
+  {
+    "label": "Huy chương Nhà Thám Hiểm",
+    "value": "config/item/icon_hz.png"
+  },
+  {
+    "label": "Phiếu Giảm Giá",
+    "value": "config/item/icon_djq.png"
+  },
+  {
+    "label": "Xúc Xắc Thường",
+    "value": "config/item/icon_tz1.png"
+  },
+  {
+    "label": "Xúc Xắc Kỳ Lạ",
+    "value": "config/item/icon_tz2.png"
+  },
+  {
+    "label": "Xúc Xắc Huy Chương",
+    "value": "config/item/icon_tz3.png"
+  },
+  {
+    "label": "Thẻ Tăng Tốc",
+    "value": "config/item/icon_cck2.png"
+  },
+  {
+    "label": "Cánh Cửa Tùy Ý",
+    "value": "config/item/icon_sym2.png"
+  },
+  {
+    "label": "Thẻ Chuyển Hướng",
+    "value": "config/item/icon_zxk2.png"
+  },
+  {
+    "label": "Điểm Hành Động",
+    "value": "config/item/51send_xdd.png"
+  },
+  {
+    "label": "Hộp Bồi Thường Kim Cương",
+    "value": "config/item/box/box_2_1.png"
+  },
+  {
+    "label": "Hộp Bồi Thường Vàng",
+    "value": "config/item/box/box_2_2.png"
+  },
+  {
+    "label": "Hộp Bồi Thường Bảo Vật",
+    "value": "config/item/box/box_2_3.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_2_5.png"
+  },
+  {
+    "label": "Rương SS ngẫu nhiên VIP",
+    "value": "config/item/box/box_19_4@.png"
+  },
+  {
+    "label": "Dổi Sao-S",
+    "value": "config/item/icon_xjjy.png"
+  },
+  {
+    "label": "Dổi Sao-SS",
+    "value": "config/item/icon_xjss.png"
+  },
+  {
+    "label": "Thần thú thử nghiệm",
+    "value": "config/portrait/speedranktouxiang/img_716_zenys@.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Misaka Mikoto",
+    "value": "config/portrait/jinglingtouxiang/img_731.png"
+  },
+  {
+    "label": "Tín vật của Tokisaki Kurumi",
+    "value": "config/portrait/jinglingtouxiang/img_972.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Rem",
+    "value": "config/portrait/jinglingtouxiang/img_641.png"
+  },
+  {
+    "label": "Vật gia truyền của Vua Arthur",
+    "value": "config/portrait/jinglingtouxiang/img_1313.png"
+  },
+  {
+    "label": "Vật kỷ niệm của Madoka",
+    "value": "config/portrait/jinglingtouxiang/img_771.png"
+  },
+  {
+    "label": "Vật tượng trưng của Akemi Homura",
+    "value": "config/portrait/jinglingtouxiang/img_1393.png"
+  },
+  {
+    "label": "Kỷ vật của Neil",
+    "value": "config/portrait/jinglingtouxiang/img_712.png"
+  },
+  {
+    "label": "Vật gia truyền của Jeanne d'Arc",
+    "value": "config/portrait/jinglingtouxiang/img_1772.png"
+  },
+  {
+    "label": "Rương Chọn Bạn Đồng Hành",
+    "value": "config/item/box/box_22_3.png"
+  },
+  {
+    "label": "Rương Chọn Trang Phục Thời Trang",
+    "value": "config/item/box/icon_fslh_2_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Đại Xà",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương ngẫu nhiên Hades",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Akame",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Binh trưởng",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Tohsaka Rin",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Tiểu Viên",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Kurosaki Ichigo",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Hatsune Miku",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Vua Arthur",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Akemi Homura",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Saitama",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Báu Ngẫu Nhiên Maple",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Icarus",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Thiên Nữ Thú",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Thiên Thần Thú",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Vegeta",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp may mắn Thủy thủ Mặt Trăng",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hòm đồ ngẫu nhiên của Lich King",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Báu Ngẫu Nhiên Marisa",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Kakarot",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Báu Tsunade Ngẫu Nhiên",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Bí Ngẫu Nhiên Beerus",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Tiga Tia Chớp",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp Quà Ngẫu Nhiên Phi Ảnh",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương báu ngẫu nhiên Aqua",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Ngẫu Nhiên Kame Sennin",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Albedo",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Rương Chọn Trang Phục Thời Trang - S",
+    "value": "config/item/box/box_11_1.png"
+  },
+  {
+    "label": "Rương Chọn Trang Phục Thời Trang-S+",
+    "value": "config/item/box/box_11_2.png"
+  },
+  {
+    "label": "Rương Chọn Trang Phục Thời Trang SS",
+    "value": "config/item/box/box_11_3.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng SS Ⅰ",
+    "value": "config/item/box/box_21_1.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng SS II",
+    "value": "config/item/box/box_21_2.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng SS III",
+    "value": "config/item/box/box_21_3.png"
+  },
+  {
+    "label": "Rương chọn bảo vật đỏ",
+    "value": "config/item/box/icon_fslh_2_4.png"
+  },
+  {
+    "label": "Hộp Đặc Quyền Vĩnh Viễn",
+    "value": "config/item/box/icon_fslh_1_6.png"
+  },
+  {
+    "label": "Hộp Nguyên Liệu Bồi Dưỡng",
+    "value": "config/item/box/icon_fslh_1_7.png"
+  },
+  {
+    "label": "Hộp Quà Bất Ngờ Hằng Ngày",
+    "value": "config/item/box/icon_fslh_1_5.png"
+  },
+  {
+    "label": "Hộp Lựa Chọn Đá Thức Tỉnh",
+    "value": "config/item/box/icon_fslh_1_6.png"
+  },
+  {
+    "label": "Rương Bảo Vật Nữ Đế Ngẫu Nhiên",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Jiraiya",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Daki",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Hộp quà ngẫu nhiên Itachi",
+    "value": "config/item/box/box_21_5.png"
+  },
+  {
+    "label": "Phần Thưởng Ngẫu Nhiên",
+    "value": "config/item/icon_sjjl.png"
+  },
+  {
+    "label": "Rương SS ngẫu nhiên",
+    "value": "config/item/box/box_19_4@.png"
+  },
+  {
+    "label": "Gói Quà Chọn Anh Hùng SS Ⅰ",
+    "value": "config/item/box/box_21_1.png"
+  },
+  {
+    "label": "Rương SS ngẫu nhiên VIP 1",
+    "value": "config/item/box/box_19_4@.png"
+  },
+  {
+    "label": "Rương SS ngẫu nhiên VIP 2",
+    "value": "config/item/box/box_19_4@.png"
+  },
+  {
+    "label": "Rương Siêu Vật Phẩm 1",
+    "value": "config/item/icon_mgh1.png"
+  },
+  {
+    "label": "Rương Siêu Tài Nguyên 1",
+    "value": "config/item/icon_mgh1.png"
+  },
+  {
+    "label": "Ngoại hình của Orochi",
+    "value": "config/portrait/toptouxiang/img_263.png"
+  },
+  {
+    "label": "Ngoại hình của Kakashi",
+    "value": "config/portrait/toptouxiang/img_334.png"
+  },
+  {
+    "label": "Ngoại hình của Kamui Kakashi",
+    "value": "config/portrait/toptouxiang/img_334.png"
+  },
+  {
+    "label": "Ngoại hình của Kamui Kakashi Skin 1",
+    "value": "config/portrait/toptouxiang/img_393.png"
+  },
+  {
+    "label": "Ngoại hình của Akame",
+    "value": "config/portrait/toptouxiang/img_574.png"
+  },
+  {
+    "label": "Ngoại hình của Akame Skin 1",
+    "value": "config/portrait/toptouxiang/img_575.png"
+  },
+  {
+    "label": "Ngoại hình của Harry",
+    "value": "config/portrait/toptouxiang/img_572.png"
+  },
+  {
+    "label": "Ngoại hình của Levi Ackerman",
+    "value": "config/portrait/toptouxiang/img_701.png"
+  },
+  {
+    "label": "Ngoại hình của Rin Tohsaka",
+    "value": "config/portrait/toptouxiang/img_721.png"
+  },
+  {
+    "label": "Ngoại hình của Asuna",
+    "value": "config/portrait/toptouxiang/img_761.png"
+  },
+  {
+    "label": "Ngoại hình của Asuna",
+    "value": "config/portrait/toptouxiang/img_762.png"
+  },
+  {
+    "label": "Ngoại hình của Madoka",
+    "value": "config/portrait/toptouxiang/img_771.png"
+  },
+  {
+    "label": "Ngoại hình của Kurrumi Angel of Time",
+    "value": "config/portrait/toptouxiang/img_973.png"
+  },
+  {
+    "label": "Ngoại hình của Kurrumi Angel of Time",
+    "value": "config/portrait/toptouxiang/img_974.png"
+  },
+  {
+    "label": "Ngoại hình của Hiei",
+    "value": "config/portrait/toptouxiang/img_1173.png"
+  },
+  {
+    "label": "Ngoại hình của Ichigo Kurosaki",
+    "value": "config/portrait/toptouxiang/img_1231.png"
+  },
+  {
+    "label": "Ngoại hình của Hatsune Miku",
+    "value": "config/portrait/toptouxiang/img_1241.png"
+  },
+  {
+    "label": "Ngoại hình của Artoria",
+    "value": "config/portrait/toptouxiang/img_1313.png"
+  },
+  {
+    "label": "Ngoại hình của Homura Akemi",
+    "value": "config/portrait/toptouxiang/img_1393.png"
+  },
+  {
+    "label": "Ngoại hình của Demon's Flame",
+    "value": "config/portrait/toptouxiang/img_1396.png"
+  },
+  {
+    "label": "Ngoại hình của Demon's Flame",
+    "value": "config/portrait/toptouxiang/img_1397.png"
+  },
+  {
+    "label": "Ngoại hình của Saitama",
+    "value": "config/portrait/toptouxiang/img_1423.png"
+  },
+  {
+    "label": "Ngoại hình của Maple",
+    "value": "config/portrait/toptouxiang/img_1503.png"
+  },
+  {
+    "label": "Ngoại hình của Icarus",
+    "value": "config/portrait/toptouxiang/img_1893.png"
+  },
+  {
+    "label": "Ngoại hình của Thiên Nữ Thú",
+    "value": "config/portrait/toptouxiang/img_1941.png"
+  },
+  {
+    "label": "Ngoại hình của Thiên Nữ Thú",
+    "value": "config/portrait/toptouxiang/img_1951.png"
+  },
+  {
+    "label": "Ngoại hình của Aqua",
+    "value": "config/portrait/toptouxiang/img_1961.png"
+  },
+  {
+    "label": "Ngoại hình của Vegeta",
+    "value": "config/portrait/toptouxiang/img_2233.png"
+  },
+  {
+    "label": "Ngoại hình của Kame Sennin (Tôn Ngọc)",
+    "value": "config/portrait/toptouxiang/img_2351.png"
+  },
+  {
+    "label": "Ngoại hình của Albedo",
+    "value": "config/portrait/toptouxiang/img_2381.png"
+  },
+  {
+    "label": "Ngoại hình của Tsukino Usagi (Tháng Dã Thỏ)",
+    "value": "config/portrait/toptouxiang/img_2401.png"
+  },
+  {
+    "label": "Ngoại hình của Gilgamesh",
+    "value": "config/portrait/toptouxiang/img_2493.png"
+  },
+  {
+    "label": "Ngoại hình của Lich King",
+    "value": "config/portrait/toptouxiang/img_3021.png"
+  },
+  {
+    "label": "Ngoại hình của Kirisame Marisa",
+    "value": "config/portrait/toptouxiang/img_3143.png"
+  },
+  {
+    "label": "Ngoại hình của Kakarot (Tôn Ngọc)",
+    "value": "config/portrait/toptouxiang/img_3171.png"
+  },
+  {
+    "label": "Ngoại hình của Asuna",
+    "value": "config/portrait/toptouxiang/img_3303.png"
+  },
+  {
+    "label": "Ngoại hình của Tsunade",
+    "value": "config/portrait/toptouxiang/img_3353.png"
+  },
+  {
+    "label": "Ngoại hình của Beerus",
+    "value": "config/portrait/toptouxiang/img_3673.png"
+  },
+  {
+    "label": "Ngoại hình của Vĩnh Cửu Anh Hùng Vương",
+    "value": "config/portrait/toptouxiang/img_4023.png"
+  },
+  {
+    "label": "Ngoại hình của Địch Gia Sét",
+    "value": "config/portrait/toptouxiang/img_7001.png"
+  },
+  {
+    "label": "Ngoại hình của Aizen",
+    "value": "config/portrait/toptouxiang/img_4024.png"
+  },
+  {
+    "label": "Ngoại hình của Itachi",
+    "value": "config/portrait/toptouxiang/img_3221.png"
+  },
+  {
+    "label": "Ngoại hình của Jiraiya",
+    "value": "config/portrait/toptouxiang/img_3211.png"
+  },
+  {
+    "label": "Ngoại hình của Boa Hancook",
+    "value": "config/portrait/toptouxiang/img_2431.png"
+  },
+  {
+    "label": "Ngoại hình của Daiki",
+    "value": "config/portrait/toptouxiang/img_2391.png"
+  },
+  {
+    "label": "Avatar mới-1",
+    "value": "config/item/frame/icon_new1.png"
+  },
+  {
+    "label": "Avatar mới-2",
+    "value": "config/item/frame/icon_new2.png"
+  },
+  {
+    "label": "Avatar mới-3",
+    "value": "config/item/frame/icon_new3.png"
+  },
+  {
+    "label": "Avatar mới-4",
+    "value": "config/item/frame/icon_new4.png"
+  },
+  {
+    "label": "Avatar mới-5",
+    "value": "config/item/frame/icon_new5.png"
+  },
+  {
+    "label": "Avatar mới-6",
+    "value": "config/item/frame/icon_new6.png"
+  },
+  {
+    "label": "Avatar mới-7",
+    "value": "config/item/frame/icon_new7.png"
+  },
+  {
+    "label": "Avatar mới-8",
+    "value": "config/item/frame/icon_new8.png"
+  },
+  {
+    "label": "Avatar mới-9",
+    "value": "config/item/frame/icon_new9.png"
+  },
+  {
+    "label": "Avatar mới-10",
+    "value": "config/item/frame/icon_new10.png"
+  },
+  {
+    "label": "Avatar mới-11",
+    "value": "config/item/frame/icon_new11.png"
+  },
+  {
+    "label": "Avatar mới-12",
+    "value": "config/item/frame/icon_new12.png"
+  },
+  {
+    "label": "Avatar mới-13",
+    "value": "config/item/frame/icon_new13.png"
+  },
+  {
+    "label": "Avatar mới-14",
+    "value": "config/item/frame/icon_new14.png"
+  },
+  {
+    "label": "Avatar mới-15",
+    "value": "config/item/frame/icon_new15.png"
+  },
+  {
+    "label": "Avatar mới-16",
+    "value": "config/item/frame/icon_new16.png"
+  },
+  {
+    "label": "Avatar mới-17",
+    "value": "config/item/frame/icon_new17.png"
+  },
+  {
+    "label": "Avatar mới-18",
+    "value": "config/item/frame/icon_new18.png"
+  },
+  {
+    "label": "Avatar mới-19",
+    "value": "config/item/frame/icon_new19.png"
+  },
+  {
+    "label": "Avatar mới-20",
+    "value": "config/item/frame/icon_new20.png"
+  },
+  {
+    "label": "Avatar mới-21",
+    "value": "config/item/frame/icon_new21.png"
+  },
+  {
+    "label": "Avatar mới-22",
+    "value": "config/item/frame/icon_new22.png"
+  },
+  {
+    "label": "Avatar mới-23",
+    "value": "config/item/frame/icon_new23.png"
+  },
+  {
+    "label": "Avatar mới-24",
+    "value": "config/item/frame/icon_new24.png"
+  },
+  {
+    "label": "Avatar mới-25",
+    "value": "config/item/frame/icon_new25.png"
+  },
+  {
+    "label": "Avatar mới-26",
+    "value": "config/item/frame/icon_new26.png"
+  },
+  {
+    "label": "Avatar mới-27",
+    "value": "config/item/frame/icon_new27.png"
+  },
+  {
+    "label": "Avatar mới-28",
+    "value": "config/item/frame/icon_new28.png"
+  },
+  {
+    "label": "Avatar mới-29",
+    "value": "config/item/frame/icon_new29.png"
+  },
+  {
+    "label": "Avatar mới-30",
+    "value": "config/item/frame/icon_new30.png"
+  },
+  {
+    "label": "Avatar mới-31",
+    "value": "config/item/frame/icon_new31.png"
+  },
+  {
+    "label": "Avatar mới-32",
+    "value": "config/item/frame/icon_new32.png"
+  },
+  {
+    "label": "Avatar mới-33",
+    "value": "config/item/frame/icon_new33.png"
+  },
+  {
+    "label": "Avatar mới-34",
+    "value": "config/item/frame/icon_new34.png"
+  },
+  {
+    "label": "Avatar mới-35",
+    "value": "config/item/frame/icon_new35.png"
+  },
+  {
+    "label": "Avatar mới-36",
+    "value": "config/item/frame/icon_new36.png"
+  },
+  {
+    "label": "Avatar mới-37",
+    "value": "config/item/frame/icon_new37.png"
+  },
+  {
+    "label": "Avatar mới-38",
+    "value": "config/item/frame/icon_new38.png"
+  },
+  {
+    "label": "Avatar mới-39",
+    "value": "config/item/frame/icon_new39.png"
+  },
+  {
+    "label": "Avatar mới-40",
+    "value": "config/item/frame/icon_new40.png"
+  },
+  {
+    "label": "Avatar mới-41",
+    "value": "config/item/frame/icon_new41.png"
+  },
+  {
+    "label": "Avatar mới-42",
+    "value": "config/item/frame/icon_new42.png"
+  },
+  {
+    "label": "Avatar mới-43",
+    "value": "config/item/frame/icon_new43.png"
+  },
+  {
+    "label": "Avatar mới-44",
+    "value": "config/item/frame/icon_new44.png"
+  },
+  {
+    "label": "Avatar mới-45",
+    "value": "config/item/frame/icon_new45.png"
+  },
+  {
+    "label": "Avatar mới-46",
+    "value": "config/item/frame/icon_new46.png"
+  },
+  {
+    "label": "Avatar mới-47",
+    "value": "config/item/frame/icon_new47.png"
+  },
+  {
+    "label": "Avatar mới-48",
+    "value": "config/item/frame/icon_new48.png"
+  },
+  {
+    "label": "Avatar mới-49",
+    "value": "config/item/frame/icon_new49.png"
+  },
+  {
+    "label": "Avatar mới-50",
+    "value": "config/item/frame/icon_new50.png"
+  },
+  {
+    "label": "Avatar mới-51",
+    "value": "config/item/frame/icon_new51.png"
+  },
+  {
+    "label": "Avatar mới-52",
+    "value": "config/item/frame/icon_new52.png"
+  },
+  {
+    "label": "Avatar mới-53",
+    "value": "config/item/frame/icon_new53.png"
+  },
+  {
+    "label": "Avatar mới-54",
+    "value": "config/item/frame/icon_new54.png"
+  },
+  {
+    "label": "Avatar mới-55",
+    "value": "config/item/frame/icon_new55.png"
+  },
+  {
+    "label": "Avatar mới-56",
+    "value": "config/item/frame/icon_new56.png"
+  },
+  {
+    "label": "Avatar mới-57",
+    "value": "config/item/frame/icon_new57.png"
+  },
+  {
+    "label": "Avatar mới-58",
+    "value": "config/item/frame/icon_new58.png"
+  },
+  {
+    "label": "Avatar mới-59",
+    "value": "config/item/frame/icon_new59.png"
+  },
+  {
+    "label": "Avatar mới-60",
+    "value": "config/item/frame/icon_new60.png"
+  },
+  {
+    "label": "Avatar mới-61",
+    "value": "config/item/frame/icon_new61.png"
+  },
+  {
+    "label": "Avatar mới-62",
+    "value": "config/item/frame/icon_new62.png"
+  },
+  {
+    "label": "Avatar mới-63",
+    "value": "config/item/frame/icon_new63.png"
+  },
+  {
+    "label": "Avatar mới-64",
+    "value": "config/item/frame/icon_new64.png"
+  },
+  {
+    "label": "Avatar mới-65",
+    "value": "config/item/frame/icon_new65.png"
+  },
+  {
+    "label": "Avatar mới-66",
+    "value": "config/item/frame/icon_new66.png"
+  },
+  {
+    "label": "Avatar mới-67",
+    "value": "config/item/frame/icon_new67.png"
+  },
+  {
+    "label": "Avatar mới-68",
+    "value": "config/item/frame/icon_new68.png"
+  },
+  {
+    "label": "Avatar mới-69",
+    "value": "config/item/frame/icon_new69.png"
+  },
+  {
+    "label": "Avatar mới-70",
+    "value": "config/item/frame/icon_new70.png"
+  },
+  {
+    "label": "Avatar mới-71",
+    "value": "config/item/frame/icon_new71.png"
+  },
+  {
+    "label": "Avatar mới-72",
+    "value": "config/item/frame/icon_new72.png"
+  },
+  {
+    "label": "Avatar mới-73",
+    "value": "config/item/frame/icon_new73.png"
+  },
+  {
+    "label": "Avatar mới-74",
+    "value": "config/item/frame/icon_new74.png"
+  },
+  {
+    "label": "Avatar mới-75",
+    "value": "config/item/frame/icon_new75.png"
+  },
+  {
+    "label": "Avatar mới-76",
+    "value": "config/item/frame/icon_new76.png"
+  },
+  {
+    "label": "Avatar mới-77",
+    "value": "config/item/frame/icon_new77.png"
+  },
+  {
+    "label": "Avatar mới-78",
+    "value": "config/item/frame/icon_new78.png"
+  },
+  {
+    "label": "Avatar mới-79",
+    "value": "config/item/frame/icon_new79.png"
+  },
+  {
+    "label": "Avatar mới-80",
+    "value": "config/item/frame/icon_new80.png"
+  },
+  {
+    "label": "Avatar mới-81",
+    "value": "config/item/frame/icon_new81.png"
+  },
+  {
+    "label": "Avatar mới-82",
+    "value": "config/item/frame/icon_new82.png"
+  },
+  {
+    "label": "Avatar mới-83",
+    "value": "config/item/frame/icon_new83.png"
+  },
+  {
+    "label": "Avatar mới-84",
+    "value": "config/item/frame/icon_new84.png"
+  },
+  {
+    "label": "Avatar mới-85",
+    "value": "config/item/frame/icon_new85.png"
+  },
+  {
+    "label": "Avatar mới-86",
+    "value": "config/item/frame/icon_new86.png"
+  },
+  {
+    "label": "Avatar mới-87",
+    "value": "config/item/frame/icon_new87.png"
+  },
+  {
+    "label": "Avatar mới-88",
+    "value": "config/item/frame/icon_new88.png"
+  },
+  {
+    "label": "Avatar mới-89",
+    "value": "config/item/frame/icon_new89.png"
+  },
+  {
+    "label": "Avatar mới-90",
+    "value": "config/item/frame/icon_new90.png"
+  },
+  {
+    "label": "Avatar mới-91",
+    "value": "config/item/frame/icon_new91.png"
+  },
+  {
+    "label": "Avatar mới-92",
+    "value": "config/item/frame/icon_new92.png"
+  },
+  {
+    "label": "Avatar mới-93",
+    "value": "config/item/frame/icon_new93.png"
+  },
+  {
+    "label": "Avatar mới-94",
+    "value": "config/item/frame/icon_new94.png"
+  },
+  {
+    "label": "Avatar mới-95",
+    "value": "config/item/frame/icon_new95.png"
+  },
+  {
+    "label": "Avatar mới-96",
+    "value": "config/item/frame/icon_new96.png"
+  },
+  {
+    "label": "Avatar mới-97",
+    "value": "config/item/frame/icon_new97.png"
+  },
+  {
+    "label": "Avatar mới-98",
+    "value": "config/item/frame/icon_new98.png"
+  },
+  {
+    "label": "Avatar mới-99",
+    "value": "config/item/frame/icon_new99.png"
+  },
+  {
+    "label": "Avatar mới-100",
+    "value": "config/item/frame/icon_new100.png"
+  },
+  {
+    "label": "Rương Chọn Anh Hùng SP",
+    "value": "config/item/box/icon_fslh_1_5.png"
+  },
+  {
+    "label": "Rương Trang Bị Siêu Phàm Vàng",
+    "value": "config/item/box/box_11_3.png"
+  }
+]

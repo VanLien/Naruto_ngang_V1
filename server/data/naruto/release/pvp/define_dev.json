@@ -1,0 +1,94 @@
+{
+  "pvp.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "pvp.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1", "game.dev.1", "anticheat"],
+        "name": "yyhuodong.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "arena.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "union.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "card_fight.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1", "game.dev.1", "anticheat"],
+        "name": "union_fight.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1", "game.dev.1", "anticheat"],
+        "name": "craft.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1", "game.dev.1"],
+        "name": "gym.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "clone.dev.1"
+      },
+      {
+        "dependent": ["storage.dev.1"],
+        "name": "hunting.dev.1"
+      }
+    ]
+  },
+  "pvp.dev.2": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "pvp.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2", "game.dev.2", "anticheat"],
+        "name": "yyhuodong.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "arena.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "union.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "card_fight.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2", "game.dev.2", "anticheat"],
+        "name": "union_fight.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2", "game.dev.2", "anticheat"],
+        "name": "craft.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2", "game.dev.2"],
+        "name": "gym.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "clone.dev.2"
+      },
+      {
+        "dependent": ["storage.dev.2"],
+        "name": "hunting.dev.2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿VariableName,extraPoint,failPoint,limit,winPoint
+Defaults,0,0,0,0
+ID,extraPoint,failPoint,limit,winPoint
+1,10,3,10,9
+2,10,2,10,8
+3,10,4,10,10

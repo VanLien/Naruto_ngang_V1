@@ -1,0 +1,33 @@
+
+uzumaki00_sk2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/changjing
+  rotate: false
+  xy: 2, 94
+  size: 448, 284
+  orig: 448, 284
+  offset: 0, 0
+  index: -1
+Textures/eff_color_001
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+
+uzumaki00_sk22.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/glow/baodian013
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

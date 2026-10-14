@@ -1,0 +1,15 @@
+﻿VariableName,skills,startStoryID,text
+Defaults,{},0,""""""
+ID,skills,startStoryID,text
+1,{66016=1},3000007,Táo vàng
+2,{66017=1},3000009,Táo bạc
+3,{66016=1;66017=1},3000011,Táo thối
+11,{66016=1},11,Táo vàng 2
+21,{66017=1},21,Táo bạc 2
+31,{66016=1;66017=1},31,Táo thối 2
+100001,{50000001=1},100007,Đi sang trái
+100002,,100009,Đi sang phải
+100101,,100105,Ra đây nào! Squirtle! Dùng nước giúp tan băng!
+100102,{50000002=1},100107,Ra đây nào! Charmander! Dùng lửa giúp tan băng!
+100601,{50000011=1},100612,Ưu tiên trị liệu cho Feebas trước
+100602,{50000012=1},100614,Ưu tiên đuổi bọn trẻ hư ra trước

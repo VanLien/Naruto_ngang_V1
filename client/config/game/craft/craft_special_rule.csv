@@ -1,0 +1,7 @@
+﻿VariableName,buffType,isOpen,markID
+Defaults,,false,
+ID,buffType,isOpen,markID
+1,lockHp,true,2161
+2,reborn,true,3001
+3,reborn,true,3021
+4,lockHp,true,3011

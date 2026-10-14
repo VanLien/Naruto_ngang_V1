@@ -1,0 +1,36 @@
+﻿VariableName,attrNatureType,attrType,attrValue,desc,languages,name,targetArg,targetArg2,targetType
+Defaults,0,,,,<cn;tw;en;vn;th;kr>,,,,1
+ID,attrNatureType,attrType,attrValue,desc,languages,name,targetArg,targetArg2,targetType
+1,,1,350,#C0xFF8a5b0c#Tăng HP của toàn bộ ninja #C0xFF01A001#350,,Sưu tập tổng cộng 5 ninja,5,,
+2,,9,120,#C0xFF8a5b0c#Tăng phòng ngự Taijutsu của toàn bộ ninja #C0xFF01A001#120,,Sưu tập tổng cộng 10 ninja,10,,
+3,,10,150,#C0xFF8a5b0c#Tăng kháng Ninjutsu của toàn bộ ninja #C0xFF01A001#150,,Sưu tập tổng cộng 20 ninja,20,,
+4,,16,300,#C0xFF8a5b0c#Tăng kháng chí mạng của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 30 ninja,30,,
+5,,9,300,#C0xFF8a5b0c#Tăng phòng ngự Taijutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 50 ninja,50,,
+6,,10,300,#C0xFF8a5b0c#Tăng kháng Ninjutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 70 ninja,70,,
+7,,16,300,#C0xFF8a5b0c#Tăng kháng chí mạng của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 100 ninja,100,,
+8,,33,300,#C0xFF8a5b0c#Tăng giảm sát thương từ Taijutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 150 ninja,150,,
+9,,35,300,#C0xFF8a5b0c#Tăng giảm sát thương từ Ninjutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 200 ninja,200,,
+10,,36,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Lôi của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 3 ninja,3,1,2
+11,,36,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Lôi của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 6 ninja,6,1,2
+12,,36,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Lôi của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 9 ninja,9,1,2
+13,,36,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Lôi của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 12 ninja,12,1,2
+14,,37,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thổ của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 3 ninja,3,2,2
+15,,37,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thổ của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 6 ninja,6,2,2
+16,,37,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thổ của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 9 ninja,9,2,2
+17,,37,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thổ của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 12 ninja,12,2,2
+18,,38,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Phong của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 3 ninja,3,3,2
+19,,38,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Phong của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 6 ninja,6,3,2
+20,,38,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Phong của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 9 ninja,9,3,2
+21,,38,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Phong của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 12 ninja,12,3,2
+22,,39,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thủy của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 3 ninja,3,4,2
+23,,39,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thủy của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 6 ninja,6,4,2
+24,,39,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thủy của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 9 ninja,9,4,2
+25,,39,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Thủy của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 12 ninja,12,4,2
+26,,40,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Hỏa của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 3 ninja,3,5,2
+27,,40,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Hỏa của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 6 ninja,6,5,2
+28,,40,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Hỏa của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 9 ninja,9,5,2
+29,,40,100,#C0xFF8a5b0c#Tăng bonus sát thương hệ Hỏa của toàn bộ ninja #C0xFF01A001#1%,,Sưu tập tổng cộng 12 ninja,12,5,2
+101,,9,300,#C0xFF8a5b0c#Tăng phòng ngự Taijutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 15 ninja,15,,
+102,,10,300,#C0xFF8a5b0c#Tăng kháng Ninjutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 30 ninja,30,,
+103,,16,300,#C0xFF8a5b0c#Tăng kháng chí mạng của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 45 ninja,45,,
+104,,9,300,#C0xFF8a5b0c#Tăng phòng ngự Taijutsu của toàn bộ ninja #C0xFF01A001#3%,,Sưu tập tổng cộng 60 ninja,60,,

@@ -1,0 +1,48 @@
+
+sk2_bruise.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_lightning_004_002
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lightning_004_003
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lightning_004_004
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lightning_004_005
+  rotate: false
+  xy: 392, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lightning_004_006
+  rotate: false
+  xy: 522, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lightning_004_007
+  rotate: false
+  xy: 652, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

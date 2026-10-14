@@ -1,0 +1,23 @@
+﻿VariableName,ContribMax,ContribSumMax,dailyGift,dailyPacket1,dailyPacket2,dailyPacket3,levelUpContrib,memberMax,notice1,notice2,notice3,notice4,openFeature,skillLvMax,taskExpMax,totalCount1,totalCount2,totalCount3,trainingExp,viceChairmanMax
+Defaults,1000,100,{},{},{},{},100,99,,,,,<>,2,100,10,10,10,0,2
+ID,ContribMax,ContribSumMax,dailyGift,dailyPacket1,dailyPacket2,dailyPacket3,levelUpContrib,memberMax,notice1,notice2,notice3,notice4,openFeature,skillLvMax,taskExpMax,totalCount1,totalCount2,totalCount3,trainingExp,viceChairmanMax
+1,5,250000,{13=3;22171=1;gold=20000;coin3=100},{gold=1500000},{rmb=300},{coin3=1500},6000,30,,Mở khóa phó bản bang hội,,,<training;redpacket;dailygift;contribute>,10,27920,20,20,20,1,
+2,5,500000,{13=3;22171=1;gold=25000;coin3=110},{gold=1700000},{rmb=320},{coin3=1600},12000,31,Số thành viên tối đa +1 (đến 31),Mở khóa trung tâm quyên góp,,,<fuben>,10,28760,21,21,21,1,
+3,5,750000,{13=4;22171=1;gold=30000;coin3=120},{gold=1900000},{rmb=340},{coin3=1700},17000,32,Số thành viên tối đa +1 (đến 32),"Mở khóa trung tâm huấn luyện, chiến bang hội",,,<fragdonate>,10,29600,22,22,22,1.01,
+4,5,1000000,{13=4;22171=1;gold=35000;coin3=130},{gold=2100000},{rmb=360},{coin3=1800},22000,33,Số thành viên tối đa +1 (đến 33),Mở khóa hỏi đáp nhẫn giả,,,<unionskill;unionFight>,10,30440,23,23,23,1.01,
+5,5,1250000,{13=5;22171=1;gold=40000;coin3=140},{gold=2300000},{rmb=380},{coin3=1900},27000,34,Số thành viên tối đa +1 (đến 34),,,,,20,31280,24,24,24,1.02,
+6,5,1500000,{13=5;22171=2;gold=45000;coin3=150},{gold=2500000},{rmb=400},{coin3=2000},32000,35,Số thành viên tối đa +1 (đến 35),,,,,20,32120,25,25,25,1.02,
+7,5,1750000,{13=6;22171=2;gold=50000;coin3=160},{gold=2700000},{rmb=420},{coin3=2100},37000,36,Số thành viên tối đa +1 (đến 36),,,,,20,32960,26,26,26,1.03,
+8,5,2000000,{13=6;22171=2;gold=55000;coin3=170},{gold=2900000},{rmb=440},{coin3=2200},42000,37,Số thành viên tối đa +1 (đến 37),,,,,20,33800,27,27,27,1.03,
+9,5,2250000,{13=7;22171=2;gold=60000;coin3=180},{gold=3100000},{rmb=460},{coin3=2300},47000,38,Số thành viên tối đa +1 (đến 38),,,,,30,34640,28,28,28,1.04,
+10,5,2500000,{13=7;22171=2;gold=65000;coin3=190},{gold=3300000},{rmb=480},{coin3=2400},52000,39,Số thành viên tối đa +1 (đến 39),Có thể tăng số lượng phó bang chủ +1,,,,30,35000,29,29,29,1.04,
+11,5,2750000,{13=8;22171=3;gold=70000;coin3=200},{gold=3500000},{rmb=500},{coin3=2500},57000,40,Số thành viên tối đa +1 (đến 40),,,,,30,35000,30,30,30,1.05,3
+12,5,3000000,{13=8;22171=3;gold=75000;coin3=210},{gold=3700000},{rmb=520},{coin3=2600},62000,41,Số thành viên tối đa +1 (đến 41),,,,,30,35000,30,30,30,1.05,3
+13,5,3250000,{13=9;22171=3;gold=80000;coin3=220},{gold=3900000},{rmb=540},{coin3=2700},67000,42,Số thành viên tối đa +1 (đến 42),,,,,40,35000,31,31,31,1.06,3
+14,5,3500000,{13=9;22171=3;gold=85000;coin3=230},{gold=4100000},{rmb=560},{coin3=2800},72000,43,Số thành viên tối đa +1 (đến 43),,,,,40,35000,31,31,31,1.06,3
+15,5,3750000,{13=10;22171=3;gold=90000;coin3=240},{gold=4300000},{rmb=580},{coin3=2900},77000,44,Số thành viên tối đa +1 (đến 44),,,,,40,35000,32,32,32,1.07,3
+16,5,4000000,{13=10;22171=3;gold=95000;coin3=250},{gold=4500000},{rmb=600},{coin3=3000},82000,45,Số thành viên tối đa +1 (đến 45),,,,,40,35000,32,32,32,1.07,3
+17,5,4250000,{13=11;22171=3;gold=100000;coin3=260},{gold=4700000},{rmb=620},{coin3=3100},87000,46,Số thành viên tối đa +1 (đến 46),,,,,50,35000,33,33,33,1.08,3
+18,5,4500000,{13=11;22171=3;gold=105000;coin3=270},{gold=4900000},{rmb=640},{coin3=3200},92000,47,Số thành viên tối đa +1 (đến 47),,,,,50,35000,33,33,33,1.08,3
+19,5,4750000,{13=12;22171=3;gold=110000;coin3=280},{gold=5100000},{rmb=660},{coin3=3300},97000,48,Số thành viên tối đa +1 (đến 48),,,,,50,35000,34,34,34,1.09,3
+20,5,5000000,{13=12;22171=3;gold=115000;coin3=290},{gold=5300000},{rmb=680},{coin3=3400},102000,49,Số thành viên tối đa +1 (đến 49),,,,,50,35000,34,34,34,1.09,3

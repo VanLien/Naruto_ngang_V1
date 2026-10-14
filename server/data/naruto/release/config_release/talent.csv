@@ -1,0 +1,44 @@
+﻿VariableName,addType1,addType2,attrAddDesc1,attrAddDesc2,attrDesc,attrNum1,attrNum2,attrType1,attrType2,costID,damageRelation1,damageRelation2,headIcon,icon,levelUp,name,natureType1,natureType2,preTalentID,preTalentLevel,roleLevel,treeID
+Defaults,,,所有忍者生命值增加,所有忍者家攻击力增加,提升所有忍者的生命值、攻击力,,,,,1,<>,<>,,,30,,,,,0,1,
+ID,addType1,addType2,attrAddDesc1,attrAddDesc2,attrDesc,attrNum1,attrNum2,attrType1,attrType2,costID,damageRelation1,damageRelation2,headIcon,icon,levelUp,name,natureType1,natureType2,preTalentID,preTalentLevel,roleLevel,treeID
+100,3,3,Tăng HP,Tăng tốc độ,Tăng HP và tốc độ của toàn bộ Ninja,200,10,1,13,,,,,city/develop/talent/icon_smz.png,,Thiên Phú Cơ Bản,,,,,25,1
+101,3,3,Tăng tấn công vật lý,Tăng tấn công Ninjutsu,Tăng tấn công vật lý và tấn công Ninjutsu của toàn bộ Ninja,50,50,7,8,,,,,city/develop/talent/icon_sg.png,,Thiên Phú Cơ Bản,,,100,7,25,1
+102,3,3,Tăng phòng thủ vật lý,Tăng kháng Ninjutsu,Tăng phòng thủ vật lý và kháng Ninjutsu của toàn bộ Ninja,28,28,9,10,,,,,city/develop/talent/icon_sf.png,,Thiên Phú Cơ Bản,,,100,7,25,1
+103,1,,Tăng HP,,Tăng HP của Ninja hàng trước trong chiến đấu,0.01,,1,,,,,,city/develop/talent/icon_smz.png,,Thiên Phú Cơ Bản,,,102,7,25,1
+104,2,3,Tăng tấn công vật lý,Tăng tấn công Ninjutsu,Tăng tấn công vật lý và Ninjutsu của Ninja hàng sau trong chiến đấu,0.01,0.01,7,8,,,,,city/develop/talent/icon_sg.png,,Thiên Phú Cơ Bản,,,101,7,25,1
+105,2,,Tăng thưởng sát thương,,Tăng thưởng sát thương của Ninja hàng sau trong chiến đấu,100,,22,,,,,,city/develop/talent/icon_shjc.png,,Thiên Phú Cơ Bản,,,104,7,25,1
+106,1,,Tăng giảm sát thương,,Tăng giảm sát thương của Ninja hàng trước trong chiến đấu,100,,23,,,,,,city/develop/talent/icon_shjm.png,,Thiên Phú Cơ Bản,,,103,7,25,1
+200,3,,Tăng HP,,Tăng % HP cơ bản của toàn bộ Ninja,0.005,,1,,2,,,,city/develop/talent/icon_smz.png,,Thiên Phú Nâng Cao,,,,,45,2
+201,3,,Tăng phòng thủ vật lý,,Tăng % phòng thủ vật lý cơ bản của toàn bộ Ninja,0.005,,9,,2,,,,city/develop/talent/icon_wf.png,,Thiên Phú Nâng Cao,,,200,7,45,2
+202,3,,Tăng kháng Ninjutsu,,Tăng % kháng Ninjutsu cơ bản của toàn bộ Ninja,0.005,,10,,3,,,,city/develop/talent/icon_tf.png,,Thiên Phú Nâng Cao,,,201,7,45,2
+203,3,,Tăng kháng chí mạng,,Tăng % kháng chí mạng cơ bản của toàn bộ Ninja,50,,16,,4,,,,city/develop/talent/icon_bjkx.png,,Thiên Phú Nâng Cao,,,202,7,45,2
+204,3,,Tăng tấn công vật lý,,Tăng % tấn công vật lý cơ bản của toàn bộ Ninja,0.005,,7,,2,,,,city/develop/talent/icon_wg.png,,Thiên Phú Nâng Cao,,,200,7,45,2
+205,3,,Tăng tấn công Ninjutsu,,Tăng % tấn công Ninjutsu cơ bản của toàn bộ Ninja,0.005,,8,,3,,,,city/develop/talent/icon_tg.png,,Thiên Phú Nâng Cao,,,204,7,45,2
+206,3,,Tăng tỷ lệ chí mạng,,Tăng % chí mạng cơ bản của toàn bộ Ninja,50,,14,,4,,,,city/develop/talent/icon_bj.png,,Thiên Phú Nâng Cao,,,205,7,45,2
+207,3,,Tăng giảm sát thương,,Tăng % giảm sát thương cơ bản của toàn bộ Ninja,50,,23,,2,,,,city/develop/talent/icon_shjm.png,,Thiên Phú Nâng Cao,,,200,7,45,2
+208,3,,Tăng thưởng sát thương,,Tăng % tăng sát thương cơ bản của toàn bộ Ninja,50,,22,,3,,,,city/develop/talent/icon_shjc.png,,Thiên Phú Nâng Cao,,,207,7,45,2
+209,3,,Tăng tốc độ,,Tăng % tốc độ cơ bản của toàn bộ Ninja,0.005,,13,,4,,,,city/develop/talent/icon_sd.png,,Thiên Phú Nâng Cao,,,208,7,45,2
+300,4,,Tăng HP,,Tăng HP của toàn bộ Ninja hệ Lôi,0.005,,1,,5,,,city/develop/talent/txt_yb.png,city/develop/talent/icon_smz.png,,Thiên Phú Chỉ Số,1,,,,65,3
+301,3,,Tăng thưởng sát thương kỹ năng hệ Lôi,,Tăng thưởng sát thương kỹ năng hệ Lôi cho toàn bộ Ninja,100,,36,,6,,,city/develop/talent/txt_yb.png,city/develop/talent/icon_ysg.png,,Thiên Phú Chỉ Số,,,300,7,65,3
+302,3,,Tăng giảm sát thương từ kỹ năng hệ Lôi,,Tăng giảm sát thương từ kỹ năng hệ Lôi cho toàn bộ Ninja,100,,54,,7,,,city/develop/talent/txt_yb.png,city/develop/talent/icon_shjm.png,,Thiên Phú Chỉ Số,,,301,7,65,3
+303,4,,Tăng HP,,Tăng HP của toàn bộ Ninja hệ Thổ,0.005,,1,,5,,,city/develop/talent/txt_hx.png,city/develop/talent/icon_smz.png,,Thiên Phú Chỉ Số,2,,,,65,3
+304,3,,Tăng thưởng sát thương kỹ năng hệ Thổ,,Tăng thưởng sát thương kỹ năng hệ Thổ cho toàn bộ Ninja,100,,37,,6,,,city/develop/talent/txt_hx.png,city/develop/talent/icon_ysg.png,,Thiên Phú Chỉ Số,,,303,7,65,3
+305,3,,Tăng giảm sát thương từ kỹ năng hệ Thổ,,Tăng giảm sát thương từ kỹ năng hệ Thổ cho toàn bộ Ninja,100,,55,,7,,,city/develop/talent/txt_hx.png,city/develop/talent/icon_shjm.png,,Thiên Phú Chỉ Số,,,304,7,65,3
+306,4,,Tăng HP,,Tăng HP của toàn bộ Ninja hệ Phong,0.005,,1,,5,,,city/develop/talent/txt_sx.png,city/develop/talent/icon_smz.png,,Thiên Phú Chỉ Số,3,,,,65,3
+307,3,,Tăng thưởng sát thương kỹ năng hệ Thủy,,Tăng thưởng sát thương kỹ năng hệ Thủy cho toàn bộ Ninja,100,,38,,6,,,city/develop/talent/txt_sx.png,city/develop/talent/icon_ysg.png,,Thiên Phú Chỉ Số,,,306,7,65,3
+308,3,,Tăng giảm sát thương từ kỹ năng hệ Thủy,,Tăng giảm sát thương từ kỹ năng hệ Thủy cho toàn bộ Ninja,100,,56,,7,,,city/develop/talent/txt_sx.png,city/develop/talent/icon_shjm.png,,Thiên Phú Chỉ Số,,,307,7,65,3
+309,4,,Tăng HP,,Tăng HP của toàn bộ Ninja hệ Thủy,0.005,,1,,5,,,city/develop/talent/txt_cx.png,city/develop/talent/icon_smz.png,,Thiên Phú Chỉ Số,4,,,,65,3
+310,3,,Tăng thưởng sát thương kỹ năng hệ Thủy,,Tăng thưởng sát thương kỹ năng hệ Thủy cho toàn bộ Ninja,100,,39,,6,,,city/develop/talent/txt_cx.png,city/develop/talent/icon_ysg.png,,Thiên Phú Chỉ Số,,,309,7,65,3
+311,3,,Tăng giảm sát thương từ kỹ năng hệ Thủy,,Tăng giảm sát thương từ kỹ năng hệ Thủy cho toàn bộ Ninja,100,,57,,7,,,city/develop/talent/txt_cx.png,city/develop/talent/icon_shjm.png,,Thiên Phú Chỉ Số,,,310,7,65,3
+312,4,,Tăng HP,,Tăng HP của toàn bộ Ninja hệ Hỏa,0.005,,1,,5,,,city/develop/talent/txt_dq.png,city/develop/talent/icon_smz.png,,Thiên Phú Chỉ Số,5,,,,65,3
+313,3,,Tăng thưởng sát thương kỹ năng hệ Hỏa,,Tăng thưởng sát thương kỹ năng hệ Hỏa cho toàn bộ Ninja,100,,40,,6,,,city/develop/talent/txt_dq.png,city/develop/talent/icon_ysg.png,,Thiên Phú Chỉ Số,,,312,7,65,3
+314,3,,Tăng giảm sát thương từ kỹ năng hệ Hỏa,,Tăng giảm sát thương từ kỹ năng hệ Hỏa cho toàn bộ Ninja,100,,58,,7,,,city/develop/talent/txt_dq.png,city/develop/talent/icon_shjm.png,,Thiên Phú Chỉ Số,,,313,7,65,3
+400,6,,Tăng HP,,Tăng HP của Ninja trong Arena,0.0075,,1,,9,,,,city/develop/talent/icon_smz.png,,Arena,2,2,,,75,4
+401,6,6,Tăng thưởng sát thương,Tăng giảm sát thương,Tăng năng lực chiến đấu của Ninja trong Arena,40,40,22,23,10,,,,city/develop/talent/icon_shjc.png,,Arena,2,2,400,7,75,4
+402,6,6,Tăng thưởng sát thương từ Tuyệt Kỹ,Tăng giảm sát thương từ Tuyệt Kỹ,Tăng năng lực chiến đấu của Ninja trong Arena,40,40,24,25,11,,,,city/develop/talent/icon_shjm.png,,Arena,2,2,401,7,75,4
+412,6,,Tăng HP,,Tăng HP của Ninja trong thi đấu Ninja,0.0075,,1,,9,,,,city/develop/talent/icon_smz.png,,Thi Đấu Ninja,6,6,,,75,4
+413,6,6,Tăng thưởng sát thương,Tăng giảm sát thương,Tăng năng lực chiến đấu của Ninja trong thi đấu Ninja,40,40,22,23,10,,,,city/develop/talent/icon_shjc.png,,Thi Đấu Ninja,6,6,412,7,75,4
+414,6,6,Tăng thưởng sát thương từ Tuyệt Kỹ,Tăng giảm sát thương từ Tuyệt Kỹ,Tăng năng lực chiến đấu của Ninja trong thi đấu Ninja,40,40,24,25,11,,,,city/develop/talent/icon_shjm.png,,Thi Đấu Ninja,6,6,413,7,75,4
+421,6,,Tăng HP,,Tăng HP của Ninja trong chiến tranh tổ chức,0.0075,,1,,9,,,,city/develop/talent/icon_smz.png,,Chiến Tranh Tổ Chức,9,9,,,75,4
+422,6,6,Tăng thưởng sát thương,Tăng giảm sát thương,Tăng năng lực chiến đấu của Ninja trong chiến tranh tổ chức,40,40,22,23,10,,,,city/develop/talent/icon_shjc.png,,Chiến Tranh Tổ Chức,9,9,421,7,75,4
+423,6,6,Tăng thưởng sát thương từ Tuyệt Kỹ,Tăng giảm sát thương từ Tuyệt Kỹ,Tăng năng lực chiến đấu của Ninja trong chiến tranh tổ chức,40,40,24,25,11,,,,city/develop/talent/icon_shjm.png,,Chiến Tranh Tổ Chức,9,9,422,7,75,4

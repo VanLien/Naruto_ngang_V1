@@ -1,0 +1,6 @@
+﻿VariableName,killAddMp1,passiveSkill,triggerPoint
+Defaults,1,{},{}
+ID,killAddMp1,passiveSkill,triggerPoint
+1,,,
+2,0,{10=0;3=0;5=0;4=0},{11=0;13=0;12=0;23=0;7=0;8=0}
+3,0,,

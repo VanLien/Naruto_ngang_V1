@@ -1,0 +1,11 @@
+﻿VariableName,award,awardID,huodongID,icon
+Defaults,{},0,0,
+ID,award,awardID,huodongID,icon
+101,{rmb=188;500=2},1,10011,activity/new_year_flip_card/icon_jfd
+102,{rmb=188;962=2},2,10011,activity/new_year_flip_card/icon_jfd
+103,{973=1;rmb=188},3,10011,activity/new_year_flip_card/icon_jfd
+104,{rmb=188;2152=1},4,10011,activity/new_year_flip_card/icon_jfd
+105,{rmb=188;6059=1},6,10011,activity/new_year_flip_card/icon_jfd
+106,{rmb=188;501=2},7,10011,activity/new_year_flip_card/icon_jfd
+107,{604=20;rmb=188},8,10011,activity/new_year_flip_card/icon_jfd
+108,{922=1;rmb=188},9,10011,activity/new_year_flip_card/icon_jfd

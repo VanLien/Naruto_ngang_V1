@@ -1,0 +1,4 @@
+变量名,resetDay,challengeTimesLimit,buyBuffTimesLimit,starAwardConds,starAwardIDs
+默认值,,,,,
+ID,玩法周期,每日挑战次数,每日buff购买次数,星级奖励数量序列,星级奖励ID序列
+1,14,3,3,<10;20;30>,<2301;2302;2303>

@@ -1,0 +1,581 @@
+{
+  "account.vn.1": {
+   "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "alias": [
+          "giftdb.vn.1",
+          "paymentdb.vn.1"
+        ],
+        "dbname": "account",
+        "mongodb": "180.93.98.5:27018",
+        "name": "accountdb.vn.1"
+      }
+    ]
+  },
+  "gift.vn.1": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "gift",
+        "mongodb": "180.93.98.5:27018",
+        "name": "giftdb.vn.1"
+      }
+    ]
+  },
+  
+  "paymentdb.vn.1": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "order",
+        "mongodb": "180.93.98.5:27018",
+        "name": "paymentdb.vn.1"
+      }
+    ]
+  },
+  "storage.vn.1": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_1",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.1"
+      }
+    ]
+  },
+  "storage.vn.2": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_2",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.2"
+      }
+    ]
+  },
+  "storage.vn.3": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_3",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.3"
+      }
+    ]
+  }
+  ,
+  "storage.vn.4": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_4",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.4"
+      }
+    ]
+  },
+  "storage.vn.5": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_5",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.5"
+      }
+    ]
+  }
+  ,
+  "storage.vn.6": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_6",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.6"
+      }
+    ]
+  },
+  "storage.vn.7": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_7",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.7"
+      }
+    ]
+  },
+  "storage.vn.8": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_8",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.8"
+      }
+    ]
+  },
+  "storage.vn.9": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_9",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.9"
+      }
+    ]
+  },
+  "storage.vn.10": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_10",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.10"
+      }
+    ]
+  },
+  "storage.vn.11": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_11",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.11"
+      }
+    ]
+  },
+  "storage.vn.12": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_12",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.12"
+      }
+    ]
+  },
+  "storage.vn.13": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_13",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.13"
+      }
+    ]
+  },
+  "storage.vn.14": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_14",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.14"
+      }
+    ]
+  },
+  "storage.vn.15": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_15",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.15"
+      }
+    ]
+  },
+  "storage.vn.16": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_16",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.16"
+      }
+    ]
+  },
+  "storage.vn.17": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_17",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.17"
+      }
+    ]
+  },
+  "storage.vn.18": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_18",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.18"
+      }
+    ]
+  },
+  "storage.vn.19": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_19",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.19"
+      }
+    ]
+  },
+  "storage.vn.20": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_20",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.20"
+      }
+    ]
+  },
+  "storage.vn.21": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_21",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.21"
+      }
+    ]
+  },
+  "storage.vn.22": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_22",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.22"
+      }
+    ]
+  },
+  "storage.vn.23": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_23",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.23"
+      }
+    ]
+  },
+  "storage.vn.24": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_24",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.24"
+      }
+    ]
+  },
+  "storage.vn.25": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_25",
+        "mongodb": "180.93.98.5:27100",
+        "name": "storage.vn.25"
+      }
+    ]
+  },
+  "storage.vn.26": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_26",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.26"
+      }
+    ]
+  },
+  "storage.vn.27": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_27",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.27"
+      }
+    ]
+  },
+  "storage.vn.28": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_28",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.28"
+      }
+    ]
+  },
+  "storage.vn.29": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_29",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.29"
+      }
+    ]
+  },
+  "storage.vn.30": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_30",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.30"
+      }
+    ]
+  },
+  "storage.vn.31": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_31",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.31"
+      }
+    ]
+  },
+  "storage.vn.32": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_32",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.32"
+      }
+    ]
+  },
+  "storage.vn.33": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_33",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.33"
+      }
+    ]
+  },
+  "storage.vn.34": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_34",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.34"
+      }
+    ]
+  },
+  "storage.vn.35": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_35",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.35"
+      }
+    ]
+  },
+  "storage.vn.36": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_36",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.36"
+      }
+    ]
+  },
+  "storage.vn.37": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_37",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.37"
+      }
+    ]
+  },
+  "storage.vn.38": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_38",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.38"
+      }
+    ]
+  },
+  "storage.vn.39": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_39",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.39"
+      }
+    ]
+  },
+  "storage.vn.40": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_40",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.40"
+      }
+    ]
+  },
+  "storage.vn.41": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_41",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.41"
+      }
+    ]
+  },
+  "storage.vn.42": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_42",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.42"
+      }
+    ]
+  },
+  "storage.vn.43": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_43",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.43"
+      }
+    ]
+  },
+  "storage.vn.44": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_44",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.44"
+      }
+    ]
+  },
+  "storage.vn.45": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_45",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.45"
+      }
+    ]
+  },
+  "storage.vn.46": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_46",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.46"
+      }
+    ]
+  },
+  "storage.vn.47": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_47",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.47"
+      }
+    ]
+  },
+  "storage.vn.48": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_48",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.48"
+      }
+    ]
+  },
+  "storage.vn.49": {
+    "mainnsqd": "180.93.98.5:4150",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dbname": "game_vn_49",
+        "mongodb": "180.93.98.5:27102",
+        "name": "storage.vn.49"
+      }
+    ]
+  }
+}

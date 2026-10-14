@@ -1,0 +1,446 @@
+
+ino01_texie.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 516, 267
+  size: 230, 301
+  orig: 230, 301
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1201, 324
+  size: 307, 173
+  orig: 307, 173
+  offset: 0, 0
+  index: -1
+closeye1
+  rotate: false
+  xy: 918, 244
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+closeye2
+  rotate: false
+  xy: 745, 185
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1980, 442
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 824, 230
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+eyeball1
+  rotate: true
+  xy: 429, 98
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+eyeball2
+  rotate: false
+  xy: 965, 250
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 1196, 230
+  size: 48, 196
+  orig: 48, 196
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 1722, 433
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 1196, 280
+  size: 42, 213
+  orig: 42, 213
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 2, 2
+  size: 94, 269
+  orig: 94, 269
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 516, 207
+  size: 58, 241
+  orig: 58, 241
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: true
+  xy: 1722, 343
+  size: 88, 213
+  orig: 88, 213
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: false
+  xy: 819, 373
+  size: 380, 124
+  orig: 380, 124
+  offset: 0, 0
+  index: -1
+hairband
+  rotate: false
+  xy: 506, 175
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1510, 341
+  size: 156, 210
+  orig: 156, 210
+  offset: 0, 0
+  index: -1
+larm1
+  rotate: false
+  xy: 1411, 236
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+larm2
+  rotate: false
+  xy: 819, 273
+  size: 243, 98
+  orig: 243, 98
+  offset: 0, 0
+  index: -1
+lhand1
+  rotate: true
+  xy: 429, 143
+  size: 96, 26
+  orig: 96, 26
+  offset: 0, 0
+  index: -1
+lhand2
+  rotate: true
+  xy: 457, 145
+  size: 94, 20
+  orig: 94, 20
+  offset: 0, 0
+  index: -1
+lhand3
+  rotate: false
+  xy: 583, 180
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+lhand4
+  rotate: true
+  xy: 1064, 255
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 866, 243
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 759, 207
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+rarm1
+  rotate: false
+  xy: 2, 98
+  size: 425, 141
+  orig: 425, 141
+  offset: 0, 0
+  index: -1
+rarm2
+  rotate: false
+  xy: 273, 3
+  size: 191, 93
+  orig: 191, 93
+  offset: 0, 0
+  index: -1
+rear
+  rotate: false
+  xy: 795, 210
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+rhand1
+  rotate: true
+  xy: 1937, 345
+  size: 86, 23
+  orig: 86, 23
+  offset: 0, 0
+  index: -1
+rhand2
+  rotate: true
+  xy: 479, 157
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+rhand3
+  rotate: false
+  xy: 664, 185
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 241
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+
+ino01_texie2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx_05
+  rotate: false
+  xy: 2, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_06
+  rotate: false
+  xy: 2, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_07
+  rotate: false
+  xy: 459, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_08
+  rotate: false
+  xy: 2, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_09
+  rotate: false
+  xy: 459, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_10
+  rotate: false
+  xy: 916, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_11
+  rotate: false
+  xy: 2, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_12
+  rotate: false
+  xy: 459, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_13
+  rotate: false
+  xy: 916, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_14
+  rotate: false
+  xy: 1373, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_15
+  rotate: false
+  xy: 459, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_16
+  rotate: false
+  xy: 916, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_17
+  rotate: false
+  xy: 1373, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_18
+  rotate: false
+  xy: 1830, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_19
+  rotate: false
+  xy: 916, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_20
+  rotate: false
+  xy: 1373, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_21
+  rotate: false
+  xy: 1830, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_22
+  rotate: false
+  xy: 2287, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_23
+  rotate: false
+  xy: 1373, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_24
+  rotate: false
+  xy: 1830, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_25
+  rotate: false
+  xy: 2287, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_26
+  rotate: false
+  xy: 2744, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_27
+  rotate: false
+  xy: 1830, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_28
+  rotate: false
+  xy: 2287, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_29
+  rotate: false
+  xy: 2744, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_30
+  rotate: false
+  xy: 3201, 638
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_31
+  rotate: false
+  xy: 2287, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_32
+  rotate: false
+  xy: 2744, 214
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_33
+  rotate: false
+  xy: 3201, 426
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1
+tx/tx_34
+  rotate: false
+  xy: 2744, 2
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1

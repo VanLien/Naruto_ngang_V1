@@ -1,0 +1,293 @@
+
+yamato00_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 797, 162
+  size: 82, 129
+  orig: 82, 129
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2, 4
+  size: 83, 22
+  orig: 83, 22
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 189, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 322, 20
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: true
+  xy: 134, 2
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: true
+  xy: 651, 2
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+hue
+  rotate: false
+  xy: 2, 28
+  size: 130, 146
+  orig: 130, 146
+  offset: 0, 0
+  index: -1
+qianbi01
+  rotate: false
+  xy: 395, 17
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 176
+  size: 302, 334
+  orig: 302, 334
+  offset: 0, 0
+  index: -1
+shoubi01
+  rotate: true
+  xy: 306, 164
+  size: 150, 351
+  orig: 150, 351
+  offset: 0, 0
+  index: -1
+shoubi02
+  rotate: true
+  xy: 664, 246
+  size: 99, 351
+  orig: 99, 351
+  offset: 0, 0
+  index: -1
+shouzhang01
+  rotate: true
+  xy: 251, 2
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+shouzhang02
+  rotate: true
+  xy: 791, 5
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+shouzhil01
+  rotate: true
+  xy: 549, 45
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+shouzhil02
+  rotate: false
+  xy: 886, 4
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+shouzhil03
+  rotate: true
+  xy: 738, 58
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+shouzhil04
+  rotate: true
+  xy: 613, 2
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+shouzhir01
+  rotate: false
+  xy: 87, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+shouzhir02
+  rotate: true
+  xy: 854, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+shouzhir03
+  rotate: false
+  xy: 623, 75
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+shouzhir04
+  rotate: false
+  xy: 580, 50
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 134, 30
+  size: 115, 144
+  orig: 115, 144
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 303, 97
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 549, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 656, 70
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+toufa04
+  rotate: false
+  xy: 866, 41
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+toufa05
+  rotate: true
+  xy: 794, 45
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+toufa06
+  rotate: true
+  xy: 395, 95
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+toufa07
+  rotate: false
+  xy: 651, 22
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+toufa08
+  rotate: false
+  xy: 720, 16
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+toufa09
+  rotate: false
+  xy: 797, 96
+  size: 113, 64
+  orig: 113, 64
+  offset: 0, 0
+  index: -1
+toufa10
+  rotate: false
+  xy: 484, 99
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+toufa11
+  rotate: true
+  xy: 580, 80
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 306, 316
+  size: 194, 356
+  orig: 194, 356
+  offset: 0, 0
+  index: -1
+tui02
+  rotate: true
+  xy: 664, 347
+  size: 163, 351
+  orig: 163, 351
+  offset: 0, 0
+  index: -1
+xiuzi01
+  rotate: false
+  xy: 928, 166
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 251, 84
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+yijing02
+  rotate: true
+  xy: 474, 2
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+yiling01
+  rotate: false
+  xy: 659, 123
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+yiling03
+  rotate: false
+  xy: 568, 105
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 484, 70
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1

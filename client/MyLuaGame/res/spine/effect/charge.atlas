@@ -1,0 +1,566 @@
+
+charge.png
+size: 1241, 1058
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/di_00
+  rotate: false
+  xy: 970, 42
+  size: 213, 69
+  orig: 380, 150
+  offset: 79, 36
+  index: -1
+images/di_10
+  rotate: false
+  xy: 970, 42
+  size: 213, 69
+  orig: 380, 150
+  offset: 79, 36
+  index: -1
+images/di_20
+  rotate: false
+  xy: 970, 42
+  size: 213, 69
+  orig: 380, 150
+  offset: 79, 36
+  index: -1
+images/di_30
+  rotate: false
+  xy: 970, 42
+  size: 213, 69
+  orig: 380, 150
+  offset: 79, 36
+  index: -1
+images/di_39
+  rotate: false
+  xy: 970, 42
+  size: 213, 69
+  orig: 380, 150
+  offset: 79, 36
+  index: -1
+images/di_01
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_09
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_11
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_19
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_21
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_29
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_31
+  rotate: false
+  xy: 761, 542
+  size: 235, 76
+  orig: 380, 150
+  offset: 68, 33
+  index: -1
+images/di_02
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_08
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_12
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_18
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_22
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_28
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_32
+  rotate: true
+  xy: 235, 569
+  size: 256, 83
+  orig: 380, 150
+  offset: 57, 29
+  index: -1
+images/di_03
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_07
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_13
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_17
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_23
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_27
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_33
+  rotate: false
+  xy: 2, 4
+  size: 277, 89
+  orig: 380, 150
+  offset: 46, 26
+  index: -1
+images/di_04
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_06
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_14
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_16
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_24
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_26
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_34
+  rotate: true
+  xy: 446, 288
+  size: 299, 97
+  orig: 380, 150
+  offset: 35, 22
+  index: -1
+images/di_05
+  rotate: true
+  xy: 654, 41
+  size: 320, 103
+  orig: 380, 150
+  offset: 24, 19
+  index: -1
+images/di_15
+  rotate: true
+  xy: 654, 41
+  size: 320, 103
+  orig: 380, 150
+  offset: 24, 19
+  index: -1
+images/di_25
+  rotate: true
+  xy: 654, 41
+  size: 320, 103
+  orig: 380, 150
+  offset: 24, 19
+  index: -1
+images/di_35
+  rotate: true
+  xy: 654, 41
+  size: 320, 103
+  orig: 380, 150
+  offset: 24, 19
+  index: -1
+images/di_36
+  rotate: false
+  xy: 750, 445
+  size: 293, 95
+  orig: 380, 150
+  offset: 38, 23
+  index: -1
+images/di_37
+  rotate: false
+  xy: 281, 2
+  size: 266, 87
+  orig: 380, 150
+  offset: 52, 27
+  index: -1
+images/di_38
+  rotate: false
+  xy: 970, 113
+  size: 240, 77
+  orig: 380, 150
+  offset: 65, 32
+  index: -1
+images/shang_00
+  rotate: true
+  xy: 545, 363
+  size: 233, 203
+  orig: 380, 300
+  offset: 70, 23
+  index: -1
+images/shang_20
+  rotate: true
+  xy: 545, 363
+  size: 233, 203
+  orig: 380, 300
+  offset: 70, 23
+  index: -1
+images/shang_01
+  rotate: true
+  xy: 228, 95
+  size: 239, 206
+  orig: 380, 300
+  offset: 69, 23
+  index: -1
+images/shang_21
+  rotate: true
+  xy: 228, 95
+  size: 239, 206
+  orig: 380, 300
+  offset: 69, 23
+  index: -1
+images/shang_02
+  rotate: true
+  xy: 320, 589
+  size: 239, 216
+  orig: 380, 300
+  offset: 67, 23
+  index: -1
+images/shang_22
+  rotate: true
+  xy: 320, 589
+  size: 239, 216
+  orig: 380, 300
+  offset: 67, 23
+  index: -1
+images/shang_03
+  rotate: false
+  xy: 761, 620
+  size: 239, 212
+  orig: 380, 300
+  offset: 68, 20
+  index: -1
+images/shang_23
+  rotate: false
+  xy: 761, 620
+  size: 239, 212
+  orig: 380, 300
+  offset: 68, 20
+  index: -1
+images/shang_04
+  rotate: false
+  xy: 436, 91
+  size: 216, 195
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_24
+  rotate: false
+  xy: 436, 91
+  size: 216, 195
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_05
+  rotate: true
+  xy: 1045, 399
+  size: 216, 194
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_25
+  rotate: true
+  xy: 1045, 399
+  size: 216, 194
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_06
+  rotate: true
+  xy: 759, 35
+  size: 205, 209
+  orig: 380, 300
+  offset: 99, 23
+  index: -1
+images/shang_26
+  rotate: true
+  xy: 759, 35
+  size: 205, 209
+  orig: 380, 300
+  offset: 99, 23
+  index: -1
+images/shang_07
+  rotate: false
+  xy: 230, 336
+  size: 214, 231
+  orig: 380, 300
+  offset: 96, 23
+  index: -1
+images/shang_27
+  rotate: false
+  xy: 230, 336
+  size: 214, 231
+  orig: 380, 300
+  offset: 96, 23
+  index: -1
+images/shang_08
+  rotate: false
+  xy: 2, 336
+  size: 226, 245
+  orig: 380, 300
+  offset: 84, 23
+  index: -1
+images/shang_28
+  rotate: false
+  xy: 2, 336
+  size: 226, 245
+  orig: 380, 300
+  offset: 84, 23
+  index: -1
+images/shang_09
+  rotate: false
+  xy: 2, 583
+  size: 231, 242
+  orig: 380, 300
+  offset: 79, 23
+  index: -1
+images/shang_29
+  rotate: false
+  xy: 2, 583
+  size: 231, 242
+  orig: 380, 300
+  offset: 79, 23
+  index: -1
+images/shang_10
+  rotate: true
+  xy: 271, 830
+  size: 226, 246
+  orig: 380, 300
+  offset: 81, 23
+  index: -1
+images/shang_30
+  rotate: true
+  xy: 271, 830
+  size: 226, 246
+  orig: 380, 300
+  offset: 81, 23
+  index: -1
+images/shang_11
+  rotate: true
+  xy: 519, 833
+  size: 223, 240
+  orig: 380, 300
+  offset: 78, 24
+  index: -1
+images/shang_31
+  rotate: true
+  xy: 519, 833
+  size: 223, 240
+  orig: 380, 300
+  offset: 78, 24
+  index: -1
+images/shang_12
+  rotate: false
+  xy: 1002, 617
+  size: 233, 212
+  orig: 380, 300
+  offset: 74, 25
+  index: -1
+images/shang_32
+  rotate: false
+  xy: 1002, 617
+  size: 233, 212
+  orig: 380, 300
+  offset: 74, 25
+  index: -1
+images/shang_13
+  rotate: true
+  xy: 538, 598
+  size: 233, 221
+  orig: 380, 300
+  offset: 74, 24
+  index: -1
+images/shang_33
+  rotate: true
+  xy: 538, 598
+  size: 233, 221
+  orig: 380, 300
+  offset: 74, 24
+  index: -1
+images/shang_14
+  rotate: false
+  xy: 1002, 831
+  size: 233, 225
+  orig: 380, 300
+  offset: 70, 24
+  index: -1
+images/shang_34
+  rotate: false
+  xy: 1002, 831
+  size: 233, 225
+  orig: 380, 300
+  offset: 70, 24
+  index: -1
+images/shang_15
+  rotate: false
+  xy: 761, 834
+  size: 239, 222
+  orig: 380, 300
+  offset: 69, 24
+  index: -1
+images/shang_35
+  rotate: false
+  xy: 761, 834
+  size: 239, 222
+  orig: 380, 300
+  offset: 69, 24
+  index: -1
+images/shang_16
+  rotate: true
+  xy: 2, 95
+  size: 239, 224
+  orig: 380, 300
+  offset: 67, 24
+  index: -1
+images/shang_36
+  rotate: true
+  xy: 2, 95
+  size: 239, 224
+  orig: 380, 300
+  offset: 67, 24
+  index: -1
+images/shang_17
+  rotate: false
+  xy: 2, 827
+  size: 267, 229
+  orig: 380, 300
+  offset: 40, 21
+  index: -1
+images/shang_37
+  rotate: false
+  xy: 2, 827
+  size: 267, 229
+  orig: 380, 300
+  offset: 40, 21
+  index: -1
+images/shang_18
+  rotate: false
+  xy: 759, 242
+  size: 216, 201
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_38
+  rotate: false
+  xy: 759, 242
+  size: 216, 201
+  orig: 380, 300
+  offset: 86, 22
+  index: -1
+images/shang_19
+  rotate: true
+  xy: 977, 192
+  size: 205, 206
+  orig: 380, 300
+  offset: 95, 23
+  index: -1
+images/shang_39
+  rotate: true
+  xy: 977, 192
+  size: 205, 206
+  orig: 380, 300
+  offset: 95, 23
+  index: -1

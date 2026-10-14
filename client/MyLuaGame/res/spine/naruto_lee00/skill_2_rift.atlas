@@ -1,0 +1,13 @@
+
+skill_2_rift.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_rfit_0
+  rotate: false
+  xy: 2, 2
+  size: 406, 121
+  orig: 409, 124
+  offset: 2, 2
+  index: -1

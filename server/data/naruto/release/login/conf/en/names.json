@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "Sea",
+    "key": "game.en.1",
+    "status": 2,
+    "addr": "15.235.218.69:9001"
+  },
+  {
+    "id": 2,
+    "name": "Sea",
+    "key": "game.en.2",
+    "status": 2,
+    "addr": "15.235.218.69:9002"
+  },
+  {
+    "id": 3,
+    "name": "Sea",
+    "key": "game.en.3",
+    "status": 2,
+    "addr": "15.235.218.69:9003"
+  },
+  {
+    "id": 4,
+    "name": "Sea",
+    "key": "game.en.4",
+    "status": 2,
+    "addr": "15.235.218.69:9004"
+  },
+  {
+    "id": 5,
+    "name": "Sea",
+    "key": "game.en.5",
+    "status": 2,
+    "addr": "15.235.218.69:9005"
+  },
+  {
+    "id": 6,
+    "name": "Sea",
+    "key": "game.en.6",
+    "status": 2,
+    "addr": "15.235.218.69:9006"
+  },
+  {
+    "id": 7,
+    "name": "Sea",
+    "key": "game.en.7",
+    "status": 2,
+    "addr": "15.235.218.69:9007"
+  },
+  {
+    "id": 8,
+    "name": "Sea",
+    "key": "game.en.8",
+    "status": 2,
+    "addr": "15.235.218.69:9008"
+  },
+  {
+    "id": 9,
+    "name": "Sea",
+    "key": "game.en.9",
+    "status": 2,
+    "addr": "15.235.218.69:9009"
+  },
+  {
+    "id": 10,
+    "name": "Sea",
+    "key": "game.en.10",
+    "status": 2,
+    "addr": "15.235.218.69:9010"
+  },
+  {
+    "id": 11,
+    "name": "Sea",
+    "key": "game.en.11",
+    "status": 2,
+    "addr": "15.235.218.69:9011"
+  },
+  {
+    "id": 12,
+    "name": "Sea",
+    "key": "game.en.12",
+    "status": 2,
+    "addr": "15.235.218.69:9012"
+  },
+  {
+    "id": 13,
+    "name": "Sea",
+    "key": "game.en.13",
+    "status": 2,
+    "addr": "15.235.218.69:9013"
+  },
+  {
+    "id": 14,
+    "name": "Sea",
+    "key": "game.en.14",
+    "status": 2,
+    "addr": "15.235.218.69:9014"
+  },
+  {
+    "id": 15,
+    "name": "Sea",
+    "key": "game.en.15",
+    "status": 2,
+    "addr": "15.235.218.69:9015"
+  },
+  {
+    "id": 16,
+    "name": "Sea",
+    "key": "game.en.16",
+    "status": 2,
+    "addr": "15.235.218.69:9016"
+  },
+  {
+    "id": 17,
+    "name": "Sea",
+    "key": "game.en.17",
+    "status": 2,
+    "addr": "15.235.218.69:9017"
+  },
+  {
+    "id": 18,
+    "name": "Sea",
+    "key": "game.en.18",
+    "status": 2,
+    "addr": "15.235.218.69:9018"
+  },
+  {
+    "id": 19,
+    "name": "Sea",
+    "key": "game.en.19",
+    "status": 2,
+    "addr": "15.235.218.69:9019"
+  },
+  {
+    "id": 20,
+    "name": "Sea",
+    "key": "game.en.20",
+    "status": 2,
+    "addr": "15.235.218.69:9020"
+  },
+  {
+    "id": 21,
+    "name": "Sea",
+    "key": "game.en.21",
+    "status": 2,
+    "addr": "15.235.218.69:9021"
+  },
+  {
+    "id": 22,
+    "name": "Sea",
+    "key": "game.en.22",
+    "status": 2,
+    "addr": "15.235.218.69:9022"
+  },
+  {
+    "id": 23,
+    "name": "Sea",
+    "key": "game.en.23",
+    "status": 2,
+    "addr": "15.235.218.69:9023"
+  },
+  {
+    "id": 24,
+    "name": "Sea",
+    "key": "game.en.24",
+    "status": 2,
+    "addr": "15.235.218.69:9024"
+  },
+  {
+    "id": 25,
+    "name": "Sea",
+    "key": "game.en.25",
+    "status": 2,
+    "addr": "15.235.218.69:9025"
+  },
+  {
+    "id": 26,
+    "name": "Sea",
+    "key": "game.en.26",
+    "status": 2,
+    "addr": "15.235.218.69:9026"
+  },
+  {
+    "id": 27,
+    "name": "Sea",
+    "key": "game.en.27",
+    "status": 2,
+    "addr": "15.235.218.69:9027"
+  },
+  {
+    "id": 28,
+    "name": "Sea",
+    "key": "game.en.28",
+    "status": 2,
+    "addr": "15.235.218.69:9028"
+  },
+  {
+    "id": 29,
+    "name": "Sea",
+    "key": "game.en.29",
+    "status": 2,
+    "addr": "15.235.218.69:9029"
+  },
+  {
+    "id": 30,
+    "name": "Sea",
+    "key": "game.en.30",
+    "status": 2,
+    "addr": "15.235.218.69:9030"
+  },
+  {
+    "id": 31,
+    "name": "Sea",
+    "key": "game.en.31",
+    "status": 2,
+    "addr": "15.235.218.69:9031"
+  },
+  {
+    "id": 32,
+    "name": "Sea",
+    "key": "game.en.32",
+    "status": 2,
+    "addr": "15.235.218.69:9032"
+  },
+  {
+    "id": 33,
+    "name": "Sea",
+    "key": "game.en.33",
+    "status": 2,
+    "addr": "15.235.218.69:9033"
+  },
+  {
+    "id": 34,
+    "name": "Sea",
+    "key": "game.en.34",
+    "status": 2,
+    "addr": "15.235.218.69:9034"
+  },
+  {
+    "id": 35,
+    "name": "Sea",
+    "key": "game.en.35",
+    "status": 2,
+    "addr": "15.235.218.69:9035"
+  },
+  {
+    "id": 36,
+    "name": "Sea",
+    "key": "game.en.36",
+    "status": 2,
+    "addr": "15.235.218.69:9036"
+  },
+  {
+    "id": 37,
+    "name": "Sea",
+    "key": "game.en.37",
+    "status": 2,
+    "addr": "15.235.218.69:9037"
+  },
+  {
+    "id": 38,
+    "name": "Sea",
+    "key": "game.en.38",
+    "status": 2,
+    "addr": "15.235.218.69:9038"
+  },
+  {
+    "id": 39,
+    "name": "Sea",
+    "key": "game.en.39",
+    "status": 2,
+    "addr": "15.235.218.69:9039"
+  },
+  {
+    "id": 40,
+    "name": "Sea",
+    "key": "game.en.40",
+    "status": 2,
+    "addr": "15.235.218.69:9040"
+  },
+  {
+    "id": 41,
+    "name": "Sea",
+    "key": "game.en.41",
+    "status": 2,
+    "addr": "15.235.218.69:9041"
+  },
+  {
+    "id": 42,
+    "name": "Sea",
+    "key": "game.en.42",
+    "status": 2,
+    "addr": "15.235.218.69:9042"
+  },
+  {
+    "id": 43,
+    "name": "Sea",
+    "key": "game.en.43",
+    "status": 2,
+    "addr": "15.235.218.69:9043"
+  },
+  {
+    "id": 44,
+    "name": "Sea",
+    "key": "game.en.44",
+    "status": 2,
+    "addr": "15.235.218.69:9044"
+  },
+  {
+    "id": 45,
+    "name": "Sea",
+    "key": "game.en.45",
+    "status": 2,
+    "addr": "15.235.218.69:9045"
+  },
+  {
+    "id": 46,
+    "name": "Sea",
+    "key": "game.en.46",
+    "status": 2,
+    "addr": "15.235.218.69:9046"
+  },
+  {
+    "id": 47,
+    "name": "Sea",
+    "key": "game.en.47",
+    "status": 2,
+    "addr": "15.235.218.69:9047"
+  },
+  {
+    "id": 48,
+    "name": "Sea",
+    "key": "game.en.48",
+    "status": 2,
+    "addr": "15.235.218.69:9048"
+  },
+  {
+    "id": 49,
+    "name": "Sea",
+    "key": "game.en.49",
+    "status": 2,
+    "addr": "15.235.218.69:9049"
+  },
+  {
+    "id": 50,
+    "name": "Sea",
+    "key": "game.en.50",
+    "status": 2,
+    "addr": "15.235.218.69:9050"
+  },
+  {
+    "id": 51,
+    "name": "Sea",
+    "key": "game.en.51",
+    "status": 2,
+    "addr": "15.235.218.69:9051"
+  },
+  {
+    "id": 52,
+    "name": "Sea",
+    "key": "game.en.52",
+    "status": 2,
+    "addr": "15.235.218.69:9052"
+  },
+  {
+    "id": 53,
+    "name": "Sea",
+    "key": "game.en.53",
+    "status": 2,
+    "addr": "15.235.218.69:9053"
+  },
+  {
+    "id": 54,
+    "name": "Sea",
+    "key": "game.en.54",
+    "status": 2,
+    "addr": "15.235.218.69:9054"
+  },
+  {
+    "id": 55,
+    "name": "Sea",
+    "key": "game.en.55",
+    "status": 2,
+    "addr": "15.235.218.69:9055"
+  },
+  {
+    "id": 56,
+    "name": "Sea",
+    "key": "game.en.56",
+    "status": 2,
+    "addr": "15.235.218.69:9056"
+  }
+]

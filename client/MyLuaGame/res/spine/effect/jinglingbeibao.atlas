@@ -1,0 +1,40 @@
+
+jinglingbeibao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baikuang
+  rotate: false
+  xy: 2, 42
+  size: 304, 376
+  orig: 304, 376
+  offset: 0, 0
+  index: -1
+khc
+  rotate: false
+  xy: 2, 2
+  size: 153, 38
+  orig: 153, 38
+  offset: 0, 0
+  index: -1
+
+jinglingbeibao2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/flare_Fire
+  rotate: false
+  xy: 2, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 209, 154
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4 @@
+变量名,servOpenDays,robCorrect,robTimes,robInvalidFight,robInvalidFight_tw,robInvalidFight_en,robInvalidFight_vn,byRobLimit,beRevengedLimitByRole,robFreeTimes,revengeFreeTimes,serverAddLevelLimit,roleAddLevelLimit,serverAwawrd1,serverAwawrd2,serverAwawrd3,serverAwawrd4,extraAward
+默认值,,,,0,0,0,0,,,,,,,,,,,
+ID,开启相对服务器天数,每次抢夺比例,每小时抢夺次数,抢夺无效战力差百分比,抢夺无效战力差百分比,抢夺无效战力差百分比,抢夺无效战力差百分比,玩家每日被抢夺上限次数,玩家每日被同一玩家复仇上限次数,每日免费抢夺次数,每日免费报仇次数,全服加成每日等级上限,个人加成等级上限,第一名服务器奖励,第二名服务器奖励,第三名服务器奖励,第四名服务器奖励,额外奖励池
+1,36,0.1,3,0.5,1,0.5,0.5,12,3,3,5,<10;16;16>,<16;16;16>,960000,720000,560000,480000,400000

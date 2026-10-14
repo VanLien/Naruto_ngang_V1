@@ -1,0 +1,44 @@
+﻿VariableName,arg,desc1,desc2,icon,levelMax,name,nums,type,upCost
+Defaults,0,,,,10,,<>,0,{}
+ID,arg,desc1,desc2,icon,levelMax,name,nums,type,upCost
+1,,Tích lũy bảo vật,Số lần miễn phí mỗi ngày +%d,city/develop/train/icon_jubaopen.png,1,Nồi báu I,<1>,12,{453=230}
+2,,Phó bản cốt truyện,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,5,Nhà thám hiểm phó bản I,<0.05;0.1;0.15;0.2;0.25>,18,{453=120}
+3,3,Ăn ramen (bữa tối),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống I,<2;4;6;8;10>,14,{453=100}
+4,,Tích lũy bảo vật,Nhận vàng +%d,city/develop/train/icon_jubaopen.png,5,Nồi báu II,<0.03;0.06;0.09;0.12;0.15>,13,{453=100}
+5,2,Ăn ramen (bữa trưa),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống II,<2;4;6;8;10>,14,{453=150}
+6,,Phó bản khó,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,5,Nhà thám hiểm phó bản II,<0.05;0.1;0.15;0.2;0.25>,19,{453=150}
+7,,Quay vàng,Số lần miễn phí mỗi ngày +%d,city/develop/train/icon_yijialuanzhen.png,1,Ảo thuật,<1>,11,{453=160}
+8,,Thể lực tối đa,Tăng +%d,city/develop/train/icon_tishudaren.png,5,Chuyên gia Taijutsu I,<3;6;9;12;15>,2,{453=120}
+9,,Tích lũy bảo vật,Nhận vàng +%d,city/develop/train/icon_jubaopen.png,5,Nồi báu III,<0.03;0.06;0.09;0.12;0.15>,13,{453=120}
+10,,Phó bản vàng,Nhận vàng +%d,city/develop/train/icon_liancaidaren.png,5,Nhà tích lũy tiền I,<0.01;0.02;0.03;0.04;0.05>,15,{453=120}
+11,1,Ăn ramen (bữa sáng),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống III,<2;4;6;8;10>,14,{453=220}
+12,,Phó bản kinh nghiệm,Nhận kinh nghiệm +%d,city/develop/train/icon_xunliandaren.png,5,Người tu luyện I,<0.01;0.02;0.03;0.04;0.05>,16,{453=220}
+13,,Mua vật phẩm kinh nghiệm,Giảm giá +%d,city/develop/train/icon_pifashang.png,5,Thương nhân vận chuyển I,<0.02;0.04;0.06;0.08;0.1>,9,{453=220}
+14,4,Ăn ramen (khuya),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống IV,<2;4;6;8;10>,14,{453=250}
+15,,Tích lũy bảo vật,Số lần miễn phí mỗi ngày +%d,city/develop/train/icon_jubaopen.png,1,Nồi báu IV,<1>,12,{453=400}
+16,,Phó bản mảnh,Sản lượng tăng +%d,city/develop/train/icon_jiaojidashi.png,5,Chuyên gia xã giao I,<0.01;0.02;0.03;0.04;0.05>,26,{453=250}
+17,,Quyên góp bang hội,Số xu bang hội nhận được +%d,city/develop/train/icon_mingrenxiaoying.png,5,Người nổi tiếng I,<0.01;0.02;0.03;0.04;0.05>,17,{453=250}
+18,,Thể lực tối đa,Tăng +%d,city/develop/train/icon_tishudaren.png,5,Chuyên gia Taijutsu II,<3;6;9;12;15>,2,{453=250}
+19,,Mua vật phẩm kinh nghiệm,Giảm giá +%d,city/develop/train/icon_pifashang.png,5,Thương nhân vận chuyển II,<0.02;0.04;0.06;0.08;0.1>,9,{453=250}
+20,,Phó bản cốt truyện,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,5,Nhà thám hiểm phó bản III,<0.05;0.1;0.15;0.2;0.25>,18,{453=250}
+21,,Phó bản quà tặng,Sản lượng tăng +%d,city/develop/train/icon_lishangwanglai.png,5,Hòa giải I,<0.01;0.02;0.03;0.04;0.05>,24,{453=250}
+22,3,Ăn ramen (bữa tối),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống V,<2;4;6;8;10>,14,{453=400}
+23,,Nhiệm vụ hằng ngày,Kinh nghiệm nhận được tăng +%d,city/develop/train/icon_jingyanlaodao.png,5,Nhà tích lũy kinh nghiệm I,<0.01;0.02;0.03;0.04;0.05>,6,{453=400}
+24,,Phó bản khó,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,5,Nhà thám hiểm phó bản IV,<0.05;0.1;0.15;0.2;0.25>,19,{453=400}
+25,,Nhiệm vụ ủy thác,Số lần làm mới miễn phí +%d,city/develop/train/icon_yuanyuanbugou.png,1,Không đủ I,<1>,22,{453=640}
+26,2,Ăn ramen (bữa trưa),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống VI,<2;4;6;8;10>,14,{453=330}
+27,,Phó bản vàng,Nhận vàng +%d,city/develop/train/icon_liancaidaren.png,5,Nhà tích lũy tiền II,<0.01;0.02;0.03;0.04;0.05>,15,{453=330}
+28,,Quyên góp bang hội,Số xu bang hội nhận được +%d,city/develop/train/icon_mingrenxiaoying.png,5,Người nổi tiếng II,<0.01;0.02;0.03;0.04;0.05>,17,{453=330}
+29,,Phó bản cốt truyện,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,,Nhà thám hiểm phó bản V,<0.05;0.1;0.15;0.2;0.25;0.3;0.35;0.4;0.45;0.5>,18,{453=330}
+30,,Thể lực tối đa,Tăng +%d,city/develop/train/icon_tishudaren.png,5,Chuyên gia Taijutsu III,<3;6;9;12;15>,2,{453=430}
+31,,Nhiệm vụ hằng ngày,Kinh nghiệm nhận được tăng +%d,city/develop/train/icon_jingyanlaodao.png,5,Nhà tích lũy kinh nghiệm II,<0.01;0.02;0.03;0.04;0.05>,6,{453=430}
+32,,Phó bản kinh nghiệm,Nhận kinh nghiệm +%d,city/develop/train/icon_xunliandaren.png,5,Người tu luyện II,<0.01;0.02;0.03;0.04;0.05>,16,{453=430}
+33,,Mua vật phẩm kinh nghiệm,Giảm giá +%d,city/develop/train/icon_pifashang.png,,Thương nhân vận chuyển III,<0.02;0.04;0.06;0.08;0.1;0.12;0.14;0.16;0.18;0.2>,9,{453=430}
+34,1,Ăn ramen (bữa sáng),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống VII,<2;4;6;8;10>,14,{453=530}
+35,,Phó bản mảnh,Sản lượng tăng +%d,city/develop/train/icon_jiaojidashi.png,5,Chuyên gia xã giao II,<0.01;0.02;0.03;0.04;0.05>,26,{453=530}
+36,,Tích lũy bảo vật,Nhận vàng +%d,city/develop/train/icon_jubaopen.png,5,Nồi báu V,<0.03;0.06;0.09;0.12;0.15>,13,{453=530}
+37,,Phó bản khó,Nhận vàng +%d,city/develop/train/icon_fubendaren.png,,Nhà thám hiểm phó bản VI,<0.05;0.1;0.15;0.2;0.25;0.3;0.35;0.4;0.45;0.5>,19,{453=530}
+38,4,Ăn ramen (khuya),Nhận thêm thể lực +%d,city/develop/train/icon_daweiwang.png,5,Vua ăn uống VIII,<2;4;6;8;10>,14,{453=600}
+39,,Nhiệm vụ hằng ngày,Kinh nghiệm nhận được tăng +%d,city/develop/train/icon_jingyanlaodao.png,,Nhà tích lũy kinh nghiệm III,<0.01;0.02;0.03;0.04;0.05;0.06;0.07;0.08;0.09;0.1>,6,{453=600}
+40,,Quyên góp bang hội,Số xu bang hội nhận được +%d,city/develop/train/icon_mingrenxiaoying.png,,Người nổi tiếng III,<0.01;0.02;0.03;0.04;0.05;0.06;0.07;0.08;0.09;0.1>,17,{453=600}
+41,,Phó bản quà tặng,Sản lượng tăng +%d,city/develop/train/icon_lishangwanglai.png,5,Hòa giải II,<0.01;0.02;0.03;0.04;0.05>,24,{453=600}

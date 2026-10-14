@@ -1,0 +1,33 @@
+变量名,title,title_tw,title_en,desc,desc_tw,desc_en,icon,targetType,targetCards,targetArg,targetArg2,speed,sort,isShow,languages
+默认值,"""""","""""","""""","""""","""""","""""","""""",1,<>,0,,0,99,TRUE,<cn;tw;en;vn;th>
+纪念品ID,纪念品名字,纪念品名字,纪念品名字,描述,描述,描述,图标,任务目标类型,任务目标卡牌,任务目标参数,任务目标参数2（作为type的计数判断使用）,先手值,排序,是否显示,语言区域
+1,金刚经,金剛經,Diamond Sutra,三藏兽、悟空兽、猪八戒兽、沙悟净兽共同征战关卡81次,三藏獸、悟空獸、豬八戒獸、沙悟淨獸共同征戰關卡81次,"Sanzomon, Gokumon, ChoHaikamon, Showamon clear 81 main stages together",00ShuMa/town/keepsakes/jnp4.png,1,<591;581;411;571>,81,,20,,FALSE,<cn;tw;en>
+2,情书,情書,Love Letter,天使兽、天女兽在征战关卡对战52次,天使獸、天女獸在征戰關卡對戰52次,"Angemon, Angewomon clear 52 main stages together",00ShuMa/town/keepsakes/jnp8.png,2,<61;71>,52,,30,,FALSE,<cn;tw;en>
+3,八心八箭,八心八箭,Hearts & Arrows,第一部中八个孩子的搭档数码兽<亚古兽、比多兽、天使兽、天女兽、花仙兽、比丘兽、加鲁鲁兽、海狮兽>同时支援小镇生产,第一部中八個孩子的搭檔數碼獸<亞古獸、比多獸、天使獸、天女獸、花仙獸、比丘獸、加魯魯獸、海獅獸>同時支援小鎮生產,"First digimon series partner<Augmon, Biyomon, Angemon, Angewomon, Lilymon, Tentomon, Garurumon, Ikkakumon> assist at the same time for town to take effect",00ShuMa/town/keepsakes/jnp1.png,4,<1;11;21;31;41;51;61;71>,0,,20,,FALSE,<cn;tw;en>
+4,机械天使,機械天使,Mechanical Angel,三大天使（天使、天女、智天使）共同征战关卡100次,三大天使（天使、天女、智天使）共同征戰關卡100次,"Three Big Angels (Angemon, Angewomon, Cherubimon) clear 100 main stages together",00ShuMa/town/keepsakes/jnp3.png,1,<61;71;371>,100,,30,,FALSE,<cn;tw;en>
+5,垂耀熔斧,垂耀熔斧,Flourishing Axe,在探索中击杀黑暗四天王<海龙兽、小丑皇、机械邪龙、木偶兽>48次,在探索中擊殺黑暗四天王<海龍獸、小丑皇、機械邪龍、木偶獸>48次,"In sky exploration, kill the four darkness masters <Metal Seadramon, Piedmon, Mugendramon, Puppetmon> 48 times",00ShuMa/town/keepsakes/jnp2.png,6,<431;441;391;421>,48,,20,,FALSE,<cn;tw;en>
+6,圣女守护,聖女守護,Holy Virgin,助战技能在征战中击杀敌人24次,助戰技能在征戰中擊殺敵人24次,Using assistant skill to kill the enemy 24 times in the battle,00ShuMa/town/keepsakes/jnp10.png,8,,24,,10,,,<cn;tw;en>
+7,平安御,平安禦,Peace Omamori,助战技能在征战中造成102400点伤害,助戰技能在征戰中造成102400點傷害,Using assistant skill to cause 102400 DMG in the battle,00ShuMa/town/keepsakes/jnp7.png,9,,102400,,10,,FALSE,<cn;tw;en>
+8,六耳猕猴,六耳獼猴,Six-Ear Macaque,用与被净化数码兽相同的数码兽，净化10次,用與被淨化數碼獸相同的數碼獸，淨化10次,Purify 10 times with the same Digimon as the purified Digimon,00ShuMa/town/keepsakes/jnp5.png,7,,10,,15,,FALSE,<cn;tw;en>
+9,闲弈,閑弈,Carefree Game,通过合体数码兽支援额外产出10000资源,通過合體數碼獸支援額外產出10000資源,"Get additional 10,000 resources through the Fusion Digimon Support",00ShuMa/town/keepsakes/jnp9.png,5,<2001;2011;2021;2031>,10000,,15,,FALSE,<cn;tw;en>
+10,小屋微景,小屋微景,Cabin View,首次开启数码基地,首次開啟數碼基地,Open digital base for the first time,00ShuMa/town/keepsakes/jnp12.png,10,,,,10,1,,<cn;tw;en>
+11,香槟,香檳,Champagne,首次开启基地小屋,首次開啟基地小屋,Open digital base cabin for the first time,00ShuMa/town/keepsakes/jnp16.png,11,,1,,15,6,,<cn;tw;en>
+12,乐高亚古,樂高亞古,Lego Yagu,开启小屋2层,開啟小屋2層,Open 2 floors for cabin,00ShuMa/town/keepsakes/jnp6.png,11,,2,,10,,,<cn;tw;en>
+13,变形金刚,變形金剛,Transformers,拥有30件家具,擁有30件傢俱,Own 30 pieces of furniture,00ShuMa/town/keepsakes/jnp11.png,12,,30,,20,7,,<cn;tw;en>
+14,独角兽,獨角獸,Unicorn,完成50次占卜,完成50次占卜,Complete 50 divinations,00ShuMa/town/keepsakes/jnp13.png,13,,50,,15,4,,<cn;tw;en>
+15,贝笛,貝笛,Reed,完成占卜屋图鉴收集,完成占卜屋圖鑒收集,Complete the collection of the illustrated handbook for divination house,00ShuMa/town/keepsakes/jnp15.png,14,,8,,30,5,,<cn;tw;en>
+16,留声机,留聲機,Phonograph,完成大厅的第一次扩建,完成大廳的第一次擴建,Complete the first expansion of the hall,00ShuMa/town/keepsakes/jnp17.png,15,,1,,20,2,,<cn;tw;en>
+17,诺亚,諾亞,Noah,完成大厅的第二次扩建,完成大廳的第二次擴建,Complete the second expansion of the hall,00ShuMa/town/keepsakes/jnp14.png,15,,2,,30,3,,<cn;tw;en>
+18,黄金榴莲,黃金榴槤,Golden Durian,激战法易路岛中选择鼻涕兽取得12次胜利,激戰法易路島中選擇鼻涕獸取得12次勝利,Choose the Numemon to win 12 victories in the fierce battle of Fayilu Island,00ShuMa/town/keepsakes/jnp18.png,25,<531>,12,,30,,,<cn;tw;en>
+19,家教机,家教機,Tutor,探索中连续答错6题,探索中連續答錯6題,Continuously answering 6 wrong questions in the exploration,00ShuMa/town/keepsakes/jnp19.png,17,,6,,30,,FALSE,<cn;tw;en>
+20,探索学案,探索學案,Exploring Case,探索中连续答对10题,探索中連續答對10題,Continuously answering 10 right questions in the exploration,00ShuMa/town/keepsakes/jnp20.png,16,,10,,30,,FALSE,<cn;tw;en>
+21,龙肉,龍肉,Dragon Meat,驯兽师大赛中存在一队全龙阵容，出战15次（暴龙兽、机甲龙、强袭龙兽、坦克龙兽、大地暴龙兽、火龙兽、黑暗巨龙兽、海龙兽、v龙兽、多路暴龙兽、猛禽龙兽、圣骑士型帝皇龙甲兽、金甲龙兽、核龙兽、黑暴龙兽）,馴獸師大賽中存在一隊全龍陣容，出戰15次（暴龍獸、機甲龍、強襲龍獸、坦克龍獸、大地暴龍獸、火龍獸、黑暗巨龍獸、海龍獸、v龍獸、多路暴龍獸、猛禽龍獸、聖騎士型帝皇龍甲獸、金甲龍獸、核龍獸、黑暴龍獸）,"Tamer contest having all dragon formation and battle 15 times (Greymon, Exveemon, Cyberdramon, Tankdramon, Geogreymon, Agnimon, Dark Tyranomon, Seadramon, Veedramon, Dorugamon, Alphamon, Imp PM, Magnamon, Slayerdramon, Black Wargreymon)",00ShuMa/town/keepsakes/jnp21.png,18,<1;81;151;171;201;221;391;431;491;561;611;641;651;661;731>,15,6,30,,FALSE,<cn;tw;en>
+22,西洋棋,西洋棋,Chess,征战中黑白棋兽互相击杀66次（不包括副本中小怪）,征戰中黑白棋獸互相擊殺66次（不包括副本中小怪）,PawnChessmon White and Black killed each other 66 times in the battle (excluding the mobs in the copy),00ShuMa/town/keepsakes/jnp22.png,2,<461;471>,66,,15,,FALSE,<cn;tw;en>
+23,十字军,十字軍,Crusader,收集齐皇家骑士团所有成员（阿尔法兽、奥米加兽、红莲骑士兽、金甲龙兽、剑皇兽、杜纳斯兽、颅骨兽、顽固兽、究极v龙兽、八足兽、芳香兽、艾克萨兽、杰斯兽）,收集齊皇家騎士團所有成員（阿爾法獸、奧米加獸、紅蓮騎士獸、金甲龍獸、劍皇獸、杜納斯獸、顱骨獸、頑固獸、究極v龍獸、八足獸、芳香獸、艾克薩獸、傑斯獸）,"Collect all royal knights (Alphamon, Omegamon, Dukemon, Magnamon, Crusadermon, Dynasmon, Craniumon, Gankoomon, Veedramon, Kentarusmon, Duftmon, Examon, Jesmon)",00ShuMa/town/keepsakes/jnp23.png,19,<611;2021;121;641;501;511;521;481;271;741;561;451;771>,13,,50,,,<cn;tw>
+24,千纸鹤,千紙鶴,Paper Cranes,在跨服战（仅包括激战法易路岛、驯兽师大赛、跨服竞技场）中，完成3次胜利，胜利时我方队伍中仅存活1只数码兽（驯兽师大赛最终无论胜败，单个队伍的胜利达成上述条件也可记录）,在跨服戰（包括激戰法易路島、馴獸師大賽、跨服競技場）中，6位數碼獸出戰（不包括助戰），獲得勝利時僅存活1位數碼獸,"In cross mode (including manual PVP, tamer contest, cross arena), obtain 3 wins, upon winning you only left 1 digimon on the field (For tamer contest doesn’t matter win or lose, as long as 1 digimon on the field condition is met)",00ShuMa/town/keepsakes/jnp24.png,20,,3,1,50,,,<cn;tw;en>
+25,超越鲤,超越鯉,Beyond Carp,任意模式下，助战技能击杀合体数码兽10次,任意模式下，助戰技能擊殺合體數碼獸10次,"In any mode, help the skill to kill the Fusion Digimon 10 times",00ShuMa/town/keepsakes/jnp25.png,26,<2001;2011;2021;2031>,10,,15,,,<cn;tw;en>
+26,四面骰子,四面骰子,Four-Sided Dice,矿战中连续抢夺失败10次,礦戰中連續搶奪失敗10次,10 consecutive failures in the mine war,00ShuMa/town/keepsakes/jnp26.png,21,,10,,20,,FALSE,<cn;tw;en>
+27,羽扇,羽扇,Feather Fan,激战法易路岛比赛中，我方选取13资质数码兽出战并获得胜利3次,激戰法易路島比賽中，我方選取13資質數碼獸出戰並獲得勝利3次,"In the fierce battle of Fayilu Island, we selected potential 13 Digimonto play and won 3 times.",00ShuMa/town/keepsakes/jnp27.png,27,,3,13,30,,FALSE,<cn;tw;en>
+28,魔术礼帽,魔術禮帽,Magic Hat,获得20个纪念品,獲得20個紀念品,Get 20 souvenirs,00ShuMa/town/keepsakes/jnp28.png,22,,20,,20,,,<cn;tw;en>
+29,花仙炮,花仙炮,Flower Cannon,拥有一组好感度达到敬爱的数码精神,擁有一組好感度達到敬愛的數碼精神,Have a good sense of love to achieve the digital spirit of respect,00ShuMa/town/keepsakes/jnp29.png,23,,1,201,15,,,<cn;tw;en>
+30,麦克风,麥克風,Microphone,基地大厅获得10个赞,基地大廳獲得10個贊,Base hall gets 10 likes,00ShuMa/town/keepsakes/jnp30.png,24,,10,,10,,,<cn;tw;en>

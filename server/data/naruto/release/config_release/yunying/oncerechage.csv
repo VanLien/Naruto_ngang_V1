@@ -1,0 +1,24 @@
+﻿VariableName,award,desc,huodongID,icon,needRmb
+Defaults,{},,0,,1
+ID,award,desc,huodongID,icon,needRmb
+1,{rmb=6480},Nạp một lần 6480 vàng,3001,activity/once_recharge_award/icon_czfz1.png,6480
+2,{rmb=3280},Nạp một lần 3280 vàng,3001,activity/once_recharge_award/icon_czfz2.png,3280
+3,{rmb=1980},Nạp một lần 1980 vàng,3001,activity/once_recharge_award/icon_czfz3.png,1980
+4,{rmb=980},Nạp một lần 980 vàng,3001,activity/once_recharge_award/icon_czfz4.png,980
+5,{rmb=600},Nạp một lần 600 vàng,3001,activity/once_recharge_award/icon_czfz5.png,600
+6,{rmb=300},Nạp một lần 300 vàng,3001,activity/once_recharge_award/icon_czfz6.png,300
+7,{rmb=60},Nạp một lần 60 vàng,3001,activity/once_recharge_award/icon_czfz7.png,60
+11,{rmb=6480},Nạp một lần 6480 vàng,3003,activity/once_recharge_award/icon_czfz1.png,6480
+12,{rmb=3280},Nạp một lần 3280 vàng,3003,activity/once_recharge_award/icon_czfz2.png,3280
+13,{rmb=1980},Nạp một lần 1980 vàng,3003,activity/once_recharge_award/icon_czfz3.png,1980
+14,{rmb=980},Nạp một lần 980 vàng,3003,activity/once_recharge_award/icon_czfz4.png,980
+15,{rmb=600},Nạp một lần 600 vàng,3003,activity/once_recharge_award/icon_czfz5.png,600
+16,{rmb=300},Nạp một lần 300 vàng,3003,activity/once_recharge_award/icon_czfz6.png,300
+17,{rmb=60},Nạp một lần 60 vàng,3003,activity/once_recharge_award/icon_czfz7.png,60
+21,{rmb=3880},Nạp một lần 6480 vàng,3004,activity/once_recharge_award/icon_czfz1.png,6480
+22,{rmb=2080},Nạp một lần 3280 vàng,3004,activity/once_recharge_award/icon_czfz2.png,3280
+23,{rmb=1280},Nạp một lần 1980 vàng,3004,activity/once_recharge_award/icon_czfz3.png,1980
+24,{rmb=680},Nạp một lần 980 vàng,3004,activity/once_recharge_award/icon_czfz4.png,980
+25,{rmb=460},Nạp một lần 600 vàng,3004,activity/once_recharge_award/icon_czfz5.png,600
+26,{rmb=280},Nạp một lần 300 vàng,3004,activity/once_recharge_award/icon_czfz6.png,300
+27,{rmb=60},Nạp một lần 60 vàng,3004,activity/once_recharge_award/icon_czfz7.png,60

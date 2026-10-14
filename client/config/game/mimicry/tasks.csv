@@ -1,0 +1,459 @@
+﻿VariableName,award,languages,mimicryAchievement,specialArg,targetArg,targetArg2,type,version
+Defaults,{},<cn>,,<>,0,0,1,0
+ID,award,languages,mimicryAchievement,specialArg,targetArg,targetArg2,type,version
+1001,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 5 lần,,,5,5,2
+1002,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 10 lần,,,10,5,2
+1003,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 15 lần,,,15,5,2
+1004,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 20 lần,,,20,5,2
+1101,{gold=50000;901=5;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất xanh lá,,1,4,2,2
+1102,{gold=50000;901=10;161=20},,Trong lượt này nhận 8 buff Boss phẩm chất xanh lá,,1,8,2,2
+1111,{gold=50000;901=5;161=20},,Trong lượt này nhận 3 buff Boss phẩm chất xanh lam,,2,3,2,2
+1112,{gold=50000;901=10;161=20},,Trong lượt này nhận 6 buff Boss phẩm chất xanh lam,,2,6,2,2
+1121,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất tím,,3,2,2,2
+1122,{gold=50000;930=20;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất tím,,3,4,2,2
+1131,{gold=50000;930=20;161=20},,Trong lượt này nhận 1 buff Boss phẩm chất cam,,4,1,2,2
+1132,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất cam,,4,2,2,2
+1201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh lam, thách đấu Boss 5 lần",<1;2>,,5,7,2
+1202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, thách đấu Boss 4 lần",<3>,,4,7,2
+1203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh lam và tím, thách đấu Boss 2 lần",<1;2;3>,,2,7,2
+1204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, thách đấu Boss 2 lần",<1;2;3;4>,,2,7,2
+1301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia thách đấu Boss 1 lần,<1025>,,1,6,2
+1302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia thách đấu Boss 1 lần,<1042>,,1,6,2
+1303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia thách đấu Boss 1 lần,<1226>,,1,6,2
+2001,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 5 lần,,,5,5,3
+2002,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 10 lần,,,10,5,3
+2003,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 15 lần,,,15,5,3
+2004,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 20 lần,,,20,5,3
+2101,{gold=50000;901=5;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất xanh lá,,1,4,2,3
+2102,{gold=50000;901=10;161=20},,Trong lượt này nhận 8 buff Boss phẩm chất xanh lá,,1,8,2,3
+2111,{gold=50000;901=5;161=20},,Trong lượt này nhận 3 buff Boss phẩm chất xanh lam,,2,3,2,3
+2112,{gold=50000;901=10;161=20},,Trong lượt này nhận 6 buff Boss phẩm chất xanh lam,,2,6,2,3
+2121,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất tím,,3,2,2,3
+2122,{gold=50000;930=20;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất tím,,3,4,2,3
+2131,{gold=50000;930=20;161=20},,Trong lượt này nhận 1 buff Boss phẩm chất cam,,4,1,2,3
+2132,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất cam,,4,2,2,3
+2201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh lam, thách đấu Boss 5 lần",<1;2>,,5,7,3
+2202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, thách đấu Boss 4 lần",<3>,,4,7,3
+2203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh lam và tím, thách đấu Boss 2 lần",<1;2;3>,,2,7,3
+2204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, thách đấu Boss 2 lần",<1;2;3;4>,,2,7,3
+2301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia thách đấu Boss 1 lần,<3021>,,1,6,3
+2302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia thách đấu Boss 1 lần,<3031>,,1,6,3
+2303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia thách đấu Boss 1 lần,<3041>,,1,6,3
+3001,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 5 lần,,,5,5,4
+3002,{gold=50000;930=20;161=30},,Thách đấu Boss Abyss 10 lần,,,10,5,4
+3003,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 15 lần,,,15,5,4
+3004,{gold=50000;930=20;161=50},,Thách đấu Boss Abyss 20 lần,,,20,5,4
+3101,{gold=50000;901=5;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất xanh lá,,1,4,2,4
+3102,{gold=50000;901=10;161=20},,Trong lượt này nhận 8 buff Boss phẩm chất xanh lá,,1,8,2,4
+3111,{gold=50000;901=5;161=20},,Trong lượt này nhận 3 buff Boss phẩm chất xanh lam,,2,3,2,4
+3112,{gold=50000;901=10;161=20},,Trong lượt này nhận 6 buff Boss phẩm chất xanh lam,,2,6,2,4
+3121,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất tím,,3,2,2,4
+3122,{gold=50000;930=20;161=20},,Trong lượt này nhận 4 buff Boss phẩm chất tím,,3,4,2,4
+3131,{gold=50000;930=20;161=20},,Trong lượt này nhận 1 buff Boss phẩm chất cam,,4,1,2,4
+3132,{gold=50000;930=20;161=20},,Trong lượt này nhận 2 buff Boss phẩm chất cam,,4,2,2,4
+3201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh lam, thách đấu Boss 5 lần",<1;2>,,5,7,4
+3202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,4
+3203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,4
+3204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,4
+3301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,4
+3302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,4
+3303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,4
+4001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,5
+4002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,5
+4003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,5
+4004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,5
+4101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,5
+4102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,5
+4111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,5
+4112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,5
+4121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,5
+4122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,5
+4131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,5
+4132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,5
+4201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,5
+4202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,5
+4203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,5
+4204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,5
+4301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,5
+4302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,5
+4303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,5
+5001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,6
+5002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,6
+5003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,6
+5004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,6
+5101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,6
+5102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,6
+5111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,6
+5112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,6
+5121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,6
+5122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,6
+5131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,6
+5132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,6
+5201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,6
+5202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,6
+5203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,6
+5204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,6
+5301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,6
+5302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,6
+5303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,6
+6001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,1
+6002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,1
+6003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,1
+6004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,1
+6101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,1
+6102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,1
+6111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,1
+6112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,1
+6121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,1
+6122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,1
+6131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,1
+6132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,1
+6201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,1
+6202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,1
+6203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,1
+6204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,1
+6301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,1
+6302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,1
+6303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,1
+7001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,7
+7002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,7
+7003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,7
+7004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,7
+7101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,7
+7102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,7
+7111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,7
+7112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,7
+7121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,7
+7122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,7
+7131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,7
+7132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,7
+7201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,7
+7202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,7
+7203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,7
+7204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,7
+7301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,7
+7302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,7
+7303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,7
+8001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,8
+8002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,8
+8003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,8
+8004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,8
+8101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,8
+8102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,8
+8111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,8
+8112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,8
+8121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,8
+8122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,8
+8131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,8
+8132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,8
+8201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,8
+8202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,8
+8203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,8
+8204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,8
+8301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,8
+8302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,8
+8303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,8
+9001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,9
+9002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,9
+9003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,9
+9004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,9
+9101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,9
+9102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,9
+9111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,9
+9112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,9
+9121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,9
+9122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,9
+9131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,9
+9132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,9
+9201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,9
+9202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,9
+9203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,9
+9204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,9
+9301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,9
+9302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,9
+9303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,9
+10001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,10
+10002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,10
+10003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,10
+10004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,10
+10101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,10
+10102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,10
+10111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,10
+10112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,10
+10121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,10
+10122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,10
+10131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,10
+10132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,10
+10201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,10
+10202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,10
+10203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,10
+10204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,10
+10301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,10
+10302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,10
+10303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,10
+11001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,11
+11002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,11
+11003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,11
+11004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,11
+11101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,11
+11102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,11
+11111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,11
+11112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,11
+11121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,11
+11122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,11
+11131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,11
+11132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,11
+11201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,11
+11202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,11
+11203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,11
+11204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,11
+11301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,11
+11302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,11
+11303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,11
+12001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,12
+12002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,12
+12003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,12
+12004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,12
+12101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,12
+12102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,12
+12111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,12
+12112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,12
+12121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,12
+12122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,12
+12131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,12
+12132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,12
+12201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,12
+12202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,12
+12203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,12
+12204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,12
+12301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,12
+12302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,12
+12303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,12
+13001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,13
+13002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,13
+13003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,13
+13004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,13
+13101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,13
+13102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,13
+13111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,13
+13112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,13
+13121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,13
+13122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,13
+13131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,13
+13132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,13
+13201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,13
+13202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,13
+13203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,13
+13204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,13
+13301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,13
+13302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,13
+13303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,13
+14001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,14
+14002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,14
+14003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,14
+14004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,14
+14101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,14
+14102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,14
+14111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,14
+14112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,14
+14121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,14
+14122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,14
+14131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,14
+14132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,14
+14201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,14
+14202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,14
+14203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,14
+14204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,14
+14301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,14
+14302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,14
+14303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,14
+15001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,15
+15002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,15
+15003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,15
+15004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,15
+15101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,15
+15102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,15
+15111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,15
+15112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,15
+15121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,15
+15122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,15
+15131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,15
+15132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,15
+15201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,15
+15202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,15
+15203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,15
+15204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,15
+15301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,15
+15302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,15
+15303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,15
+16001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,16
+16002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,16
+16003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,16
+16004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,16
+16101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,16
+16102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,16
+16111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,16
+16112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,16
+16121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,16
+16122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,16
+16131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,16
+16132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,16
+16201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,16
+16202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,16
+16203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,16
+16204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,16
+16301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,16
+16302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,16
+16303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,16
+17001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,17
+17002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,17
+17003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,17
+17004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,17
+17101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,17
+17102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,17
+17111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,17
+17112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,17
+17121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,17
+17122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,17
+17131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,17
+17132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,17
+17201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,17
+17202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,17
+17203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,17
+17204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,17
+17301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,17
+17302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,17
+17303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,17
+18001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,18
+18002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,18
+18003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,18
+18004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,18
+18101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,18
+18102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,18
+18111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,18
+18112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,18
+18121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,18
+18122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,18
+18131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,18
+18132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,18
+18201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,18
+18202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,18
+18203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,18
+18204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,18
+18301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,18
+18302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,18
+18303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,18
+19001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,19
+19002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,19
+19003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,19
+19004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,19
+19101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,19
+19102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,19
+19111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,19
+19112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,19
+19121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,19
+19122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,19
+19131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,19
+19132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,19
+19201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,19
+19202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,19
+19203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,19
+19204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,19
+19301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,19
+19302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,19
+19303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,19
+20001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,20
+20002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,20
+20003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,20
+20004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,20
+20101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,20
+20102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,20
+20111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,20
+20112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,20
+20121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,20
+20122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,20
+20131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,20
+20132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,20
+20201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,20
+20202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,20
+20203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,20
+20204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,20
+20301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,20
+20302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,20
+20303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,20
+21001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,21
+21002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,21
+21003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,21
+21004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,21
+21101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,21
+21102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,21
+21111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,21
+21112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,21
+21121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,21
+21122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,21
+21131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,21
+21132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,21
+21201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,21
+21202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,21
+21203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,21
+21204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,21
+21301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,21
+21302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,21
+21303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,21
+22001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,22
+22002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,22
+22003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,22
+22004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,22
+22101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,22
+22102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,22
+22111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,22
+22112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,22
+22121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,22
+22122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,22
+22131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,22
+22132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,22
+22201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,22
+22202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,22
+22203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,22
+22204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,22
+22301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,22
+22302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,22
+22303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,22
+23001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,23
+23002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,23
+23003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,23
+23004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,23
+23101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,23
+23102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,23
+23111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,23
+23112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,23
+23121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,23
+23122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,23
+23131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,23
+23132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,23
+23201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,23
+23202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,23
+23203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,23
+23204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,23
+23301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,23
+23302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,23
+23303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,23
+24001,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 5 lần,,,5,5,24
+24002,{gold=50000;930=20;161=30},,Khiêu chiến Boss Abyss 10 lần,,,10,5,24
+24003,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 15 lần,,,15,5,24
+24004,{gold=50000;930=20;161=50},,Khiêu chiến Boss Abyss 20 lần,,,20,5,24
+24101,{gold=50000;901=5;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất xanh lá,,1,4,2,24
+24102,{gold=50000;901=10;161=20},,Trong lượt này nhận được 8 buff Boss phẩm chất xanh lá,,1,8,2,24
+24111,{gold=50000;901=5;161=20},,Trong lượt này nhận được 3 buff Boss phẩm chất xanh dương,,2,3,2,24
+24112,{gold=50000;901=10;161=20},,Trong lượt này nhận được 6 buff Boss phẩm chất xanh dương,,2,6,2,24
+24121,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất tím,,3,2,2,24
+24122,{gold=50000;930=20;161=20},,Trong lượt này nhận được 4 buff Boss phẩm chất tím,,3,4,2,24
+24131,{gold=50000;930=20;161=20},,Trong lượt này nhận được 1 buff Boss phẩm chất cam,,4,1,2,24
+24132,{gold=50000;930=20;161=20},,Trong lượt này nhận được 2 buff Boss phẩm chất cam,,4,2,2,24
+24201,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá và xanh dương, khiêu chiến Boss 5 lần",<1;2>,,5,7,24
+24202,{gold=50000;930=30;161=40},,"Trang bị đầy đủ buff Boss phẩm chất tím, khiêu chiến Boss 4 lần",<3>,,4,7,24
+24203,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss phẩm chất xanh lá, xanh dương và tím, khiêu chiến Boss 2 lần",<1;2;3>,,2,7,24
+24204,{gold=50000;talent_point=1;161=50},,"Trang bị đầy đủ buff Boss tất cả phẩm chất, khiêu chiến Boss 2 lần",<1;2;3;4>,,2,7,24
+24301,{gold=50000;14=10;161=30},,Đưa Kakashi (Kamui) tham gia khiêu chiến Boss 1 lần,<1025>,,1,6,24
+24302,{gold=50000;14=10;161=30},,Đưa Might Guy (Gate of Shock) tham gia khiêu chiến Boss 1 lần,<1042>,,1,6,24
+24303,{gold=50000;14=10;161=30},,Đưa Tsunade (Byakugō) tham gia khiêu chiến Boss 1 lần,<1226>,,1,6,24

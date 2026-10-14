@@ -1,0 +1,13 @@
+﻿VariableName,probability,desc
+Defaults,0,""""""
+ID,probability,desc
+1,100,Chắc chắn thành công
+2,90,Gần như chắc chắn thành công
+3,80,Tỷ lệ thành công cực cao
+4,70,Tỷ lệ thành công rất cao
+5,50,Tỷ lệ thành công cao
+6,40,Tỷ lệ thành công trên trung bình
+7,20,Tỷ lệ thành công trung bình
+8,10,Tỷ lệ thành công thấp
+9,5,Tỷ lệ thành công rất thấp
+10,,Tỷ lệ thành công cực thấp

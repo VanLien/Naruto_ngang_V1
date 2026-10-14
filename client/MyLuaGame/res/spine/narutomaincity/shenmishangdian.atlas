@@ -1,0 +1,41 @@
+
+shenmishangdian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures_guangyun_01
+  rotate: false
+  xy: 174, 125
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_48_rd
+  rotate: false
+  xy: 304, 125
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smsd_di
+  rotate: false
+  xy: 2, 95
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+smsd_ren
+  rotate: true
+  xy: 2, 2
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+smsd_zi
+  rotate: true
+  xy: 434, 152
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1

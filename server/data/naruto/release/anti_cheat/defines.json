@@ -1,0 +1,90 @@
+{
+  "agent.dev.1": {
+    "debug": false,
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "mainnsqd": "110.172.29.223:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.1"
+      }
+    ]
+  },
+  "agent.en.1": {
+    "debug": false,
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "mainnsqd": "15.235.218.69:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.en.1"
+      }
+    ]
+  },
+  "agent.th.1": {
+    "debug": false,
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "mainnsqd": "15.235.181.86:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.th.1"
+      }
+    ]
+  },
+  "agent.vn.1": {
+    "debug": false,
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.1"
+      }
+    ]
+  },
+  "agent.vn.2": {
+    "debug": false,
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.2"
+      }
+    ]
+  },
+  "agent.vn.3": {
+    "debug": false,
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.3"
+      }
+    ]
+  },
+  "agent.vn.4": {
+    "debug": false,
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.4"
+      }
+    ]
+  },
+  "agent.vn.5": {
+    "debug": false,
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "error_not_force_result": true,
+        "name": "anticheat.vn.5"
+      }
+    ]
+  }
+}

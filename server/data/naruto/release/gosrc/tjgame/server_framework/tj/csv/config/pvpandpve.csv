@@ -1,0 +1,16 @@
+变量名,desc,clientFeature,type,sortIndex,flag,icon,lockbg1,lockbg2,serverDayTip,levelTip,unionTip,uniocnFeature,serverDayInfo,goto
+默认值,"""""","""""","""""",0,0,"""""","""""","""""",0,0,0,,,""""""
+序号,系统描述,功能key,系统类型，属于pvp or pve,排序优先级（小的在前）,该配置是否有效（0有效;1无效）,item背景图,锁背景图1,锁背景图2,开服天数提示（error id）,等级不足提示（error id）,公会等级不足提示（error id）,公会等级需求（union_level 表openFeature字段）,开服天数需求,跳转字段
+1,活动关卡,ACTIVITYGATE,pve,1,,00ShuMa/JJC_res/jingji/bg_huodong.png,00ShuMa/JJC_res/jingji/bg_fengtiao_g1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_g0.png,,40012,,,,tiaozhan
+2,数码试炼,LASTBATTLE,pve,2,,00ShuMa/JJC_res/jingji/bg_shilian.png,00ShuMa/JJC_res/jingji/bg_fengtiao_o1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_o0.png,,40011,,,,yuanzheng
+3,数码净化,CLONE,pve,3,,00ShuMa/JJC_res/jingji/bg_jinghua.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p0.png,,40021,,,,kelongshou
+4,王者之战,CRAFT,pvp,2,,00ShuMa/JJC_res/jingji/bg_wangzhezhizhan.png,00ShuMa/JJC_res/jingji/bg_fengtiao_o1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_o0.png,3527,3528,,,{sevCsv = csv.craft.base[1].servOpenDays;funcType = less},craft
+5,公会战,UNIONFIGHT,pvp,3,,00ShuMa/JJC_res/jingji/bg_gonghuizhan.png,00ShuMa/JJC_res/jingji/bg_fengtiao_y1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_y0.png,4307,4309,4308,unionfight,{sevCsv1 = csv.sysopen[5].openseq[1];sevCsv2  = csv.sysopen[5].serverday;funcType = fullweek},gonghuizhan
+6,跨服王者之战,ACROSSCRAFT,pvp,4,,00ShuMa/JJC_res/jingji/bg_kuafuwangzhe.png,00ShuMa/JJC_res/jingji/bg_fengtiao_r1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_r0.png,341,342,,,{sevCsv = csv.cross.craft.base[1].servOpenDays;funcType = less},serverPvp
+7,竞技场,JJC,pvp,1,,00ShuMa/JJC_res/jingji/bg_jinjichang.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b0.png,,40010,,,,pvp
+8,跨服矿战,CROSSMINE,pvp,5,,00ShuMa/JJC_res/jingji/bg_kuafukuangzhan.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p0.png,370,371,,,{sevCsv =csv.cross.mine.base[1].servOpenDays;funcType = less},crossmine
+9,探索,EXPLORE,pve,4,,00ShuMa/JJC_res/jingji/bg_tansuo.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b0.png,,4916,,,,explore
+10,跨服竞技场,CROSS_ARENA,pvp,7,,00ShuMa/JJC_res/jingji/kfjjc-mb.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b0.png,5203,5204,,,{sevCsv =csv.cross.arena.base[1].servOpenDays;funcType = less},crossarena
+11,跨服匹配对战,CROSS_SUPREMACY,pvp,8,,00ShuMa/JJC_res/jingji/kfzb.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p0.png,5205,5206,,,{sevCsv =csv.cross.supremacy.base[1].servOpenDays;funcType = less},crosssupremacy
+12,实时匹配对战,ONLINE_PVP,pvp,6,,00ShuMa/JJC_res/jingji/ssdz.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_b0.png,5611,5612,,,{sevCsv =csv.cross.online_pvp.base[1].servOpenDays;funcType = less},online_pvp
+13,黑暗之塔,DARK_TOWER,pve,5,,00ShuMa/JJC_res/jingji/bg_wjdl.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p1.png,00ShuMa/JJC_res/jingji/bg_fengtiao_p0.png,,40146,,,,dark_tower

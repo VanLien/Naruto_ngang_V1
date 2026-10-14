@@ -1,0 +1,6 @@
+﻿VariableName,bossRes,effectName
+Defaults,,
+ID,bossRes,effectName
+1,crossmine/q_bossrukou.skel,standby_loop3
+2,crossmine/q_bossrukou.skel,standby_loop2
+3,crossmine/q_bossrukou.skel,standby_loop1

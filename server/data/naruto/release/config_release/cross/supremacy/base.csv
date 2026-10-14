@@ -1,0 +1,4 @@
+﻿VariableName,deductWeight,formulaValidBeginGrade,initWeight,matchTime,openWholeMatchBeginGrade,robotNumInGrade,servOpenDays,topBattleHistoryPeriods,topBattleLastHP,topBattleRank,topBattleRound,winStreakCount,winStreakGradeLimit,winStreakScoreAward
+Defaults,,,,,,,,<>,0,0,0,,,0
+ID,deductWeight,formulaValidBeginGrade,initWeight,matchTime,openWholeMatchBeginGrade,robotNumInGrade,servOpenDays,topBattleHistoryPeriods,topBattleLastHP,topBattleRank,topBattleRound,winStreakCount,winStreakGradeLimit,winStreakScoreAward
+1,2,13,30,6,7,20,1,<10;11;12;13;17;18;19;20>,0.5,10,4,5,5,10

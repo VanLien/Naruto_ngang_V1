@@ -1,0 +1,19 @@
+﻿VariableName,frontType,name,showType
+Defaults,0,,0
+ID,frontType,name,showType
+1,,Mặt sàn,
+2,,Tường,
+3,,Nội thất,
+101,21,Sàn nhà,1
+102,23,Thảm,1
+201,22,Giấy dán tường,2
+202,25,Công trình chức năng,2
+203,25,Cửa và cửa sổ,2
+204,25,Nghệ thuật,2
+301,24,Bàn,3
+302,24,Ghế,3
+303,24,Đồ gia dụng,3
+304,24,Lưu trữ,3
+305,24,Bếp và phòng tắm,3
+306,24,Trang trí,3
+307,24,Khác,3

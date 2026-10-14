@@ -1,0 +1,8 @@
+﻿VariableName,amount,award,daySum,desc,huodongID,special
+Defaults,0,{},-1,,0,{}
+ID,amount,award,daySum,desc,huodongID,special
+1051,6480,{519=20;930=20;539=10},1,Nạp tích lũy 648 vàng,4106,
+1052,6480,{519=30;520=10;539=15},2,Nạp tích lũy 648 vàng,4106,
+1053,6480,{2103=30;526=10;539=20},3,Nạp tích lũy 648 vàng,4106,
+1054,6480,{gold=100000;526=20;540=20},4,Nạp tích lũy 648 vàng,4106,
+1055,6480,{gold=300000;526=20;540=30},5,Nạp tích lũy 648 vàng,4106,{947=1}

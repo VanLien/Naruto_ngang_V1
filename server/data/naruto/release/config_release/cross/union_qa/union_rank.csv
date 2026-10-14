@@ -1,0 +1,12 @@
+﻿VariableName,award,rankMax,version
+Defaults,{},,0
+ID,award,rankMax,version
+1,{gold=600000;rmb=200;coin3=800},1,
+2,{gold=525000;rmb=170;coin3=600},2,
+3,{gold=450000;rmb=150;coin3=450},3,
+4,{gold=375000;rmb=130;coin3=350},4,
+5,{gold=300000;rmb=110;coin3=300},6,
+6,{gold=225000;rmb=100;coin3=270},8,
+7,{gold=195000;rmb=90;coin3=240},16,
+8,{gold=165000;rmb=80;coin3=220},32,
+9,{gold=150000;rmb=70;coin3=200},99999,

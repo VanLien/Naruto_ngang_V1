@@ -1,0 +1,222 @@
+
+zhuanhuanzhuangzhi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan_lianjiimage
+  rotate: false
+  xy: 482, 10
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_0
+  rotate: false
+  xy: 1563, 377
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_1
+  rotate: false
+  xy: 1685, 377
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_10
+  rotate: false
+  xy: 1356, 74
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_11
+  rotate: false
+  xy: 1478, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_2
+  rotate: false
+  xy: 1807, 377
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_3
+  rotate: false
+  xy: 1431, 245
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_4
+  rotate: false
+  xy: 1250, 196
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_5
+  rotate: false
+  xy: 990, 164
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_6
+  rotate: false
+  xy: 1112, 164
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_7
+  rotate: false
+  xy: 984, 42
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_8
+  rotate: false
+  xy: 1106, 42
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dn_alch_smoke_loop_sheet-4_9
+  rotate: false
+  xy: 1234, 74
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hx
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 1431, 367
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+yanwu1
+  rotate: false
+  xy: 990, 286
+  size: 258, 211
+  orig: 258, 211
+  offset: 0, 0
+  index: -1
+zs_and
+  rotate: false
+  xy: 1250, 318
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+zs_ang
+  rotate: false
+  xy: 740, 71
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+zs_anz
+  rotate: true
+  xy: 1929, 378
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+zs_gc
+  rotate: true
+  xy: 482, 268
+  size: 229, 506
+  orig: 229, 506
+  offset: 0, 0
+  index: -1
+zs_jia
+  rotate: false
+  xy: 740, 11
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+zs_yp
+  rotate: false
+  xy: 2, 26
+  size: 478, 471
+  orig: 478, 471
+  offset: 0, 0
+  index: -1
+
+zhuanhuanzhuangzhi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/ganraoxian
+  rotate: false
+  xy: 2, 11
+  size: 256, 106
+  orig: 256, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 2, 119
+  size: 316, 314
+  orig: 316, 314
+  offset: 0, 0
+  index: -1
+TX/h
+  rotate: false
+  xy: 2, 2
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+TX/kejilizi
+  rotate: false
+  xy: 872, 819
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+TX/kejiquan
+  rotate: false
+  xy: 634, 711
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+TX/kejiquan1
+  rotate: false
+  xy: 2, 435
+  size: 630, 512
+  orig: 630, 512
+  offset: 0, 0
+  index: -1
+TX/kejixian1
+  rotate: true
+  xy: 634, 453
+  size: 256, 21
+  orig: 256, 21
+  offset: 0, 0
+  index: -1
+TX/xiangsuquan
+  rotate: false
+  xy: 320, 352
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+yunhsi4.png
+size: 909,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 1, 1
+  size: 493, 490
+  orig: 493, 490
+  offset: 0, 0
+  index: -1
+kanji1_2
+  rotate: false
+  xy: 496, 241
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 748, 326
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+skill2_2_1
+  rotate: false
+  xy: 496, 43
+  size: 197, 196
+  orig: 210, 210
+  offset: 8, 9
+  index: -1
+xuanhzong
+  rotate: false
+  xy: 748, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

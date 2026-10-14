@@ -1,0 +1,160 @@
+
+kakashi02_ui.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+id_1
+  rotate: false
+  xy: 1431, 153
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+id_10
+  rotate: false
+  xy: 1382, 189
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+id_11
+  rotate: false
+  xy: 1277, 144
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+id_12
+  rotate: false
+  xy: 1722, 181
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+id_13
+  rotate: false
+  xy: 378, 72
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+id_14
+  rotate: false
+  xy: 133, 26
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+id_15
+  rotate: false
+  xy: 1855, 199
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+id_16
+  rotate: true
+  xy: 1629, 181
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+id_17
+  rotate: true
+  xy: 2, 65
+  size: 189, 270
+  orig: 189, 270
+  offset: 0, 0
+  index: -1
+id_18
+  rotate: false
+  xy: 871, 105
+  size: 155, 149
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+id_19
+  rotate: true
+  xy: 274, 128
+  size: 126, 296
+  orig: 126, 296
+  offset: 0, 0
+  index: -1
+id_2
+  rotate: true
+  xy: 1382, 144
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+id_20
+  rotate: true
+  xy: 572, 164
+  size: 90, 297
+  orig: 90, 297
+  offset: 0, 0
+  index: -1
+id_23
+  rotate: true
+  xy: 1529, 172
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+id_24
+  rotate: false
+  xy: 1181, 134
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+id_3
+  rotate: false
+  xy: 71, 18
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+id_4
+  rotate: true
+  xy: 2, 2
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+id_5
+  rotate: false
+  xy: 274, 67
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+id_6
+  rotate: false
+  xy: 409, 96
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+id_7
+  rotate: true
+  xy: 572, 141
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+id_8
+  rotate: false
+  xy: 1791, 190
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+id_9
+  rotate: true
+  xy: 1028, 117
+  size: 137, 151
+  orig: 137, 151
+  offset: 0, 0
+  index: -1

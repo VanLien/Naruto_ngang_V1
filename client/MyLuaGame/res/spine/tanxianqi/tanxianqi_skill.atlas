@@ -1,0 +1,41 @@
+
+tanxianqi_skill.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 2, 2
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+gyun
+  rotate: false
+  xy: 253, 93
+  size: 302, 158
+  orig: 302, 158
+  offset: 0, 0
+  index: -1
+lg1
+  rotate: true
+  xy: 673, 200
+  size: 51, 126
+  orig: 51, 126
+  offset: 0, 0
+  index: -1
+screen_l1
+  rotate: false
+  xy: 253, 68
+  size: 180, 23
+  orig: 180, 23
+  offset: 0, 0
+  index: -1
+suipian
+  rotate: false
+  xy: 557, 137
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

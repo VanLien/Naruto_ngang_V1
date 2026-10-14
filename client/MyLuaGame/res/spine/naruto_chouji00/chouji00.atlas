@@ -1,0 +1,459 @@
+
+chouji00.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_attack_0001
+  rotate: true
+  xy: 622, 120
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+fx_attack_0002
+  rotate: true
+  xy: 622, 92
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+fx_circle_1
+  rotate: false
+  xy: 2, 527
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_skill_1_ball_shader
+  rotate: false
+  xy: 218, 8
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+fx_skill_2_rift
+  rotate: false
+  xy: 409, 2
+  size: 256, 78
+  orig: 256, 78
+  offset: 0, 0
+  index: -1
+fx_smoke_0_000
+  rotate: true
+  xy: 578, 155
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_001
+  rotate: false
+  xy: 578, 120
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_002
+  rotate: true
+  xy: 613, 155
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_003
+  rotate: false
+  xy: 578, 85
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_004
+  rotate: false
+  xy: 667, 47
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_005
+  rotate: false
+  xy: 711, 47
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_smoke_0_006
+  rotate: false
+  xy: 755, 47
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+fx_steamV_0
+  rotate: false
+  xy: 2, 397
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+run_loop_0009
+  rotate: false
+  xy: 2, 7
+  size: 214, 190
+  orig: 214, 190
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 638, 93
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+skill_1_0001
+  rotate: false
+  xy: 530, 621
+  size: 136, 162
+  orig: 136, 162
+  offset: 0, 0
+  index: -1
+skill_1_0004
+  rotate: false
+  xy: 409, 82
+  size: 167, 115
+  orig: 167, 115
+  offset: 0, 0
+  index: -1
+skill_1_0010
+  rotate: false
+  xy: 656, 82
+  size: 225, 302
+  orig: 225, 302
+  offset: 0, 0
+  index: -1
+skill_1_0023
+  rotate: false
+  xy: 260, 557
+  size: 268, 226
+  orig: 268, 226
+  offset: 0, 0
+  index: -1
+skill_2_0018
+  rotate: false
+  xy: 260, 386
+  size: 172, 169
+  orig: 172, 169
+  offset: 0, 0
+  index: -1
+skill_2_0026
+  rotate: false
+  xy: 883, 218
+  size: 139, 166
+  orig: 139, 166
+  offset: 0, 0
+  index: -1
+skill_2_0030
+  rotate: true
+  xy: 883, 5
+  size: 211, 136
+  orig: 211, 136
+  offset: 0, 0
+  index: -1
+skill_2_b_0094
+  rotate: true
+  xy: 668, 386
+  size: 636, 292
+  orig: 636, 292
+  offset: 0, 0
+  index: -1
+skill_2_b_0122
+  rotate: false
+  xy: 2, 785
+  size: 664, 237
+  orig: 664, 237
+  offset: 0, 0
+  index: -1
+skill_2_b_0163
+  rotate: false
+  xy: 2, 199
+  size: 652, 185
+  orig: 652, 185
+  offset: 0, 0
+  index: -1
+skill_2_e_0008
+  rotate: true
+  xy: 434, 387
+  size: 168, 181
+  orig: 168, 181
+  offset: 0, 0
+  index: -1
+
+chouji002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0001
+  rotate: false
+  xy: 260, 794
+  size: 147, 226
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+attack_0004
+  rotate: false
+  xy: 245, 529
+  size: 154, 233
+  orig: 154, 233
+  offset: 0, 0
+  index: -1
+attack_0007
+  rotate: false
+  xy: 238, 289
+  size: 164, 233
+  orig: 164, 233
+  offset: 0, 0
+  index: -1
+attack_0012
+  rotate: true
+  xy: 717, 289
+  size: 201, 202
+  orig: 201, 202
+  offset: 0, 0
+  index: -1
+attack_0020
+  rotate: true
+  xy: 717, 492
+  size: 202, 206
+  orig: 202, 206
+  offset: 0, 0
+  index: -1
+attack_0022
+  rotate: true
+  xy: 724, 840
+  size: 180, 211
+  orig: 180, 211
+  offset: 0, 0
+  index: -1
+fx_circle_0
+  rotate: false
+  xy: 894, 159
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_glow_0
+  rotate: false
+  xy: 894, 29
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_skill_1_ball_swirl
+  rotate: false
+  xy: 2, 764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_trail_0
+  rotate: true
+  xy: 2, 506
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+hit_0000
+  rotate: true
+  xy: 724, 696
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: true
+  xy: 694, 3
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+run_loop_0004
+  rotate: true
+  xy: 530, 204
+  size: 152, 185
+  orig: 152, 185
+  offset: 0, 0
+  index: -1
+skill_1_0022
+  rotate: true
+  xy: 2, 252
+  size: 252, 234
+  orig: 252, 234
+  offset: 0, 0
+  index: -1
+skill_1_0042
+  rotate: true
+  xy: 2, 7
+  size: 243, 230
+  orig: 243, 230
+  offset: 0, 0
+  index: -1
+skill_2_0054
+  rotate: true
+  xy: 401, 573
+  size: 219, 151
+  orig: 219, 151
+  offset: 0, 0
+  index: -1
+skill_2_0055
+  rotate: true
+  xy: 409, 801
+  size: 219, 151
+  orig: 219, 151
+  offset: 0, 0
+  index: -1
+skill_2_0176
+  rotate: false
+  xy: 567, 417
+  size: 148, 168
+  orig: 148, 168
+  offset: 0, 0
+  index: -1
+skill_2_0183
+  rotate: false
+  xy: 132, 524
+  size: 111, 238
+  orig: 111, 238
+  offset: 0, 0
+  index: -1
+skill_2_0190
+  rotate: false
+  xy: 234, 9
+  size: 130, 241
+  orig: 130, 241
+  offset: 0, 0
+  index: -1
+skill_2_e_0022
+  rotate: false
+  xy: 530, 2
+  size: 162, 200
+  orig: 162, 200
+  offset: 0, 0
+  index: -1
+standby_loop_0000
+  rotate: false
+  xy: 366, 74
+  size: 162, 213
+  orig: 162, 213
+  offset: 0, 0
+  index: -1
+standby_loop_0003
+  rotate: false
+  xy: 404, 358
+  size: 161, 213
+  orig: 161, 213
+  offset: 0, 0
+  index: -1
+standby_loop_0006
+  rotate: false
+  xy: 554, 587
+  size: 161, 212
+  orig: 161, 212
+  offset: 0, 0
+  index: -1
+standby_loop_0008
+  rotate: false
+  xy: 562, 808
+  size: 160, 212
+  orig: 160, 212
+  offset: 0, 0
+  index: -1
+
+chouji003.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_smoke_1_000
+  rotate: false
+  xy: 530, 201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_1_001
+  rotate: false
+  xy: 660, 201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0
+  rotate: false
+  xy: 790, 205
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+run_loop_0007
+  rotate: false
+  xy: 2, 313
+  size: 192, 181
+  orig: 192, 181
+  offset: 0, 0
+  index: -1
+run_loop_0012
+  rotate: true
+  xy: 397, 340
+  size: 154, 188
+  orig: 154, 188
+  offset: 0, 0
+  index: -1
+run_loop_0014
+  rotate: true
+  xy: 196, 350
+  size: 144, 199
+  orig: 144, 199
+  offset: 0, 0
+  index: -1
+skill_1_0006
+  rotate: false
+  xy: 2, 2
+  size: 167, 113
+  orig: 167, 113
+  offset: 0, 0
+  index: -1
+skill_2_0020
+  rotate: false
+  xy: 587, 331
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+skill_2_0025
+  rotate: true
+  xy: 2, 117
+  size: 194, 160
+  orig: 194, 160
+  offset: 0, 0
+  index: -1
+skill_2_0081
+  rotate: false
+  xy: 196, 198
+  size: 181, 150
+  orig: 181, 150
+  offset: 0, 0
+  index: -1
+skill_2_e_0015
+  rotate: true
+  xy: 379, 192
+  size: 146, 149
+  orig: 146, 149
+  offset: 0, 0
+  index: -1
+skill_2_e_0019
+  rotate: true
+  xy: 767, 335
+  size: 159, 175
+  orig: 159, 175
+  offset: 0, 0
+  index: -1

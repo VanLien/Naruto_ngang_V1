@@ -1,0 +1,27 @@
+
+shisui00_sk2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect1/bdii_0
+  rotate: true
+  xy: 2, 2
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1
+effect1/bj
+  rotate: false
+  xy: 2, 346
+  size: 1015, 525
+  orig: 1015, 525
+  offset: 0, 0
+  index: -1
+effect1/qihuan_2_0
+  rotate: false
+  xy: 2, 179
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1

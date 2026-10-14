@@ -1,0 +1,122 @@
+{
+  "crosshunting.en.1": {
+    "nsqd_tcp_addresses": ["15.235.218.69:4150"],
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.en.1", "anticheat"],
+        "name": "crosshunting.en.1"
+      }
+    ]
+  },
+  "crossunionfight.en.1": {
+    "nsqd_tcp_addresses": ["15.235.218.69:4150"],
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.en.1", "anticheat"],
+        "name": "crossunionfight.en.1"
+      }
+    ]
+  },
+  "crossdb.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "cross_en_1",
+        "mongodb": "15.235.218.69:27022",
+        "name": "crossdb.en.1",
+        "pool_limit": 10
+      }
+    ]
+  },
+  "comment.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["commentdb.en.1"],
+        "name": "card_comment.en.1"
+      },
+      {
+        "dependent": ["commentdb.en.1"],
+        "name": "card_score.en.1"
+      }
+    ]
+  },
+  "commentdb.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "comment_en_1",
+        "mongodb": "15.235.218.69:27022",
+        "name": "commentdb.en.1",
+        "pool_limit": 10
+      }
+    ]
+  },
+  "cross.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crossmatch.en.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.en.1"],
+        "name": "crosscraft.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crossfishing.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "huodongboss.en.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.en.1"],
+        "name": "crossarena.en.1"
+      },
+      {
+        "dependent": [
+          "online_fight_forward",
+          "crosslobby.en.1",
+          "crossdb.en.1"
+        ],
+        "name": "onlinefight.en.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.en.1"],
+        "name": "crossgym.en.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.en.1"],
+        "name": "crossmine.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crossunionqa.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "skyscraper.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crossredpacket.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crossranking.en.1"
+      },
+      {
+        "dependent": ["crossdb.en.1"],
+        "name": "crosshorse.en.1"
+      }
+    ]
+  }
+}

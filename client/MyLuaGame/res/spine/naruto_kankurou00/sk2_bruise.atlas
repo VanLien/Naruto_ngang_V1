@@ -1,0 +1,97 @@
+
+sk2_bruise.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_fire_18_000
+  rotate: false
+  xy: 1346, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_002
+  rotate: false
+  xy: 1346, 108
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_004
+  rotate: false
+  xy: 1412, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_006
+  rotate: false
+  xy: 1346, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_008
+  rotate: false
+  xy: 1412, 108
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_010
+  rotate: false
+  xy: 1478, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_fire_18_012
+  rotate: false
+  xy: 1412, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sk2_c4_0045
+  rotate: false
+  xy: 700, 27
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+sk2_c4_0046
+  rotate: true
+  xy: 1129, 37
+  size: 201, 215
+  orig: 201, 215
+  offset: 0, 0
+  index: -1
+sk2_c4_0047
+  rotate: true
+  xy: 913, 31
+  size: 207, 214
+  orig: 207, 214
+  offset: 0, 0
+  index: -1
+sk2_c4_0055
+  rotate: true
+  xy: 467, 18
+  size: 220, 231
+  orig: 220, 231
+  offset: 0, 0
+  index: -1
+sk2_c4_0057
+  rotate: false
+  xy: 2, 2
+  size: 224, 236
+  orig: 224, 236
+  offset: 0, 0
+  index: -1
+sk2_c4_0059
+  rotate: true
+  xy: 228, 16
+  size: 222, 237
+  orig: 222, 237
+  offset: 0, 0
+  index: -1

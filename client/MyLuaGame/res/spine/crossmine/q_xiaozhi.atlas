@@ -1,0 +1,174 @@
+
+q_xiaozhi.png
+size: 189,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuzi1
+  rotate: false
+  xy: 114, 64
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+kuzi2
+  rotate: false
+  xy: 141, 65
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 142, 48
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 119, 101
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 76, 51
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+shubao
+  rotate: true
+  xy: 1, 2
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1, 34
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 164, 66
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+tujian
+  rotate: false
+  xy: 48, 1
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+y_jiao
+  rotate: true
+  xy: 76, 34
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: false
+  xy: 161, 38
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+y_shoubi_01
+  rotate: true
+  xy: 164, 51
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+y_shoubi_02
+  rotate: false
+  xy: 106, 1
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+y_xiuzi_01
+  rotate: false
+  xy: 106, 17
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+y_xiuzi_02
+  rotate: true
+  xy: 149, 30
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+y_yanjin
+  rotate: false
+  xy: 61, 6
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 1, 101
+  size: 116, 40
+  orig: 116, 43
+  offset: 0, 1
+  index: -1
+z_damuzhi
+  rotate: true
+  xy: 84, 1
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+z_jiao
+  rotate: false
+  xy: 84, 9
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: true
+  xy: 130, 34
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+z_shoubi
+  rotate: true
+  xy: 114, 48
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+z_shoubi_01
+  rotate: false
+  xy: 125, 16
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+z_yanjin
+  rotate: true
+  xy: 104, 36
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 61, 1
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1

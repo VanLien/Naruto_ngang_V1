@@ -1,0 +1,104 @@
+
+sakura00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0055
+  rotate: true
+  xy: 280, 38
+  size: 63, 276
+  orig: 63, 276
+  offset: 0, 0
+  index: -1
+idle_0058
+  rotate: false
+  xy: 194, 177
+  size: 88, 276
+  orig: 88, 276
+  offset: 0, 0
+  index: -1
+idle_0063
+  rotate: false
+  xy: 99, 177
+  size: 93, 276
+  orig: 93, 276
+  offset: 0, 0
+  index: -1
+idle_0070
+  rotate: true
+  xy: 2, 2
+  size: 83, 276
+  orig: 83, 276
+  offset: 0, 0
+  index: -1
+idle_0078
+  rotate: true
+  xy: 2, 87
+  size: 88, 276
+  orig: 88, 276
+  offset: 0, 0
+  index: -1
+idle_0093
+  rotate: false
+  xy: 457, 177
+  size: 80, 276
+  orig: 80, 276
+  offset: 0, 0
+  index: -1
+idle_0099
+  rotate: false
+  xy: 539, 177
+  size: 76, 276
+  orig: 76, 276
+  offset: 0, 0
+  index: -1
+idle_0102
+  rotate: true
+  xy: 280, 103
+  size: 72, 276
+  orig: 72, 276
+  offset: 0, 0
+  index: -1
+idle_0105
+  rotate: false
+  xy: 372, 177
+  size: 83, 276
+  orig: 83, 276
+  offset: 0, 0
+  index: -1
+idle_0108
+  rotate: false
+  xy: 2, 177
+  size: 95, 276
+  orig: 95, 276
+  offset: 0, 0
+  index: -1
+idle_0113
+  rotate: false
+  xy: 284, 177
+  size: 86, 276
+  orig: 86, 276
+  offset: 0, 0
+  index: -1
+stand_0040
+  rotate: false
+  xy: 682, 177
+  size: 63, 276
+  orig: 63, 276
+  offset: 0, 0
+  index: -1
+stand_0045
+  rotate: false
+  xy: 747, 177
+  size: 63, 276
+  orig: 63, 276
+  offset: 0, 0
+  index: -1
+stand_0053
+  rotate: false
+  xy: 617, 177
+  size: 63, 276
+  orig: 63, 276
+  offset: 0, 0
+  index: -1

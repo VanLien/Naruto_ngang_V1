@@ -1,0 +1,89 @@
+
+quantihudun_bingxue.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei
+  rotate: false
+  xy: 2, 2
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: true
+  xy: 2, 12
+  size: 683, 1056
+  orig: 683, 1056
+  offset: 0, 0
+  index: -1
+
+quantihudun_bingxue2.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_S_dl_0070
+  rotate: false
+  xy: 3198, 279
+  size: 495, 105
+  orig: 495, 105
+  offset: 0, 0
+  index: -1
+TX/bingchen2_3
+  rotate: false
+  xy: 2, 24
+  size: 492, 360
+  orig: 492, 360
+  offset: 0, 0
+  index: -1
+TX/bingchen3_4
+  rotate: false
+  xy: 2887, 87
+  size: 309, 297
+  orig: 309, 297
+  offset: 0, 0
+  index: -1
+TX/shouji9_1
+  rotate: false
+  xy: 2076, 115
+  size: 438, 269
+  orig: 438, 269
+  offset: 0, 0
+  index: -1
+TX/shouji9_2
+  rotate: false
+  xy: 1558, 76
+  size: 516, 308
+  orig: 516, 308
+  offset: 0, 0
+  index: -1
+TX/shouji9_3
+  rotate: false
+  xy: 496, 76
+  size: 525, 308
+  orig: 525, 308
+  offset: 0, 0
+  index: -1
+TX/shouji9_4
+  rotate: false
+  xy: 1023, 85
+  size: 533, 299
+  orig: 533, 299
+  offset: 0, 0
+  index: -1
+TX/skill1_yan_0030
+  rotate: false
+  xy: 2516, 15
+  size: 369, 369
+  orig: 369, 369
+  offset: 0, 0
+  index: -1
+TX/xueshitou_3
+  rotate: false
+  xy: 3198, 2
+  size: 313, 275
+  orig: 313, 275
+  offset: 0, 0
+  index: -1

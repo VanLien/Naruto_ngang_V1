@@ -1,0 +1,13 @@
+
+itachi02_sk2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/bdii_0
+  rotate: false
+  xy: 2, 2
+  size: 225, 103
+  orig: 225, 103
+  offset: 0, 0
+  index: -1

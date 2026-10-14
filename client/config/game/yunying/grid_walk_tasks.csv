@@ -1,0 +1,20 @@
+﻿VariableName,award,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType
+Defaults,{},,,1001,9999,{},0
+ID,award,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType
+1,{8112=3},Đăng nhập hôm nay,,,1,,17
+2,{8112=1},Quyên góp bang 5 lần,union,,5,,55
+3,{8112=1},Chiến đấu đấu trường tổng 5 lần,arena,,5,,41
+4,{8112=1},Hoàn thành nhiệm vụ ủy thác cấp S trở lên 1 lần,dispatchTask,,1,{1=4},86
+5,{8112=1},Khiêu chiến ải Elite 15 lần,20000,,15,,30
+6,{8112=1},Mua thể lực (Stamina) 2 lần,gainStamina,,2,,26
+7,{8112=2},Tiêu tổng 200 vàng,,,200,,21
+10,{6393=15;gold=300000;5000=50;27001=5},Tích lũy mở rương kho báu 1 lần,,,1,,
+11,{6393=15;gold=300000;930=50;27001=5},Tích lũy mở rương kho báu 2 lần,,,2,,
+12,{6393=15;gold=300000;16=15;27001=5},Tích lũy mở rương kho báu 4 lần,,,4,,
+13,{6393=15;gold=300000;850=100;27001=5},Tích lũy mở rương kho báu 7 lần,,,7,,
+14,{902=25;6393=15;gold=300000;27001=5},Tích lũy mở rương kho báu 10 lần,,,10,,
+15,{6393=15;gold=300000;5000=50;27001=5},Tích lũy mở rương kho báu 13 lần,,,13,,
+16,{6393=15;gold=300000;930=50;27001=5},Tích lũy mở rương kho báu 16 lần,,,16,,
+17,{6393=15;gold=300000;16=15;27001=5},Tích lũy mở rương kho báu 19 lần,,,19,,
+18,{6393=15;gold=300000;850=50;27001=5},Tích lũy mở rương kho báu 22 lần,,,22,,
+19,{902=25;6393=15;gold=300000;27001=5},Tích lũy mở rương kho báu 25 lần,,,25,,

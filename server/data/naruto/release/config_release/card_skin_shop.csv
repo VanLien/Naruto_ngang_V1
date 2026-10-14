@@ -1,0 +1,6 @@
+﻿VariableName,beginDate,costMap,endDate,exchangeLimit,extraItem,itemCount,itemMap,languages,levelRange,limitTimes,limitType,litSkinNum,position,showUnable,type,vipStart,vipWeight
+Defaults,0,{},20990101,-1,{},0,{},<cn;tw;en;vn;th;kr>,<1;199>,1,4,0,1,true,1,0,1
+ID,beginDate,costMap,endDate,exchangeLimit,extraItem,itemCount,itemMap,languages,levelRange,limitTimes,limitType,litSkinNum,position,showUnable,type,vipStart,vipWeight
+1,,{536=80},,,,1,{8000=1},<cn>,,,,,,,,,
+2,,{536=120},,,,1,{8002=1},<cn>,,,,,2,,,,
+3,,{rmb=998},,,,1,{8004=2},<cn>,,,,,3,,,,

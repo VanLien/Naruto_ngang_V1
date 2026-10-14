@@ -1,0 +1,138 @@
+
+emengjiedian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+embianyuan
+  rotate: false
+  xy: 2, 2
+  size: 233, 234
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+emboos_di2
+  rotate: false
+  xy: 237, 2
+  size: 233, 234
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+emboos_waikuang
+  rotate: false
+  xy: 624, 179
+  size: 218, 57
+  orig: 218, 57
+  offset: 0, 0
+  index: -1
+emdian
+  rotate: false
+  xy: 844, 214
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+emheidi
+  rotate: false
+  xy: 624, 93
+  size: 146, 84
+  orig: 146, 84
+  offset: 0, 0
+  index: -1
+emzikuang
+  rotate: false
+  xy: 472, 83
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+emzuobiao
+  rotate: false
+  xy: 472, 21
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 772, 145
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+xing_wu
+  rotate: false
+  xy: 532, 48
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+
+emengjiedian2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/_NavigationFire_00829
+  rotate: false
+  xy: 671, 77
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00830
+  rotate: false
+  xy: 613, 76
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00831
+  rotate: false
+  xy: 490, 75
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00832
+  rotate: false
+  xy: 374, 15
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+TX/energy_06_00001
+  rotate: false
+  xy: 374, 78
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+TX/energy_28_00009
+  rotate: false
+  xy: 255, 18
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 133, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TX/skill2_2_1
+  rotate: false
+  xy: 552, 65
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+TX/yan3_6
+  rotate: true
+  xy: 2, 2
+  size: 122, 129
+  orig: 122, 129
+  offset: 0, 0
+  index: -1

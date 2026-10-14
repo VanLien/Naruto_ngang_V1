@@ -1,0 +1,97 @@
+
+tutengdx.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+TX/TX_S1_xt_gq2_0062
+  rotate: false
+  xy: 309, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 423, 120
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TX/lizi
+  rotate: false
+  xy: 889, 385
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+TX/skill1_quan_ADD
+  rotate: false
+  xy: 423, 258
+  size: 134, 242
+  orig: 134, 242
+  offset: 0, 0
+  index: -1
+chenggong
+  rotate: false
+  xy: 423, 98
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+dise
+  rotate: false
+  xy: 2, 3
+  size: 128, 21
+  orig: 128, 21
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 697, 343
+  size: 84, 24
+  orig: 84, 24
+  offset: 0, 0
+  index: -1
+shiban1
+  rotate: false
+  xy: 2, 81
+  size: 419, 419
+  orig: 419, 419
+  offset: 0, 0
+  index: -1
+shiban2
+  rotate: false
+  xy: 2, 81
+  size: 419, 419
+  orig: 419, 419
+  offset: 0, 0
+  index: -1
+shiban3
+  rotate: false
+  xy: 2, 81
+  size: 419, 419
+  orig: 419, 419
+  offset: 0, 0
+  index: -1
+yezi_y
+  rotate: false
+  xy: 559, 315
+  size: 136, 185
+  orig: 136, 185
+  offset: 0, 0
+  index: -1
+yezi_z
+  rotate: true
+  xy: 697, 369
+  size: 131, 190
+  orig: 131, 190
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 26
+  size: 305, 53
+  orig: 305, 53
+  offset: 0, 0
+  index: -1

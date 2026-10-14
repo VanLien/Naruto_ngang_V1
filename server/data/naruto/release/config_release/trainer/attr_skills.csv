@@ -1,0 +1,12 @@
+﻿VariableName,attrType1,attrValue,desc,icon,levelMax,name,totalAttrLevel,trainerLevel,upCost
+Defaults,,,,,10,,0,1,{}
+ID,attrType1,attrValue,desc,icon,levelMax,name,totalAttrLevel,trainerLevel,upCost
+1,1,260,,,200,HP,,12,{453=50}
+2,7,96,,,200,Taijutsu,,12,{453=50}
+3,8,96,,,200,Ninjutsu,,12,{453=50}
+4,9,38,,,200,Phòng thủ,,12,{453=50}
+5,10,38,,,200,Kháng,,12,{453=50}
+7,14,10,,,50,Chí mạng,150,12,{453=120}
+8,16,10,,,50,Kháng chí mạng,150,12,{453=120}
+9,92,10,,,50,Tăng sát thương PVP,200,12,{453=150}
+10,93,10,,,50,Giảm sát thương PVP,200,12,{453=150}

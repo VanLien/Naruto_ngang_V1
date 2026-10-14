@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "CrossAnime 1",
+    "key": "game.th.1",
+    "status": 1,
+    "addr": "15.235.181.86:10001"
+  },
+  {
+    "id": 2,
+    "name": "CrossAnime 2",
+    "key": "game.th.2",
+    "status": 2,
+    "addr": "15.235.181.86:10001"
+  },
+  {
+    "id": 3,
+    "name": "CrossAnime 3",
+    "key": "game.th.3",
+    "status": 2,
+    "addr": "15.235.181.86:10001"
+  },
+  {
+    "id": 4,
+    "name": "CrossAnime 4",
+    "key": "game.th.4",
+    "status": 2,
+    "addr": "15.235.181.86:10001"
+  },
+  {
+    "id": 5,
+    "name": "CrossAnime 5",
+    "key": "game.th.5",
+    "status": 2,
+    "addr": "15.235.181.86:10001"
+  },
+  {
+    "id": 6,
+    "name": "CrossAnime 6",
+    "key": "game.th.6",
+    "status": 2,
+    "addr": "15.235.181.86:10002"
+  },
+  {
+    "id": 7,
+    "name": "CrossAnime 7",
+    "key": "game.th.7",
+    "status": 2,
+    "addr": "15.235.181.86:10002"
+  },
+  {
+    "id": 8,
+    "name": "CrossAnime 8",
+    "key": "game.th.8",
+    "status": 2,
+    "addr": "15.235.181.86:10002"
+  },
+  {
+    "id": 9,
+    "name": "CrossAnime 9",
+    "key": "game.th.9",
+    "status": 2,
+    "addr": "15.235.181.86:10002"
+  },
+  {
+    "id": 10,
+    "name": "CrossAnime 10",
+    "key": "game.th.10",
+    "status": 2,
+    "addr": "15.235.181.86:10002"
+  },
+  {
+    "id": 11,
+    "name": "CrossAnime 11",
+    "key": "game.th.11",
+    "status": 2,
+    "addr": "15.235.181.86:9011"
+  },
+  {
+    "id": 12,
+    "name": "CrossAnime 12",
+    "key": "game.th.12",
+    "status": 2,
+    "addr": "15.235.181.86:9012"
+  },
+  {
+    "id": 13,
+    "name": "CrossAnime 13",
+    "key": "game.th.13",
+    "status": 2,
+    "addr": "15.235.181.86:9013"
+  },
+  {
+    "id": 14,
+    "name": "CrossAnime 14",
+    "key": "game.th.14",
+    "status": 2,
+    "addr": "15.235.181.86:9014"
+  },
+  {
+    "id": 15,
+    "name": "CrossAnime 15",
+    "key": "game.th.15",
+    "status": 2,
+    "addr": "15.235.181.86:9015"
+  },
+  {
+    "id": 16,
+    "name": "CrossAnime 16",
+    "key": "game.th.16",
+    "status": 2,
+    "addr": "15.235.181.86:9016"
+  },
+  {
+    "id": 17,
+    "name": "CrossAnime 17",
+    "key": "game.th.17",
+    "status": 2,
+    "addr": "15.235.181.86:9017"
+  },
+  {
+    "id": 18,
+    "name": "CrossAnime 18",
+    "key": "game.th.18",
+    "status": 2,
+    "addr": "15.235.181.86:9018"
+  },
+  {
+    "id": 19,
+    "name": "CrossAnime 19",
+    "key": "game.th.19",
+    "status": 2,
+    "addr": "15.235.181.86:9019"
+  },
+  {
+    "id": 20,
+    "name": "CrossAnime 20",
+    "key": "game.th.20",
+    "status": 2,
+    "addr": "15.235.181.86:9020"
+  },
+  {
+    "id": 21,
+    "name": "CrossAnime 21",
+    "key": "game.th.21",
+    "status": 2,
+    "addr": "15.235.181.86:9021"
+  },
+  {
+    "id": 22,
+    "name": "CrossAnime 22",
+    "key": "game.th.22",
+    "status": 2,
+    "addr": "15.235.181.86:9022"
+  },
+  {
+    "id": 23,
+    "name": "CrossAnime 23",
+    "key": "game.th.23",
+    "status": 2,
+    "addr": "15.235.181.86:9023"
+  },
+  {
+    "id": 24,
+    "name": "CrossAnime 24",
+    "key": "game.th.24",
+    "status": 2,
+    "addr": "15.235.181.86:9024"
+  },
+  {
+    "id": 25,
+    "name": "CrossAnime 25",
+    "key": "game.th.25",
+    "status": 2,
+    "addr": "15.235.181.86:9025"
+  },
+  {
+    "id": 26,
+    "name": "CrossAnime 26",
+    "key": "game.th.26",
+    "status": 2,
+    "addr": "15.235.181.86:9026"
+  },
+  {
+    "id": 27,
+    "name": "CrossAnime 27",
+    "key": "game.th.27",
+    "status": 2,
+    "addr": "15.235.181.86:9027"
+  },
+  {
+    "id": 28,
+    "name": "CrossAnime 28",
+    "key": "game.th.28",
+    "status": 2,
+    "addr": "15.235.181.86:9028"
+  },
+  {
+    "id": 29,
+    "name": "CrossAnime 29",
+    "key": "game.th.29",
+    "status": 2,
+    "addr": "15.235.181.86:9029"
+  },
+  {
+    "id": 30,
+    "name": "CrossAnime 30",
+    "key": "game.th.30",
+    "status": 2,
+    "addr": "15.235.181.86:9030"
+  }
+]

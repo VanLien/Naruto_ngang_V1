@@ -1,0 +1,4 @@
+变量名,gk,intervalHeight,maxEnergy,actorSpeedX,springHighest,conveyorSpeedX,fragileDuration
+默认值,,,,,,,
+ID,重力的倍率系数,两个台阶的间隔高度,角色能量值,角色的横向移动速度,弹簧上弹起的最高值,传输带上的横向移动速度,易碎台阶触碰后的持续时间
+1,250,120,10,390,100,120,0.3

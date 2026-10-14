@@ -1,0 +1,6 @@
+{
+  "mongoDir": "/mnt/pokemon_trial/release/storage/",
+  "tunnelAddr": "172.81.227.66:22",
+  "account": "account.cn.1",
+  "keyfile": "./key_kdjx_nsq"
+}

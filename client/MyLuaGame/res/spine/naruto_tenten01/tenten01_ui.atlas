@@ -1,0 +1,286 @@
+
+tenten01_ui.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiantian_daizi
+  rotate: true
+  xy: 700, 408
+  size: 27, 162
+  orig: 27, 162
+  offset: 0, 0
+  index: -1
+tiantian_juanzhou2
+  rotate: false
+  xy: 462, 351
+  size: 236, 159
+  orig: 236, 159
+  offset: 0, 0
+  index: -1
+tiantian_juanzhou2-1
+  rotate: false
+  xy: 494, 139
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+tiantian_shenti
+  rotate: false
+  xy: 272, 228
+  size: 188, 282
+  orig: 188, 282
+  offset: 0, 0
+  index: -1
+tiantian_tui1
+  rotate: false
+  xy: 2, 101
+  size: 268, 409
+  orig: 268, 409
+  offset: 0, 0
+  index: -1
+tiantian_youdabi
+  rotate: true
+  xy: 2, 17
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+tiantian_youhua_biyan
+  rotate: false
+  xy: 573, 244
+  size: 91, 17
+  orig: 91, 17
+  offset: 0, 0
+  index: -1
+tiantian_youhua_bizi
+  rotate: false
+  xy: 641, 210
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+tiantian_youhua_er1
+  rotate: true
+  xy: 924, 359
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+tiantian_youhua_er2
+  rotate: true
+  xy: 363, 84
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+tiantian_youhua_fawanzi1
+  rotate: false
+  xy: 203, 30
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+tiantian_youhua_fawanzi2
+  rotate: false
+  xy: 973, 364
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+tiantian_youhua_houfawei1
+  rotate: false
+  xy: 362, 50
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+tiantian_youhua_houfawei2
+  rotate: true
+  xy: 450, 108
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+tiantian_youhua_hounao
+  rotate: false
+  xy: 272, 106
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+tiantian_youhua_hue
+  rotate: false
+  xy: 700, 355
+  size: 127, 51
+  orig: 127, 51
+  offset: 0, 0
+  index: -1
+tiantian_youhua_lian
+  rotate: false
+  xy: 462, 248
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai1
+  rotate: false
+  xy: 829, 347
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai2
+  rotate: true
+  xy: 292, 20
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai3
+  rotate: true
+  xy: 272, 85
+  size: 19, 89
+  orig: 19, 89
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai4
+  rotate: true
+  xy: 292, 3
+  size: 15, 77
+  orig: 15, 77
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai5
+  rotate: true
+  xy: 541, 138
+  size: 24, 82
+  orig: 24, 82
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai6
+  rotate: true
+  xy: 853, 342
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai7
+  rotate: true
+  xy: 2, 3
+  size: 12, 65
+  orig: 12, 65
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai8
+  rotate: false
+  xy: 1001, 447
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1
+tiantian_youhua_liuhai9
+  rotate: true
+  xy: 853, 362
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+tiantian_youhua_yanbai
+  rotate: true
+  xy: 261, 2
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+tiantian_youhua_yankuang
+  rotate: false
+  xy: 462, 215
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+tiantian_youhua_yanzhu1
+  rotate: false
+  xy: 641, 226
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiantian_youhua_yanzhu2
+  rotate: false
+  xy: 666, 245
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+tiantian_youhua_zui
+  rotate: true
+  xy: 615, 171
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+tiantian_youshou
+  rotate: true
+  xy: 864, 386
+  size: 49, 107
+  orig: 49, 107
+  offset: 0, 0
+  index: -1
+tiantian_youxiaobi1
+  rotate: true
+  xy: 573, 263
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+tiantian_youxiaobi2
+  rotate: false
+  xy: 450, 134
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+tiantian_youxiaobi3
+  rotate: false
+  xy: 555, 208
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+tiantian_zuobi1
+  rotate: true
+  xy: 700, 437
+  size: 73, 276
+  orig: 73, 276
+  offset: 0, 0
+  index: -1
+tiantian_zuobi2
+  rotate: true
+  xy: 541, 164
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+tiantian_zuobi3
+  rotate: false
+  xy: 292, 44
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+tiantian_zuoshou1
+  rotate: false
+  xy: 978, 437
+  size: 21, 73
+  orig: 21, 73
+  offset: 0, 0
+  index: -1
+tiantian_zuoshou2
+  rotate: false
+  xy: 407, 108
+  size: 41, 118
+  orig: 41, 118
+  offset: 0, 0
+  index: -1

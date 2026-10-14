@@ -1,0 +1,19 @@
+变量名,tab,subitem,remark,Res,params,levelUnlock,unionUnlock,vipUnlock,settings,languages
+默认值,,,"""""",,{},1,1,0,{},<cn;tw;en;vn;th>
+ID,分页,控制项,备注,icon资源,参数,解锁等级,公会解锁等级,vip解锁等级,设置,语言区域
+1,1,1,抽卡,00ShuMa/assistant/img_ck.png,,70,,,{flag=1},
+2,1,2,抽装备    ,00ShuMa/assistant/img_zbbx.png,,70,,,{flag=1},
+3,1,3,抽合金,00ShuMa/assistant/img_smjz.png,,70,,,{flag=1},
+4,2,1,捐献    ,00ShuMa/assistant/img_yjy.png,,75,,,{flag=1;choose=<0;0;1>},
+5,2,2,火神兽,00ShuMa/assistant/img_cqhls.png,{radio1=0.85;radio2=1.32;extraCost=50},75,1,,{flag=1;extraFlag=0},
+6,2,3,雪球,00ShuMa/assistant/img_xqsj.png,,78,2,,{flag=1},
+7,2,4,加速,00ShuMa/assistant/img_nlw.png,,75,3,,{flag=1},
+8,3,1,金币副本,00ShuMa/assistant/img_jbfb.png,,70,,,{flag=1},
+9,3,2,经验副本,00ShuMa/assistant/img_jyfb.png,,70,,,{flag=1},
+10,3,3,幻像副本,00ShuMa/assistant/img_hxtz.png,,70,,,{flag=1},
+11,3,4,技之战,00ShuMa/assistant/img_jzz.png,,70,,,{flag=1},
+12,3,5,公会副本,00ShuMa/assistant/img_ghfb.png,,70,3,,{flag=1},
+13,4,1,公会战,00ShuMa/assistant/img_ghz.png,,80,3,,{flag=1},
+14,4,2,王者之战,00ShuMa/assistant/img_wzzz.png,,80,,,{flag=1},
+15,4,3,跨服王者,00ShuMa/assistant/img_kkwz.png,,80,,,{flag=1},
+16,1,4,抽印记,00ShuMa/assistant/img_yjcq.png,,85,,,{flag=1},<>

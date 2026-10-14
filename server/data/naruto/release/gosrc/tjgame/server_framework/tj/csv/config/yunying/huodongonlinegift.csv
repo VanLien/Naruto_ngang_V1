@@ -1,0 +1,4 @@
+变量名,huodongID,periods,randLib1,randLib2,doubleMax,doubleProb
+默认值,,,,,,
+ID,活动版本号,时长序列,奖励随机库1,奖励随机库2,每日翻倍次数上限,翻倍概率
+1,1000,<1;5;15;15;15;15>,4231,1000,2,0

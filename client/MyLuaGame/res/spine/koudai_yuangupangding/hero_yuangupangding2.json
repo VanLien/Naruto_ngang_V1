@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"kongbai","bone":"root","attachment":"kongbai"}],"skins":{"default":{"kongbai":{"kongbai":{"y":278,"x":-29.5,"height":1,"width":1}}}},"skeleton":{"spine":"3.7-from-3.8-from-4.0.64","images":"","audio":"","hash":"PPBx0foGvDc"},"animations":{"kongbai":{}}}

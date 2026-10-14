@@ -1,0 +1,243 @@
+
+gaara00_texie.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hulu
+  rotate: true
+  xy: 2, 2
+  size: 231, 333
+  orig: 231, 333
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 1519, 447
+  size: 44, 281
+  orig: 44, 281
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: true
+  xy: 516, 335
+  size: 156, 362
+  orig: 156, 362
+  offset: 0, 0
+  index: -1
+qunzi3
+  rotate: true
+  xy: 880, 352
+  size: 139, 309
+  orig: 139, 309
+  offset: 0, 0
+  index: -1
+shenti+
+  rotate: false
+  xy: 337, 15
+  size: 162, 218
+  orig: 162, 218
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 939, 267
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 1021, 304
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1067, 322
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1523, 337
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1563, 349
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1129, 326
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 1414, 320
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 1021, 270
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 516, 243
+  size: 262, 90
+  orig: 262, 90
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 1519, 385
+  size: 60, 261
+  orig: 60, 261
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 780, 249
+  size: 84, 157
+  orig: 84, 157
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 235
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 1191, 322
+  size: 221, 60
+  orig: 221, 60
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 1802, 409
+  size: 82, 233
+  orig: 82, 233
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 1191, 384
+  size: 107, 326
+  orig: 107, 326
+  offset: 0, 0
+  index: -1
+
+gaara00_texie2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx_08
+  rotate: false
+  xy: 2, 326
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_09
+  rotate: false
+  xy: 2, 164
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_10
+  rotate: false
+  xy: 351, 326
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_11
+  rotate: false
+  xy: 2, 2
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_12
+  rotate: false
+  xy: 351, 164
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_13
+  rotate: false
+  xy: 700, 326
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_14
+  rotate: false
+  xy: 351, 2
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_15
+  rotate: false
+  xy: 700, 164
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_16
+  rotate: false
+  xy: 1049, 326
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_17
+  rotate: false
+  xy: 700, 2
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_18
+  rotate: false
+  xy: 1049, 164
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_19
+  rotate: false
+  xy: 1398, 326
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1
+tx/tx_20
+  rotate: false
+  xy: 1049, 2
+  size: 347, 160
+  orig: 347, 160
+  offset: 0, 0
+  index: -1

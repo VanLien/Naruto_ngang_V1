@@ -1,0 +1,1138 @@
+﻿VariableName,fmt
+Defaults,
+ID,fmt
+1,"Sinh lực：|Khi sinh lực bằng 0, nhân vật sẽ chết"
+2,"Sức mạnh vật lý：|Chỉ số càng cao, sát thương vật lý gây ra càng lớn"
+3,"Sức mạnh Ninja：|Chỉ số càng cao, sát thương Ninja gây ra càng lớn"
+4,"Phòng thủ：|Chỉ số càng cao, sát thương vật lý nhận vào càng ít"
+5,"Kháng：|Chỉ số càng cao, sát thương Ninja nhận vào càng ít"
+6,"Tốc độ：|Chỉ số quan trọng của Ninja, ảnh hưởng thứ tự ra chiêu trước sau, càng cao sẽ được tấn công trước"
+7,"Chakra：|Giới hạn Chakra 1000 điểm, ảnh hưởng đến việc dùng kỹ năng tuyệt sát"
+8,"Tốc độ hồi Chakra：|Ảnh hưởng tốc độ hồi Chakra, chỉ số càng cao hồi càng nhanh"
+9,Tỷ lệ chí mạng：|Tỷ lệ kích hoạt chí mạng khi tấn công
+10,Sát thương chí mạng：|Tăng sức mạnh sát thương khi kích hoạt chí mạng
+11,Kháng chí mạng：|Giảm tỷ lệ bị chí mạng từ kẻ địch
+12,Tỷ lệ đỡ đòn：|Tỷ lệ kích hoạt đỡ đòn
+13,Tỷ lệ xuyên đỡ đòn：|Giảm tỷ lệ kẻ địch đỡ đòn thành công
+14,Tăng sát thương：|Tăng hiệu quả sát thương từ đòn tấn công
+15,Giảm sát thương：|Giảm sát thương nhận vào từ đòn tấn công của kẻ địch
+16,Tăng tuyệt sát：|Tăng sức mạnh kỹ năng tuyệt sát
+17,Kháng tuyệt sát：|Giảm sát thương nhận vào từ kỹ năng tuyệt sát của kẻ địch
+18,Tỷ lệ hồi phục：|Ảnh hưởng mức độ hồi phục HP từ kỹ năng
+19,Tỷ lệ khống chế：|Tỷ lệ hiệu ứng khống chế kích hoạt
+20,Kháng khống chế：|Giảm tỷ lệ bị khống chế từ kẻ địch
+21,Tăng PVP：|Tăng sát thương trong chế độ PVP
+22,Giảm sát thương PVP：|Giảm sát thương nhận vào trong chế độ PVP
+23,Xuyên phòng thủ：|Tỷ lệ xuyên qua chỉ số phòng thủ của mục tiêu
+24,Xuyên kháng：|Tỷ lệ xuyên qua chỉ số kháng của mục tiêu
+25,Tăng vật lý：|Tăng hiệu quả sát thương từ tấn công vật lý
+26,Tăng Ninja：|Tăng hiệu quả sát thương từ tấn công Ninja
+27,Giảm sát thương vật lý：|Giảm sát thương nhận vào từ tấn công vật lý của kẻ địch
+28,Giảm sát thương Ninja：|Giảm sát thương nhận vào từ tấn công Ninja của kẻ địch
+29,Hút máu：|Phần trăm sát thương hồi phục thành sinh lực bản thân
+30,Phản sát thương：|Phần trăm phản lại sát thương nhận vào lên kẻ địch
+101,#C0xF76B45##L10#【Quy tắc chiến đấu】
+102,#C0xF76B45##L10#【Quy tắc nhận thưởng】
+103,#C0xF76B45##L10#【Ví dụ phần thưởng xếp hạng】
+104,#C0xF76B45##L10#【Lì xì tổ chức】
+105,#C0xF76B45##L10#【Lì xì thành viên tổ chức】
+106,#C0xF76B45##L10#【Quy tắc xếp hạng lực chiến】
+107,#C0xF76B45##L10#【Tinh thạch thiên phú】
+108,#C0xF76B45##L10#【Quy tắc chơi】
+109,#C0xF76B45##L10#【Quy tắc độ yêu thích】
+110,#C0xF76B45##L10#【Huấn luyện đặc biệt Ám Bộ】
+111,#C0xF76B45##L10#【Thử thách ảo thuật】
+112,#C0xF76B45##L10#【Quy tắc cơ bản】
+113,#C0xF76B45##L10#【Vòng loại】
+114,#C0xF76B45##L10#【Vòng 8 đội mạnh nhất】
+115,#C0xF76B45##L10#【Phần thưởng】
+116,#C0xF76B45##L10#【Chế độ mật mã】
+117,#C0xF76B45##L10#【Quy tắc chơi】
+118,#C0xF76B45##L10#【Quy tắc nhận thưởng】
+119,#C0xF76B45##L10#【Xu đặc quyền】
+120,#C0xF76B45##L10#【Thú triệu hồi】
+121,#C0xF76B45##L10#【Săn thưởng sự kiện】
+122,#C0xF76B45##L10#【Vòng quay may mắn】
+123,#C0xF76B45##L10#【Máy Gachapon】
+124,#C0xF76B45##L10#【Quy tắc cơ bản】
+125,#C0xF76B45##L10#【Thời gian thi đấu】
+126,#C0xF76B45##L10#【Vòng loại】
+127,#C0xF76B45##L10#【Vòng thăng hạng】
+128,#C0xF76B45##L10#【Vòng chung kết】
+129,#C0xF76B45##L10#【Ngôi sao chiến đấu】
+130,#C0xF76B45##L10#【Thay đổi năng lực Ninja】
+131,#C0xF76B45##L10#【Quy tắc nhận thưởng】
+132,#C0xF76B45##L10#【Phần thưởng xếp hạng tổ chức vòng chung kết】
+133,#C0xF76B45##L10#【Phần thưởng xếp hạng tổ chức vòng loại】
+134,#C0xF76B45##L10#【Phần thưởng xếp hạng tổ chức vòng chung kết】
+135,#C0xF76B45##L10#【Phần thưởng xếp hạng sát thương】
+136,#C0xF76B45##L10#【Trận chiến đỉnh cao】
+137,#C0xF76B45##L10#【Quy tắc chiến đấu】
+138,#C0xF76B45##L10#【Dự đoán vòng loại】
+139,#C0xF76B45##L10#【Dự đoán vòng 4 đội mạnh nhất】
+140,#C0xF76B45##L10#【Dự đoán vòng chung kết】
+141,#C0xF76B45##L10#【Quy tắc cược】
+142,#C0xF76B45##L10#【Quy tắc tổ chức】
+143,#C0xF76B45##L10#【World Boss】
+144,#C0xF76B45##L10#【Quy tắc cơ bản】
+145,#C0xF76B45##L10#【Quy tắc chiến đấu】
+146,#C0xF76B45##L10#【Quy tắc nhận thưởng】
+147,#C0xF76B45##L10#【Hình thức sự kiện】
+148,#C0xF76B45##L10#【Cuộc gặp gỡ may mắn】
+149,#C0xF76B45##L10#【Lễ hội may mắn】
+150,#C0xF76B45##L10#【Chức năng mời rời phòng】
+151,#C0xF76B45##L10#【Quy tắc phụ bản lễ hội】
+152,#C0xF76B45##L10#【Quy tắc cơ bản】
+153,#C0xF76B45##L10#【Quy tắc sự kiện】
+154,#C0xF76B45##L10#【Quy tắc cơ bản】
+155,#C0xF76B45##L10#【Quy tắc tài nguyên】
+156,#C0xF76B45##L10#【Quy tắc chiến đấu】
+157,#C0xF76B45##L10#【Quy tắc đấu giá】
+158,#C0xF76B45##L10#【Quy tắc cơ bản】
+159,#C0xF76B45##L10#【Phần thưởng điểm xếp hạng】
+160,#C0xF76B45##L10#【Phần thưởng xếp hạng】
+161,#C0xF76B45##L10#【Quy tắc sự kiện】
+162,#C0xF76B45##L10#【Quy tắc cơ bản】
+163,#C0xF76B45##L10#【Giải thích vật phẩm phiêu lưu】
+164,#C0xF76B45##L10#【Quy tắc khiêu chiến dũng giả】
+165,#C0xF76B45##L10#【Ấn ảo thuật】
+1001,"1. Mỗi ngày sẽ làm mới lúc 19:00, thành viên tổ chức có thể mở trang “Lì xì tổ chức” để tranh nhận lì xì"
+1002,2. Mỗi phong bao lì xì có giới hạn số lượng phần thưởng và số lần nhận
+1003,"3. Trong cùng một lượt làm mới, mỗi người chơi chỉ có thể tranh nhận cùng một phong bao lì xì một lần"
+1004,4. Phần thưởng nhận được khi tranh giành lì xì sẽ được phát ngẫu nhiên
+1005,5. Khi lì xì đã bị giành hết thì sẽ không thể nhận thêm nữa
+1011,1. Lì xì của thành viên tổ chức phải hoàn thành điều kiện quy định mới có thể phát
+1012,"2. Khi hoàn thành đủ điều kiện sẽ nhận quyền phát lì xì, mỗi loại lì xì có thời hạn giới hạn"
+1013,3. Lì xì hết thời hạn sẽ biến mất
+1014,"4. Phát lì xì không tốn vàng, sau khi phát trong tổ chức thì tất cả thành viên đều có thể tranh nhận"
+1015,"5. Lì xì đã phát nếu không nhận trong 24 giờ sẽ biến mất, vui lòng nhận kịp thời"
+1016,6. Mỗi người chỉ có thể nhận cùng một lì xì một lần
+1017,"7. Lì xì đã nhận, sau khi phát sẽ thuộc về tổ chức hiện tại, nếu đổi tổ chức sẽ không chuyển theo"
+1018,"8. Lì xì chưa phát, nếu đổi tổ chức khi thời hạn vẫn còn thì có thể phát ở tổ chức mới"
+1019,"9. Sau khi đổi tổ chức, phải đợi đến ngày hôm sau mới có thể dùng chức năng lì xì"
+2001,1. Người chơi có thể khiêu chiến “Huấn luyện đặc biệt Đơn vị Ám” mỗi ngày 1 lần
+2002,2. Mỗi ngày lúc 05:00 sẽ reset tiến độ và xếp hạng của “Huấn luyện đặc biệt Đơn vị Ám”
+2003,3. Thưởng xếp hạng sẽ được gửi qua thư khi reset
+2011,"1. “Huấn luyện đặc biệt Đơn vị Ám” có tổng cộng 7 tầng, mỗi tầng có 7–12 phòng"
+2012,"2. Mỗi phòng sẽ có 1–4 lựa chọn, kết quả sẽ khác nhau tùy lựa chọn"
+2013,3. Mỗi lần lựa chọn sẽ ảnh hưởng đến lộ trình của phòng tiếp theo
+2014,4. Sau khi xác nhận lựa chọn sẽ không thể chọn lựa chọn khác
+2015,"5. Lựa chọn loại “Chiến đấu với quái” phải vào chiến đấu, thắng sẽ nhận “Danh dự”, yêu cầu dùng Ninja cấp 10 trở lên"
+2016,"6. Có thể “Bỏ qua chiến đấu” ở một số tầng tùy theo cấp và chỉ số tối đa, nhận đủ thưởng mà không mất HP"
+2017,7. Lựa chọn “Tăng sức mạnh” hoặc “Cường hóa” sẽ tăng năng lực và danh dự
+2018,"8. Lựa chọn “Rương báu” sẽ nhận nhiều phần thưởng, và có thể dùng vàng mở thêm để nhận thưởng đặc biệt"
+2019,9. Lựa chọn “Sự kiện” sẽ phát sinh hiệu quả ngẫu nhiên theo lựa chọn đã chọn
+2101,1. Bắt Ninja có 2 kiểu: “Xuất hiện cố định trên bản đồ” và “Phát hiện ngẫu nhiên”
+2102,"2. Kiểu cố định mở khi vượt ải chỉ định, còn kiểu ngẫu nhiên sẽ xuất hiện trong lúc chiến đấu hoặc quét ải"
+2103,"3. Kiểu cố định sẽ xuất hiện trên bản đồ, có thể bấm thử bắt nhiều lần đến khi thành công, bắt xong sẽ biến mất"
+2104,"4. Ninja phát hiện ngẫu nhiên sẽ nằm trong “Bóng Ninja” ở góc phải trên của ải, có số lần và thời gian giới hạn, hết giờ hoặc bắt thành công sẽ biến mất"
+2105,"5. Có thể dùng Bóng Ninja chất lượng khác nhau để bắt, tỉ lệ thành công sẽ khác nhau"
+2106,6. Nâng cấp cấp độ bắt sẽ tăng tỉ lệ thành công khi bắt
+2107,7. Chúc bạn may mắn bắt được Ninja bạn yêu thích!
+10001,"1. Trong “Đấu trường”, chiến đấu sẽ tự động, người chơi không thể điều khiển"
+10002,2. Nếu thắng và hạng của phe phòng thủ cao hơn phe tấn công thì hai bên sẽ hoán đổi thứ hạng
+10003,"3. Nếu đạt số hiệp tối đa mà vẫn chưa phân thắng bại, phe tấn công được tính là thua"
+10004,"4. Mỗi người chơi có 5 lượt chiến đấu miễn phí mỗi ngày, reset lúc 05:00 hằng ngày"
+10005,"5. Sau trận, phe tấn công nhận thưởng và phải chờ đếm ngược mới có thể bắt đầu lượt tiếp theo"
+10006,6. Kẻ địch đang trong trạng thái chiến đấu sẽ không thể được chọn làm đối thủ
+10007,7. Mỗi ngày lúc #C0xF76B45#21:00#C0xFFFFFF# sẽ chốt xếp hạng và gửi thưởng qua thư cho người chơi vào bảng xếp hạng (tối đa 99999 người)
+10101,1. Khi người chơi đạt thứ hạng chỉ định sẽ có thể nhận thưởng xếp hạng
+10102,2. Thưởng xếp hạng nằm ở nút #L10#“Thưởng xếp hạng”#L0#
+10103,3. Mỗi phần thưởng chỉ có thể nhận 1 lần
+11001,"1. Chào mừng đến với “Tổ chức”, tại đây bạn có thể gặp bạn bè cùng mục tiêu và nhận rất nhiều phần thưởng từ các chế độ tổ chức"
+11002,"2. Tham gia hoạt động và phát triển tổ chức sẽ nhận “Xu tổ chức”, là tiền tệ quan trọng để đổi vật phẩm trong Cửa hàng tổ chức"
+11003,3. Thành viên tổ chức có thể tham gia “Trung tâm quyên góp” để làm nhiệm vụ và giúp phát triển tổ chức
+11004,"4. Thủ lĩnh tổ chức có thể bổ nhiệm thành viên làm “Trưởng lão”, số lượng trưởng lão sẽ tăng theo cấp tổ chức"
+11005,5. Thủ lĩnh và trưởng lão có thể duyệt đơn gia nhập hoặc xóa thành viên khỏi tổ chức
+11006,"6. Nếu thủ lĩnh không đăng nhập liên tục 5 ngày, hệ thống sẽ chuyển chức thủ lĩnh cho người chơi có điểm cống hiến cao nhất theo thứ tự “Trưởng lão > Thành viên thường”"
+11007,"7. Nếu thủ lĩnh muốn rời tổ chức, phải chuyển chức thủ lĩnh cho người khác trước mới có thể rời"
+12001,1. Khiêu chiến người chơi ở từng tầng để leo lên tầng cao hơn và nhận nhiều phần thưởng hơn
+12002,"2. Ở một số tầng của Tháp Thử Nghiệm sẽ có rương thưởng, ngoài thưởng cơ bản còn có thể dùng vàng mở để nhận thêm thưởng đặc biệt"
+12003,3. Có cơ hội nhận Ninja trong rương thưởng
+12004,"4. Ở một số tầng có thể dùng “Sao thử nghiệm” để mua Buff tăng cường, giúp chiến đấu ở tầng tiếp theo dễ hơn rất nhiều"
+12005,5. Chế độ “Thử thách Ninja” sẽ reset mỗi ngày lúc 05:00
+12006,"6. Khi reset, hệ thống sẽ gửi thưởng cho người chơi vào bảng xếp hạng qua thư"
+12007,7. Khi điểm tích lũy đạt mốc quy định sẽ nhận thêm thưởng điểm đặc biệt
+13001,1. Người chơi có thể làm hoạt động mở trong 5 ngày đầu trong vòng 8 ngày sau khi hoạt động bắt đầu
+13002,"2. Nếu hoàn thành tất cả nhiệm vụ sẽ nhận thưởng “Nhiệm vụ tổng”, hoặc đến ngày 8 sẽ nhận thưởng theo tiến độ đã làm"
+13003,"3. Thưởng nhiệm vụ tổng chỉ nhận được 1 lần, sau khi nhận sẽ không thể nhận lại"
+14001,"Ninja thần thánh với sáu cặp cánh vàng rực rỡ và khoác y phục trắng tinh khiết, xuất hiện với tư cách “Thần Ninja Ánh Sáng”, biểu tượng của điều thiện và sẽ không ngừng tấn công cho đến khi quét sạch cái ác"
+14002,"Dùng nắm đấm khổng lồ ánh vàng tấn công toàn bộ kẻ địch, gây sát thương cực lớn, có 30% giảm chakra mục tiêu 300 và 15% khống chế mục tiêu"
+14003,"Dùng quyền trượng thánh trong tay thiên sứ thú tấn công mục tiêu đơn gây sát thương cực lớn, có 20% phong ấn kẻ địch, gây thêm 60% sát thương lên kẻ địch có thuộc tính phòng thủ"
+14004,Tăng sức tấn công của bản thân
+14005,"Trong chiến đấu, tăng tỉ lệ khống chế của Ninja hệ Kỹ Thuật bên ta"
+14006,"Kỹ năng bị động phổ thông của Ninja, gây sát thương cao hơn lên mục tiêu, tăng tỉ lệ sát thương"
+14007,"Kỹ năng bị động phổ thông của Ninja, giảm sát thương kẻ địch gây lên bản thân, tăng tỉ lệ giảm sát thương"
+15001,"Sự kiện mở từ ngày 3 lúc 5:00 đến ngày 8 lúc 5:00 sau khi mở server, thưởng sẽ phát theo xếp hạng lực chiến vào ngày 7 lúc 21:30 (gửi qua thư)"
+15002,"Lúc 21:30 ngày 7 sẽ nhận thưởng lực chiến theo mốc quy định (thưởng theo mốc phát theo lực chiến cao nhất, không cộng dồn)"
+15003,Nếu lực chiến bằng nhau sẽ xếp theo thời điểm đạt hạng trước sau
+15004,Hạng 1-10 của thưởng xếp hạng phải có lực chiến đạt 45000
+16001,1. Số lượt chơi sẽ reset mỗi ngày lúc 5:00
+16002,"2. Nhấn giữ mũi tên để di chuyển lên xuống hoặc kéo giãn, có thể điều chỉnh lực và góc của pháo"
+16003,"3. Lượt chơi này có thể nhận xu đồng, vàng và mảnh Gấu Băng Thú"
+16004,"4. Bắn trúng 1 mục tiêu được +1 điểm, đạt điểm quy định sẽ nhận phần thưởng tương ứng"
+16005,5. Phần thưởng có giới hạn tối đa mỗi ngày
+17001,"Hey! Nhà huấn luyện thú, nhìn đây, bấm vào tôi để xem luật về buff"
+17002,"Tiêu hao khoáng để cho tôi kinh nghiệm, sau khi nâng cấp sẽ cho buff tăng thêm"
+17003,"Buff tăng thêm chia thành tăng toàn server và tăng cá nhân, hai loại độc lập với nhau"
+17004,"Tăng toàn server sẽ cho buff tăng thêm cho toàn bộ người chơi server, phải hợp tác cùng nhau nhé"
+17005,Tăng cá nhân sẽ cho buff tăng thêm cho chính bạn
+17006,Tất cả buff tăng thêm chỉ có hiệu lực trong Chiến tranh Mỏ
+17007,"Được rồi, hãy ra trận chiến đấu dũng cảm nào"
+17008,Tôi lại nhớ đến đêm đó trong thế giới ninja rồi
+17009,Vui lòng đừng đánh hoặc cho ăn
+17010,Vui lòng đừng đánh hoặc cho ăn.
+17011,Vui lòng đừng đánh hoặc cho ăn..
+17012,Vui lòng đừng đánh hoặc cho ăn…
+17013,Vui lòng đừng đánh hoặc cho ăn!
+17014,Vui lòng đừng đánh hoặc cho ăn!!
+17015,Vui lòng đừng đánh hoặc cho ăn!!!
+17016,"Đại ca, anh làm được"
+18001,#C0xFFFFF5D6#1. Thời gian đăng ký: #C0xFF4FF701#10:00-19:50
+18002,#C0xFFFFF5D6#2. Thời gian thi đấu: #C0xFF4FF701#20:00-20:55
+19001,"#C0xFFF5D6#1. Người chơi có thể phát và nhận hồng bao ở mục Hồng bao tổ chức, số lượng hồng bao có hạn, mau tranh nhé"
+19002,#C0xFFF5D6#2. Hồng bao tổ chức sẽ tự làm mới mỗi ngày lúc 19:00
+19003,#C0xFFF5D6#3. Nâng cấp công nghệ hồng bao trong Viện nghiên cứu để tăng hạn mức và số lượng hồng bao tổ chức
+19004,#C0xFFF5D6#4. Việc phát và nhận hồng bao do người chơi tự chọn
+19005,#C0xFFF5D6#5. Người phát hồng bao có thể nhận hồng bao do chính mình phát
+19006,"#C0xFFF5D6#6. Số tiền trong hồng bao được nhận ngẫu nhiên, nhớ giúp bà cụ qua đường thường xuyên nhé"
+19007,#C0xFFF5D6#7. Tăng cấp VIP có thể tăng số lần phát và nhận hồng bao
+19008,"#C0xFFF5D6#8. Hồng bao người chơi phát sẽ lưu 24 giờ, hết hạn sẽ tự biến mất, số tiền còn lại sẽ không hoàn trả"
+20001,"Chào mừng đến với Chiến tranh Tổ chức, mỗi tuần là một mùa, mỗi mùa có rất nhiều phần thưởng, mau gọi đồng đội đến chiến đấu cùng nhau!"
+20002,"1. Chiến tranh tổ chức chia 2 giai đoạn: Vòng loại và Chung kết; Vòng loại 4 ngày (Thứ Ba đến Thứ Sáu), Chung kết 1 ngày (Thứ Bảy)"
+20003,2. Thời gian đăng ký mỗi ngày: #C0xF76B45#9:30-20:50
+20004,3. Thời gian bắt đầu thi đấu chính thức mỗi ngày: #C0xF76B45#21:00
+20005,4. Điều kiện đăng ký: Người chơi cấp 40 trở lên và tổ chức đang ở cấp 4 trở lên mới có thể đăng ký; phải đăng ký mới được tham gia thi đấu trong ngày đó
+20006,5. Người chơi VIP cấp 3 trở lên sẽ được hệ thống tự động đăng ký trước khi chiến đấu bắt đầu 30 phút
+21001,"1. Trong vòng loại, từ Thứ Ba đến Thứ Năm sẽ giới hạn hệ thuộc tính Ninja tham chiến, có thể xem hạn chế cụ thể ở trang đăng ký hoặc trang xếp đội của ngày đó; Thứ Sáu không giới hạn hệ thuộc tính Ninja"
+21002,"2. Với các lượt có giới hạn thuộc tính, nếu Ninja có một thuộc tính trùng khớp thì có thể tham gia chiến đấu trong ngày đó; cùng một Ninja chỉ dùng được 1 lần/ngày"
+21003,"3. Vòng loại có thể đưa 2 đội Ninja vào chiến đấu, mỗi đội dùng 3 người"
+21004,"4. Sau khi đội thứ nhất bị hạ, đội thứ hai có thể chiến đấu ở lượt tiếp theo"
+21005,"5. Thể thức thi đấu là chế độ hỗn chiến, bạn sẽ gặp người chơi từ các tổ chức khác (khi số người còn lại quá ít, bạn có thể phải đấu với thành viên trong chính tổ chức để phân định hạng cá nhân)"
+21006,6. Người thắng có thể chiến đấu ở lượt tiếp theo và tiếp tục đối đầu với các đối thủ còn lại
+21007,7. HP và chakra sẽ được giữ lại sau mỗi trận chiến
+21008,"8. Chiến tranh tổ chức có hệ thống điểm, luật điểm cá nhân: hạ 1 đối thủ được 2 điểm, thua được 1 điểm"
+21009,9. Người thắng cuối cùng có thể tăng điểm tổ chức và Sao Chiến Đấu cho tổ chức; Sao Chiến Đấu có thể dùng để điều chỉnh bonus thuộc tính trong Phán Quyết Số Mệnh
+21010,10. Xếp hạng tổ chức trong ngày dựa trên tổng điểm của tổ chức trong ngày đó
+21011,"11. Hai bên đấu tối đa 10 hiệp, nếu hết thời gian vẫn chưa phân thắng bại, bên còn % máu cao hơn sẽ thắng"
+22001,"1. Trong 4 ngày chiến đấu đầu, tổ chức có tổng điểm nằm trong top 8 sẽ vào chung kết; tất cả người chơi đủ điều kiện tham gia sẽ được tự động đăng ký trong giai đoạn chuẩn bị chung kết"
+22002,"2. Trong chung kết, mọi thuộc tính đều có thể tham gia thi đấu"
+22003,"3. Chung kết là chiến giữa tổ chức với tổ chức, chế độ loại trực tiếp và tiến cấp cho đến khi quyết định vô địch"
+22004,"4. Chế độ chiến đấu chung kết là luân phiên giữa các tổ chức, người chơi có thể dùng 3 đội Ninja thi đấu, mỗi đội có thể đưa tối đa 4 người vào chiến"
+22005,"5. Khi hai tổ chức giao chiến, sẽ thi đấu theo thứ tự ra trận; đội thắng sẽ đánh tiếp trận sau, đội thua sẽ bị loại khỏi thứ tự ra trận, cho đến khi toàn bộ đội của một bên bị tiêu diệt thì bên kia thắng"
+22006,6. Tổ chức thắng có thể tiếp tục đấu với các tổ chức thắng khác cho đến khi quyết định vô địch
+22007,"7. Trạng thái Ninja sẽ được giữ nguyên trong suốt chuỗi chung kết; dù thắng, HP của Ninja sẽ không hồi khi đấu với tổ chức thắng tiếp theo, và Ninja đã chết sẽ không hồi sinh"
+22008,"8. Sau khi trận chiến tranh tổ chức cuối cùng kết thúc, sẽ cộng rất nhiều điểm thưởng cho tổ chức theo thứ hạng"
+22101,"1. Trong vòng loại, tổ chức thắng cuối cùng mỗi ngày có thể nhận 1 Sao Chiến Đấu"
+22102,"2. Trước khi bắt đầu Phán Quyết Số Mệnh, quản lý tổ chức (Thủ lĩnh/Trưởng lão) có Sao Chiến Đấu có thể dùng Sao Chiến Đấu để thiết lập bonus thuộc tính và trị số năng lực cho chung kết"
+22103,3. Thiết lập thành công sẽ tiêu hao 1 Sao Chiến Đấu và không thể thay đổi sau khi thiết lập
+22104,"4. Sau khi thiết lập xong, thay đổi năng lực đó sẽ áp dụng lên toàn bộ Ninja tham gia chung kết"
+22201,"1. Trong suốt thời gian chiến tranh tổ chức, ở mỗi lượt chiến đấu, toàn bộ Ninja vào đội chiến đấu lần đầu sẽ nhận bonus thuộc tính như Taijutsu, Ninjutsu, Phòng thủ, Kháng, Tốc độ,... "
+22202,"2. Khi chiến đấu tiếp diễn, bonus thuộc tính sẽ giảm dần, Ninja sẽ mệt mỏi và sức chiến đấu sẽ yếu đi dần"
+22203,"3. Sau đó, mỗi lần tham gia chiến đấu, các thuộc tính như Taijutsu, Ninjutsu, Phòng thủ, Kháng, Tốc độ, Lượng trị liệu,... của Ninja trong đội sẽ tiếp tục giảm"
+22301,1. Trong giai đoạn đăng ký chung kết (Thứ Bảy 9:30-20:50) có thể đặt cược dự đoán kết quả chung kết
+22302,"2. Đặt cược vô địch, tỉ lệ càng cao, lợi nhuận càng lớn, tối đa không quá 1000000 xu đồng"
+22303,"3. Sau khi giải kết thúc, thưởng sẽ được phát đồng loạt qua thư; đoán đúng vô địch sẽ nhận tiền theo tỉ lệ đặt cược, đoán đội về nhì sẽ được hoàn lại một nửa số tiền đã cược"
+23001,"1. Sau khi giải kết thúc, tất cả phần thưởng sẽ được gửi qua thư"
+23002,"2. Thưởng mỗi ngày gồm thưởng đăng ký, thưởng thắng cá nhân, thưởng xếp hạng tổ chức; trong đó thưởng xếp hạng tổ chức sẽ do người tham gia thi đấu của tổ chức đó nhận"
+23003,3. Đăng ký vòng loại và chung kết đều có thể nhận 1 bộ thưởng tham gia
+23004,"4. Thưởng thắng cá nhân là Rương thắng Chiến tranh Tổ chức, thắng 1 lần được 1 rương; mỗi ngày nhận tối đa 6 rương; chỉ hạ đối thủ trong vòng loại mới nhận được, trong Phán Quyết Số Mệnh không có thưởng thắng cá nhân"
+23005,5. Thưởng xếp hạng tổ chức xem chi tiết trong hiển thị thưởng bên dưới
+24001,"#C0xFFF5D6#1. Mỗi tuần sẽ có 2 lượt thi đấu, mỗi lượt kéo dài 2 ngày, thời gian bắt đầu là Thứ Hai và Thứ Sáu hằng tuần"
+24002,#C0xFFF5D6#2. Mỗi vòng thi đấu sẽ ghép cặp các server có sức mạnh và số lượng người chơi gần tương đương nhau
+24003,#C0xFFF5D6#3. Thời gian đăng ký: Ngày đầu của mỗi vòng thi đấu 05:00-18:50
+24004,#C0xFFF5D6#4. Thời gian bắt đầu: 19:00
+24005,"#C0xFFF5D6#5. Khi đăng ký phải chọn 12 Ninja, có thể tự do thay đổi trước khi bắt đầu thi đấu chính thức mỗi ngày"
+24006,"#C0xFFF5D6#6. Mỗi vòng thi đấu gồm tổng cộng 3 giai đoạn: Vòng loại, Vòng 8 Khu, và Chung kết"
+24007,#C0xFFF5D6#7. Mỗi trận Vòng loại kéo dài 4 phút; mỗi trận Vòng 8 Khu và Chung kết kéo dài 5 phút; không thể chỉnh đội hình trong 1 phút trước khi bắt đầu trận
+24008,#C0xFFF5D6#8. VIP3 trở lên có thể tự động đăng ký
+25001,"#C0xFFF5D6#1. Thắng 1 trận nhận 1 Rương Vàng, thua 1 trận nhận 1 Rương Bạc"
+25002,#C0xFFF5D6#2. Sau khi mỗi vòng thi đấu kết thúc sẽ phát thưởng xếp hạng theo thứ hạng của bạn
+25003,#C0xFFF5D6#3. Mở rương có thể nhận các phần thưởng hiếm khác nhau
+25004,#C0xFFF5D6#4. Thưởng xếp hạng sẽ phát qua thư sau khi mỗi vòng thi đấu kết thúc
+26001,#C0xFFF5D6#1. Vòng loại là thể thức loại theo điểm
+26002,"#C0xFFF5D6#2. Vòng loại chia 3 lượt: Ngày 1 đấu 2 lượt, ngày 2 đấu 1 lượt; mỗi lượt 4 trận, tổng 12 trận; mỗi trận 4 phút"
+26003,"#C0xFFF5D6#3. Mỗi trận đấu, người chơi sẽ nhận điểm tương ứng"
+26004,#C0xFFF5D6#4. Điểm và số trận thắng/thua được kế thừa giữa các lượt vòng loại; tích lũy 5 lần thua sẽ bị loại ngay
+26005,"#C0xFFF5D6#5. Ninja không thể dùng lại trong cùng một lượt thi đấu, nhưng có thể dùng lại giữa các lượt khác nhau"
+27001,"#C0xFFF5D6#1. Sau khi vòng loại kết thúc, chọn top 64 theo xếp hạng để vào Vòng 8 Khu; Vòng 8 Khu chia thành 8 bảng"
+27002,"#C0xFFF5D6#2. Tuyển chọn Vòng 8 Khu là thể thức loại trực tiếp, gồm Vòng 32, Vòng 16 và Vòng 8, tổng 3 trận"
+27003,#C0xFFF5D6#3. Mỗi trận 5 phút
+27004,#C0xFFF5D6#4. Ninja không thể dùng lại
+28001,#C0xFFF5D6#1. Người thắng cuối cùng của Vòng 8 Khu có thể vào Chung kết
+28002,"#C0xFFF5D6#2. Chung kết là thể thức loại trực tiếp, gồm Vòng 4, Bán kết và Chung kết, tổng 3 trận"
+28003,#C0xFFF5D6#3. Mỗi trận 5 phút
+28004,#C0xFFF5D6#4. Ninja không thể dùng lại
+29001,"#C0xFFF5D6#1. Vòng loại, Vòng 8 Khu và Chung kết đều là luân phiên 3v3"
+29002,#C0xFFF5D6#2. Ninja ra trận có tổng Tốc độ cao hơn sẽ ra tay trước; nếu Tốc độ bằng nhau thì tổng Lực chiến cao hơn sẽ ra tay trước
+29003,"#C0xFFF5D6#3. Hai Ninja đấu với nhau, tối đa 10 hiệp"
+29004,"#C0xFFF5D6#4. Kết thúc 10 hiệp nếu cả hai vẫn chưa bị hạ, bên có %HP còn lại cao hơn sẽ thắng"
+29005,#C0xFFF5D6#5. Bên còn Ninja sống sót cuối cùng sẽ là bên thắng
+30001,"#C0xFFF5D6#1. Ngày đầu, người chơi có thể đặt cược số trận thắng của bản thân ở vòng loại là số chẵn hay lẻ"
+30002,#C0xFFF5D6#2. Ngày hai có thể đặt cược vô địch trong top 64 người chơi có tổng lực chiến cao nhất của khu đó
+30003,"#C0xFFF5D6#3. Đặt cược vô địch, tỉ lệ càng cao lợi nhuận càng lớn, mỗi vòng tối đa nhận 1500000 xu đồng"
+30004,#C0xFFF5D6#4. Nếu mục tiêu đặt cược vào top 4 sẽ hoàn 1.5 lần số tiền; nếu không vào top 4 sẽ hoàn một nửa số tiền
+30005,#C0xFFF5D6#5. Dưới đây là thưởng xếp hạng:
+31001,"#C0x08ED1F#Ninja phát hiện một lục địa giàu khoáng sản, nghe đồn tại cửa hàng của lục địa đó có thể dùng khoáng để đổi rất nhiều phần thưởng, vì vậy các Nhà huấn luyện thú đổ xô tham gia tranh đoạt khoáng"
+31002,#C0xFFF5D6#1. Thời gian diễn ra Chiến tranh Khoáng liên server: #C0x08ED1F#Thứ Bảy 10:00 - Thứ Hai tuần sau 22:00
+31003,#C0xFFF5D6#2. Khung giờ có thể tranh đoạt mỗi ngày: #C0x08ED1F#10:00 - 22:00
+31004,#C0xFFF5D6#3. Mỗi ngày có #C0x08ED1F#3 lượt tranh đoạt miễn phí
+31005,"#C0xFFF5D6#4. Mỗi vòng thi đấu sẽ ghép nhiều server có sức mạnh và số lượng người chơi gần tương đương; các server thi đấu với nhau, khi kết thúc sẽ xếp hạng theo tổng điểm của người chơi trong phạm vi thứ hạng chỉ định của mỗi server; server có tổng điểm cao hơn sẽ xếp hạng cao hơn"
+31006,"#C0xFFF5D6#5. Chiến tranh Khoáng liên server có thưởng cá nhân cuối cùng; thưởng cá nhân cuối cùng được quyết định bởi hạng server và tổng điểm: Thưởng cá nhân cuối cùng = thưởng cơ bản theo hạng server + thưởng theo tỉ lệ điểm; vì vậy hạng server càng cao, điểm càng nhiều, thưởng cá nhân cuối cùng càng lời"
+31007,"#C0xFFF5D6#6. Mỗi điểm khoáng tương ứng một thứ hạng, hạng càng cao điểm càng cao; Nhà huấn luyện thú có thể khiêu chiến người chơi hạng cao hơn qua khu khoáng lân cận để tăng hạng, hoặc trực tiếp khiêu chiến top 10 của điểm khoáng qua khu khoáng cấp cao"
+32001,#C0xFFF5D6#1. Tài nguyên khoáng có thể dùng để cổ vũ Thú Khoáng và đổi vật phẩm trong Cửa hàng Chiến tranh Khoáng
+32002,#C0xFFF5D6#2. Cổ vũ Thú Khoáng có thể nhận buff tăng thêm cho toàn server hoặc cá nhân
+32003,"#C0xFFF5D6#3. Điểm khoáng có thể sản xuất khoáng, tính mỗi 10 phút; hạng càng cao tốc độ sản xuất càng nhanh"
+32004,#C0xFFF5D6#4. Nhà huấn luyện thú có thể bắt đầu tranh đoạt điểm khoáng của người chơi khác
+32005,"#C0xFFF5D6#5. Tranh đoạt người chơi cùng server, nếu đối phương có lực chiến thấp hơn bản thân quá nhiều thì sẽ không thể nhận được khoáng"
+32006,"#C0xFFF5D6#6. Điểm khoáng có giới hạn bị tranh đoạt, mỗi lần tranh đoạt không thể vượt quá giới hạn bị tranh đoạt"
+32007,"#C0xFFF5D6#7. Chiến tranh Khoáng liên server cạnh tranh rất khốc liệt, trong quá trình tranh đoạt khoáng của mục tiêu có thể thay đổi, tài nguyên cuối cùng cướp được có thể ít hơn số thấy trên màn tranh đoạt, ra tay trước sẽ có lợi"
+33001,"#C0xFFF5D6#1. Nhà huấn luyện thú có thể đưa 3 đội Ninja vào chiến đấu, mỗi đội tối đa 4 người"
+33002,#C0xFFF5D6#2. Chiến đấu theo thể thức 3 ván 2 thắng
+33003,"#C0xFFF5D6#3. Hai bên đấu tối đa 20 hiệp, nếu trong 20 hiệp vẫn chưa phân thắng bại thì tính phe phòng thủ thắng"
+34001,"#C0xFFF5D6#1. Trong báo cáo chiến tranh có thể bắt đầu báo thù người đã tranh đoạt mình; chỉ có thể báo thù khi bị tranh đoạt thành công, và nếu người bị tranh đoạt đang được bảo vệ khiến không bị cướp khoáng thì không thể báo thù"
+34002,"#C0xFFF5D6#2. Báo thù tương tự tranh đoạt, có thể cướp khoáng của đối phương nhưng không thay đổi thứ hạng"
+34003,"#C0xFFF5D6#3. Nhà huấn luyện thú có 5 lượt báo thù mỗi ngày, lượt này tính riêng với tranh đoạt"
+35001,"#C0xFFF5D6#1. Trong thời gian sự kiện, mỗi ngày lúc 22:00 sẽ phát thưởng xếp hạng cá nhân qua thư"
+35002,"#C0xFFF5D6#2. Hạng càng cao thưởng càng lời, thưởng là lượng lớn tài nguyên khoáng và xu đồng"
+36001,"#C0xFFF5D6#Ma thú muốn phá hủy và tái tạo thế giới ninja, thả ra rất nhiều bánh răng đen, khống chế rất nhiều Ninja, mỗi ngày còn thả một phần Ninja ra quấy phá; để giúp thế giới ninja, hãy hợp sức thanh tẩy Ninja bị bánh răng đen khống chế!"
+36002,#C0xFFF5D6#1. Mỗi ngày lúc 12:00 sẽ làm mới quân đoàn Ninja Hắc mới
+36003,"#C0xFFF5D6#2. Mỗi ngày lúc 12:00, Người triệu hồi khắp thế giới có thể lập đội hoặc tham gia đội của người khác để cùng chống lại Ninja bị bánh răng đen khống chế"
+36004,#C0xFFF5D6#3. Thanh tẩy Ninja theo đội có thể nhận mảnh Ninja tương ứng
+36005,#C0xFFF5D6#4. Muốn thanh tẩy Ninja nào thì phải có Ninja đó trước
+36006,"#C0xFFF5D6#5. Mỗi lần thắng có thể nhận 2 Rương Báu: rương thứ nhất mở miễn phí, rương thứ hai cần vàng; cả hai đều có cơ hội ra mảnh Ninja"
+36007,"#C0xFFF5D6#6. Trong mỗi nhiệm vụ thanh tẩy, người chơi hoàn thành càng nhiều trận chiến sẽ nhận thưởng đặc biệt càng nhiều; thưởng đặc biệt gửi qua thư, điều kiện nhận là bản thân phải hoàn thành toàn bộ trận chiến"
+36008,"#C0xFFF5D6#7. Khi 3 người, 4 người và 5 người trong đội hoàn thành chiến đấu sẽ nhận thưởng đặc biệt ở các mức khác nhau"
+36009,"#C0xFFF5D6#8. Sau khi chọn mục tiêu thanh tẩy, chỉ cần thắng 1 trận sẽ không thể rời đội hiện tại, phải chiến đấu đến hết!"
+36010,"#C0xFFF5D6#9. Mỗi ngày lúc 12:00 đội cũ sẽ tự giải tán, phải lập đội mới"
+36011,#C0xFFF5D6#10. Người chơi có thể bấm vào ảnh đại diện của mình trong đội để đổi Ninja ra trận
+37001,"1. Vòng loại, Vòng 8 Khu và Chung kết đều là luân phiên 3v3"
+37002,2. Ninja ra trận có tổng Tốc độ cao hơn sẽ ra tay trước; nếu Tốc độ bằng nhau thì tổng Lực chiến cao hơn sẽ ra tay trước
+37003,"3. Hai Ninja đấu với nhau, tối đa 10 hiệp"
+37004,"4. Kết thúc 10 hiệp nếu cả hai vẫn chưa bị hạ, bên có %HP còn lại cao hơn sẽ thắng"
+37005,5. Bên còn Ninja sống sót cuối cùng sẽ là bên thắng
+38001,"1. Ngày đầu, người chơi có thể đặt cược số trận thắng của bản thân ở vòng loại là số chẵn hay lẻ"
+38002,2. Ngày hai có thể đặt cược vô địch trong top 20 người chơi có tổng lực chiến cao nhất của khu đó
+38003,"3. Đặt cược vô địch, tỉ lệ càng cao lợi nhuận càng lớn, mỗi vòng tối đa nhận 1000000 xu đồng"
+38004,4. Nếu mục tiêu đặt cược vào top 4 sẽ hoàn 1.5 lần số tiền; nếu không vào top 4 sẽ hoàn một nửa số tiền
+39001,1. Thời gian đăng ký: #C0xF76B45#10:00-19:50
+39002,2. Thời gian thi đấu: #C0xF76B45#20:00-20:55
+39003,"3. Khi đăng ký có thể chọn tối đa 10 Ninja ra trận, sau khi đăng ký thành công có thể thay đổi đội hình"
+39004,4. Thi đấu chia 2 phần: Vòng loại và Vòng 8 Khu; top 8 của Vòng loại sẽ vào Vòng 8 Khu
+39005,"5. 1 phút trước khi bắt đầu thi đấu, người chơi không thể chỉnh đội hình ra trận"
+39006,6. Người chơi VIP3 trở lên sẽ được hệ thống tự động đăng ký trước khi kết thúc đăng ký mỗi ngày 50 phút
+39007,"7. Thời gian chiến đấu hai bên tối đa 10 hiệp, hết hiệp nếu vẫn chưa phân thắng bại: nếu cả hai bên đều có HP > 90% thì bên gây tổng sát thương cao hơn thắng; nếu có bên nào có %HP < 90% thì bên có %HP cuối cùng cao hơn thắng"
+39008,"8. Thi đấu có xếp hạng điểm, điểm được quyết định bởi sát thương Ninja gây ra, sát thương càng cao điểm càng cao"
+39009,"9. Mỗi ngày lúc 10:00 có thể bắt đầu đặt cược, tỉ lệ càng cao lợi nhuận càng lời, mỗi ngày tối đa nhận 100 vạn xu đồng"
+39010,10. Nếu mục tiêu đặt cược vào Vòng 8 Khu nhưng không vô địch sẽ hoàn lại một phần tiền cược; nếu không vào Vòng 8 Khu sẽ không hoàn tiền
+40001,"1. Vòng loại là thể thức loại trực tiếp, tổng cộng 10 trận, mỗi trận 4 phút; xếp hạng theo số trận thắng, nếu số trận thắng bằng nhau thì xếp theo điểm"
+40002,2. Mỗi trận đưa 1 Ninja vào chiến đấu
+40003,3. Vòng loại tích lũy #C0xF76B45#3 lần thua sẽ bị loại ngay
+40004,"4. Mỗi trận người chơi có thể nhận điểm, sau khi vòng loại kết thúc sẽ chọn top 8 theo số trận thắng và điểm để vào Vòng 8 Khu"
+40005,5. Ninja không thể dùng lại
+41001,"1. Giai đoạn Vòng 8 Khu cũng là thể thức loại trực tiếp, gồm Vòng 4, Bán kết, Chung kết và Tranh hạng 3, tổng 4 trận; mỗi trận 5 phút"
+41002,"2. Mỗi trận, người chơi phải đưa 3 Ninja, luân phiên ra theo thứ tự"
+41003,3. Cả 3 Ninja bị hạ hết sẽ tính là thua
+41004,4. Ninja không thể dùng lại
+42001,"1. Mỗi lần thi đấu, người chơi có thể nhận 1 Rương Báu"
+42002,"2. Thắng nhận Rương Vàng, thua nhận Rương Bạc"
+42003,3. Cả hai loại rương đều có cơ hội mở ra phần thưởng hiếm
+42004,4. Theo thứ hạng thi đấu Ninja Đại của ngày đó có thể nhận thưởng xếp hạng
+43001,"#C0xFFF5D6#1. Ban đầu mỗi ngày có thể chơi 5 lần, trong viện nghiên cứu nâng cấp công nghệ."
+43002,"#C0xFFF5D6#2. Khi bắt đầu lượt chơi này có thể đổi số lần lắc miễn phí 5 lần, tương tự có thể tăng công nghệ liên quan trong Viện nghiên cứu để tăng số lần đổi lắc miễn phí"
+43003,"#C0xFFF5D6#3. Thú Thần Hỏa đã lắc ra sẽ không biến mất 4. Thú Thần Hỏa càng nhiều, phần thưởng càng lời, có thể nhận mảnh Thú Thần Hỏa và rất nhiều Xu Tổ Chức"
+43004,"#C0xFFF5D6#4. Thú Thần Hỏa càng nhiều, phần thưởng càng lời, có thể nhận mảnh Thú Thần Hỏa và rất nhiều Xu Tổ Chức"
+44001,"1. Thời gian mở Phó bản Tổ chức: Thứ Hai đến Thứ Bảy 9:30-23:30, Chủ Nhật nghỉ"
+44002,"2. Thứ Hai, Thứ Tư, Thứ Sáu lúc 5:00 hệ thống tự reset phó bản; chỉ reset phó bản ở độ khó cao nhất trong tiến độ hiện tại; Thứ Ba, Thứ Năm, Thứ Bảy lúc 23:30 sau khi phó bản tổ chức đóng sẽ tính toán và phát thưởng xếp hạng sát thương cùng lúc"
+44003,"3. Mỗi ngày có 3 lượt khiêu chiến, tất cả phó bản dùng chung số lượt này, reset mỗi ngày lúc 5:00; trong quá trình khiêu chiến có cơ hội nhận Rương Boss Tổ chức"
+44004,4. Vượt qua phó bản hiện tại sẽ mở phó bản tiếp theo; phó bản đã vượt qua không thể chơi lại trước khi reset theo tháng
+44005,"5. Sau khi hoàn thành mỗi phó bản tổ chức, sẽ phát thưởng xếp hạng sát thương đặc biệt theo mức đóng góp trong phó bản"
+44006,"6. Mỗi phó bản có thưởng vượt ải lần đầu, mỗi người chơi chỉ nhận được 1 lần"
+44007,"7. Tùy theo số lượng phó bản tổ chức đã vượt và thời gian ở trong tổ chức, người chơi trong tổ chức sẽ nhận bonus Tấn công/Phòng thủ/HP; bonus này chỉ có hiệu lực trong phó bản hiện tại"
+44008,"8. Đầu mỗi tháng reset toàn bộ phó bản; sau mỗi lần reset, mỗi khi vượt 1 phó bản thì toàn tổ chức có thể nhận thưởng tiêu diệt (không phải thưởng lần đầu)"
+44009,"9. Thưởng tiêu diệt (không phải thưởng lần đầu), mỗi người chơi ở mỗi phó bản trong mỗi lần reset chỉ nhận được 1 lần"
+44010,"10. Sau khi đổi tổ chức, trong ngày đó không thể khiêu chiến phó bản tổ chức, phải đợi đến 5:00 ngày hôm sau mới có thể làm"
+44011,11. Người chơi tích điểm cho mỗi Boss tổ chức có thể nhận thưởng xu đồng và vàng đặc biệt; thưởng tiêu diệt của cùng một Boss trong một chu kỳ reset 1 tháng chỉ nhận được 1 lần
+44012,12. Tất cả thưởng tiêu diệt phải tự nhận trong rương thưởng; thưởng tham gia và thưởng tích điểm sẽ phát khi tính toán khiêu chiến; thưởng xếp hạng sát thương phát qua thư
+45001,"1. Mỗi thành viên tổ chức có thể cầu nguyện 1 lần/ngày, công khai Ninja muốn nhận mảnh làm “Ước nguyện” trong tổ chức"
+45002,2. Khi cầu nguyện chỉ có thể dùng Ninja mà bản thân hiện đang sở hữu làm mục tiêu cầu nguyện
+45003,3. Ninja chất lượng khác nhau thì số lượng tối đa nhận được mỗi lần cầu nguyện sẽ khác nhau; chất lượng càng cao thì số lượng có thể nhận càng ít
+45004,4. Có thể tặng mảnh mình có cho thành viên tổ chức khác để giúp họ hoàn thành ước nguyện; tối đa tặng cho cùng một thành viên 1 mảnh
+45005,5. Sau khi tặng mảnh Ninja sẽ gửi qua thư đến hộp thư của thành viên tổ chức nhận
+45006,6. Tặng mảnh Ninja chất lượng khác nhau sẽ nhận Đá Linh Hồn Ninja và Điểm Hảo Tâm với số lượng khác nhau
+45007,7. Mỗi ngày lúc 5:00 sẽ xóa toàn bộ danh sách cầu nguyện
+46001,"#C0xFFF5D6#1. Mỗi lần thi đấu, người chơi có thể nhận 1 Rương Báu"
+46002,"#C0xFFF5D6#2. Thắng nhận Rương Vàng, thua nhận Rương Bạc"
+46003,"#C0xFFF5D6#3. Cả hai loại rương đều có cơ hội mở ra Nhẫn, Bát giác và các vật phẩm khác"
+46004,"#C0xFFF5D6#4. Theo thứ hạng chiến đấu Vua của ngày đó có thể nhận thưởng xếp hạng, bao gồm mảnh Thiên Sứ Thú và các vật phẩm hiếm khác"
+47001,"1. Khảm hợp kim vào ô Ma trận của Ninja, Ninja có thể nhận bonus chỉ số hợp kim; ô ma trận sẽ mở theo cấp đội"
+47002,"2. Đặt hợp kim đúng loại vào ô ma trận chỉ định có thể kích hoạt bonus thuộc tính Ma trận, sức mạnh Ninja sẽ được tăng thêm"
+47003,3. Hiệu ứng ma trận có mạnh/yếu theo chất lượng; khi toàn bộ hợp kim kích hoạt hiệu ứng ma trận đạt một chất lượng nào đó thì hiệu ứng ma trận cũng có thể nâng lên chất lượng đó; tức là mạnh/yếu của hiệu ứng ma trận phụ thuộc vào hợp kim có chất lượng thấp nhất trong ma trận
+47004,"4. Khi Ninja đã kích hoạt một hiệu ứng ma trận và ô ma trận hiện tại còn chỗ trống, có thể tự chọn đặt hợp kim yêu thích vào chỗ trống, sẽ không ảnh hưởng đến việc kích hoạt hiệu ứng ma trận"
+47005,5. Hợp kim dư có thể chuyển thành Lõi Hợp Kim thông qua nung chảy hợp kim; Lõi Hợp Kim có thể dùng để tăng cấp các hợp kim khác
+48001,Hoàn thành nhiệm vụ hằng ngày trong danh sách sẽ nhận điểm Nhiệt Huyết tích lũy tương ứng
+48002,"Khi điểm Nhiệt Huyết hằng ngày tích lũy đạt 20, 40, 60, 80, 100 có thể nhận thưởng trong rương thưởng tích lũy Nhiệt Huyết"
+48003,"Một số nhiệm vụ Nhiệt Huyết như tích lũy online, tiêu hao thể lực... có thể hoàn thành theo từng bước, mỗi bước sẽ nhận điểm Nhiệt Huyết của bước đó"
+49001,"1. Trong rương giới hạn thời gian, mỗi lần mở 1 rương sẽ nhận 10 điểm; điểm cao thấp quyết định thứ hạng trên bảng xếp hạng; khi điểm bằng nhau, người đạt mốc điểm đó trước sẽ xếp trên"
+49002,"2. Trong sự kiện này, mỗi lần mở 10 rương trang bị chắc chắn nhận Hợp kim Thức tỉnh và Rương Mảnh Vạn năng (không ra mảnh thức tỉnh)"
+49003,3. Thời gian kết thúc sự kiện là ngày cuối cùng lúc 21:30; sau khi sự kiện kết thúc sẽ không thể mở rương nữa; thưởng top 30 sẽ phát qua thư
+49004,4. Thưởng xếp hạng hạng 1 phải đạt 7000 điểm
+49005,5. Thưởng xếp hạng hạng 2-3 phải đạt 5000 điểm
+49006,6. Thưởng xếp hạng hạng 4-6 phải đạt 3500 điểm
+49007,7. Thưởng xếp hạng hạng 7-10 phải đạt 2000 điểm
+49008,8. Thưởng xếp hạng hạng 11-20 phải đạt 1000 điểm
+49009,"9. Nếu không đạt yêu cầu điểm tương ứng của sự kiện, chỉ có thể nhận thưởng tương ứng với điểm của bản thân"
+50001,"1. Trong sự kiện, mỗi lần nạp tích lũy 6 tệ có thể nhận 1 Búa đập trứng vàng, mỗi ngày tối đa nhận 10 búa"
+50002,"2. Cách đập trứng vàng đúng là: khi có búa, bấm vào trứng vàng bạn thích sẽ nhận thưởng"
+50003,"3. Đập trứng vàng 1 lần, tiêu hao 1 búa và tiền tệ XXXX (số lượng và tiền tệ đọc từ cấu hình); mỗi lần đập có cơ hội nhận thưởng x3 x6 x10"
+50004,4. Khi đập trúng thưởng lớn x10 sẽ lập tức reset thành 3 trứng vàng; nếu không trúng có thể tiếp tục đập trứng vàng còn lại cho đến khi trúng
+50005,"5. Nếu may mắn, lần đầu cũng có thể đập ra thưởng lớn x10; nếu xui, đập đủ 3 lần chắc chắn sẽ ra thưởng x10"
+51001,1. Sự kiện BOSS giới hạn thời gian là sự kiện giới hạn thời gian; trong thời gian sự kiện mỗi ngày có 3 lượt khiêu chiến BOSS; dùng hết lượt có thể dùng vàng mua thêm; lượt khiêu chiến reset mỗi ngày lúc 5:00
+51002,"2. Bảng xếp hạng ghi nhận sát thương cao nhất của một lần đánh, không phải tổng sát thương"
+51003,3. Mỗi lần khiêu chiến sẽ nhận xu đồng và một số thưởng vật phẩm
+51004,"4. Trong thời gian sự kiện mở, mỗi ngày lúc 5:00 sẽ reset bảng xếp hạng và phát thưởng xếp hạng theo sát thương"
+51005,"5. BOSS giới hạn thời gian có nhiều đặc tính thuộc tính, trước khi khiêu chiến vui lòng đọc kỹ hướng dẫn BOSS"
+51006,"6. Khi khiêu chiến BOSS giới hạn thời gian - Omega Mon, đề nghị bật chức năng kéo giãn ống kính trong Cài đặt hệ thống"
+52001,Chạm (hoặc nhấn giữ) vào vị trí bên trái hoặc bên phải màn hình để điều khiển Agumon di chuyển sang trái hoặc phải
+52002,"Trước khi HP về 0, xuống được càng nhiều tầng thì cơ hội nhận thưởng càng cao"
+52003,Chạm (hoặc nhấn giữ) vào vị trí bên trái hoặc bên phải màn hình để điều khiển Ninja di chuyển sang trái hoặc phải
+52004,"Trước khi HP về 0, xuống được càng nhiều tầng thì cơ hội nhận thưởng càng cao"
+53001,1. Nhận Ninja liên kết chỉ định sẽ kích hoạt hiệu ứng liên kết
+53002,2. Ninja yêu cầu bất kỳ liên kết nào của cùng một Ninja đều có thể kích hoạt liên kết
+53003,"3. Ninja yêu cầu liên kết sau khi bị phân giải, hiệu ứng liên kết tương ứng vẫn tiếp tục có hiệu lực"
+54001,1. Nhận Ninja liên kết chỉ định sẽ kích hoạt hiệu ứng liên kết
+54002,2. Ninja yêu cầu bất kỳ liên kết nào của cùng một Ninja đều có thể kích hoạt liên kết
+54003,"3. Ninja yêu cầu liên kết sau khi bị phân giải, hiệu ứng liên kết tương ứng vẫn tiếp tục có hiệu lực"
+55001,1. Thời gian mở sự kiện BXH lực chiến là ngày 1 5:00 - ngày 7 21:30 sau khi mở server; sẽ phát thưởng tương ứng theo lực chiến của người chơi vào lúc 21:30 ngày 7 sau khi mở server
+55002,2. Thưởng sự kiện BXH lực chiến chia thành thưởng xếp hạng và thưởng lực chiến; cả hai sẽ phát qua thư lúc 21:30 ngày thứ 7
+55003,"3. Thưởng lực chiến là thưởng theo mốc lực chiến tương ứng với lực chiến của người chơi, không phát cộng dồn"
+55004,4. Người chơi có lực chiến bằng nhau sẽ xếp theo thứ tự đạt lực chiến đó
+55005,"5. Thưởng xếp hạng hạng 1-10 phải đạt 250,000 lực chiến mới nhận được"
+55006,"6. Người chơi mua đứt, không tham gia nhận thưởng đặc biệt"
+56001,1. Pha lê thiên phú có thể dùng để nâng cấp kỹ năng thiên phú
+56002,2. Trong rương kho báu ải chính có thể nhận Pha lê thiên phú
+56003,3. Trong thưởng điểm sân thi đấu có thể nhận Pha lê thiên phú
+56004,"4. Trong hoạt động vận hành thường cũng có cơ hội nhận Pha lê thiên phú, xin hãy theo dõi"
+57001,1. Ải vượt lần đầu có thể nhận thưởng lần đầu
+57002,2. Mỗi ngày có thể reset ải 1 lần; tăng cấp VIP sẽ có số lần reset đặc biệt; làm mới số lần mỗi ngày lúc 5:00
+57003,3. Ải đã vượt qua không thể khiêu chiến lại
+57004,4. Quét nhanh một nút có thể đến ải cao nhất trong lịch sử và nhận thưởng quét
+57005,5. Khi chọn khiêu chiến ải sẽ kèm điều kiện đặc biệt
+58001,1. Người chơi có thể thông qua hệ thống Tái sinh đưa Ninja trong túi của mình về trạng thái ban đầu
+58002,"2. Nội dung tái sinh Ninja gồm: cấp Ninja, chất lượng tiến bậc, kỹ năng, phụ kiện"
+58003,"3. Sau khi tái sinh Ninja, hoàn trả 100% tài nguyên bồi dưỡng, có thể dùng các tài nguyên này để bồi dưỡng Ninja mới yêu thích"
+58004,4. Tái sinh Ninja cần tiêu hao vàng; Ninja mục tiêu càng được bồi dưỡng cao thì cần càng nhiều vàng; giới hạn tiêu hao vàng là 100#Icommon/icon/icon_diamond.png-56-56#
+58005,"5. Ninja chưa từng tăng cấp, tiến bậc chất lượng, tăng cấp kỹ năng, tăng cấp liên quan phụ kiện... sẽ không thể tái sinh và sẽ không xuất hiện trong danh sách Ninja có thể chọn tái sinh"
+59001,"1. Điều đầu tiên của ""Cẩm nang bồi dưỡng Bách khoa Thế giới Ninja"": \nHàng trăm Ninja, phân giải hai dòng lệ, hãy đối xử tốt với bạn đồng hành Ninja của bạn ^_^"
+59002,"2. Người chơi có thể thông qua hệ thống Phân giải, phân giải mảnh Ninja không dùng trong túi thành Đá Linh Hồn Ninja; Ninja trong đội, đang luyện trong tổ chức, và đã khóa không thể phân giải"
+59003,3. Mỗi lần phân giải có thể chọn tối đa 5 Ninja để phân giải cùng lúc
+59004,4. Nội dung phân giải Ninja gồm: Tái sinh Ninja (hoàn trả tài nguyên tương ứng theo thời điểm tái sinh) và phân giải Ninja nhận Đá Linh Hồn Ninja
+59005,5. Vàng tiêu hao khi phân giải bằng tổng vàng tiêu hao khi tái sinh các Ninja được chọn; phân giải 1 Ninja tiêu hao tối đa 100#Icommon/icon/icon_diamond.png-56-56#
+59006,6. Đá Linh Hồn Ninja nhận từ phân giải có thể đổi vật phẩm hiếm và mảnh Ninja trong Cửa hàng Mảnh
+60001,"1. Người chơi Ninja có thể thông qua hệ thống Tái sinh trang bị, đưa trang bị trong túi của mình về trạng thái ban đầu"
+60002,2. Nội dung tái sinh trang bị bao gồm: cấp cường hóa trang bị và cấp tiến bậc của trang bị
+60003,"3. Sau khi tái sinh trang bị, hoàn trả 100% tài nguyên cường hóa và trang bị cùng tên"
+60004,4. Tái sinh trang bị cần tiêu hao vàng; trang bị mục tiêu càng bồi dưỡng cao thì tiêu hao vàng càng nhiều; giới hạn tiêu hao vàng là 50#Icommon/icon/icon_diamond.png-56-56#
+61001,1. Tặng quà có thể tăng cấp độ yêu thích
+61002,2. Mỗi lần độ yêu thích tăng 1 cấp sẽ tăng thuộc tính cơ bản
+61003,3. Khi độ yêu thích đạt đến một cấp nhất định sẽ mở khóa năng lực đặc biệt
+61004,4. Độ yêu thích dùng chung cho cùng một Ninja
+61005,5. Dùng nút [Nâng cấp nhanh] có thể tiêu hao toàn bộ quà độ yêu thích đang có
+61006,6. Dùng nút [Nâng cấp tốc độ] có thể chọn tăng cấp theo nhu cầu và tiêu hao quà độ yêu thích tương ứng đã chọn
+62001,"1. Mỗi ngày hệ thống ngẫu nhiên tạo 5 loại thuộc tính, mỗi thuộc tính ngẫu nhiên tạo 3 Ninja mục tiêu; người chơi có thể chọn một thuộc tính chakra và chọn Ninja mục tiêu để khiêu chiến; mỗi ngày có thể khiêu chiến 3 lần, mỗi lần khiêu chiến thành công 1 lần sẽ nhận thưởng 1 lần, tổng cộng nhận 3 lần"
+62002,2. Người chơi có thể tạo hoặc tham gia nhanh phòng thuộc tính chakra đã chọn; nếu toàn bộ Ninja mục tiêu trong thuộc tính chakra hiện tại đã chọn đều chưa kích hoạt thì sẽ không thể tham gia
+62003,"3. Sau khi tạo hoặc tham gia phòng, nếu người chơi đã từng chiến đấu thì sẽ không thể rời phòng; khi reset sang ngày thứ hai, phòng sẽ tự giải tán, người chơi sẽ tự rời phòng"
+62004,4. Người chơi trong chiến đấu vào màn hình xếp đội có thể điều khiển Ninja ra trận của người chơi khác để chỉnh vị trí
+62005,"5. Chiến đấu giữa người chơi là độc lập với nhau, không ảnh hưởng lẫn nhau"
+62006,"6. Người chơi có thể đổi Ninja ra trận bất cứ lúc nào, sau khi khiêu chiến xong cũng có thể đổi"
+62007,"7. Khi phòng có 3 người, 4 người và 5 người hoàn thành khiêu chiến, có thể nhận thưởng mục tiêu đặc biệt; điều kiện là người chơi phải hoàn thành khiêu chiến trước mới nhận được"
+62008,8. Mỗi ngày lúc 12:00 reset thuộc tính khiêu chiến và trạng thái phòng
+62009,"9. Sau khi vào phòng khiêu chiến 2 giờ hoặc trong khung 06:00-11:59 mỗi ngày, có thể mượn miễn phí Thành viên đội tinh anh; nếu đội đã đầy thì không thể mượn Thành viên đội tinh anh"
+62010,"10. Thành viên đội tinh anh là thành viên không chính thức, trong phòng sẽ không hiển thị hình ảnh và thông tin của họ, chỉ có thể xem Ninja tương ứng ở màn hình xếp đội"
+63001,1. Hoàn thành nhiệm vụ Mệnh lệnh Bí mật hằng ngày có thể nhận EXP Mệnh lệnh Bí mật để nâng cấp Mệnh lệnh Bí mật
+63002,2. Sau khi Mệnh lệnh Bí mật nâng cấp có thể nhận thưởng cấp tương ứng
+63003,3. Nhiệm vụ hằng ngày làm mới lúc 5:00 ngày hôm sau
+63004,4. Nhiệm vụ hằng tuần làm mới lúc 5:00 Thứ Hai
+63005,5. Người chơi có thể mua #C0xF76B45##F48#Mệnh lệnh Bí mật Cao cấp#C0xFFFFFF##F40# để nhận nhiều phần thưởng hơn
+63006,"6. Trong thời gian sự kiện, Mệnh lệnh Bí mật Cao cấp và Gói vàng Mệnh lệnh Bí mật Cao cấp giới hạn mua chọn 1 trong 2 và giới hạn mua 1 lần, #C0xF76B45##F48#bấm trực tiếp nút giá#C0xFFFFFF##F40# thì sẽ tính là mua thành công"
+64001,"1. Mỗi ngày người chơi có cơ hội mở miễn phí 1 lần, thời gian reset là 5:00 ngày hôm sau"
+64002,"2. Sau mỗi lần mở người chơi sẽ nhận điểm tương ứng, sẽ xếp hạng theo điểm cao thấp của người chơi"
+64003,3. Xếp hạng điểm của người chơi cập nhật theo thời gian thực
+64004,"4. Khi điểm của người chơi bằng nhau sẽ xếp theo thứ tự đạt điểm đó, ai đạt trước xếp trước"
+64005,5. Xếp hạng hiển thị top 30 người chơi
+65001,"1. Người chơi đạt điểm mốc quy định có thể nhận thưởng điểm, mỗi mốc thưởng điểm giới hạn nhận 1 lần"
+65002,2. Sự kiện sẽ tính thưởng lúc 21:30 ngày cuối cùng
+65003,3. Sự kiện kết thúc hệ thống sẽ phát thưởng xếp hạng qua thư theo thứ hạng điểm
+65004,4. Thưởng xếp hạng sẽ phát theo điểm và thứ hạng của người chơi; nếu người chơi không đạt điểm giới hạn để nhận thưởng xếp hạng thì sẽ phát thưởng tương ứng theo mốc điểm của bản thân
+66001,1. Hoàn thành nhiệm vụ hằng ngày có thể nhận Xu Đặc Quyền
+66002,2. Thưởng hằng ngày của Đặc Quyền vĩnh viễn có thể nhận rất nhiều Xu Đặc Quyền
+66003,3. Xu Đặc Quyền có thể dùng để nâng cấp kỹ năng Đặc Quyền
+66004,"4. Trong hoạt động vận hành thường cũng có cơ hội nhận Xu Đặc Quyền, xin hãy theo dõi"
+67001,"1. Mảnh Thú Triệu Hồn có thể nâng cấp, mỗi lần nâng cấp sẽ tiêu hao vật liệu tương ứng"
+67002,2. Sau khi kích hoạt toàn bộ mảnh của cùng một Thú Triệu Hồn thì có thể kích hoạt Thú Triệu Hồn
+67003,3. Tiến cấp Thú Triệu Hồn cần cấp mảnh và cấp nâng cấp Thú Triệu Hồn tương ứng
+67004,4. Người chơi có thể phân giải mảnh dư để nhận Xu Triệu Hồn
+67005,5. Xu Triệu Hồn có thể dùng để mua hàng trong Cửa hàng Triệu Hồn
+67006,6. Mỗi ngày người chơi có 1 lượt Triệu Hồn miễn phí
+67007,7. Thuộc tính Thú Triệu Hồn sẽ được điều chỉnh trong thi đấu Ninja Đại
+68001,1. Mỗi ngày hoàn thành nhiệm vụ có thể nhận số lượt mở
+68002,2. Số lượt mở nhận được mỗi ngày có giới hạn
+68003,3. Mở sẽ nhận thưởng 100%
+68004,4. Lúc 5:00 ngày hôm sau reset cơ hội mở và số lượt miễn phí nhận được từ nhiệm vụ
+68005,5. Số lượt mở có thể tích lũy để dùng
+68006,6. Số lượt mở chỉ có hiệu lực trong đợt sự kiện này
+69001,"1. Thông qua nạp có thể nhận một lượng điểm, điểm có thể dùng để mở vòng quay"
+69002,2. Nhận thưởng 100%
+69003,"3. Mỗi ngày có giới hạn số điểm nhận được, sau khi đạt giới hạn thì hôm nay sẽ không nhận thêm điểm"
+69004,4. Mỗi lần mở sẽ tiêu hao toàn bộ điểm có thể dùng
+69005,5. Điểm của tôi có thể giữ lại đến khi sự kiện kết thúc
+69006,6. Điểm chỉ có hiệu lực trong đợt sự kiện hiện tại
+69007,7. Lúc 5:00 ngày hôm sau làm mới điểm nạp
+70001,1. Người chơi có thể dùng vàng trực tiếp để mở máy capsule
+70002,3. Trong máy capsule có thể mở ra Điểm capsule để dùng đổi vật phẩm của
+70003,"4. Điểm capsule chỉ có hiệu lực trong đợt sự kiện hiện tại, hết hạn sẽ vô hiệu"
+70004,5. Mỗi ngày có cơ hội mở capsule miễn phí 1 lần
+70005,6. Lúc 5:00 ngày hôm sau reset số lượt miễn phí
+71001,1. Nạp một lần tương ứng với vàng có thể nhận hoàn vàng
+71002,2. Nạp tích lũy không tính trong sự kiện
+71003,3. Mỗi mốc hoàn giới hạn nhận 1 lần
+71004,4. Gói mua trực tiếp và thẻ tháng không tham gia sự kiện này
+72001,"1. Tăng thuộc tính bồi dưỡng cần có cùng một Ninja trong túi Ninja, bồi dưỡng đạt cấp sao quy định thì sau đó tự động có hiệu lực"
+72002,"2. Tăng thuộc tính bồi dưỡng có hiệu lực với toàn bộ Ninja; nếu cùng một Ninja có nhiều bản, tăng bách khoa tổng chỉ tính một lần"
+72003,"3. Tăng thuộc tính bồi dưỡng được tính theo cấp sao cao nhất của toàn bộ Ninja trong túi Ninja; nếu Ninja có cấp sao cao nhất bị phân giải, sẽ tính lại theo cấp sao của Ninja có cấp sao cao thứ hai trong túi Ninja"
+72004,"4. Nếu tổng số của một Ninja trong túi Ninja là 0, tăng thuộc tính bồi dưỡng tương ứng sẽ là 0"
+73001,"1. Số lần tẩy thuộc tính tăng trưởng càng nhiều, thuộc tính tăng trưởng từng dòng bảo đảm càng cao"
+73002,2. Khi tẩy một dòng tăng trưởng đạt #C0xF76B45##L10#【Hoàn hảo】#C0xFFFFFF# có thể nhận bonus thuộc tính đặc biệt
+73003,3. Khi tẩy cả 6 dòng tăng trưởng đều đạt #C0xF76B45##L10#【Hoàn hảo】#C0xFFFFFF# có thể nhận bonus thuộc tính đặc biệt cao hơn
+74001,"1. Thời gian đăng ký: #C0xF76B45#Thứ Hai, Thứ Sáu 10:00-18:50"
+74002,"2. Thời gian thi đấu: #C0xF76B45#Thứ Hai, Thứ Ba/Thứ Sáu, Thứ Bảy 19:00"
+74003,"3. Khi đăng ký có thể chọn tối đa 12 Ninja ra trận, sau khi đăng ký thành công có thể tự do đổi Ninja"
+74004,"4. Thi đấu diễn ra trong 2 ngày, gồm Vòng loại, Vòng thăng cấp, Vòng đỉnh cao; top 8 của Vòng thăng cấp có thể vào Vòng đỉnh cao"
+74006,5. Người chơi VIP3 trở lên sẽ được hệ thống tự động đăng ký trước khi kết thúc đăng ký 50 phút
+74007,"6. Mỗi trận Vòng loại kéo dài 4 phút, mỗi trận Vòng thăng cấp và Vòng đỉnh cao kéo dài 5 phút"
+75001,Ngày 1 10:00-18:50 — Đăng ký
+75002,Ngày 1 19:00-19:16 — Vòng loại lượt 1
+75003,Ngày 1 19:16-19:32 — Vòng loại lượt 2
+75004,Ngày 1 19:32-Ngày 2 18:50 — Thời gian nghỉ
+75005,Ngày 2 19:00-19:16 — Vòng loại lượt 3
+75006,Ngày 2 19:16-19:31 — Vòng thăng cấp
+75007,Ngày 2 19:31-19:46 — Vòng đỉnh cao
+76001,1. Vòng loại là thể thức loại theo điểm
+76002,"2. Vòng loại chia 3 lượt: Ngày 1 làm 2 lượt, Ngày 2 làm 1 lượt; mỗi lượt làm 4 trận, tổng 12 trận; mỗi trận 4 phút"
+76003,"3. Thi đấu mỗi trận, người chơi có thể nhận điểm tương ứng"
+76004,4. Vòng loại tích lũy #C0xF76B45#5 lần thua sẽ bị loại ngay
+76005,"5. Trong cùng một lượt thi đấu Ninja không thể dùng lại, giữa các lượt khác nhau Ninja có thể dùng lại"
+77001,"1. Sau khi vòng loại kết thúc sẽ chọn top 64 theo xếp hạng để làm Vòng thăng cấp, Vòng thăng cấp chia 8 bảng"
+77002,"2. Vòng thăng cấp là thể thức loại trực tiếp, gồm trận 32, 16, 8, tổng 3 trận"
+77003,"3. Mỗi trận 5 phút, người thua bị loại"
+77004,4. Ninja không thể dùng lại
+78001,1. 8 người thắng cuối cùng của Vòng thăng cấp có thể vào Vòng đỉnh cao
+78002,"2. Vòng đỉnh cao là thể thức loại trực tiếp, gồm trận 4, Bán kết, Chung kết và Tranh hạng 3, tổng 4 trận"
+78003,3. Chung kết và Tranh hạng 3 diễn ra đồng thời
+78004,4. Mỗi trận 5 phút
+78005,5. Ninja không thể dùng lại
+79001,"1. Vòng loại, Vòng thăng cấp và Vòng đỉnh cao đều là luân phiên 3V3"
+79002,"2. Ninja ra trận, theo Tốc độ của chính Ninja, ai nhanh hơn ra tay trước"
+79003,"3. Ninja 1v1 chiến đấu, tối đa 10 hiệp"
+79004,4. Kết thúc 10 hiệp nếu hai bên vẫn chưa phân thắng bại: nếu %HP của cả hai bên đều > 90% thì bên gây sát thương cao hơn thắng; nếu có bên nào có %HP < 90% thì bên có %HP cuối cùng cao hơn thắng
+79005,5. Bên còn Ninja sống sót cuối cùng sẽ thắng
+80001,1. Người chơi có thể đặt cược Vòng loại vào ngày đầu của giải
+80002,2. Thời gian đặt cược Vòng loại là ngày đầu của giải 10:00-18:50
+80003,3. Đặt cược dự đoán 3 người chơi top 3 của BXH điểm sau khi kết thúc Vòng loại của server này
+80004,4. Người chơi có thể chọn tối đa 3 người để đặt cược
+80005,"5. Mỗi lần đoán đúng 1 người chơi sẽ hoàn gấp đôi số tiền đã cược, đoán sai sẽ hoàn một nửa số tiền"
+80006,6. Đoán đúng cả 3 người chơi sẽ nhận thưởng đặc biệt
+81001,1. Người chơi có thể đặt cược trận Vòng 4 của ngày hai sau khi giải kết thúc
+81002,2. Thời gian đặt cược trận Vòng 4 là từ sau khi giải kết thúc đến 18:50 ngày hai
+81003,3. Đặt cược dự đoán 3 người sẽ vào Vòng 4 trong số người chơi đã đăng ký tham gia giải
+81004,4. Người chơi có thể chọn tối đa 3 người để đặt cược
+81005,"5. Mỗi lần đoán đúng 1 người chơi sẽ hoàn gấp đôi số tiền đã cược, đoán sai sẽ hoàn một nửa số tiền"
+81006,6. Đoán đúng cả 3 người chơi sẽ nhận thưởng đặc biệt
+81007,7. Dự đoán người vào Vòng 4 không được trùng với dự đoán vô địch
+82001,1. Người chơi có thể đặt cược trận Chung kết của ngày hai sau khi giải kết thúc
+82002,2. Thời gian đặt cược trận Chung kết là từ sau khi giải kết thúc đến 18:50 ngày hai
+82003,3. Đặt cược dự đoán người vô địch trong số người chơi đã đăng ký tham gia giải
+82004,4. Người chơi chỉ có thể chọn 1 người để đặt cược
+82005,"5. Mỗi lần đoán đúng 1 người chơi sẽ hoàn thưởng theo tỉ lệ, đoán sai sẽ hoàn một nửa số tiền"
+82006,6. Tỉ lệ cược sẽ thay đổi theo số người đặt cược
+82007,7. Dự đoán người vào Vòng 4 không được trùng với dự đoán vô địch
+82008,"8. Xu đồng tối đa nhận 150 vạn xu đồng, Token tối đa nhận 1500 Token"
+83001,"1. Trong tái sinh Ấn, có thể reset Ấn đã bồi dưỡng của mình về trạng thái ban đầu"
+83002,2. Nội dung tái sinh Ấn bao gồm: cường hóa Ấn
+83003,"3. Sau khi tái sinh Ấn, hoàn trả 100% tài nguyên bồi dưỡng, có thể dùng các tài nguyên này để bồi dưỡng Ấn khác mới"
+83004,4. Tái sinh Ấn cần tiêu hao vàng; Ấn mục tiêu càng bồi dưỡng cao thì cần càng nhiều vàng; giới hạn tiêu hao vàng của một Ấn duy nhất là 10#Icommon/icon/icon_diamond.png-56-56#
+83005,5. Ấn chưa từng bồi dưỡng không thể tái sinh và sẽ không xuất hiện trong danh sách Ấn có thể chọn tái sinh
+84001,1. Người chơi có thể phân giải Ấn dư trong Phân giải Ấn mà không tiêu hao gì
+84002,"2. Với Ấn đã từng bồi dưỡng, sau khi phân giải sẽ hoàn trả 100% vật liệu cường hóa và xu đồng đã tiêu hao"
+84003,"3. Ấn đã khảm không thể phân giải, và không thể xem trong Phân giải Ấn"
+84004,"4. Mỗi lần phân giải có thể chọn nhiều mục bằng một nút theo phẩm chất, hoặc nhấn giữ chọn nhiều mục để phân giải"
+84005,"5. Sau khi phân giải Ấn có thể nhận vật liệu cường hóa Ấn, dùng để cường hóa Ấn khác"
+85001,"1. Trong thời gian sự kiện, người chơi có thể dùng Ninja khiêu chiến Boss Thế Giới"
+85002,"2. Mỗi lần khiêu chiến Boss Thế Giới sẽ ghi nhận lượng sát thương của người chơi, đạt mốc sát thương mục tiêu tương ứng có thể nhận ngay thưởng trong rương thưởng tương ứng sau khi lần khiêu chiến này kết thúc"
+85003,"3. Boss Thế Giới ghi nhận tổng sát thương tối đa của toàn server, sau khi đạt mục tiêu, người chơi tham gia sự kiện trong ngày đó có thể nhận thưởng rương; thưởng phát qua thư lúc 5:00 ngày hôm sau, đồng thời lúc này reset dữ liệu sát thương tích lũy"
+85004,4. Boss Thế Giới có số lượt khiêu chiến miễn phí và có thể mua thêm; sau khi số lượt đạt giới hạn trong ngày đó sẽ không thể vào chiến đấu nữa; số lượt reset lúc 5:00 ngày hôm sau
+85005,5. Sát thương cao nhất cá nhân trong một lần khiêu chiến Boss Thế Giới trong ngày đó sẽ được ghi vào BXH cá nhân và BXH tổ chức; BXH và ghi nhận sát thương reset lúc 5:00 ngày hôm sau
+85006,"6. Người chơi và tổ chức lên BXH sẽ nhận thưởng xếp hạng, xem mẫu thưởng vui lòng bấm nút thưởng xếp hạng; thưởng phát qua thư lúc 5:00 ngày hôm sau"
+85007,7. Người chơi không tham gia tổ chức sẽ không vào BXH tổ chức; nếu tham gia tổ chức trước khi reset dữ liệu thì chỉ ghi nhận dữ liệu khiêu chiến Boss Thế Giới sau khi vào tổ chức mới
+85008,"8. Người chơi đang có tổ chức, sau khi vào chiến Boss Thế Giới rồi rời tổ chức, trước khi reset dữ liệu mà gia nhập tổ chức lại sẽ không tạo dữ liệu sát thương của mình trong tổ chức mới"
+86001,"1. Đấu trường liên server cần chờ ghép cặp giữa các server, khi ghép cặp thành công sẽ hiển thị #C0xF76B45#Trạng thái ghép cặp thành công chờ mở thi đấu#C0xFFFFFF# trên màn hình"
+86002,2. Quy trình mùa: #C0xF76B45#Mùa bắt đầu (2 tuần 14 ngày) — Mùa kết thúc hiển thị người chơi (liên tục 5 ngày) — Chuẩn bị mở thi đấu (thông báo trước 2 ngày)
+86003,"3. Trong mùa có 2 lần tính xếp hạng: #C0xF76B45#Ngày 7 của mùa lúc 22:00 tính theo giai đoạn, và ngày 14 lúc 22:00 tính mùa khi kết thúc mùa"
+86004,"4. Trong mùa, mỗi ngày có số lượt khiêu chiến miễn phí và có thể dùng vàng mua thêm lượt khiêu chiến; số lượt reset mỗi ngày lúc 5:00"
+86005,"5. Người chơi có thể tự làm mới đối thủ có thể khiêu chiến; làm mới thủ công có số lượt miễn phí, dùng hết lượt miễn phí thì phải dùng xu đồng làm mới đối thủ; số lượt miễn phí làm mới thủ công reset mỗi ngày lúc 5:00"
+86006,"6. Cấp mùa phân biệt cấp lớn và cấp nhỏ; cấp lớn theo thứ tự #C0xF76B45#Đồng—Bạc—Vàng—Platinum—Vàng—Đại sư Vô Úy—Vương Giả Đỉnh Cao#C0xFFFFFF# từ thấp lên cao; cấp nhỏ theo số, số càng nhỏ xếp càng cao; Đại sư Vô Úy và Vương Giả Đỉnh Cao không có cấp nhỏ"
+86007,"7. Mỗi cấp nhỏ có xếp hạng nội bộ, thứ hạng có giới hạn; mỗi người chơi xếp tổng theo Cấp > Thứ hạng trong cấp (cấp không có cấp nhỏ thì xếp theo cấp lớn)"
+86008,8. Trong dữ liệu chiến đấu có thể xem video chiến đấu giữa các người chơi cấp cao trong thời gian gần đây
+87001,"1. Trước chiến đấu, người chơi có thể xếp 2 đội, có thể đưa vào chiến không ít hơn 2 và không nhiều hơn 12 Ninja"
+87002,"2. Chiến đấu dùng luân phiên 6V6, tối đa 3 hiệp; đội thắng hiệp 1 sẽ giữ trạng thái hiện tại để tiếp tục khiêu chiến đội tiếp theo của đối phương"
+87003,3. Nếu cả 2 đội của một bên đều thua hết thì tính là thua; nếu hết hiệp vẫn chưa phân thắng bại thì bên còn nhiều máu hơn tính là thắng
+87004,4. Cách chiến đấu của đấu trường liên server là #C0xF76B45#khóa tự động chiến đấu#C0xFFFFFF#
+87005,"5. Người chơi chủ động khiêu chiến đối thủ, nếu thắng sẽ hoán đổi thứ hạng với đối phương; nếu thua thứ hạng không đổi"
+87006,"6. Khi đối phương chủ động khiêu chiến người chơi, sẽ đưa đội hình phòng thủ của người chơi ra chiến; thay đổi thứ hạng và quan hệ kết thúc chiến đấu giống như điều trước"
+88001,"1. Sau khi khiêu chiến hằng ngày đạt số lượt nhiệm vụ, có thể tự nhận thưởng ở tab Thưởng thi đấu - Thưởng hằng ngày, mỗi ngày lúc 5:00 reset nhiệm vụ"
+88002,"2. Khi cập nhật kỷ lục cấp cao nhất, có thể tự nhận thưởng ở tab Thưởng thi đấu - Thưởng cấp; thưởng này sẽ reset sau khi mỗi mùa kết thúc"
+88003,"3. Hai lần tính xếp hạng trong quá trình mùa sẽ phát thưởng qua thư theo cấp; chi tiết thưởng có thể xem ở Thưởng thi đấu - Bảy ngày mùa, tab Mùa trước"
+89001,1. Trao đổi độ yêu thích cần một số điều kiện giới hạn\n     Điều kiện①: Hình thái ban đầu của Ninja hai bên có cùng độ hiếm\n     Điều kiện②: Vật liệu tiêu hao khi bồi dưỡng độ yêu thích của hai bên tương ứng nhau
+89002,"2. Khi trao đổi độ yêu thích, chỉ cần đã kích hoạt Bách khoa Ninja thỏa điều kiện là được; dù trong túi không có Ninja tương ứng cũng có thể trao đổi độ yêu thích"
+90001,1. Loại Ấn up giới hạn của mỗi đợt sự kiện sẽ thay đổi
+90002,"2. Mỗi ngày có 1 lượt mở giới hạn miễn phí, lúc 5:00 ngày hôm sau reset số lượt miễn phí"
+90003,"3. Số lượt mở mỗi ngày có một số giới hạn, không bao gồm lượt mở miễn phí"
+91001,"1. Số lần đổi Ấn của mỗi đợt sự kiện Ấn giới hạn có một số giới hạn, vượt quá số lần giới hạn trong đợt này sẽ không thể đổi tiếp"
+91002,"2. Đổi Ấn giới hạn chỉ áp dụng cho phẩm chất tím và tím trở lên, và Ấn cùng phẩm chất"
+91003,"3. Đổi Ấn cần ít nhất 2 hoặc 3 Ấn cùng phẩm chất #C0xF76B45##L10#Tiêu hao 2 Ấn cùng phẩm chất chỉ có thể đổi được 1 Ấn mới cùng phẩm chất, tiêu hao 3 Ấn cùng phẩm chất có thể đổi 2 Ấn mới cùng phẩm chất"
+91004,4. Cách đổi Ấn có 3 kiểu:
+91005,"①[Loại giới hạn] và [Số hiệu giới hạn] mặc định không chọn cả hai, giữa cùng phẩm chất đổi ngẫu nhiên giá trị tương đương"
+91006,"②Khi chọn [Loại giới hạn], chỉ giới hạn giữa cùng phẩm chất và cùng loại đổi ngẫu nhiên giá trị tương đương"
+91007,"③Khi chọn [Số hiệu giới hạn], chỉ giới hạn giữa cùng phẩm chất và cùng số hiệu đổi ngẫu nhiên giá trị tương đương"
+91008,5. [Loại giới hạn] và [Số hiệu giới hạn] chỉ có thể chọn 1 trong 2
+91009,"6.Càng đổi nhiều lần sẽ càng tốn vàng, chọn đổi Ấn phẩm chất cao sẽ tốn vàng nhiều hơn"
+91010,"7.Khi chọn Ấn đã cường hóa để đổi, vật liệu cường hóa cấp tương ứng sẽ được hoàn trả miễn phí"
+91011,"8.Trong màn đổi Ấn, chỉ hiển thị Ấn trong túi gốc có phẩm chất không thấp hơn tím và chưa khảm; Ấn đã khảm trên Ninja sẽ không hiển thị"
+92001,"1.Trong thời gian sự kiện, người chơi có thể dùng nguyên liệu thu thập được để gói bánh trong sự kiện Bánh lá thơm"
+92002,"2.Nguyên liệu chia 2 loại: nguyên liệu chính và nguyên liệu phụ, dùng #C0xF76B45#Vật phẩm Hộp quà nguyên liệu bánh#C0xFFFFFF# để nhận ngẫu nhiên, có thể nhận vật phẩm này từ sự kiện #C0xF76B45#Đăng nhập liên tục hoàn thành nhiệm vụ nhận nguyên liệu bánh#C0xFFFFFF# trong sự kiện giới hạn thời gian"
+92003,"3.Khi làm phải #C0xF76B45#cho nguyên liệu chính và nguyên liệu phụ cùng lúc, thiếu bất kỳ loại nào sẽ không thể làm bánh"
+92004,4.Nguyên liệu chính và nguyên liệu phụ có thể #C0xF76B45#tự do phối trộn #C0xFFFFFF# để làm ra các vị bánh khác nhau
+92005,"5.Sau khi có bánh có thể dùng trong màn sự kiện hoặc trong túi, nguyên liệu và bánh có thời hạn sử dụng, #C0xF76B45#vui lòng làm và ăn trong thời hạn quy định #C0xFFFFFF# hết hạn vật phẩm sẽ bị xóa"
+93001,"1.Câu cá có số lượt giới hạn mỗi ngày, số lượt reset lúc 05:00 mỗi ngày; dùng hết lượt thì hôm đó không thể câu nữa"
+93002,2.Mỗi lần câu cá cần 1 mồi
+93003,"3.Khi cá cắn câu, phải điều khiển để móc câu và cá chồng lên nhau, bấm/nhấn giữ để kéo móc lên, thả ra thì hạ xuống"
+93004,"4.Khi móc và cá chồng lên nhau, tiến độ câu cá tăng; nếu không chồng lên nhau, tiến độ giảm"
+93005,"5.Khi thanh tiến độ lên đến trên cùng thì câu thành công; nếu xuống đến dưới cùng thì câu thất bại; dù thành công hay thất bại, lượt và mồi đều sẽ bị tiêu hao"
+93006,6.Chọn cần và mồi phẩm chất cao hơn để giảm độ khó thao tác hoặc tăng tỉ lệ câu cá tự động thành công
+93007,7.Tăng cấp câu cá sẽ nhận bonus trạng thái cho toàn bộ Ninja và giảm độ khó câu cá
+93008,"8.Tăng cấp câu cá cần đạt số lượng đếm cá của cấp đó, đủ đếm sẽ tự động nâng cấp; sau khi nâng cấp, số đếm của cấp mới sẽ tính lại từ đầu"
+93009,"9.Có thể xuất hiện Ninja bí ẩn khác, các Ninja này không tính vào nâng cấp"
+93010,"10.Khi người chơi đạt Lv.68 sẽ có thể dùng chức năng câu cá tự động; bấm vào Ninja đồng hành trên màn để vào câu cá tự động, câu cá tự động có thể thất bại"
+93011,11.Giải thích một số trạng thái liên quan đến câu cá:
+93012,"①Tỉ lệ thành công câu cá tự động——tỉ lệ thành công của cá khi câu cá tự động phụ thuộc vào phẩm chất của chính nó, chịu ảnh hưởng bởi dụng cụ câu cá"
+93013,"②Tốc độ tăng tiến độ——trên màn câu cá, tốc độ tăng tiến độ bên phải khi móc câu và cá chồng lên nhau"
+93014,"③Tốc độ giảm tiến độ——trên màn câu cá, tốc độ giảm tiến độ bên phải khi móc câu và cá không chồng lên nhau"
+93015,"④Phạm vi phán định móc——kích thước khung phán định nơi móc câu nằm, chịu ảnh hưởng bởi mồi"
+93016,⑤Thời gian chờ câu——thời gian phải chờ từ lúc thả câu đến khi cá cắn
+93017,⑥Phạm vi di chuyển của cá——khoảng cách cá trồi sụt trên màn câu cá
+94001,"1.Giải câu cá được tổ chức mỗi 2 tuần, thời gian thi đấu là Chủ Nhật 05:00-23:00"
+94002,"2.Trong mỗi giải sẽ ghép ngẫu nhiên nhiều server để thi đấu, xếp hạng theo điểm câu cá nhận được"
+94003,3.Khi giải kết thúc sẽ phát thưởng theo xếp hạng điểm cuối cùng
+94004,4.Người chơi có điểm bằng nhau xếp theo thời điểm đạt mốc
+94005,"5.Trong giải sẽ có Kyogre hiếm xuất hiện, Kyogre có điểm cao hơn"
+94006,6.Dùng mồi cao cấp chuyên dụng cho giải sẽ tăng cơ hội Kyogre xuất hiện
+94007,7.Chúc bạn đạt thành tích tốt
+95001,1.Ninja trong Sổ ảnh mới có thể Siêu tiến hóa tại Nhà Siêu tiến hóa
+95002,"2.Sau Siêu tiến hóa, trạng thái cơ bản của Ninja tăng lên, toàn bộ trạng thái đã bồi dưỡng sẽ được kế thừa hoàn toàn, loại trạng thái và độ hiếm#C0xF76B45##L10#có thể thay đổi#C0xFFFFFF#"
+95003,"3.Ninja phải bồi dưỡng đến một cấp nhất định mới có thể Siêu tiến hóa, và dùng 2 loại vật phẩm chính đặc biệt là Đá then chốt và Đá Siêu tiến hóa chuyên dụng"
+95004,4.Đá then chốt và Đá Siêu tiến hóa chuyên dụng có thể chuyển đổi mỗi ngày tại Nhà Siêu tiến hóa
+95005,"5.Nhà Siêu tiến hóa sẽ định kỳ mở Ninja Siêu tiến hóa mới, xin hãy theo dõi"
+96001,1.Đá then chốt có thể chuyển đổi bằng cách dùng#C0xF76B45##L10#Ninja cùng độ hiếm#C0xFFFFFF#hoặc#C0xF76B45##L10#Mảnh Ninja cùng độ hiếm#C0xFFFFFF# và có giới hạn số lần mỗi ngày:
+96002,"①Ninja cấp A 1 con hoặc Ditto tím 1 con có thể đổi 10 Đá then chốt tiến hóa tím, Mảnh cấp A 3 mảnh có thể đổi 1 Đá then chốt tiến hóa tím"
+96003,"②Ninja cấp S 1 con hoặc Ditto cam 1 con có thể đổi 10 Đá then chốt tiến hóa cam, Mảnh cấp S 5 mảnh có thể đổi 1 Đá then chốt tiến hóa cam"
+96004,"③Ninja cấp S+ 1 con hoặc Ditto đỏ 1 con có thể đổi 10 Đá then chốt tiến hóa đỏ, Mảnh cấp S+ 8 mảnh có thể đổi 1 Đá then chốt tiến hóa đỏ"
+96005,"2.Mỗi ngày lúc 05:00 hệ thống sẽ cộng số lần đổi Đá then chốt mua bằng vàng, có thể tích lũy vĩnh viễn nhưng không vượt quá giới hạn tối đa"
+97001,1.Đá Siêu chuyên dụng có thể chuyển đổi bằng cách dùng#C0xF76B45##L10#Ninja cùng trạng thái và độ hiếm#C0xFFFFFF#hoặc#C0xF76B45##L10#Mảnh Ninja cùng trạng thái và độ hiếm#C0xFFFFFF# และ có giới hạn số lần mỗi ngày:
+97002,"①Ninja cấp A cùng trạng thái 1 con hoặc Ditto tím 1 con có thể đổi 10 Đá Siêu phẩm chất tím, Mảnh cấp A 3 mảnh có thể đổi 1 Đá Siêu phẩm chất tím"
+97003,"②Ninja cấp S cùng trạng thái 1 con hoặc Ditto cam 1 con có thể đổi 10 Đá Siêu phẩm chất cam, Mảnh cấp S 5 mảnh có thể đổi 1 Đá Siêu phẩm chất cam"
+97004,"③Ninja cấp S+ cùng trạng thái 1 con hoặc Ditto đỏ 1 con có thể đổi 10 Đá Siêu phẩm chất đỏ, Mảnh cấp S+ 8 mảnh có thể đổi 1 Đá Siêu phẩm chất đỏ 1 อัน"
+97005,"3.Với các loại Đá Siêu khác nhau, hệ thống sẽ ghi nhận số lần chuyển đổi riêng"
+97006,"4.Mỗi ngày lúc 05:00 hệ thống sẽ cộng số lần đổi Đá Siêu mua bằng vàng, có thể tích lũy vĩnh viễn nhưng không vượt quá giới hạn tối đa"
+98001,"1.Đấu trường đối chiến là#C0xF76B45#ghép cặp liên server#C0xFFFFFF# cần chờ ghép server, khi ghép thành công sẽ hiển thị#C0xF76B45#Trạng thái ghép cặp thành công chờ bắt đầu thi đấu"
+98002,"2.Đấu trường đối chiến chia theo mùa, quy trình mùa: #C0xF76B45#Thông báo mùa trước khi bắt đầu→Đang thi đấu→Kết thúc mùa hiển thị xếp hạng, mùa thường kéo dài nhiều tuần, có thể xem phía trên avatar của bạn"
+98003,"3.Trong mùa, luân phiên theo tuần; trong thời gian mở ghép cặp có thể ghép trận không giới hạn, khi không mở ghép cặp sẽ không thể thi đấu #C0xF76B45#Thời gian ghép cặp xem ở dưới nút bắt đầu ghép cặp"
+98004,"4.Đấu trường đối chiến là#C0xF76B45#ghép trận thời gian thực#C0xFFFFFF# mọi chế độ đều phải tự bấm bắt đầu ghép, chờ hệ thống ghép đối thủ phù hợp; khi đấu với đối thủ phải online chiến đấu suốt"
+98005,"5.Dùng#C0xF76B45#hệ thống điểm#C0xFFFFFF# tỉ lệ thắng càng cao điểm càng cao, BXH xếp theo điểm của toàn bộ người chơi tham gia; #C0xF76B45#điểm của 2 chế độ tính riêng và xếp hạng riêng"
+98006,6.Mỗi lần mùa mới bắt đầu sẽ xóa kỷ lục điểm cao nhất lịch sử của mùa trước và điểm của 2 chế độ
+99001,1.Mở 2 chế độ trong Đấu trường đối chiến #C0xF76B45#là Chế độ không giới hạn và Chế độ công bằng#C0xFFFFFF#
+99002,2.Chế độ không giới hạn phải#C0xF76B45#thiết lập đội trước khi bắt đầu ghép#C0xFFFFFF# vào rồi phải tự điều khiển chiến đấu
+99003,"3.Chế độ công bằng có lối chơi theo chủ đề, #C0xF76B45#chủ đề sẽ thay đổi mỗi tuần hoặc vài tuần (chỉ đổi chủ đề, điểm vẫn tích lũy)"
+99004,"4.Chế độ công bằng chia theo giai đoạn chọn Ninja trước khi chiến đấu thật là#C0xF76B45#hệ thống chọn vị trí và hệ thống ban-pick, khi điểm đạt mốc quy định sẽ tự chuyển sang ban-pick (chủ đề không đổi); xem điểm cụ thể bằng cách bấm i dưới nút chuyển trong Chế độ công bằng"
+99005,"5.Chế độ công bằng cần thiết lập đội dự bị trước, #C0xF76B45#số Ninja không đủ giới hạn tối thiểu sẽ không thể ghép trận; đội dự bị sẽ quyết định Ninja có thể dùng trong giai đoạn ban-pick"
+99006,"6.Chế độ đấu Không Giới Hạn và chế độ đấu Công Bằng dùng chế độ #C0xF76B45##L10#6V6#C0xFFFFFF# 1 trận, chế độ đấu Công Bằng sẽ điều chỉnh #C0xF76B45#các trạng thái#C0xFFFFFF# của ninja trong chiến đấu cho công bằng, ninja có độ hiếm khác nhau cũng sẽ được điều chỉnh về cùng một mặt bằng, trạng thái tốc độ của ninja sẽ quyết định thứ tự ra đòn trong chiến đấu"
+99007,"7.Trong chiến đấu chế độ đấu Công Bằng, #C0xF76B45#trạng thái và hiệu ứng của trang bị, rune và các thứ khác#C0xFFFFFF# sẽ không được tính vào, kỹ năng tổ chức, kỹ năng thiên phú, trạng thái thú triệu hồi và các thứ khác của hai bên sẽ được điều chỉnh bằng nhau"
+99008,"8.Chiến đấu ở chế độ đấu Không Giới Hạn và chế độ đấu Công Bằng dùng #C0xF76B45#chế độ tự điều khiển#C0xFFFFFF#, điều khiển kỹ năng ninja trong thời gian quy định, hết thời gian sẽ chuyển sang chiến đấu tự động"
+99009,"9.Chiến đấu ở chế độ đấu Không Giới Hạn và chế độ đấu Công Bằng tối đa 20 hiệp, trong chiến đấu nếu ninja một bên bị hạ hết thì thua, nếu hết hiệp vẫn chưa phân thắng bại thì bên có HP nhiều hơn sẽ thắng"
+100001,"1.Trong thời gian mở ghép cặp, #C0xF76B45#6 trận đầu mỗi ngày#C0xFFFFFF# sẽ nhận thưởng, thắng hay thua đều nhận thưởng"
+100002,"2.Trong mùa giải mỗi tuần có #C0xF76B45#phần thưởng mục tiêu nhỏ, nhận tại hộp quà góc dưới bên phải#C0xFFFFFF#, làm nhiệm vụ ghép cặp đơn giản là nhận được"
+100003,"3.Trong mùa giải #C0xF76B45#phát thưởng mỗi tuần, sau khi kết thúc ghép cặp Chủ Nhật 30 phút#C0xFFFFFF#, lấy điểm cao hơn trong 2 chế độ của người chơi để phát thưởng theo mốc, #C0xF76B45#Lưu ý: tham gia ghép cặp ít nhất 3 trận mỗi tuần (bất kỳ chế độ nào) mới nhận được thưởng"
+100004,"4.Kết thúc mùa giải #C0xF76B45#phát thưởng 1 lần, sau khi kết thúc ghép cặp ngày cuối cùng 30 phút#C0xFFFFFF#, lấy thứ hạng hiện tại cao nhất trong 2 chế độ của người chơi để phát thưởng theo thứ hạng, #C0xF76B45#Lưu ý: tham gia ghép cặp ít nhất 1 trận trong mùa giải (bất kỳ chế độ nào) mới nhận được thưởng"
+100005,"5.Xu hệ thống có thể dùng trong cửa hàng đấu trường, trong cửa hàng có hàng hóa cần mở khóa theo điều kiện, khi #C0xF76B45#đạt điều kiện điểm, hàng hóa sẽ được mở khóa vĩnh viễn ngay lập tức!"
+101001,"1.Trong thời gian sự kiện, người chơi quay lại có thể tìm #C0xF76B45#1 người chơi kỳ cựu#C0xFFFFFF# để liên kết tham gia sự kiện, #C0xF76B45#không có việc tranh giành liên kết"
+101002,"2.Người chơi kỳ cựu phải đạt cấp 55 và lực chiến 150,000 mới có thể cho người chơi quay lại liên kết"
+101003,"3.Sau khi hai bên liên kết, sẽ mở nội dung nhiệm vụ liên kết, nhiệm vụ chia thành nhiệm vụ chung và nhiệm vụ cá nhân, #C0xF76B45#mở toàn bộ nhiệm vụ cho người chơi quay lại, chỉ có một phần nhiệm vụ chung cần người chơi kỳ cựu tham gia, vì vậy ở trang sự kiện của người chơi kỳ cựu sẽ chỉ hiển thị nội dung nhiệm vụ chung"
+101004,"4.Mỗi lần hoàn thành nhiệm vụ, #C0xF76B45#cả hai bên đều nhận điểm nhiệm vụ#C0xFFFFFF#, khi điểm đạt một mức nhất định sẽ mở được rương tái ngộ, #C0xF76B45#tiến độ rương của hai bên giống nhau, cần cùng cố gắng để mở!"
+101005,"5.Cả hai bên #C0xF76B45#chỉ có thể liên kết 1 lần để tham gia sự kiện này #C0xFFFFFF#sau khi kết thúc sự kiện tái ngộ, người chơi kỳ cựu sẽ vào thời gian hồi, tức là không thể tham gia lại sự kiện tái ngộ trong một khoảng thời gian"
+101006,"6.Nếu sự kiện tái ngộ lần này không hoàn thành do người chơi quay lại lâu không đăng nhập, người chơi kỳ cựu đã liên kết, sau khi kết thúc sự kiện tái ngộ lần này sẽ có thời gian hồi ngắn hơn"
+101007,"7.Sau khi kết thúc sự kiện, #C0xF76B45#phần thưởng trong sự kiện này chưa nhận sẽ không gửi thêm mail #C0xFFFFFF#có thưởng thì mau nhận!"
+102001,#C0xF76B45#【Quy tắc cơ bản Dojo】
+102002,"1.Thời gian mở Dojo: #C0xF76B45#thứ Hai 10:00#C0xFFFFFF# đến #C0xF76B45#Chủ Nhật 21:45#C0xFFFFFF#, thời gian khác là thời gian đóng Dojo, không thể khiêu chiến ải và tranh đoạt Chủ Dojo Vinh Dự, mỗi thứ Hai 05:00 reset toàn bộ Dojo"
+102003,"2.Ải Dojo mỗi ngày có số lần khiêu chiến thành công, khi khiêu chiến thành công sẽ trừ lượt, thất bại không trừ lượt, mỗi ngày 05:00 reset"
+102004,"3.Mỗi vòng sẽ chỉ định 8 Dojo khác nhau, mỗi Dojo có 5 ải"
+102005,"4.Ải Dojo là ải một lần, không thể khiêu chiến lại, và trạng thái quái Dojo liên quan đến lực chiến người chơi, sau khi reset mỗi tuần sẽ tự động làm mới quái và trạng thái"
+102006,"5.Sau khi vượt qua toàn bộ độ khó của mỗi Dojo, có thể khiêu chiến trở thành Chủ Dojo Vinh Dự của Dojo đó"
+102007,"6.Mỗi Dojo chỉ có 1 Chủ Dojo Vinh Dự, và mỗi người chơi chỉ có thể là Chủ Dojo Vinh Dự của 1 Dojo, khi trở thành Chủ Dojo mới sẽ tự động xóa đội ở Dojo khác"
+102008,"7.Khiêu chiến Chủ Dojo Vinh Dự có giới hạn hồi, sau khi khiêu chiến thành công cần nghỉ một lúc mới có thể khiêu chiến lại, nhưng không giới hạn số lần khiêu chiến"
+102009,"8.Khiêu chiến Chủ Dojo cần có ninja trạng thái chỉ định, nếu không có ninja trạng thái hạn chế thì không thể khiêu chiến"
+102010,#C0xF76B45#【Giải thích nhật ký Dojo】
+102011,"1.Trong nhật ký Dojo, chỉ ghi #C0xF76B45#toàn bộ nhật ký khiêu chiến PVP liên quan đến bản thân#C0xFFFFFF# và #C0xF76B45#nhật ký vượt ải Dojo"
+102012,2.Nội dung nhật ký Dojo chỉ có nhật ký của tuần trước và tuần này
+102013,#C0xF76B45#【Giải thích Buff Khiêu Chiến】
+102014,1.Trạng thái đã kích hoạt trong buff khiêu chiến chỉ có hiệu lực trong ải Dojo
+102015,2.Buff thiên phú khiêu chiến được kích hoạt bằng cách dùng điểm buff
+102016,"3.Mỗi ngày 05:00 hệ thống sẽ tăng một ít điểm buff, có thể mua bằng vàng, số lần mua mỗi ngày có giới hạn, vượt Dojo cũng sẽ nhận điểm buff"
+102017,"4.Sau khi reset mỗi tuần, điểm buff và cấp buff tương ứng sẽ tự động bị xóa"
+102018,#C0xF76B45#【Ví dụ phần thưởng Chủ Dojo】
+103001,"1.Dojo liên server cũng có 8 Dojo khác nhau, và mỗi Dojo liên server có thể có 1 Chủ Dojo liên server và 7 Thành Viên liên server"
+103002,"2.Sau khi vượt qua toàn bộ độ khó của ải Dojo trong server, có thể khiêu chiến trở thành Chủ Dojo Vinh Dự hoặc Thành Viên liên server"
+103003,"3.Mỗi người chơi chỉ có thể là Chủ Dojo Vinh Dự hoặc Thành Viên Dojo liên server của 1 Dojo, khi trở thành Chủ/Thành Viên Dojo mới sẽ tự động xóa đội cũ"
+103004,"4.Khiêu chiến Chủ Dojo liên server cũng có hồi, sau khi khiêu chiến thành công cần nghỉ một lúc mới có thể khiêu chiến lại, nhưng không giới hạn số lần khiêu chiến"
+103005,"5.Khiêu chiến Chủ Dojo liên server cần có ninja trạng thái chỉ định, nếu không có ninja trạng thái hạn chế thì không thể khiêu chiến"
+103006,#C0xF76B45#【Ví dụ phần thưởng Dojo liên server】
+104001,"1.Trong thời gian sự kiện, có thể chơi game lật thẻ để nhận vật phẩm đã lật"
+104002,"2.Sự kiện thiết lập nhiều vòng lật thẻ, mỗi vòng có 1 phần thưởng lớn đặc biệt, phần thưởng lớn có thể nằm dưới bất kỳ lá thẻ nào, lật sẽ nhận ngay và bắt đầu vòng tiếp theo"
+104003,"3.Lật thẻ sẽ tiêu hao lượt, dùng lượt miễn phí trước, lượt miễn phí reset mỗi ngày lúc 5 giờ, sau đó dùng lượt nhiệm vụ, lượt nhiệm vụ không reset, nhận từ việc hoàn thành nhiệm vụ"
+104004,"4.Nội dung phần thưởng lớn đặc biệt của mỗi vòng lật thẻ sẽ hiển thị theo thứ tự trong trang sự kiện, chúc may mắn!"
+105001,"1.Khi đạt điều kiện, chủ phòng có thể yêu cầu người chơi khác rời phòng, người chơi khác cũng có thể bỏ phiếu cho chủ phòng rời phòng"
+105002,"2.Phải thỏa 3 điều kiện sau: một, có ít nhất 3 người chơi hoàn thành khiêu chiến trong phòng; hai, người bị yêu cầu rời phòng ở trong phòng ít nhất 3 giờ; ba, người đó có số lần khiêu chiến thành công 0 lần hoặc chưa khiêu chiến"
+105003,"3.Khi chủ phòng yêu cầu người chơi rời phòng, bản thân phải khiêu chiến thành công ít nhất 1 lần"
+105004,"4.Khi người chơi khác bỏ phiếu cho chủ phòng rời phòng, bản thân phải hoàn thành 3 lần mới có quyền bỏ phiếu, và kết quả bỏ phiếu phải có số phiếu cho rời nhiều hơn số phiếu cho ở lại, mới có thể yêu cầu chủ phòng rời phòng"
+105005,"5.Người bị yêu cầu rời phòng tích lũy 3 lần trước khi reset khiêu chiến sẽ không thể tham gia khiêu chiến Ảo Ảnh lần này, khi bắt đầu lần khiêu chiến tiếp theo thì sẽ vào lại bình thường"
+106001,"1.Trong thời gian sự kiện, mảnh cùng phẩm chất có thể chuyển đổi lẫn nhau, sau khi chuyển đổi thành công mảnh trong túi sẽ bị tiêu hao và nhận mảnh đã chọn"
+106002,"2.Mỗi vòng sự kiện, số lượng mảnh phẩm chất khác nhau có thể chuyển đổi được tính riêng và có giới hạn số lần chuyển đổi"
+106003,"3.Khi cấp VIP của người chơi tăng đến một mức nhất định, có thể tăng thêm số lần chuyển đổi"
+106004,"4.Mảnh có thể chuyển đổi trong mỗi vòng sự kiện sẽ khác nhau, nếu vòng này không có mảnh bạn muốn chuyển, hãy chờ sự kiện lần sau!"
+107001,"1.Với mỗi boss lễ hội, mỗi người chỉ có thể khiêu chiến 1 lần"
+107002,"2.Mỗi ải lễ hội có giới hạn số lần khiêu chiến, đạt giới hạn sẽ không thể khiêu chiến nữa"
+107003,"3.Bản thân có thể khiêu chiến boss lễ hội do mình phát hiện 1 lần, lần khiêu chiến này không tính vào số lần khiêu chiến của người khác"
+107004,"4.Ải lễ hội có 3 mức độ khó, mức cao nhất là SSS"
+107005,"5.Mỗi boss lễ hội có đếm ngược riêng, khi đếm ngược kết thúc dữ liệu khiêu chiến sẽ biến mất ngay"
+107006,"6.Khiêu chiến thắng sẽ nhận thưởng, khiêu chiến thua không có thưởng và không trừ số lần khiêu chiến"
+107007,7.Mỗi người mỗi ngày có giới hạn số boss Halloween phát sinh và hồi kích hoạt
+108001,"1.Mỗi ngày đến thời gian chỉ định sẽ mở mini game Hồng Bao rơi từ trời, người chơi tham gia mini game sẽ nhận 1 vé cào, có cơ hội trúng phần thưởng lớn đặc biệt"
+108002,"2.Mini game Hồng Bao rơi từ trời mở mỗi ngày theo thời gian chỉ định, hãy chú ý nội dung hiển thị ở trang chính sự kiện, hết giờ sẽ đóng và sẽ không nhận vé cào của lượt này"
+108003,"3.Mini game Hồng Bao rơi từ trời yêu cầu người chơi click vào vật phẩm hồng bao rơi trên màn hình trong thời gian quy định, khi hết giờ click được bao nhiêu nhận bấy nhiêu, vật phẩm hồng bao có thể mở trong túi để nhận thưởng"
+108004,"4.Mỗi lượt mini game Hồng Bao rơi từ trời sẽ rơi loại hồng bao không hoàn toàn giống nhau, hãy chú ý nội dung hiển thị ở trang chính sự kiện"
+108005,"5.Sau khi nhận vé cào có thể đến lối vào vé cào để cào thưởng, phần thưởng vé cào cũng hiển thị tại lối vào đó"
+108006,"6.Sau khi trúng thưởng, nội dung trúng thưởng sẽ được gửi dần qua mail khi lượt mini game Hồng Bao rơi từ trời này kết thúc, người chơi trúng thưởng hãy chú ý mail"
+108007,"7.Nếu người chơi đã nhận vé cào nhưng không kịp cào trước khi lượt mini game Hồng Bao rơi từ trời này kết thúc, hệ thống sẽ tự động cào và xác định trúng thưởng, và gửi mail phần thưởng đúng giờ vào hòm thư"
+109001,"1.Sự kiện là mini game nặn người tuyết, người tuyết có cấp, theo cấp tăng lên sẽ mở khóa trang trí và tùy biến bộ phận người tuyết"
+109002,"2.Thu thập vật phẩm Bông Tuyết giới hạn sự kiện, có thể dùng để nặn Pikachu người tuyết, mỗi lần dùng 1 vật phẩm để nặn sẽ nhận 1 lần thưởng ngẫu nhiên, đồng thời Pikachu sẽ tăng cấp"
+109003,"3.Sau khi cấp Pikachu tăng lên sẽ mở khóa một số trang trí Giáng Sinh trên người, phần đã mở có thể tự do đổi màu trang trí ưa thích, đồng thời sẽ mở khóa một số trang trí môi trường không khí Giáng Sinh"
+109004,"4.Cấp Pikachu có giới hạn tối đa, khi đạt giới hạn tối đa nghĩa là toàn bộ trang trí và tùy biến đều đã hiển thị và mở hết, nhưng lúc này vẫn có thể dùng vật phẩm Bông Tuyết với nó, mỗi lần dùng vẫn nhận thưởng như thường"
+110001,"1.Mini game cho chọn 3 ninja có HP, tốc độ di chuyển và kích thước khác nhau, trước mỗi lần vào game có thể tự do chọn ninja sở trường để vào game"
+110002,"2.Sau khi game bắt đầu, bóng tuyết và hộp quà sẽ rơi từ trời, trúng mỗi bóng tuyết sẽ giảm 1 HP, nhặt hộp quà được điểm, khi hết thời gian hoặc bị bóng tuyết làm hết HP thì game kết thúc"
+110003,"3.#C0xF76B45#Bóng tuyết rơi rất nhanh, chú ý bóng dưới chân, hộp quà rơi xuống đất sẽ biến mất không lâu sau đó, phải nhanh tay nhặt, nhặt được thì có điểm, ninja ở sân càng lâu càng nhận nhiều bonus điểm"
+110004,"4.Mỗi ngày mini game mở miễn phí theo số lượt, có thể dùng vàng mua thêm số lượt chơi"
+110005,"5.Mini game có bảng xếp hạng, điểm cao nhất mỗi ván của bạn sẽ được xếp hạng hiển thị"
+110006,"6.Điểm nhận được từ mỗi ván của mini game sẽ được tích lũy ghi nhận, đạt mốc điểm sẽ nhận phần thưởng tương ứng"
+111001,"1.Bồi dưỡng Bát Quái có thể tăng trạng thái cho tất cả ninja, mau đi khiêu chiến Dojo để nhận vật liệu bồi dưỡng!"
+111002,"2.Số Bát Quái bằng với số Dojo, mặc định mở 4 cái, khi ô Bát Quái sáng đến một cấp nhất định sẽ mở khóa loại Bát Quái mới"
+111003,"3.Mỗi Bát Quái cần bố trí ninja hộ vệ, tùy theo tình trạng bồi dưỡng, ninja hộ vệ sẽ cho thêm bonus trạng thái Bát Quái"
+111004,"4.Sau khi Bát Quái thức tỉnh lên cấp cao hơn, có thể mở thêm ô ninja hộ vệ mới"
+112001,#C0xF76B45##L10#【Quy tắc cơ bản】
+112002,"1.Thời gian mở Hỏi Đáp Ninja: #C0xF76B45#Thứ Bảy 5:00#C0xFFFFFF# đến #C0xF76B45#Chủ Nhật 24:00#C0xFFFFFF#, mở mỗi 2 tuần"
+112003,"2.Sau khi mở Hỏi Đáp Ninja, có 1 lần miễn phí vào trả lời, vào trả lời sẽ trừ lượt #C0xF76B45#(thoát giữa chừng cũng tính dùng 1 lượt)#C0xFFFFFF#, ngày hôm sau 05:00 reset"
+112004,"3.Mỗi ngày có thể dùng vàng mua thêm 1 lượt trả lời, nhưng trong 2 lượt chỉ lấy điểm cao hơn để lên bảng xếp hạng"
+112005,"4.Thành tích Thứ Bảy/Chủ Nhật sẽ hiển thị trên bảng xếp hạng, thành viên tổ chức xem được hạng của mình và tổ chức đang ở"
+112006,#C0xF76B45##L10#【Quy tắc trả lời】
+112007,"1.Tổng cộng có 15 câu hỏi, trả sai hoặc không trả lời được 0 điểm, trả đúng sẽ được điểm tương ứng, trả đúng và nhanh sẽ được điểm cao hơn"
+112008,"2.Mỗi câu có 15 giây trả lời, khi đếm ngược kết thúc hoặc người chơi xác nhận đáp án trước sẽ tự động vào câu tiếp theo"
+112009,"3.Câu hỏi chia thành câu chữ, câu hình, câu mini game, khi gặp mini game lần đầu sẽ có giải thích quy tắc liên quan"
+112010,"4.Điểm là tiêu chí xếp hạng bảng xếp hạng, hạng tổ chức là tổng điểm của toàn bộ người chơi trong tổ chức để xếp hạng (người chơi rời tổ chức, điểm đã đạt vẫn ghi cho tổ chức cũ)"
+112011,#C0xF76B45##L10#【Quy tắc thưởng trả lời】
+112012,"Mỗi lần người trả lời đúng 1 câu sẽ nhận 1 túi thưởng, nhận tối đa 15 túi, chờ trả lời xong rồi mở cùng lúc"
+112013,#C0xF76B45##L10#【Quy tắc thưởng hạng tổ chức】
+112101,#C0xF76B45##L10#【Quy tắc thưởng hạng cá nhân】
+113001,"1.Phố Thương Mại liên server cần chờ ghép cặp giữa các server, khi ghép cặp thành công sẽ hiển thị #C0xF76B45#trạng thái ghép cặp thành công chờ bắt đầu thi đấu#C0xFFFFFF# trên màn hình"
+113002,"2.Quy trình mùa giải: #C0xF76B45#Công bố mùa giải(1 ngày)——Bắt đầu mùa giải(10:00 ngày hôm sau, kéo dài 3 ngày)——Hiển thị kết quả mùa giải(ngày kết thúc 22:00 đến trước ngày bắt đầu lần sau)"
+113003,"3.Trong mùa giải #C0xF76B45#mỗi ngày 22:00 và ngày kết thúc mùa giải 22:00#C0xFFFFFF# sẽ phát thưởng cá nhân theo thứ hạng, #C0xF76B45#ngày kết thúc mùa giải 22:00#C0xFFFFFF# sẽ tính thưởng server, #C0xF76B45#tất cả nội dung nhận qua mail"
+113004,"4.Trong mùa giải, #C0xF76B45#đấu giá chỉ được thực hiện mỗi ngày 10:00-22:00, thời gian khác là giai đoạn nghỉ chiến, trong giai đoạn nghỉ chiến cửa hàng đóng, không thể đấu giá, báo thù và chiến đấu khác"
+113005,"5.Người chơi có số lần đấu giá miễn phí, số lần refresh người chơi để đấu giá, và số lần báo thù, vượt số lần có thể dùng vàng hoặc xu vàng để mua"
+113006,"6.Khu phố thương mại chia theo thứ hạng thành #C0xF76B45#khu cao cấp và khu thường#C0xFFFFFF#, hạng 1-10 sẽ ở khu cao cấp, các hạng khác hiển thị ở khu thường"
+113007,8.Trong dữ liệu chiến tranh có thể xem video chiến đấu giữa người chơi cao cấp trong thời gian gần đây
+113008,"9.Trong mùa giải #C0xF76B45#mỗi ngày và khi kết thúc mùa giải lúc 22:00 sẽ tính toán#C0xFFFFFF# và phát chức vị theo thứ hạng tính toán, chức vị sẽ do #C0xF76B45#3 người chơi top đầu bảng xếp hạng#C0xFFFFFF# nhận, trong mùa giải #C0xF76B45#chức vị tính theo ngày có hiệu lực đến lần tính theo ngày tiếp theo, chức vị tính khi kết thúc mùa giải có hiệu lực đến thời gian chuẩn bị ghép cặp mùa giải tiếp theo"
+113020,"1.Thứ hạng có tốc độ sản xuất Xu Tài Nguyên và điểm bonus tương ứng, sau khi chiếm giữ thứ hạng đó, #C0xF76B45#Xu Tài Nguyên sẽ được sản xuất theo tốc độ hiện tại và sẽ có điểm bonus của thứ hạng này, sau khi đổi thứ hạng sẽ thay trực tiếp tốc độ sản xuất và điểm bonus, không cộng dồn"
+113021,"2.Xu Tài Nguyên sản xuất cả ngày theo tốc độ của thứ hạng đang giữ, bao gồm cả thời gian không phải nghỉ chiến, đấu giá với người chơi sẽ cướp được một phần Xu Tài Nguyên của họ, #C0xF76B45#có thể dùng để mua vật phẩm cửa hàng và bồi dưỡng trạng thái trong Chúc Phúc"
+113022,"3.Điểm dựa vào việc hoán đổi thứ hạng, và phần thưởng chiến đấu/tiêu diệt trong chiến tranh boss giới hạn thời gian sản xuất, #C0xF76B45#điểm dùng khi tính mùa giải#C0xFFFFFF# lấy tổng điểm của 100 người chơi top đầu mỗi server để xếp thứ tự"
+113040,"1.Trước khi chiến đấu, người chơi có thể #C0xF76B45#xếp 3 đội, mỗi đội tối đa ra sân 4 ninja"
+113041,"2.Chiến đấu dùng chế độ tính điểm theo từng đội, #C0xF76B45#3 ván thắng 2 là thắng chung cuộc, tối đa đánh 3 hiệp, kết quả hiệp trước không ảnh hưởng hiệp sau"
+113042,"3.2 đội ninja của một bên bị đánh bại hết sẽ thua, nếu hết hiệp đội nhỏ vẫn chưa phân thắng bại, #C0xF76B45#quyết định đội nhỏ bên phòng thủ thắng hiệp này"
+113043,4.Cách chiến đấu Phố Thương Mại liên server là #C0xF76B45#khóa tự động chiến đấu#C0xFFFFFF#
+113044,"5.Khi đối thủ khiêu chiến người chơi, sẽ dùng đội phòng thủ của người chơi để chiến đấu"
+113080,"1.Người chơi bắt đầu đấu giá, nếu #C0xF76B45#chiến đấu thắng sẽ hoán đổi vị trí với người chơi có hạng cao hơn mình và kế thừa tốc độ sản xuất cùng điểm bonus của hạng mới, đồng thời nhận một phần Xu Tài Nguyên của đối thủ, nếu đánh với đối thủ hạng thấp hơn sẽ không đổi hạng và nội dung liên quan, chỉ nhận một phần Xu Tài Nguyên của đối thủ"
+113081,"2.Khi đối thủ bắt đầu chiến đấu và chiến đấu thành công, có thể báo thù, #C0xF76B45#báo thù cùng một mục tiêu có giới hạn số lần, báo thù cũng nhận một phần Xu Tài Nguyên của mục tiêu nhưng không đổi hạng, và có thể kích hoạt báo thù của mục tiêu với bản thân"
+113082,"3.Khi xảy ra các tình huống sau, dù mục tiêu đấu giá hoặc báo thù thành công cũng không thể nhận Xu Tài Nguyên:"
+113083,"#C0xF76B45#①đạt giới hạn số lần bị đấu giá trong 1 giờ, lần cuối bị chiến đấu cách hiện tại hơn 1 giờ sẽ hủy trạng thái này"
+113084,#C0xF76B45#②khi lực chiến hai bên đạt một tỷ lệ nhất định của chênh lệch lực chiến
+113085,#C0xF76B45#③hai bên là người chơi cùng server
+113086,#C0xF76B45#④đạt giới hạn số lần bị đấu giá mỗi ngày
+113087,"4.Mục tiêu bị đấu giá (cướp Xu Tài Nguyên) hoặc bị báo thù thành công sẽ nhận #C0xF76B45#bảo hộ chống đấu giá 5 phút, trong 5 phút sẽ không bị chiến đấu nữa"
+114001,"1.Trong thời gian chơi liên tục, sẽ refresh boss Team Rocket có thể khiêu chiến ở khu phố thương mại thường"
+114002,"2.Thời gian refresh boss là trưa 12:30 và chiều 18:30, mỗi khung giờ boss có độ khó khác nhau"
+114003,"3.Mỗi người chơi có số lần khiêu chiến boss miễn phí, có thể mua thêm số lần"
+114004,"4.Mỗi lần người chơi khiêu chiến xong sẽ trừ HP boss tương ứng và nhận thưởng ngẫu nhiên, người kết liễu cuối cùng nhận thêm thưởng kết liễu, sau khi boss bị hạ sẽ phát thưởng xếp hạng theo sát thương gây ra cao thấp"
+114005,"5.Server nơi người chơi kết liễu boss sẽ nhận bonus thêm, có 3 hiệu ứng: tăng trạng thái, tăng sản lượng, tăng cướp đoạt, một trong các hiệu ứng"
+114006,"6.Boss buổi tối sẽ cực mạnh, sau khi boss bị hạ người chơi ở server của người kết liễu sẽ nhận bonus siêu ngầu đặc biệt"
+115001,"1.Sự kiện giới hạn năm mới Tụ Phúc Online! Trong thời gian sự kiện, hoàn thành nhiệm vụ nhận rất nhiều phần thưởng!"
+115002,"2.Trong thời gian sự kiện có 16 nhiệm vụ tích lũy tiến độ, mỗi nhiệm vụ có số, số tương ứng với số ô ghép bí ẩn bên phải"
+115003,"3.Mỗi lần hoàn thành nhiệm vụ đúng số, có thể nhận thưởng nhiệm vụ, đồng thời thẻ tương ứng sẽ được mở"
+115004,"4.Góc dưới bên phải của ô ghép hiển thị 8 túi phúc, hoàn thành nhiệm vụ theo đường thẳng tương ứng, mở thẻ nhận thưởng túi phúc"
+115005,"5.Sau khi mở đủ 16 thẻ ô ghép, có thể nhận thưởng túi phúc khổng lồ!"
+116001,"1.Trong thời gian sự kiện, mỗi ngày có số lần giới hạn vào mini game xây nhà chọc trời để chơi"
+116002,"2.Mini game yêu cầu trong một thời gian thao tác, #C0xF76B45#cố gắng đặt tầng xây dựng được hoàn chỉnh để hoàn thành xây tòa nhà cao, mỗi ván có 3 lần xây, phải dùng hợp lý"
+116003,"3.Trong quá trình xây, sẽ #C0xF76B45#ngẫu nhiên xuất hiện thưởng xây dựng, nếu xây tầng này thành công sẽ nhận thưởng đó #C0xFFFFFF#phần thưởng sẽ được thống kê hiển thị khi tổng kết ván cuối"
+116004,"4.Xây dựng còn có đánh giá điểm xây dựng, #C0xF76B45#tầng càng cao, xây càng hoàn chỉnh, điểm càng cao"
+116005,"5.Điểm mỗi ván mini game nhà chọc trời, số tầng xây, số lần xuất hiện xây hoàn chỉnh sẽ được tích lũy ghi nhận trong nhiệm vụ huy hiệu, #C0xF76B45#hoàn thành nhiệm vụ tương ứng nhận thưởng nhiệm vụ và điểm huy hiệu, nâng cấp huy hiệu cũng nhận thưởng nâng cấp"
+116006,"6.Bảng xếp hạng hiển thị thành tích người chơi trong nhiều server, xếp theo điểm xây dựng và số tầng xây"
+117001,"1.Hoàn thành nhiệm vụ hằng ngày nhận Nhiệt Huyết, Nhiệt Huyết tích lũy càng cao, phần thưởng Mật Lệnh mở khóa càng nhiều"
+117002,2.Mua Mật Lệnh bản Cao Cấp có thể mở thêm phần thưởng đặc biệt siêu lời
+117003,"3.Mật Lệnh bản Cao Cấp mua mỗi kỳ chỉ có hiệu lực trong kỳ sự kiện này, kỳ sau phải mua lại, Nhiệt Huyết tích lũy cũng sẽ bị xóa về 0 khi sự kiện kết thúc"
+117004,"4.Khi sự kiện Mật Lệnh kết thúc, toàn bộ phần thưởng chưa nhận sẽ được gửi qua mail"
+118001,"1.Mỗi ngày vượt Huấn Luyện Anbu, tích lũy số tầng đã qua (mỗi tầng phải khiêu chiến xong boss cuối mới tính) có thể mở khóa nhiều phần thưởng Mật Lệnh"
+118002,2.Mua Mật Lệnh bản Cao Cấp có thể mở thêm phần thưởng đặc biệt siêu lời
+118003,"3.Mật Lệnh bản Cao Cấp mua mỗi kỳ chỉ có hiệu lực trong kỳ sự kiện này, kỳ sau phải mua lại, số tầng đã qua tích lũy cũng sẽ bị xóa về 0 khi sự kiện kết thúc"
+118004,"4.Khi sự kiện Mật Lệnh kết thúc, toàn bộ phần thưởng chưa nhận sẽ được gửi qua mail"
+119001,"#C0xFFFFFFFF#1.Mỗi tuần khiêu chiến ải Dojo thành công có thể tích lũy số lần khiêu chiến (#C0xF76B45#khiêu chiến người chơi Dojo không tính lượt#C0xFFFFFFFF#), số lần khiêu chiến tích lũy càng nhiều, phần thưởng Mật Lệnh mở khóa càng nhiều"
+119002,2.Mua Mật Lệnh bản Cao Cấp có thể mở thêm phần thưởng đặc biệt siêu lời
+119003,"3.Mật Lệnh bản Cao Cấp mua mỗi kỳ chỉ có hiệu lực trong kỳ sự kiện này, kỳ sau phải mua lại, số lần khiêu chiến ải tích lũy cũng sẽ bị xóa về 0 khi sự kiện kết thúc"
+119004,"4.Khi sự kiện Mật Lệnh kết thúc, toàn bộ phần thưởng chưa nhận sẽ được gửi qua mail"
+120001,"1.Gieo xúc xắc để di chuyển, trên bản đồ có rương báu #C0xF76B45#thưởng nhiều, và sau khi nhận sẽ ngẫu nhiên xuất hiện lại trên bản đồ, hãy đặt truy đuổi rương báu làm mục tiêu của bạn!"
+120002,"2.Khi đi trên bản đồ, còn sẽ gặp các ô sự kiện khác, trên màn hình bản đồ #C0xF76B45#click ô sự kiện có thể xem mô tả riêng"
+120003,"3.Trong ô sự kiện, #C0xF76B45#cửa hàng nhỏ và rương báu chỉ cần đi qua là kích hoạt sự kiện #C0xFFFFFF#sau khi sự kiện kết thúc, nếu người chơi vẫn có thể di chuyển thì sẽ tiếp tục đi tới, #C0xF76B45#các ô sự kiện khác phải dừng lại mới kích hoạt"
+120004,"4.Trong Đại Phiêu Lưu, bạn sẽ nhận #C0xF76B45#Huy Hiệu Nhà Phiêu Lưu #C0xFFFFFF#nó cho phép bạn #C0xF76B45#đi qua cửa hàng nhỏ để mua vật phẩm, lưu ý, nó chỉ dùng để mua vật phẩm dùng được trong Đại Phiêu Lưu"
+120005,"5.Trong quá trình phiêu lưu sẽ nhận thẻ vật phẩm và xúc xắc có đặc tính khác nhau, nếu không biết công dụng của chúng, #C0xF76B45#có thể xem mô tả vật phẩm bên dưới"
+121001,"#L10##C0xF76B45#Luôn nắm tay nhau, năm nay hoa đẹp hơn năm ngoái #C0xFFFFFFFF#——người chơi khắp thế giới dẫn ninja của họ, bắt đầu mùa giải chạy đua ninja thường niên"
+121002,"Mùa giải chạy đua ninja gồm: Dự đoán có thưởng, Chuẩn bị trước trận, Đang thi đấu, Công bố kết quả 4 giai đoạn"
+121003,#L10##C0xF76B45#【Dự đoán có thưởng】:
+121004,"1.Trong thời gian mở sự kiện, mùa giải chạy đua ninja mỗi ngày 2 lượt (12:00 và 20:00), mỗi lượt sẽ ngẫu nhiên chọn 4 ninja tham gia chạy"
+121005,"2.Người chơi dù không thể tham gia luyện tập cùng ninja, vẫn có thể dự đoán có thưởng trước khi trận đấu bắt đầu, kết quả dự đoán sẽ công bố khi trận đấu kết thúc"
+121006,"3.Thời gian dự đoán có thưởng: mỗi ngày 05:00~11:57 và 13:00~19:57, các thời gian khác không thể dự đoán"
+121007,"4.Dự đoán cần dùng vàng, mỗi lần dự đoán chỉ chọn được 1 ninja để đặt cược"
+121008,#L10##C0xF76B45#【Chuẩn bị trước trận】
+121009,"1.Giai đoạn chuẩn bị thi đấu kéo dài 3 phút, trong thời gian này Dự đoán có thưởng sẽ bị đóng"
+121010,#L10##C0xF76B45#【Đang thi đấu】:
+121011,"1.Mỗi ngày 12:00 và 20:00 bắt đầu thi đấu đúng giờ, toàn bộ quá trình kéo dài 3 phút"
+121012,"2.Các chỉ số thể chất của ninja chạy đua khác nhau sẽ khác nhau, tốc độ và xác suất tăng tốc là 2 chỉ số quan trọng hơn cả"
+121013,3.Giải thích các chỉ số:
+121014,a.Tốc độ: tốc độ chạy ban đầu của ninja
+121015,"b.Thể lực: trong lúc thi đấu ninja sẽ liên tục tiêu hao thể lực, khi thể lực không đủ sẽ vào trạng thái suy yếu (trạng thái suy yếu sẽ bị ảnh hưởng giảm tốc độ), khi thể lực hồi đủ thì trạng thái suy yếu sẽ biến mất"
+121016,"c.Xác suất tăng tốc: trong lúc thi đấu, mỗi khoảng thời gian ninja sẽ có một cơ hội tăng tốc, tốc độ theo thời gian thực sẽ tăng tương ứng"
+121017,d.Thời gian tăng tốc liên tục: thời gian duy trì khi ninja kích hoạt tăng tốc
+121018,#L10##C0xF76B45#【Công bố kết quả】:
+121019,1.Cuộc đua sẽ kết thúc khi tất cả ninja đến đích
+121020,"2.Sau khi đua kết thúc, người chơi có thể nhận thưởng dự đoán trong【Lịch sử đua】(huấn luyện viên chưa từng dự đoán sẽ không có thưởng), có thể xem lại toàn bộ quá trình đua"
+121021,"3.Thưởng dự đoán gồm 2 phần: điểm dự đoán, thưởng vật phẩm, tích lũy điểm dự đoán nhất định có thể nhận thưởng mốc tương ứng trong【Thưởng điểm】"
+121022,#L10#4.Ví dụ thưởng dự đoán:
+122001,#C0xF76B45#【Quy tắc cơ bản】
+122002,"1.Trong thời gian sự kiện, mỗi ngày hồi 3 lượt khiêu chiến, thời gian hồi lượt là 5 giờ sáng, lượt tích lũy tối đa 10 lượt"
+122003,"2.Bắt đầu khiêu chiến Pokémon, có thể chọn 3 ninja làm ninja chủ lực"
+122004,"3.Ninja chủ lực đặc biệt có điều kiện mở khóa đặc biệt, phải mở khóa rồi mới dùng được"
+122005,4.Trước khi khiêu chiến ải có thể điều chỉnh ninja ra trận theo thông tin đối thủ
+122006,5.Sau mỗi trận thắng có thể chọn 1 huy hiệu trong 3 huy hiệu có thể chọn
+122007,"6.Dùng cùng một đội ninja chủ lực khiêu chiến liên tiếp 3 lần sẽ nhận thưởng huy hiệu khởi đầu, mỗi ngày lần khiêu chiến đầu tiên cũng có thêm thưởng huy hiệu, đừng bỏ lỡ"
+122008,"7.Huy hiệu có vai trò quyết định trong chiến đấu, vì vậy phải chọn cẩn thận"
+122009,"8.Đánh bại boss cuối là hoàn thành lượt này, ghi lại số lần vượt và số vòng"
+122010,"9.Trong thời gian sự kiện, tiến độ khiêu chiến sẽ được ghi lại, hoàn thành vượt ải hoặc khiêu chiến thất bại sẽ reset quá trình"
+122011,"10.Trong thời gian sự kiện, tiêu hao lượt, có thể khiêu chiến lại, hoàn thành thành tựu, đạt tiến độ mới"
+122012,#C0xF76B45#【Quy tắc chiến đấu】
+122013,"1.Sau khi chiến đấu kết thúc sẽ giữ lại HP của toàn bộ ninja phe mình và chakra của ninja chủ lực, ninja chiêu mộ trên đường mỗi lần vào trận đều là chakra cố định"
+122014,2.Trong lúc chiến đấu ninja chết sẽ không thể ra trận lại
+122015,3.Ải sau khi chiến đấu thắng không thể khiêu chiến lại
+122016,#C0xF76B45#【Quy tắc phần thưởng】
+122017,"1.#C0xF76B45#Khi sự kiện kết thúc, toàn bộ thưởng thành tựu sẽ không gửi thêm, hãy nhận trước khi sự kiện kết thúc#C0xFFFFFF#"
+122018,"2.Lần đầu hoàn thành có thể nhận thưởng vượt ải lần đầu, sau khi hoàn thành, khiêu chiến lại có thể nhận thưởng khiêu chiến"
+122019,"3.Trong thời gian sự kiện, số vàng nhận được từ khiêu chiến ải tối đa #Icommon/icon/icon_gold.png-56-56#8000000"
+123001,#L10##C0xF76B45#【Quy tắc gói】
+123002,"1.Tùy theo tình hình của người chơi trước khi gói xuất hiện, sẽ tùy chỉnh gói riêng"
+123003,"2.Gói bán giới hạn thời gian, người chơi đừng bỏ lỡ cơ hội"
+123004,"3.Gói là xuất hiện một lần, sẽ không có gói mới vào mục giới hạn độc quyền"
+123005,"4.Sức mạnh người chơi tăng lên về sau, sẽ tùy chỉnh gói tốt hơn cho bạn khi mục độc quyền mở lần sau, hãy theo dõi"
+124001,#C0xF76B45#【Quy tắc cơ bản】
+124002,1.Bồi dưỡng Thức Tỉnh Z có thể tăng trạng thái ninja
+124003,2.Thức Tỉnh Z đạt đến một cấp nhất định sẽ tiến hành cường hóa thức tỉnh lần 2 cho kỹ năng ninja
+124004,3.Bồi dưỡng Thức Tỉnh Z của ninja cùng series dùng chung
+124005,"4.Sau khi ninja bồi dưỡng Thức Tỉnh Z có thể tăng cấp Sức Mạnh Thức Tỉnh, nhận thêm bonus trạng thái toàn đội nhiều hơn"
+124006,"5.Sau Siêu Tiến Hóa, bồi dưỡng Thức Tỉnh Z của ninja cũ sẽ tự động reset, ninja sau Siêu Tiến Hóa cần nâng cấp lại Thức Tỉnh Z"
+124007,"6.Mảnh Thức Tỉnh Z là loại mảnh mới, không thể ghép thành ninja hoàn chỉnh"
+124008,"7.Ninja khác nhau, mảnh Thức Tỉnh Z khác nhau"
+124009,"8.Mảnh Thức Tỉnh Z dùng cho bồi dưỡng Thức Tỉnh Z của ninja, bồi dưỡng trạng thái giới hạn, vật liệu Siêu Tiến Hóa"
+124010,9.Giải thích reset Thức Tỉnh Z:
+124011,"①Reset sẽ hoàn trả 100% tài nguyên bồi dưỡng, mảnh Thức Tỉnh Z đổi trong tài nguyên hoàn trả vẫn là mảnh Thức Tỉnh Z, không đổi thành ninja hoặc mảnh ninja"
+124012,②Ninja hoặc mảnh ninja đã tiêu hao sẽ chỉ được đổi trả thành mảnh Thức Tỉnh Z
+124101,#C0xF76B45#【Giải thích Sức Mạnh Thức Tỉnh】
+124102,1.Kinh nghiệm cấp Sức Mạnh Thức Tỉnh đến từ bồi dưỡng Thức Tỉnh Z của toàn bộ series ninja
+124103,2.Mỗi lần kích hoạt bồi dưỡng Thức Tỉnh Z 1 nhánh sẽ nhận một lượng kinh nghiệm
+124104,"3.Khi kinh nghiệm đủ, cấp Sức Mạnh Thức Tỉnh sẽ tự động tăng"
+124105,"4.Nếu Thức Tỉnh Z của ninja bị reset, Sức Mạnh Thức Tỉnh sẽ giảm lượng kinh nghiệm tương ứng"
+124106,"5.Sau khi Sức Mạnh Thức Tỉnh mất kinh nghiệm, cấp và hiệu ứng bonus tương ứng cũng sẽ mất hiệu lực"
+124201,"1.Trong thời gian sự kiện, theo ủy thác cử ninja đi thực hiện, hoàn thành sẽ nhận rất nhiều phần thưởng!"
+124202,"2.Thực hiện ủy thác cần cử ninja phù hợp yêu cầu ủy thác, trừ điểm hành động và tốn một khoảng thời gian, nếu #C0xF76B45#đáp ứng yêu cầu điểm cộng của ủy thác sẽ thu hoạch thêm bất ngờ!"
+124203,"3.Ủy thác chia thành tuyến chính và tuyến phụ, sắp xếp theo thứ tự trên bản đồ, phải #C0xF76B45#hoàn thành ủy thác trước rồi mới làm ủy thác tiếp theo"
+124204,"4.Ủy thác trên tuyến phụ có #C0xF76B45#cái làm được nhiều lần #C0xFFFFFF#cũng có #C0xF76B45#thưởng rương báu #C0xFFFFFF#cái đầu #C0xF76B45#thưởng không ít #C0xFFFFFF#cái sau #C0xF76B45#không cần thời gian, nhận thưởng ngay, đừng bỏ lỡ!"
+124205,5.Tất cả ủy thác hiển thị trên bản đồ (bao gồm rương báu) ở trạng thái chưa hoàn thành đều có thể bấm xem
+124206,"4.Thực hiện ủy thác cần tự mình cử ninja, sau khi ủy thác hoàn thành phải #C0xF76B45#tự mình nhận thưởng #C0xFFFFFF#đồng thời #C0xF76B45#có thể thực hiện (bao gồm ủy thác đã xong nhưng chưa nhận thưởng) 3 cái#C0xFFFFFF# hãy sắp xếp hợp lý"
+124207,"5.Khi ủy thác đang thực hiện, hỗ trợ hủy nhiệm vụ giữa chừng, sau khi hủy nhiệm vụ, thời gian nhiệm vụ tính về 0, hoàn trả điểm hành động và không nhận thưởng ủy thác"
+124301,"1.Chào mừng đến với Hành Trình Ninja, nghe nói cách tốt nhất của chuyến đi là chọn cách bồi dưỡng phù hợp với đội của mình"
+124302,"2.Trong Hành Trình Ninja, hiệu ứng tăng thêm nhận được từ thắng chiến đấu, hãy chọn hồi phục tiếp tế hợp lý để giúp vượt qua"
+124303,"3.Hành Trình Ninja chia thành 2 tuyến thường và cao cấp chờ khám phá, nội dung, tiến độ, hiệu ứng tăng thêm của hai tuyến là độc lập, không ảnh hưởng nhau"
+124304,"4.Tuyến thường mỗi 48 giờ hồi 1 lượt khiêu chiến, tuyến cao cấp mỗi 96 giờ hồi 1 lượt khiêu chiến, thời gian hồi lượt là 5 giờ sáng, lượt tích lũy tối đa 5 lượt"
+124305,"5.Sau khi mỗi tuyến mở đến điểm hồi lượt tương ứng có thể lưu trạng thái khiêu chiến của tuyến đó, hệ thống sẽ reset nội dung tuyến tại điểm hồi lượt tương ứng"
+124306,"6.Trong lúc khiêu chiến hoặc sau khi vượt qua, có thể tự chọn kết thúc khiêu chiến hoặc chờ hệ thống tự động reset nội dung tuyến"
+124307,"7.Khi người chơi đạt đến cấp nhất định sẽ mở Nghiền Nát, dựa theo kỷ lục tối đa lịch sử và biểu hiện tối đa lần trước, có thể nghiền nát chiến đấu thấp hơn một số tầng nhất định, sau khi nghiền nát có thể vượt qua không tổn thương và nhận toàn bộ phần thưởng"
+124401,#F40##L10#Giải thích tẩy:
+124402,#F36#1.Mỗi bí kíp chọn tối đa 2 dòng trạng thái để tẩy
+124403,"#F36#2.Sau khi chọn mục trạng thái tẩy và tiến hành tẩy, mục tẩy đã chọn sẽ bị khóa, không thể hủy hoặc đổi mục tiêu tẩy nữa, thao tác này không thể hoàn nguyên, hãy chọn mục tẩy cẩn thận rồi hãy tẩy"
+124404,"#F36#3.Khi tẩy, sẽ reset loại trạng thái ngẫu nhiên được chọn để tẩy và toàn bộ số lần cường hóa trạng thái ngẫu nhiên cùng lúc"
+124501,"1.Trong Tái Sinh bí kíp, có thể reset bí kíp đã bồi dưỡng của mình về trạng thái cấp 1 ban đầu"
+124502,"2.Sau khi bí kíp tái sinh, hoàn trả 100% tài nguyên bồi dưỡng, có thể dùng các tài nguyên này để bồi dưỡng lại bí kíp khác"
+124503,"3.Sau khi bí kíp tái sinh, cường hóa lại đến cấp cũ, mục trạng thái và số lần cường hóa sẽ không đổi, tức tái sinh chỉ hoàn trả tài nguyên, sẽ không ngẫu nhiên trạng thái mới"
+124504,"4.Tái sinh bí kíp cần dùng vàng, bí kíp tái sinh bồi dưỡng càng cao cần càng nhiều vàng, mức tiêu hao vàng tối đa cho 1 bí kíp là 100#Icommon/icon/icon_diamond.png-56-56#"
+124505,"5.Bí kíp chưa bồi dưỡng không thể tái sinh, cũng sẽ không hiển thị trong màn hình chọn tái sinh bí kíp"
+124601,1.Trang bị bí kíp có thể tăng năng lực chiến đấu của ninja
+124602,2.Mỗi bí kíp có 1~2 dòng trạng thái cố định và nhiều dòng trạng thái ngẫu nhiên
+124603,"3.Bí kíp có trạng thái bộ tương ứng, trang bị 2/4 món bí kíp cùng bộ có thể kích hoạt trạng thái bộ tương ứng, bí kíp phẩm chất càng cao, trạng thái bộ càng tốt"
+124604,4.Mỗi bí kíp chỉ có thể lắp ở vị trí chỉ định
+124605,5.Giải thích vị trí bí kíp:
+124606,Vị trí
+124607,Trạng thái cố định
+124608,Trạng thái ngẫu nhiên
+124609,HP
+124610,HP Phòng thủ Kháng Kháng bạo Kết quả trị liệu Chặn Tỷ lệ miễn khống Giảm sát thương Kháng tuyệt chiêu
+124611,Taijutsu Ninjutsu
+124612,Tốc độ Taijutsu Ninjutsu Bỏ qua phòng thủ Bỏ qua kháng Bạo Sát thương bạo Xuyên chặn Tỷ lệ khống Bonus sát thương Bonus tuyệt chiêu
+124613,Phòng thủ Kháng
+124614,HP Phòng thủ Kháng Kháng bạo Kết quả trị liệu Phản kích Chặn Tỷ lệ miễn khống Giảm sát thương Kháng tuyệt chiêu
+124615,HP Taijutsu Ninjutsu
+124616,Tốc độ Tốc độ hồi chakra Taijutsu Ninjutsu Bỏ qua phòng thủ Bỏ qua kháng Bạo Sát thương bạo Xuyên chặn Tỷ lệ khống Bonus sát thương Bonus tuyệt chiêu
+124617,Phòng thủ Kháng
+124618,HP Phòng thủ Kháng Kháng bạo Kết quả trị liệu Phản kích Chặn Tỷ lệ miễn khống Giảm sát thương Kháng tuyệt chiêu
+124619,HP Taijutsu Ninjutsu
+124620,Tốc độ hồi chakra Taijutsu Ninjutsu Bỏ qua phòng thủ Bỏ qua kháng Bạo Sát thương bạo Hút máu Xuyên chặn Bonus sát thương Bonus tuyệt chiêu
+124701,"1.Cường hóa có thể tăng cấp bí kíp, cấp càng cao, trạng thái chính càng cao"
+124702,"2.Cường hóa cần dùng xu vàng, bí kíp khác hoặc vật liệu cường hóa chuyên dụng"
+124703,"3.Khi dùng bí kíp cấp >1 làm vật liệu cường hóa, sau khi cường hóa thành công sẽ hoàn trả xu vàng đã dùng để cường hóa từ bí kíp vật liệu"
+124704,"4.Tăng cấp còn có thể mở khóa trạng thái ngẫu nhiên mới và cường hóa ngẫu nhiên trạng thái ngẫu nhiên đã nhận, số lần cường hóa mỗi dòng trạng thái ngẫu nhiên có giới hạn tối đa"
+124705,5.Giải thích cấp trạng thái bí kíp:
+124706,#C0xFFFFFF#Phẩm chất
+124707,Cấp mở khóa trạng thái
+124708,Cấp cường hóa trạng thái
+124801,"#L10##C0xF76B45#Mùa hè rực rỡ, dùng đá bào mát lạnh xua tan bực bội trong lòng"
+124802,#L10##C0xF76B45#【Quy tắc sự kiện】:
+124803,"1.Sau khi sự kiện mở, người chơi sẽ làm đá bào cho Pokémon để giải nhiệt"
+124804,"2.Pokémon sau khi ra sân sẽ đưa ra hương vị đá bào mình thích, người chơi phải ghi nhớ yêu cầu trước khi thanh tiến độ kết thúc"
+124805,"3.Sau khi thanh tiến độ kết thúc, ninja sẽ giấu yêu cầu đã đưa ra, cần người chơi dựa vào trí nhớ chọn yêu cầu mà ninja đã đưa ra"
+124806,"4.Sau khi ninja đầu tiên đưa ra yêu cầu, phải bấm【Bắt đầu làm】để mở tủ lạnh, làm đá bào cho ninja"
+124807,"5.Sau khi chọn xong, ninja sẽ đánh giá phục vụ dựa trên lựa chọn của người chơi, đánh giá chia 3 mức"
+124808,#C0xF76B45#Phục vụ hoàn hảo: #C0xFFFFFF#không sai và thứ tự đúng
+124809,#C0xF76B45#Phục vụ tốt: #C0xFFFFFF#không sai nhưng thứ tự sai
+124810,#C0xF76B45#Phục vụ có khuyết điểm: #C0xFFFFFF#có yêu cầu chọn sai
+124811,"6.Sau khi phục vụ sẽ hiển thị đánh giá phục vụ, #C0xF76B45#nhưng xin chú ý khách tiếp theo sẽ ra sân đưa yêu cầu rất nhanh, đừng bỏ lỡ thời gian ghi nhớ#C0xFFFFFF#"
+124812,"7.Theo số lượt phục vụ tăng lên, yêu cầu ninja đưa ra có thể tăng nhiều hơn"
+124813,"8.Sau khi đếm ngược tổng kết thúc sẽ ngừng hoạt động, sẽ tính vật phẩm thưởng cuối cùng theo trạng thái phục vụ của người chơi"
+124901,"#L10##C0xF76B45#Bóng dáng linh hoạt trên bãi biển, bóng chuyền bãi biển ninja bắt đầu rồi!"
+124902,#L10##C0xF76B45#【Quy tắc sự kiện】:
+124903,"1.Sau khi sự kiện mở, người chơi có thể chơi bóng chuyền trên bãi biển thỏa thích, mỗi ngày không giới hạn số lần"
+124904,"2.Sau khi vào game, người chơi phải chọn 1 trong 3 loại trạng thái làm trạng thái nổi bật của ninja sử dụng"
+124905,3.Sau khi chọn sẽ phái ninja tương ứng ra chiến đấu cho bạn!
+124906,"4.Sân mặc định bên trái là sân phe mình, bên phải là sân đối thủ"
+124907,"5.Người chơi có thể di chuyển ninja trái phải, ninja sẽ dùng đầu đánh trả bóng do đối thủ đánh sang, người chơi còn có thể dùng 3 cách thao tác bên dưới để thể hiện\n"
+124908,"6.Đánh trả bóng vào khu vực đối thủ, đối thủ không đỡ được thì được 1 điểm"
+124909,"7.Nếu đánh ra ngoài khu vực đối thủ, hoặc do sai sót của bản thân đánh ra ngoài, sẽ cho đối thủ 1 điểm"
+124910,8.Bên nào được 3 điểm trước sẽ thắng
+124911,9.Hoàn thành nhiệm vụ tương ứng nhận rất nhiều phần thưởng
+125001,#L10##C0xF76B45#Chào mừng đến với cuộc phiêu lưu lễ hội mùa hè
+125002,"#C0xF76B45#Truyền thuyết ngôi đền giữa hồ, cư ngụ Pokémon đẹp nhất thế giới……#C0xFFFFFF#"
+125003,#C0xF76B45#Giải thích cơ bản: #C0xFFFFFF#
+125004,"1.Mỗi ngày mở số lượng ải cố định, ải chưa vượt qua có thể thử khiêu chiến lại"
+125005,"2.Sau khi ải vượt qua lần đầu sẽ không thể khiêu chiến lại, phải vượt ải trước mới mở khiêu chiến ải tiếp theo"
+125006,"3.Đối thoại trong ải ẩn chứa mẹo vượt ải, sau khi vượt qua có thể xem lại cốt truyện ở màn hình thông tin"
+125007,#C0xF76B45#Mẹo vượt ải: #C0xFFFFFF#chú ý nội dung đối thoại cốt truyện
+125008,#C0xF76B45#Thưởng ải: #C0xFFFFFF#vượt qua nhận thưởng lần đầu
+125101,#C0x5E565D#*Toàn bộ bonus trạng thái yêu cầu ninja cùng series trong túi ninja đã bồi dưỡng đến 1 sao thì tự động có hiệu lực
+125102,#C0x5E565D#*Toàn bộ bonus trạng thái chỉ có hiệu lực trong lượt chơi này
+125201,1
+125202,2
+125203,3
+125204,4
+125205,5
+125206,6
+125207,7
+125208,8
+125209,9
+125210,10
+125211,11
+125212,12
+125213,13
+125214,14
+125301,"1.Trong thời gian sự kiện, hoàn thành nhiệm vụ có thể cầu nguyện trong màn hình sự kiện"
+125302,"2.Khi cầu nguyện có thể nhận phúc thường ngẫu nhiên, cũng có thể nhận phúc may mắn"
+125303,"3.Mỗi lần cầu nguyện, nếu không nhận phúc may mắn sẽ thắp sáng 1 thẻ may mắn, thẻ may mắn thắp càng nhiều thì cơ hội nhận phúc may mắn càng cao, khi thắp sáng toàn bộ thẻ may mắn trong màn hình, lần sau chắc chắn nhận phúc may mắn"
+125304,"4.Nhiệm vụ reset đúng giờ mỗi ngày, hãy chú ý hoàn thành và nhận kịp thời, số lần cầu nguyện đã nhận không reset, sẽ giữ đến khi sự kiện kết thúc"
+125305,"5.Nhật ký cầu nguyện ở màn hình nhiệm vụ cầu nguyện, có thể xem nội dung phần thưởng nhận được trong sự kiện lần này"
+125401,1.Giới hạn tối đa mail #C0xF76B45#60#C0xFFFFFF# thư
+125402,"2.Khi vượt giới hạn tối đa mail, một số mail cũ sẽ biến mất, hãy xử lý kịp thời"
+125501,"#L10##C0xF76B45#Kẻ mạnh, chào mừng đến với Chiến Đấu Phòng"
+125502,#L10##C0xF76B45#【Quy tắc tuyển chọn】
+125503,"1.Dự án phòng ở nhiều server, tuyển chọn tổng cộng #C0xF76B45#16#C0xFFFFFF# tổ chức mạnh tham chiến"
+125504,"2.Dự án sẽ dựa theo điểm tích lũy chiến tranh tổ chức 3 tuần để tuyển chọn (xem trong màn hình Chiến Đấu Phòng), #C0xF76B45#hạng 1 và 2#C0xFFFFFF# của bảng xếp hạng tổ chức sẽ được chọn trực tiếp"
+125505,"3.Nếu cụm liên server được ghép cặp không thể gom đủ số tổ chức mà dự án yêu cầu, sẽ chọn theo tổ chức hạng 3~5 về điểm chiến tranh tổ chức trong cùng cụm liên server (ưu tiên chọn tổ chức có tổng lực cao hơn)"
+125506,"4.Sau khi chiến tranh tổ chức 3 tuần kết thúc sẽ khóa tổ chức và thành viên tham chiến trong tổ chức, thành viên gia nhập tổ chức được chọn sau đó sẽ không thể tham gia Chiến Đấu Phòng kỳ này"
+125507,#L10##C0xF76B45#【Quy tắc cơ bản】
+125508,"1.Chiến Đấu Phòng lấy #C0xF76B45#4 tuần#C0xFFFFFF# làm 1 mùa, ghi nhận dữ liệu xếp hạng điểm chiến tranh tổ chức 3 tuần, tuần thứ 4 mở"
+125509,"2.Chiến Đấu Phòng chia thành 2 giai đoạn vòng loại và vòng chung kết, vòng loại là #C0xF76B45#Thứ Sáu#C0xFFFFFF# của tuần mở, vòng chung kết là #C0xF76B45#Chủ Nhật#C0xFFFFFF# của tuần mở"
+125510,"3.Tổ chức được chọn, hệ thống sẽ tự động đăng ký cho thành viên tổ chức, thành viên trong tổ chức phải trong #C0xF76B45#9:00~20:50#C0xFFFFFF# chọn nhóm dự án của mình và đội hình ra trận tương ứng"
+125511,"4.Người chơi không chọn chiến trường trước khi thi đấu 10 phút, hệ thống sẽ ngẫu nhiên phân chiến trường và chọn ninja có lực chiến tương đối cao để lập đội"
+125512,5.Thời gian bắt đầu thi đấu chính thức: #C0xF76B45#21:00#C0xFFFFFF#
+125513,#L10##C0xF76B45#【Quy tắc vòng loại】
+125514,"1.Giai đoạn vòng loại: 16 tổ chức được chọn, chia theo hạng lực chiến thành 4 nhóm đấu giá, thành viên trong tổ chức phải đăng ký nhóm dự án muốn tham gia trong thời gian quy định"
+125515,2.Nhóm dự án có 3 loại
+125516,"Nhóm xây dựng 6 người: có thể phái 2 đội, mỗi đội 6 ninja"
+125517,"Nhóm thăm dò 4 người: có thể phái 3 đội, mỗi đội 4 ninja"
+125518,"Nhóm thiết kế 1 người: có thể phái 3 đội, mỗi đội 3 ninja"
+125519,"Người chơi tham chiến chỉ được chọn 1 chiến trường để vào chiến đấu, sau khi kết thúc thời gian đăng ký dự án sẽ khóa nhóm dự án và ninja ra trận, sau khi chiến đấu bắt đầu không thể chỉnh sửa"
+125520,"3.Trong chiến đấu, sau khi đội 1 bị đánh bại, đội 2 có thể tiếp tục chiến đấu ở hiệp tiếp theo"
+125521,"4.Hình thức thi đấu là chế độ hỗn chiến, bạn sẽ ghép cặp với người chơi ngoài tổ chức của mình để chiến đấu trước (khi người chơi còn lại đều là người chơi trong tổ chức mình, chiến đấu kết thúc)"
+125522,"5.Người chơi thắng có thể tiếp tục chiến đấu hiệp tiếp theo, chiến đấu với đối thủ ngoài tổ chức mình còn lại"
+125523,"6.Người chơi không có ninja ra trận sẽ bị loại tạm thời, nếu người chơi bị loại thuộc tổ chức mà tổ chức đó thăng cấp vòng chung kết thành công thì sẽ cùng thăng cấp, nếu tổ chức đó thăng cấp thất bại thì không có phần tranh đoạt vô địch lần này"
+125524,6.Sau mỗi trận chiến đấu kết thúc sẽ giữ lại HP và chakra
+125525,"7.Chiến Đấu Phòng có cơ chế điểm, nhóm dự án khác nhau thắng thua nhận điểm khác nhau"
+125526,"Nhóm xây dựng 6 người: thắng nhận #C0xF76B45#9#C0xFFFFFF# điểm, thua nhận #C0xF76B45#3#C0xFFFFFF# điểm"
+125527,"Nhóm thăm dò 4 người: thắng nhận #C0xF76B45#8#C0xFFFFFF# điểm, thua nhận #C0xF76B45#2#C0xFFFFFF# điểm"
+125528,"Nhóm thiết kế 1 người: thắng nhận #C0xF76B45#10#C0xFFFFFF# điểm, thua nhận #C0xF76B45#4#C0xFFFFFF# điểm"
+125529,"8.Sau chiến đấu, theo số người chơi sống sót của tổ chức sẽ có thưởng điểm cộng thêm"
+125530,9.Tổ chức có thăng cấp hay không dựa vào tổng điểm của thành viên tổ chức ngày đó trong các nhóm dự án khác nhau
+125531,"10.Hai bên chiến đấu tối đa 10 hiệp, hết thời gian nếu vẫn chưa phân thắng bại, bên có %HP còn lại nhiều hơn thắng"
+125532,"11.Sau khi vòng loại kết thúc, 4 nhóm chiến đấu sẽ chọn hạng nhất của mình vào vòng chung kết, tổ chức khác bị loại"
+125533,#L10##C0xF76B45#【Quy tắc vòng chung kết】
+125534,"1.Dựa theo thành tích vòng loại, chọn 4 tổ chức mạnh vào tranh đoạt vô địch cuối cùng"
+125535,2.Hệ thống vòng chung kết giống vòng loại
+125536,"3.Cuối cùng dựa theo cơ chế điểm như vòng loại để xếp hạng vòng chung kết, quyết định hạng 1~4"
+125537,"4.Tổ chức vô địch sẽ nhận vinh dự tối cao, tất cả tổ chức trong cụm liên server đều nhìn thấy"
+125538,#L10##C0xF76B45#【Thay đổi năng lực ninja】
+125539,"1.Trong suốt Chiến Đấu Phòng, ở mỗi hiệp chiến đấu, toàn bộ ninja lần đầu vào đội chiến đấu sẽ nhận bonus trạng thái Taijutsu, Ninjutsu, Phòng thủ, Kháng, Tốc độ"
+125540,"2.Theo chiến đấu liên tục, bonus trạng thái đó sẽ bị suy giảm, ninja sẽ mệt mỏi, năng lực chiến đấu càng yếu đi"
+125541,"3.Sau đó mỗi lần tham gia chiến đấu, Taijutsu, Ninjutsu, Phòng thủ, Kháng, Tốc độ, lượng nhận trị liệu của ninja trong đội sẽ tiếp tục giảm"
+125542,#L10##C0xF76B45#【Quy tắc dự đoán】
+125543,1.Tất cả người chơi trong cùng cụm liên server đều có thể tham gia dự đoán (bao gồm người chơi tham gia chiến đấu)
+125544,2.Vòng loại và vòng chung kết đều có thể dự đoán
+125545,Giai đoạn vòng loại người chơi có thể dự đoán 4 lần (mỗi nhóm chiến đấu 1 lần) mục tiêu dự đoán là tổ chức thăng cấp vào vòng chung kết
+125546,Giai đoạn vòng chung kết người chơi có thể dự đoán 1 lần mục tiêu dự đoán là quán quân
+125547,"3.Dự đoán cần dùng xu tổ chức, mỗi lần dự đoán vòng loại cần 500, dự đoán vòng chung kết cần 2000 xu tổ chức"
+125548,"4.Tất cả người chơi tham gia dự đoán đều có phần thưởng, phần thưởng phát qua mail"
+125549,#L10##C0xF76B45#【Quy tắc phần thưởng】
+125550,"1.Sau khi thi đấu kết thúc, toàn bộ phần thưởng sẽ gửi qua mail"
+125551,"2.Chiến Đấu Phòng là chiến tranh vinh dự của đơn vị tổ chức, phần thưởng hạng tổ chức là toàn bộ nhân sự tham chiến của tổ chức đó đều nhận"
+125552,3.Tổ chức tham gia vòng loại và vòng chung kết đều nhận được 1 bộ phần thưởng
+125553,4.Tổ chức đoạt quán quân vòng chung kết sẽ nhận được hiển thị vinh dự cao nhất trong cụm liên server
+125554,5.Phần thưởng hạng điểm xem chi tiết tại hiển thị phần thưởng bên dưới
+125601,#L10##C0xF76B45#【Dự đoán vòng loại và vòng chung kết】
+125602,1.Người chơi có thể dự đoán vào ngày thi đấu lớn
+125603,2.Thời gian dự đoán là Thứ Sáu và Chủ Nhật 9:00~20:50
+125604,3.Tất cả người chơi trong cùng cụm liên server đều có thể tham gia dự đoán
+125605,"4.Giai đoạn vòng loại, có thể dự đoán 1 tổ chức trong mỗi khu vực, tổng cộng 4 nhóm, mục tiêu dự đoán là hạng nhất của nhóm"
+125606,"5.Giai đoạn vòng chung kết, có thể chọn 1 trong 4 tổ chức, mục tiêu dự đoán là tổ chức quán quân"
+125607,6.Mỗi lần dự đoán sẽ tiêu hao một lượng xu tổ chức
+125608,"7.Người chơi dự đoán đúng sẽ nhận thưởng vật phẩm, người chơi dự đoán sai cũng nhận thưởng an ủi"
+125609,8.Nếu người chơi dự đoán đúng cả 5 lần sẽ nhận thêm phần thưởng
+125701,"1.Trò chơi này là game nhập vai có nhiều lối chơi, phù hợp người dùng từ đủ 16 tuổi trở lên, khuyến nghị người chưa thành niên sử dụng sản phẩm game dưới sự giám hộ của phụ huynh"
+125702,"2.Trò chơi này thông qua nhập vai cơ bản mô phỏng ""ninja"", thúc đẩy phát triển cốt truyện qua nhiệm vụ chính tuyến, trong game còn có bồi dưỡng, thu thập trang bị, trải nghiệm ải, trong game có hệ thống xã hội người lạ trao đổi tự do như văn bản, giọng nói, hình ảnh, nhưng việc quản lý hệ thống xã hội tuân thủ pháp luật quy định liên quan"
+125703,"3.Trong game này có hệ thống xác thực danh tính người dùng, người dùng xác thực là người chưa thành niên sẽ được quản lý như sau: dưới 8 tuổi không thể nạp, từ 8 tuổi trở lên dưới 16 tuổi số tiền nạp một lần không quá 50 Nhân dân tệ, tổng nạp mỗi tháng không quá 200 Nhân dân tệ, từ 16 tuổi trở lên dưới 18 tuổi số tiền nạp một lần không quá 100 Nhân dân tệ, tổng nạp mỗi tháng không quá 400 Nhân dân tệ, người dùng chưa thành niên chỉ được cung cấp dịch vụ game online 1 giờ mỗi ngày từ 20:00 đến 21:00 vào Thứ Sáu, Thứ Bảy, Chủ Nhật và ngày nghỉ theo quy định pháp luật, thời gian khác không cung cấp dịch vụ game online cho người chưa thành niên dưới bất kỳ hình thức nào"
+125704,"4.Thao tác trong cảnh game có lợi cho việc rèn luyện phối hợp tay mắt, năng lực cảm nhận không gian và phản xạ nhanh của người chơi, ải tổ đội trong game giúp tăng năng lực giao tiếp, năng lực hợp tác, tầm nhìn tổng thể của người chơi, bồi dưỡng tuyến trong game giúp tăng năng lực quản lý tài nguyên, năng lực thống kê toán học của người chơi"
+125705,Học viên Trường Ninja mỗi ngày nhận: Phiếu giới hạn thời gian*128 Mảnh đa dụng SS*5 Xu vàng*20k
+125706,Genin mỗi ngày nhận: Phiếu giới hạn thời gian*328 Mảnh đa dụng SS*10 Xu vàng*24k
+125707,Chuunin mỗi ngày nhận: Phiếu giới hạn thời gian*648 Mảnh đa dụng SS*15 Xu vàng*30k
+125708,Jounin mỗi ngày nhận: Phiếu giới hạn thời gian*700 Mảnh đa dụng SSS*5 Xu vàng*35k
+125709,Jounin Đỉnh Cao mỗi ngày nhận: Phiếu giới hạn thời gian*800 Mảnh đa dụng SSS*10 Xu vàng*42k
+125710,Anbu mỗi ngày nhận: Phiếu giới hạn thời gian*900 Mảnh đa dụng SSS*15 Xu vàng*48k
+125711,Cấp Bóng mỗi ngày nhận: Phiếu giới hạn thời gian*1000 Mảnh đa dụng SSS*20 Xu vàng*56k
+125712,Trên cấp Bóng mỗi ngày nhận: Phiếu giới hạn thời gian*1100 Mảnh đa dụng SSS*20 Xu vàng*63k
+125713,Ninja Truyền Thuyết mỗi ngày nhận: Phiếu giới hạn thời gian*1200 Mảnh đa dụng SSS*30 Xu vàng*72k
+125714,Bán cấp Lục Đạo mỗi ngày nhận: Phiếu giới hạn thời gian*1300 Mảnh đa dụng SSS*30 Xu vàng*80k
+125715,Sức Mạnh Lục Đạo mỗi ngày nhận: Phiếu giới hạn thời gian*1400 Mảnh đa dụng SSS*40 Xu vàng*90k
+125716,Mạnh Nhất Thế Giới Ninja mỗi ngày nhận: Phiếu giới hạn thời gian*1500 Mảnh đa dụng SSS*40 Xu vàng*99k
+125801,"1.Gắn ảo thuật nhận được vào ảo thuật, kích hoạt ảo thuật để nhận trạng thái cực mạnh!"
+125802,"2.Trong Vùng Đất Bí Ẩn có nhiều bản khắc, mỗi bản khắc gắn không ít ảo thuật, các ảo thuật này có trạng thái bí ẩn, cần dùng vật phẩm ảo thuật thu thập được để gắn, khi tất cả ảo thuật trên 1 ảo thuật được gắn xong sẽ nhận bonus trạng thái"
+125803,"3.Mỗi ảo thuật chỉ có thể kích hoạt 1 lần, sau khi kích hoạt nhận trạng thái ngay, trong đó còn có một số ảo thuật kèm bonus trạng thái riêng cho một số loại ninja hệ nhất định, có thể bấm xem ảo thuật"
+125804,"4.Mỗi bản khắc ghi lại chỉ số trạng thái do kích hoạt ảo thuật có thể cho Sổ Tay Nhà Phiêu Lưu xem, đồng thời cũng nhận được thưởng kích hoạt, xem trong Tổng Quan Thu Thập"
+125805,"5.Kích hoạt ảo thuật ngoài nhận bonus trạng thái còn tích lũy năng lượng ảo thuật, năng lượng ảo thuật tích lũy không chỉ cho bạn bonus trạng thái tăng thêm mà còn mở khóa bản khắc bí ẩn mới khác!"
+125901,"1.Chào mừng đến Trung Tâm, đây là ""lõi"" của Nhà, phụ trách xử lý các vấn đề quản lý khác nhau của cư dân và ninja"
+125902,"2.Trung Tâm có thể #C0xF76B45#nâng cấp#C0x5B545B#, chỉ cần chuẩn bị đủ một số vật phẩm nguyên liệu, kiến trúc tốt cần chạm khắc tỉ mỉ nên có thể phải chờ một thời gian, nếu không muốn chờ cũng có thể dùng một ít vàng để hoàn thành nhanh"
+125903,"3.#C0xF76B45#Nâng cấp hoặc mở khóa kiến trúc khác trong Nhà sẽ liên quan đến cấp Trung Tâm#C0x5B545B#, phải đạt cấp Trung Tâm để mở khóa kiến trúc sẽ thông báo trong màn hình nâng cấp của màn hình Trung Tâm, phải đạt cấp Trung Tâm để mở rộng giới hạn tối đa của kiến trúc khác sẽ hiển thị điều kiện trong màn hình nâng cấp của từng kiến trúc tương ứng"
+126001,"1.Chào mừng đến các Xưởng Chế Tạo, các kiến trúc này phụ trách cung cấp tiện ích xây dựng và sinh hoạt cho cư dân và ninja của Nhà"
+126002,#C0xF76B45#【Về các Xưởng Chế Tạo】
+126003,"1.Tại #C0xF76B45#Mỏ Khoáng, Trạm Tráng Miệng, Bãi Đốn Gỗ#C0x5B545B# sẽ #C0xF76B45#liên tục sản xuất vật phẩm#C0x5B545B#, vật phẩm chủ yếu dùng để xây dựng và Phiêu Lưu Ninja, còn #C0xF76B45#Ngân Hàng Tài Chính#C0x5B545B# cần #C0xF76B45#tự đặt lệnh#C0x5B545B# mới bắt đầu sản xuất, chủ yếu sản xuất tiền tệ"
+126004,"2.Xưởng sản xuất vật phẩm liên tục #C0xF76B45#mỗi khoảng thời gian có thể nhận vật phẩm sản xuất#C0x5B545B#, khi chưa nhận sẽ chiếm chỗ kho xưởng, #C0xF76B45#khi kho đầy xưởng sẽ ngừng làm việc#C0x5B545B#, còn Ngân Hàng Tài Chính có #C0xF76B45#giới hạn số lệnh#C0x5B545B#, mỗi lần sản xuất #C0xF76B45#không thể đặt vượt giới hạn tối đa#C0x5B545B#, sau khi sản xuất xong nhận tiền tệ một lần"
+126005,"3.Tất cả kiến trúc cũng có thể #C0xF76B45#nâng cấp#C0x5B545B#, điều kiện nâng cấp không giống nhau, sau khi nâng cấp #C0xF76B45#giới hạn tối đa kho, hiệu suất sản xuất và tiêu hao năng lượng ninja#C0x5B545B# của mỗi xưởng sẽ thay đổi"
+126006,"4.Trong Xưởng Chế Tạo có thể #C0xF76B45#đặt trước đội trực#C0x5B545B#, giúp huấn luyện viên tiện #C0xF76B45#phân bổ ninja trực tiếp từ đội đã đặt trước#C0x5B545B# vào Xưởng Chế Tạo trực! Lưu ý chức năng cần huấn luyện viên đạt #C0xF76B45#một cấp nhất định#C0x5B545B# mới mở, sau khi mở #C0xF76B45#phải mở khóa đủ 3 ô trực trong xưởng này#C0x5B545B# mới dùng được~"
+126007,#C0xF76B45#【Ninja trực】
+126008,"1.Tất cả kiến trúc đều có thể cử ninja vào đó trực, #C0xF76B45#mỗi kiến trúc hỗ trợ tối đa 3 ninja#C0x5B545B#, trực cần tiêu hao năng lượng ninja, ninja không có năng lượng sẽ ngừng trực và phải #C0xF76B45#tự rút#C0x5B545B#, tiêu hao năng lượng trừ theo tiêu chuẩn của xưởng hiện tại"
+126009,"2.Trong toàn bộ Xưởng Chế Tạo, mỗi lần phân bổ 1 ninja trực và ở #C0xF76B45#trạng thái làm việc#C0x5B545B# sẽ nhận #C0xF76B45#hiệu ứng bonus cho giới hạn tối đa kho, hiệu suất sản xuất, giảm tiêu hao lệnh chợ#C0x5B545B#, hiệu ứng bonus thường hiển thị ở màn hình xưởng tương ứng, có thể xem"
+126010,"3.Khi Xưởng Chế Tạo ngừng làm việc (xưởng sản xuất liên tục kho đầy, Ngân Hàng Tài Chính hiện tại chưa nhận lệnh) ninja cũng sẽ ngừng làm việc, lúc này #C0xF76B45#sẽ không trừ năng lượng ninja nữa#C0x5B545B# cho đến khi họ bắt đầu trực lại"
+126011,"4.Khi bố trí ninja làm việc trực, ninja sẽ ở #C0xF76B45#trạng thái làm việc#C0x5B545B#, không thể dùng ở nơi khác trong Nhà, có thể rút ninja bất cứ lúc nào, khi rút sẽ trừ theo năng lượng đã tiêu hao hiện tại"
+126012,"5.Một số ninja có kỹ năng Nhà, sau khi đạt điều kiện thiết lập kỹ năng có thể nâng cấp, kỹ năng có thể #C0xF76B45#có hiệu lực với các kiến trúc khác#C0x5B545B# không ở trong kiến trúc đó thì hiệu ứng kỹ năng không tính, hãy xem mô tả kỹ năng kỹ"
+126013,"6.Một số ninja có hiệu ứng kỹ năng có thể giảm tiêu hao năng lượng của toàn bộ bạn trực, khi trực 2 ninja loại này cùng lúc, chỉ tính hiệu ứng tốt nhất"
+126014,"7.#C0xF76B45#Sau khi ninja bị rút sẽ hồi năng lượng tự nhiên, bí mật nói với nhà phiêu lưu: để ninja ở Vườn Nghỉ một lúc, tốc độ hồi năng lượng ninja sẽ nhanh hơn"
+126101,"1.Chào mừng đến với Phiêu Lưu Chưa Biết, đây là một lối đi ra thế giới bên ngoài, tại đây có thể nhận được những thứ hiếm thấy trong Nhà"
+126102,"2.Trong phiêu lưu có nhiều khu vực, mỗi khu vực có #C0xF76B45#cấp thăm dò#C0x5B545B#, mỗi lần thăm dò sẽ nhận bonus cấp thăm dò, #C0xF76B45#nâng cấp thanh kinh nghiệm cấp thăm dò có thể khiến vật phẩm thăm dò được có phẩm chất tốt hơn"
+126103,"3.Mỗi khu vực #C0xF76B45#đồng thời có thể cử 1 đội thăm dò#C0x5B545B#, đội thăm dò gồm #C0xF76B45#5 ninja + 1 công cụ phiêu lưu#C0x5B545B#, trong đó công cụ phiêu lưu có thể lắp, cũng có thể không lắp"
+126104,"4.Phiêu lưu ngoài cần tiêu hao năng lượng ninja còn cần đồ ngọt, mỗi khu vực phiêu lưu sẽ có #C0xF76B45#3 kế hoạch phiêu lưu để chọn#C0x5B545B#, thời gian phiêu lưu của mỗi kế hoạch khác nhau, tiêu hao và phần thưởng nhận được cũng khác nhau"
+126105,"5.Khi phái đi phiêu lưu, ninja sẽ ở #C0xF76B45#trạng thái làm việc#C0x5B545B#, không thể dùng ở nơi khác trong Nhà, trong phiêu lưu nếu muốn đổi ninja, hủy ninja hoặc công cụ phiêu lưu phải gián đoạn phiêu lưu, sau khi gián đoạn sẽ không thể nhận thưởng phiêu lưu"
+126106,"6.Một số ninja có kỹ năng Phiêu Lưu Nhà, sau khi đạt điều kiện thiết lập kỹ năng có thể nâng cấp, kỹ năng có thể #C0xF76B45#có hiệu lực với các khu vực khác nhau#C0x5B545B#, khi dùng hãy xem mô tả kỹ năng kỹ"
+126107,"7.Một số ninja có hiệu ứng kỹ năng có thể giảm thời gian phiêu lưu lần này, khi trực 2 ninja loại này cùng lúc, chỉ tính hiệu ứng tốt nhất"
+126108,"8.Công cụ phiêu lưu cũng có kỹ năng phiêu lưu, rất hữu ích cho phiêu lưu, sau khi công cụ phiêu lưu đạt cấp yêu cầu sẽ mở khóa kỹ năng, sau đó cần vật phẩm tương ứng để nâng cấp kỹ năng, khi dùng hãy xem mô tả kỹ năng kỹ"
+126109,"9.#C0xF76B45#Khi ninja không đi phiêu lưu sẽ hồi năng lượng tự nhiên, bí mật nói với nhà phiêu lưu: để ninja ở Vườn Nghỉ một lúc, tốc độ hồi năng lượng ninja sẽ nhanh hơn"
+126201,"#L10##C0xF76B45#Tạm biệt cũ đón mới, rực rỡ Tết Nguyên Đán"
+126202,"1 Trong thời gian sự kiện, mỗi ngày có thể thắp sáng 1 đèn lồng hoặc 1 vật phẩm"
+126203,"2 Trước khi thắp đèn lồng cần trả lời câu đố đèn lồng, sau khi câu đố đèn lồng kết thúc thắp vật phẩm nhận thưởng"
+126301,1.Huấn luyện viên ninja có thể phân giải ảo thuật dư không có chỗ khảm trong phân giải ảo thuật mà không tiêu hao
+126302,"2.Ảo thuật đã khảm vào ảo thuật thì không thể phân giải, cũng không thể xem trong phân giải ảo thuật"
+126303,"3.Mỗi lần phân giải có thể theo phẩm chất phân loại chọn nhiều cái một nút, hoặc nhấn giữ chọn nhiều cái để phân giải"
+128301,"#L10##C0xF76B45#Thú Vĩ ở Hẻm Vực Bóng Tối đang manh nha, mau phá hủy âm mưu của nó!"
+128302,#L10##C0xF76B45#Nhắc nhở ấm áp: tập trung đánh 1 Thú Vĩ sẽ có lợi hơn cho xếp hạng điểm!
+128303,#L10##C0xF76B45#【Quy tắc cơ bản】
+128304,"1.Sau khi Hẻm Vực Bóng Tối mở, mỗi ngày hồi 2 lượt khiêu chiến, khi đạt giới hạn tối đa sẽ ngừng hồi lượt"
+128305,"2.Mỗi lượt khiêu chiến Hẻm Vực Bóng Tối sẽ có 1~3 Thú Vĩ, mỗi con có đặc tính khác nhau, có thể dựa theo đặc tính chọn Thú Vĩ phù hợp với mình hơn để khiêu chiến"
+128306,"3.Sau khi chọn Thú Vĩ, có thể chọn bonus trạng thái cho Thú Vĩ, bonus phẩm chất khác nhau có thể tăng nhiều điểm cho lần khiêu chiến này"
+128307,"4.Sau khi khiêu chiến kết thúc, dựa theo sát thương gây ra lên Thú Vĩ để quyết định điểm nhận được, và sẽ dựa theo điểm sau mỗi lần khiêu chiến để phát thưởng!"
+128308,"5.Trong trường hợp nhiều Thú Vĩ mở cùng lúc, nếu điểm khiêu chiến Thú Vĩ bằng nhau sẽ lấy tên Thú Vĩ khiêu chiến đầu tiên và điểm lên bảng"
+128309,#L10##C0xF76B45#【Bonus trạng thái Thú Vĩ】
+128310,1.Bonus trạng thái Thú Vĩ có 4 loại phẩm chất
+128311,"Xanh lá, xanh dương, một phần bonus Thú Vĩ phẩm chất tím có thể qua khiêu chiến bất kỳ Thú Vĩ nào cũng có cơ hội nhận, và lượt này dùng chung cho Thú Vĩ"
+128312,"Một phần bonus Thú Vĩ phẩm chất tím, cam chỉ có thể có cơ hội nhận sau khi khiêu chiến đúng Thú Vĩ tương ứng, và là bonus trạng thái riêng của Thú Vĩ đó"
+128313,"2.Trong màn hình trang bị bonus có thể bấm icon bonus xem hiệu ứng bonus, bấm ô tick góc dưới bên phải của icon bonus để ra trận hoặc tháo bonus"
+128314,3.Các ô bonus Thú Vĩ có thể lắp của từng phẩm chất sẽ dần mở theo điểm tích lũy tăng lên
+128315,"4.Bonus Thú Vĩ của mỗi phẩm chất có giới hạn tối đa lắp, có thể tự điều chỉnh độ khó khiêu chiến"
+128316,#L10##C0xF76B45#【Quy tắc chiến đấu】
+128317,1.Có thể chọn dùng ninja đã mở khóa trong sổ tay
+128318,"2.#C0xF76B45#Cấp, cấp Phá Giới Hạn#C0x5B545B# của ninja được điều chỉnh về cùng mặt bằng, #C0xF76B45#sao bảo đảm được điều chỉnh về 8 sao#C0x5B545B# và được đưa vào lối chơi này"
+128319,"3.#C0xF76B45#Vật phẩm ninja mang theo, hệ thống ấn ký và bí kíp#C0x5B545B# không kế thừa vào khiêu chiến lối chơi này"
+128320,"4.Kỹ năng guild, kỹ năng thiên phú, trạng thái công cụ phiêu lưu được điều chỉnh về cùng mặt bằng"
+128321,#L10##C0xF76B45#【Quy tắc thưởng thêm】
+128322,"1.#C0xF76B45#Sau khi lượt này kết thúc, toàn bộ thưởng thành tựu sẽ không gửi thêm, hãy nhận trước khi sự kiện kết thúc#C0x5B545B#"
+128323,2.#C0xF76B45#Server mở đến ngày thứ %d mới có thể vào xếp hạng cụm liên server#C0x5B545B#
+128324,3.Dựa theo thứ hạng bảng xếp hạng phát thưởng thêm
+128401,#C0xF76B45#【Quy tắc cơ bản】
+128402,1.Bồi dưỡng Huy Hiệu Hộ Vệ có thể tăng trạng thái cho tất cả ninja
+128403,"2.Mỗi Huy Hiệu Hộ Vệ có điều kiện mở khóa riêng, phải hoàn thành điều kiện mới mở khóa bồi dưỡng"
+128404,"3.Mỗi Huy Hiệu Hộ Vệ có một số ninja hộ vệ và ô mang theo hộ vệ, người chơi có thể bố trí ninja và vật phẩm mang theo, theo cấp bồi dưỡng sẽ cho bonus % tăng cơ bản từ trạng thái cơ bản của Huy Hiệu Hộ Vệ"
+128405,#C0xF76B45#Ninja cùng series chỉ có thể hộ vệ 1 Huy Hiệu Hộ Vệ#C0x5B545B#
+128406,#C0xF76B45#Ninja và vật phẩm mang theo đã ra sân hộ vệ không thể tham gia chiến đấu#C0x5B545B#
+128407,"4.Ninja hoặc vật phẩm mang theo đã bố trí có thể tháo trong thời gian hồi bố trí, bố trí lại phải chờ hồi kết thúc mới có thể bố trí hộ vệ lần nữa"
+128408,
+126304,"4.Bất kỳ ảo thuật phẩm chất nào sau khi phân giải đều có thể nhận được 1 loại vật liệu phân giải ảo thuật, dùng cho Cửa Hàng Ảo Thuật hoặc kênh khác sử dụng"

@@ -1,0 +1,7 @@
+﻿VariableName,defaultIDs,name,roleNum,unLockLv
+Defaults,{wall=51001;floor=50001},,1,<>
+ID,defaultIDs,name,roleNum,unLockLv
+1,,room1,2,<1;5>
+2,,room2,3,<2;6>
+3,,room3,4,<3;7>
+4,,room4,5,<4;8>

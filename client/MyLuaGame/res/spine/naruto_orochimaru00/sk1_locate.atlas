@@ -1,0 +1,293 @@
+
+sk1_locate.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_02
+  rotate: false
+  xy: 3941, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blood_07_3x3_000
+  rotate: false
+  xy: 3081, 338
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_001
+  rotate: false
+  xy: 3253, 338
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_002
+  rotate: false
+  xy: 3425, 338
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_003
+  rotate: false
+  xy: 3597, 338
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_004
+  rotate: false
+  xy: 3769, 338
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_005
+  rotate: false
+  xy: 444, 63
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+blood_07_3x3_006
+  rotate: false
+  xy: 616, 63
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+flash_23_000
+  rotate: false
+  xy: 2473, 242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flash_23_001
+  rotate: false
+  xy: 1017, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flash_23_002
+  rotate: false
+  xy: 1083, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flash_23_003
+  rotate: false
+  xy: 1178, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_rift_stone_open_000
+  rotate: false
+  xy: 1048, 179
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+fx_rift_stone_open_001
+  rotate: false
+  xy: 1048, 109
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+fx_rift_stone_open_002
+  rotate: false
+  xy: 3941, 310
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+fx_rift_stone_open_003
+  rotate: false
+  xy: 788, 35
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+glow_line_5
+  rotate: false
+  xy: 2215, 242
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+rift_2
+  rotate: false
+  xy: 2, 252
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+smoke_13
+  rotate: false
+  xy: 788, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke_23
+  rotate: false
+  xy: 918, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+snake_sk1_0014
+  rotate: true
+  xy: 918, 26
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+snake_sk1_0015
+  rotate: false
+  xy: 354, 12
+  size: 88, 238
+  orig: 88, 238
+  offset: 0, 0
+  index: -1
+snake_sk1_0016
+  rotate: true
+  xy: 2548, 316
+  size: 192, 328
+  orig: 192, 328
+  offset: 0, 0
+  index: -1
+snake_sk1_0019
+  rotate: true
+  xy: 2, 2
+  size: 248, 350
+  orig: 248, 350
+  offset: 0, 0
+  index: -1
+snake_sk1_0020
+  rotate: true
+  xy: 870, 249
+  size: 259, 340
+  orig: 259, 340
+  offset: 0, 0
+  index: -1
+snake_sk1_0022
+  rotate: true
+  xy: 1212, 243
+  size: 265, 334
+  orig: 265, 334
+  offset: 0, 0
+  index: -1
+snake_sk1_0024
+  rotate: true
+  xy: 1893, 255
+  size: 253, 320
+  orig: 253, 320
+  offset: 0, 0
+  index: -1
+snake_sk1_0027
+  rotate: true
+  xy: 516, 235
+  size: 273, 352
+  orig: 273, 352
+  offset: 0, 0
+  index: -1
+snake_sk1_0028
+  rotate: true
+  xy: 1548, 263
+  size: 245, 343
+  orig: 245, 343
+  offset: 0, 0
+  index: -1
+snake_sk1_0029
+  rotate: true
+  xy: 2215, 308
+  size: 200, 331
+  orig: 200, 331
+  offset: 0, 0
+  index: -1
+snake_sk1_0031
+  rotate: false
+  xy: 2878, 342
+  size: 201, 166
+  orig: 201, 166
+  offset: 0, 0
+  index: -1
+snake_sk1_0032
+  rotate: true
+  xy: 444, 15
+  size: 46, 105
+  orig: 46, 105
+  offset: 0, 0
+  index: -1
+stone_11
+  rotate: false
+  xy: 1178, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_000
+  rotate: false
+  xy: 1244, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_001
+  rotate: false
+  xy: 1244, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_002
+  rotate: false
+  xy: 1310, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_003
+  rotate: false
+  xy: 1310, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_004
+  rotate: false
+  xy: 1376, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_005
+  rotate: false
+  xy: 1376, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_006
+  rotate: false
+  xy: 1442, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_007
+  rotate: false
+  xy: 1442, 111
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

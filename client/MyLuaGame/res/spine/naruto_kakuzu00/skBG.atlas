@@ -1,0 +1,90 @@
+
+skBG.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 2, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+halfBall_glow
+  rotate: false
+  xy: 2, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ramp_v_1
+  rotate: false
+  xy: 2, 232
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+steam_speed_16_000
+  rotate: false
+  xy: 132, 198
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_001
+  rotate: false
+  xy: 260, 390
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_002
+  rotate: false
+  xy: 390, 456
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_003
+  rotate: false
+  xy: 2, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_004
+  rotate: true
+  xy: 68, 36
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_005
+  rotate: false
+  xy: 132, 164
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_006
+  rotate: true
+  xy: 198, 166
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+steam_speed_16_007
+  rotate: false
+  xy: 260, 356
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+tex_ground_h_0
+  rotate: false
+  xy: 260, 424
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

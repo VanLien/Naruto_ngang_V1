@@ -1,0 +1,27 @@
+
+sk1_bg.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ramp_v_1
+  rotate: false
+  xy: 1028, 68
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tex_forest_0
+  rotate: false
+  xy: 2, 68
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1

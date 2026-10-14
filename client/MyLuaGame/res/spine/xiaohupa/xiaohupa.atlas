@@ -1,0 +1,41 @@
+
+xiaohupa.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 2, 27
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 209, 2
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+lb_x
+  rotate: false
+  xy: 297, 21
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+tb
+  rotate: false
+  xy: 355, 144
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+yg
+  rotate: false
+  xy: 209, 89
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1

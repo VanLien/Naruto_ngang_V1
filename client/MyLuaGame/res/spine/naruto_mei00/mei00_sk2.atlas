@@ -1,0 +1,40 @@
+
+mei00_sk2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+mei00_sk22.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Textures/eff_fangshe_041_2
+  rotate: false
+  xy: 364, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Textures/eff_fangshe_041_3
+  rotate: false
+  xy: 2, 2
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+images/Textures/eff_fangshe_041_4
+  rotate: false
+  xy: 183, 2
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1

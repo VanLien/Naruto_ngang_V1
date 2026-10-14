@@ -1,0 +1,14 @@
+﻿VariableName,canPass,level,vip
+Defaults,0,1,0
+ID,canPass,level,vip
+1,,,
+2,30,50,
+3,30,60,
+4,35,70,
+5,40,80,
+6,45,90,
+7,50,100,
+8,,,4
+9,,,5
+10,,,6
+11,,,7

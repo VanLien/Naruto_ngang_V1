@@ -1,0 +1,19 @@
+﻿VariableName,name,needExp,rateUp,weight1,weight2,weight3
+Defaults,,0,1,0,0,0
+ID,name,needExp,rateUp,weight1,weight2,weight3
+1,Amateur Catcher,200,,,0.06,0.2
+2,Rookie Catcher,500,1.03,,0.06,0.2
+3,Beginner Catcher,800,1.06,,0.06,0.2
+4,Rising Catcher,1200,1.09,,0.06,0.2
+5,Intermediate Catcher,1800,1.12,,0.06,0.2
+6,Skillful Catcher,2500,1.15,,0.06,0.2
+7,Advanced Catcher,4000,1.18,,0.06,0.2
+8,All-round Catcher,6000,1.21,,0.06,0.2
+9,Super Catcher,8000,1.24,,0.06,0.2
+10,Expert Catcher,10000,1.27,,0.06,0.2
+11,Expert Catcher,12000,1.3,,0.06,0.2
+12,Grandmaster Catcher,14000,1.33,,0.06,0.2
+13,Master Catcher,16000,1.36,,0.06,0.2
+14,Legendary Catcher Ⅰ,18000,1.39,,0.06,0.2
+15,Legendary Catcher Ⅱ,20000,1.42,,0.06,0.2
+16,Legendary Catcher Ⅲ,99999999,1.45,,0.06,0.2

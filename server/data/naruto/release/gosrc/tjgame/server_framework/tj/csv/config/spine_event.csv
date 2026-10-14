@@ -1,0 +1,7 @@
+变量名,sound,damageSeg,hpSeq,shaker,music,move,show
+默认值,,,,,,,
+ID,音效,伤害分段,加血分段,震动,背景音乐,移动,显示隐藏
+1,{res=hero_voice/attack.mp3;loop=0;delay=0},,,{beginT=0;endT=1000;disx=10;disy=10;count=11;interval=2000},,,
+2,{res=hero_voice/bjbitisskill1.mp3;loop=0;delay=0},,,,,<{delay=0;t=200;scale=0.5};{delay=1000;t=200;rot=-60};{delay=2000;t=100;x=0;y=-60}>,
+3,{res=hero_voice/bjbitisskill2.mp3;loop=0;delay=0},,,{beginT=0;endT=100;disx=10;disy=10;count=11;interval=200},,,
+4,{res=hero_voice/attack.mp3;loop=0;delay=0},,,,,,

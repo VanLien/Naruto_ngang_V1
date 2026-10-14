@@ -1,0 +1,14 @@
+{
+  "storagemerge.dev.1": {
+    "debug": true,
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dbname": "gamemerge_dev_1",
+        "mongodb": "110.172.29.223:27100",
+        "name": "storagemerge.dev.1"
+      }
+    ]
+  }
+}

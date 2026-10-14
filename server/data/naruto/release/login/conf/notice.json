@@ -1,0 +1,47 @@
+{
+  "activity": [
+    {
+      "content": [
+        {
+          "content": "Từ ngày 01/01/2023, Mega Huyền Thoại sẽ khai mở máy chủ mới vào lúc 15h00 hàng ngày. Kính mong các HLV chú ý theo dõi!", 
+          "title": "Lịch ra máy chủ mới"
+        },
+        {
+          "content": "Từ ngày 01/01/2023, Mega Huyền Thoại sẽ cập nhật thêm 5 gói mới cho các HLV tha hồ lựa chọn, bao gồm:\n- MỤC HẠN GIỜ: Gói Nâng Cấp, Gói Trang Bị và Gói Mảnh Vạn Năng\n- MỤC ƯU ĐÃI: Gói Khuyến Mãi và Gói Siêu Khuyến Mãi", 
+          "title": "Cập nhật gói mới"
+        },
+        {
+          "content": "Eimi tặng bộ Giftcode chung cho toàn thể các HLV: \n  - Code Tân Thủ: 56377da83832\n  - Code Ưu Đãi: 0470900a9612\n  - Code Open Game: d61eed06c74b \n  - Code Group 13K: 256fe9e5e08e\n  - Code Group 15K: 54485307c4df\nHãy đến và tham gia cuộc phiêu lưu này ngay bây giờ cùng Eimi nào!!!", 
+          "title": "Quà tặng tân thủ"
+        }
+      ], 
+      "id": 100, 
+      "titlebar": "Thông báo"
+    }
+  ], 
+  "banner": [
+    "login/img_banner_02@.png", 
+    "login/img_banner_03@.png",
+    "login/img_banner_01@.png" 
+  ],
+  "caution": [
+    {
+      "content": "Cảnh báo lừa đảo",
+      "title": "Lưu ý"
+    },
+    {
+      "content": "Hiện tại, Mega Huyền Thoại chỉ nạp qua kênh nạp duy nhất trong game\nBất cứ trang nạp nào khác đều là giả mạo và BQT sẽ không chịu trách nhiệm nếu các HLV bị lừa khi nạp vào những trang giả mạo khác!\nTrân trọng!",
+      "title": "Cảnh báo"
+    }
+  ],
+  "update": [
+    {
+      "content": "2022.10.17",
+      "title": "Nội dung cập nhật"
+    },
+    {
+      "content": "Chúng tôi tặng VIP 5 và 5k kim cương với tài khoản mới đăng kí",
+      "title": "Nội dung cập nhật"
+    }
+  ]
+}

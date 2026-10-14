@@ -1,0 +1,41 @@
+
+sk2_endingMask.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_white
+  rotate: false
+  xy: 2, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sk1_c2_0005
+  rotate: false
+  xy: 132, 22
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+sk1_c2_0007
+  rotate: false
+  xy: 132, 134
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+sk1_c2_0009
+  rotate: false
+  xy: 250, 140
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+sk1_c2_0011
+  rotate: false
+  xy: 2, 2
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1

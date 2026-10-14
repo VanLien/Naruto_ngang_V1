@@ -1,0 +1,153 @@
+
+hashirama01_ui.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11033101_lihui_biyan
+  rotate: false
+  xy: 208, 22
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+11033101_lihui_houfa
+  rotate: true
+  xy: 1205, 116
+  size: 131, 194
+  orig: 131, 194
+  offset: 0, 0
+  index: -1
+11033101_lihui_kuabu
+  rotate: false
+  xy: 974, 81
+  size: 229, 166
+  orig: 229, 166
+  offset: 0, 0
+  index: -1
+11033101_lihui_shenti
+  rotate: true
+  xy: 2, 38
+  size: 209, 308
+  orig: 209, 308
+  offset: 0, 0
+  index: -1
+11033101_lihui_tou
+  rotate: false
+  xy: 1885, 78
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+11033101_lihui_youdabi
+  rotate: false
+  xy: 1638, 88
+  size: 216, 88
+  orig: 216, 88
+  offset: 0, 0
+  index: -1
+11033101_lihui_youfa
+  rotate: false
+  xy: 2008, 114
+  size: 25, 133
+  orig: 25, 133
+  offset: 0, 0
+  index: -1
+11033101_lihui_youjianjia
+  rotate: true
+  xy: 1638, 178
+  size: 69, 245
+  orig: 69, 245
+  offset: 0, 0
+  index: -1
+11033101_lihui_youjianjiahou
+  rotate: false
+  xy: 750, 73
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+11033101_lihui_youshou
+  rotate: true
+  xy: 1401, 159
+  size: 88, 235
+  orig: 88, 235
+  offset: 0, 0
+  index: -1
+11033101_lihui_youtui
+  rotate: true
+  xy: 699, 111
+  size: 136, 273
+  orig: 136, 273
+  offset: 0, 0
+  index: -1
+11033101_lihui_youxiabai
+  rotate: true
+  xy: 1401, 71
+  size: 86, 222
+  orig: 86, 222
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuobi
+  rotate: true
+  xy: 312, 172
+  size: 75, 385
+  orig: 75, 385
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuofa
+  rotate: true
+  xy: 1205, 90
+  size: 24, 140
+  orig: 24, 140
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuojianjia1
+  rotate: false
+  xy: 597, 50
+  size: 47, 120
+  orig: 47, 120
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuojianjia2
+  rotate: false
+  xy: 1856, 54
+  size: 27, 122
+  orig: 27, 122
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuoshou
+  rotate: true
+  xy: 678, 60
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuotui
+  rotate: true
+  xy: 312, 42
+  size: 128, 283
+  orig: 128, 283
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuoxiabai
+  rotate: true
+  xy: 2, 2
+  size: 34, 204
+  orig: 34, 204
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuoxiabaihou
+  rotate: true
+  xy: 1625, 30
+  size: 56, 209
+  orig: 56, 209
+  offset: 0, 0
+  index: -1
+11033101_lihui_zuoxiuhou
+  rotate: false
+  xy: 646, 61
+  size: 30, 109
+  orig: 30, 109
+  offset: 0, 0
+  index: -1

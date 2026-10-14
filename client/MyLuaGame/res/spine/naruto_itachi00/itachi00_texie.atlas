@@ -1,0 +1,167 @@
+
+itachi00_texie.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhahuan_0
+  rotate: false
+  xy: 2, 428
+  size: 600, 594
+  orig: 600, 594
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 1798, 917
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+object_3023
+  rotate: false
+  xy: 1470, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1180, 823
+  size: 199, 288
+  orig: 199, 288
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 862, 593
+  size: 213, 307
+  orig: 213, 307
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 84
+  size: 93, 337
+  orig: 93, 337
+  offset: 0, 0
+  index: -1
+toufa111
+  rotate: false
+  xy: 604, 380
+  size: 37, 128
+  orig: 37, 128
+  offset: 0, 0
+  index: -1
+toufa112
+  rotate: false
+  xy: 566, 270
+  size: 36, 156
+  orig: 36, 156
+  offset: 0, 0
+  index: -1
+toufa113
+  rotate: true
+  xy: 341, 110
+  size: 67, 181
+  orig: 67, 181
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 862, 492
+  size: 99, 325
+  orig: 99, 325
+  offset: 0, 0
+  index: -1
+toufa221
+  rotate: false
+  xy: 1728, 821
+  size: 68, 201
+  orig: 68, 201
+  offset: 0, 0
+  index: -1
+toufa223
+  rotate: true
+  xy: 183, 57
+  size: 25, 125
+  orig: 25, 125
+  offset: 0, 0
+  index: -1
+yh_biyan
+  rotate: false
+  xy: 341, 84
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+yh_hue
+  rotate: false
+  xy: 2, 7
+  size: 179, 75
+  orig: 179, 75
+  offset: 0, 0
+  index: -1
+yh_mei1
+  rotate: true
+  xy: 524, 119
+  size: 58, 10
+  orig: 58, 10
+  offset: 0, 0
+  index: -1
+yh_mei2
+  rotate: false
+  xy: 1180, 810
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+yh_yanbai
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yh_yankuang
+  rotate: false
+  xy: 1728, 784
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+yh_yanqiu
+  rotate: false
+  xy: 1891, 1001
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+yh_zuoyan
+  rotate: false
+  xy: 1798, 900
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 2, 179
+  size: 562, 247
+  orig: 562, 247
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 862, 808
+  size: 316, 214
+  orig: 316, 214
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 604, 510
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

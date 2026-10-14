@@ -1,0 +1,27 @@
+
+xuanzhongkuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baihuan
+  rotate: false
+  xy: 2, 169
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+heihuan
+  rotate: false
+  xy: 2, 2
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+honghuan
+  rotate: false
+  xy: 260, 169
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4 @@
+﻿VariableName,desc,name,type,weight
+Defaults,,,,0
+ID,desc,name,type,weight
+1,"Huấn luyện viên, hãy thử chơi trò chơi này nhé! Trò chơi bắt đầu với 3 thẻ Nhẫn giả, bạn cần ghi nhớ hình dạng của chúng trong đầu. Sau đó một nhóm Nhẫn giả sẽ xuất hiện phía trên, sau khi hiển thị bằng hiệu ứng đặc biệt, bạn cần tìm ra Nhẫn giả nào không xuất hiện phía trên. Dễ đúng không? Vậy bắt đầu thôi!",Nhẫn giả bị thiếu,1,100

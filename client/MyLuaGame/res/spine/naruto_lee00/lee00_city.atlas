@@ -1,0 +1,69 @@
+
+lee00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0066
+  rotate: true
+  xy: 508, 181
+  size: 134, 295
+  orig: 134, 295
+  offset: 0, 0
+  index: -1
+idle_0071
+  rotate: true
+  xy: 508, 317
+  size: 144, 293
+  orig: 144, 293
+  offset: 0, 0
+  index: -1
+idle_0074
+  rotate: true
+  xy: 2, 2
+  size: 158, 273
+  orig: 158, 273
+  offset: 0, 0
+  index: -1
+idle_0080
+  rotate: false
+  xy: 339, 185
+  size: 167, 276
+  orig: 167, 276
+  offset: 0, 0
+  index: -1
+idle_0084
+  rotate: false
+  xy: 167, 184
+  size: 170, 277
+  orig: 170, 277
+  offset: 0, 0
+  index: -1
+idle_0116
+  rotate: false
+  xy: 2, 162
+  size: 163, 299
+  orig: 163, 299
+  offset: 0, 0
+  index: -1
+stand_0022
+  rotate: true
+  xy: 579, 43
+  size: 116, 300
+  orig: 116, 300
+  offset: 0, 0
+  index: -1
+stand_0040
+  rotate: true
+  xy: 277, 62
+  size: 117, 300
+  orig: 117, 300
+  offset: 0, 0
+  index: -1
+stand_0048
+  rotate: false
+  xy: 805, 161
+  size: 117, 300
+  orig: 117, 300
+  offset: 0, 0
+  index: -1

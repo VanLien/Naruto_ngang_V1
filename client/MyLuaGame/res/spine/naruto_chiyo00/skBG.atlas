@@ -1,0 +1,27 @@
+
+skBG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgPic
+  rotate: false
+  xy: 2, 68
+  size: 1902, 737
+  orig: 1902, 737
+  offset: 0, 0
+  index: -1
+col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_glow_0
+  rotate: false
+  xy: 1906, 741
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

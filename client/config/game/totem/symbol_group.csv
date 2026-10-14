@@ -1,0 +1,8 @@
+﻿VariableName,name,showEnergy,spineAnimation,unlockEnergy
+Defaults,,0,,0
+ID,name,showEnergy,spineAnimation,unlockEnergy
+1,Vùng đất bí ẩn,,green,
+2,Thế giới giấc mơ,,purple,
+3,Sức mạnh huyền bí,,red,
+4,Sức mạnh tự nhiên,,blue,
+5,Khắp mọi miền đất,550,yellow,650

@@ -1,0 +1,363 @@
+
+kabuto03_ui.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 1657, 42
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+yaoshidou_biyan
+  rotate: false
+  xy: 1398, 12
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+yaoshidou_body1
+  rotate: false
+  xy: 1919, 164
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+yaoshidou_body10
+  rotate: false
+  xy: 1778, 56
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+yaoshidou_body11
+  rotate: false
+  xy: 1363, 2
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+yaoshidou_body12
+  rotate: false
+  xy: 1531, 38
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+yaoshidou_body13
+  rotate: false
+  xy: 762, 100
+  size: 339, 154
+  orig: 339, 154
+  offset: 0, 0
+  index: -1
+yaoshidou_body14
+  rotate: false
+  xy: 1103, 105
+  size: 231, 149
+  orig: 231, 149
+  offset: 0, 0
+  index: -1
+yaoshidou_body15
+  rotate: true
+  xy: 762, 2
+  size: 96, 218
+  orig: 96, 218
+  offset: 0, 0
+  index: -1
+yaoshidou_body16
+  rotate: true
+  xy: 427, 75
+  size: 179, 333
+  orig: 179, 333
+  offset: 0, 0
+  index: -1
+yaoshidou_body17
+  rotate: false
+  xy: 723, 2
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+yaoshidou_body18
+  rotate: false
+  xy: 1834, 98
+  size: 34, 92
+  orig: 34, 92
+  offset: 0, 0
+  index: -1
+yaoshidou_body19
+  rotate: false
+  xy: 1401, 30
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+yaoshidou_body2
+  rotate: true
+  xy: 1317, 2
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+yaoshidou_body20
+  rotate: true
+  xy: 1875, 203
+  size: 51, 139
+  orig: 51, 139
+  offset: 0, 0
+  index: -1
+yaoshidou_body21
+  rotate: true
+  xy: 1735, 192
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+yaoshidou_body22
+  rotate: false
+  xy: 1556, 34
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+yaoshidou_body23
+  rotate: true
+  xy: 1336, 84
+  size: 170, 223
+  orig: 170, 223
+  offset: 0, 0
+  index: -1
+yaoshidou_body24
+  rotate: false
+  xy: 2, 42
+  size: 423, 212
+  orig: 423, 212
+  offset: 0, 0
+  index: -1
+yaoshidou_body3
+  rotate: true
+  xy: 1971, 161
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+yaoshidou_body4
+  rotate: false
+  xy: 1919, 141
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+yaoshidou_body5
+  rotate: true
+  xy: 1326, 46
+  size: 36, 73
+  orig: 36, 73
+  offset: 0, 0
+  index: -1
+yaoshidou_body6
+  rotate: false
+  xy: 1469, 38
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+yaoshidou_body7
+  rotate: true
+  xy: 643, 19
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+yaoshidou_body8
+  rotate: false
+  xy: 1561, 179
+  size: 172, 75
+  orig: 172, 75
+  offset: 0, 0
+  index: -1
+yaoshidou_body9
+  rotate: false
+  xy: 387, 21
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou1
+  rotate: false
+  xy: 982, 8
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou2
+  rotate: true
+  xy: 1870, 106
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou3
+  rotate: false
+  xy: 1870, 138
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou4
+  rotate: true
+  xy: 1187, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou5
+  rotate: true
+  xy: 1207, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou6
+  rotate: false
+  xy: 228, 21
+  size: 80, 19
+  orig: 80, 19
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou7
+  rotate: true
+  xy: 1778, 88
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+yaoshidou_shetou8
+  rotate: false
+  xy: 1561, 67
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+yaoshidou_tou1
+  rotate: true
+  xy: 1233, 57
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+yaoshidou_tou10
+  rotate: true
+  xy: 1106, 14
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+yaoshidou_tou11
+  rotate: false
+  xy: 1593, 35
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+yaoshidou_tou12
+  rotate: false
+  xy: 1625, 35
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+yaoshidou_tou13
+  rotate: false
+  xy: 2016, 152
+  size: 30, 102
+  orig: 30, 102
+  offset: 0, 0
+  index: -1
+yaoshidou_tou14
+  rotate: true
+  xy: 427, 46
+  size: 27, 118
+  orig: 27, 118
+  offset: 0, 0
+  index: -1
+yaoshidou_tou15
+  rotate: false
+  xy: 1106, 2
+  size: 79, 10
+  orig: 79, 10
+  offset: 0, 0
+  index: -1
+yaoshidou_tou16
+  rotate: true
+  xy: 1955, 185
+  size: 16, 58
+  orig: 16, 58
+  offset: 0, 0
+  index: -1
+yaoshidou_tou17
+  rotate: true
+  xy: 1695, 63
+  size: 114, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+yaoshidou_tou2
+  rotate: true
+  xy: 310, 21
+  size: 19, 75
+  orig: 19, 75
+  offset: 0, 0
+  index: -1
+yaoshidou_tou3
+  rotate: true
+  xy: 1875, 185
+  size: 16, 78
+  orig: 16, 78
+  offset: 0, 0
+  index: -1
+yaoshidou_tou4
+  rotate: true
+  xy: 547, 44
+  size: 29, 94
+  orig: 29, 94
+  offset: 0, 0
+  index: -1
+yaoshidou_tou5
+  rotate: true
+  xy: 1317, 24
+  size: 20, 69
+  orig: 20, 69
+  offset: 0, 0
+  index: -1
+yaoshidou_tou6
+  rotate: false
+  xy: 2, 6
+  size: 117, 34
+  orig: 117, 34
+  offset: 0, 0
+  index: -1
+yaoshidou_tou7
+  rotate: true
+  xy: 121, 15
+  size: 25, 105
+  orig: 25, 105
+  offset: 0, 0
+  index: -1
+yaoshidou_tou8
+  rotate: false
+  xy: 1388, 24
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+yaoshidou_tou9
+  rotate: false
+  xy: 1233, 21
+  size: 82, 34
+  orig: 82, 34
+  offset: 0, 0
+  index: -1

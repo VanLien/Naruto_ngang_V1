@@ -1,0 +1,111 @@
+
+sk1_bruise.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flash_5
+  rotate: false
+  xy: 840, 325
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_hitFlash_1
+  rotate: false
+  xy: 840, 195
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_hitTrail_0
+  rotate: false
+  xy: 337, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_rift_2
+  rotate: false
+  xy: 2, 197
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+fx_sk1_obj_0011
+  rotate: true
+  xy: 737, 174
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+fx_sk1_obj_0014
+  rotate: true
+  xy: 2, 71
+  size: 59, 333
+  orig: 59, 333
+  offset: 0, 0
+  index: -1
+fx_sk1_obj_0015
+  rotate: true
+  xy: 2, 132
+  size: 63, 424
+  orig: 63, 424
+  offset: 0, 0
+  index: -1
+fx_sk1_obj_0020
+  rotate: true
+  xy: 428, 134
+  size: 61, 307
+  orig: 61, 307
+  offset: 0, 0
+  index: -1
+fx_sk1_obj_0022
+  rotate: false
+  xy: 970, 338
+  size: 43, 115
+  orig: 43, 115
+  offset: 0, 0
+  index: -1
+fx_trail_1
+  rotate: false
+  xy: 516, 197
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_trail_24
+  rotate: true
+  xy: 774, 197
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+stone_11
+  rotate: false
+  xy: 132, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+stone_4
+  rotate: false
+  xy: 970, 304
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+stone_5
+  rotate: false
+  xy: 466, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone_7
+  rotate: false
+  xy: 2, 5
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

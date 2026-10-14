@@ -1,0 +1,15 @@
+﻿VariableName,activeType,attrAddType,attrNum1,attrNum2,attrNum3,attrNum4,attrType1,attrType2,attrType3,attrType4,costMap,desc,extraItem,isOpen,languages,markID,name,rank,skinFrameRes,unitIDs
+Defaults,2,1,,,,,0,0,0,0,{},,{},false,<cn;tw;en;vn;th;kr>,0,,1,common/icon/panel_card_7.png,{}
+ID,activeType,attrAddType,attrNum1,attrNum2,attrNum3,attrNum4,attrType1,attrType2,attrType3,attrType4,costMap,desc,extraItem,isOpen,languages,markID,name,rank,skinFrameRes,unitIDs
+101,,,0.03,0.03,,,9,10,,,,Có thể nhận được thông qua việc tham gia sự kiện Giáng Sinh,,true,<cn>,3021,Bóng Ma Giáng Sinh,,city/drawcard/draw/panel_card_h.png,{3021=3022}
+102,,,300,0.05,0.05,,16,9,10,,,Có thể nhận được thông qua việc tham gia sự kiện Giáng Sinh,,true,<cn>,3631,Công Chúa Băng Tuyết,,city/drawcard/draw/panel_card_c.png,{3631=3632}
+103,,,,,,,,,,,{rmb=998},,,true,<cn>,3641,Sức Mạnh Phong Ấn,,city/drawcard/draw/panel_card_c.png,{3642=3643}
+104,,,0.05,300,,,8,22,,,,Có thể nhận được thông qua việc tham gia sự kiện Năm Mới,,true,<cn;tw;en;kr>,2431,Đạo Chích Trộm Tim,,city/drawcard/draw/panel_card_c.png,{2431=2432}
+105,,,0.02,100,,,7,14,,,,Có thể nhận được thông qua việc tham gia sự kiện Năm Mới,,true,<cn>,571,Võ Sĩ Đường Phố,,city/drawcard/draw/panel_card_h.png,{572=573;574=575}
+106,,,0.02,100,,,8,24,,,,Có thể nhận được thông qua việc tham gia sự kiện Tết Nguyên Tiêu,,true,<cn;tw>,1391,Dạ Vũ Ngư Long,,city/drawcard/draw/panel_card_h.png,{1396=1397;1393=1395}
+107,,,,,,,,,,,{rmb=998},,,true,<cn>,4171,Hộ Vệ Kiên Tâm,,city/drawcard/draw/panel_card_c.png,{4172=4173}
+108,,,0.05,300,,,1,24,,,,Có thể nhận được thông qua việc tham gia sự kiện 618,,true,<cn>,3641,Ma Linh Tây Vực,,city/drawcard/draw/panel_card_c.png,{3642=3644}
+109,,,0.02,0.02,100,,7,8,24,,,Có thể nhận được thông qua việc tham gia sự kiện Quốc Khánh,,true,<cn>,2241,Trượt Ván Đường Phố,,city/drawcard/draw/panel_card_h.png,{2242=2243}
+110,,,0.05,300,,,1,16,,,,,,true,<cn>,1281,Đạo Chích Thời Gian,,city/drawcard/draw/panel_card_c.png,{1281=1282}
+111,,,0.05,0.05,500,,7,8,14,,,,,true,<cn>,1981,Chiến Giáp Ngân Tiêu,,city/drawcard/draw/panel_card_r.png,{1982=1984}
+112,,,0.02,100,,,8,24,,,,Có thể nhận được thông qua việc tham gia sự kiện Halloween,,true,<cn>,391,Thuyền Trưởng Ma,,city/drawcard/draw/panel_card_r.png,{393=395;394=396}

@@ -1,0 +1,131 @@
+
+kunnanjiedian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boos_di
+  rotate: false
+  xy: 532, 207
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1
+boos_di2
+  rotate: false
+  xy: 704, 207
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1
+boos_waikuang
+  rotate: false
+  xy: 2, 41
+  size: 348, 337
+  orig: 348, 337
+  offset: 0, 0
+  index: -1
+dianzi
+  rotate: false
+  xy: 2, 2
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+heidi
+  rotate: true
+  xy: 352, 27
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 876, 284
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+xing_wu
+  rotate: false
+  xy: 936, 345
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+zikuang
+  rotate: false
+  xy: 352, 199
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+zuobiao
+  rotate: false
+  xy: 876, 318
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+
+kunnanjiedian2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/_NavigationFire_00829
+  rotate: false
+  xy: 376, 14
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00830
+  rotate: false
+  xy: 318, 23
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00831
+  rotate: false
+  xy: 359, 73
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00832
+  rotate: false
+  xy: 243, 13
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+TX/energy_06_00001
+  rotate: false
+  xy: 243, 76
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+TX/energy_28_00009
+  rotate: false
+  xy: 124, 16
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TX/skill2_2_1
+  rotate: false
+  xy: 421, 63
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

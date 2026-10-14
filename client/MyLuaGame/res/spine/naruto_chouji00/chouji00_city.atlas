@@ -1,0 +1,69 @@
+
+chouji00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0003
+  rotate: false
+  xy: 2, 98
+  size: 136, 285
+  orig: 136, 285
+  offset: 0, 0
+  index: -1
+idle_0007
+  rotate: true
+  xy: 429, 4
+  size: 124, 285
+  orig: 124, 285
+  offset: 0, 0
+  index: -1
+idle_0067
+  rotate: true
+  xy: 719, 257
+  size: 126, 286
+  orig: 126, 286
+  offset: 0, 0
+  index: -1
+idle_0071
+  rotate: true
+  xy: 429, 130
+  size: 126, 287
+  orig: 126, 287
+  offset: 0, 0
+  index: -1
+idle_0078
+  rotate: true
+  xy: 140, 256
+  size: 127, 287
+  orig: 127, 287
+  offset: 0, 0
+  index: -1
+idle_0081
+  rotate: true
+  xy: 140, 127
+  size: 127, 287
+  orig: 127, 287
+  offset: 0, 0
+  index: -1
+stand_0000
+  rotate: true
+  xy: 140, 2
+  size: 123, 286
+  orig: 123, 286
+  offset: 0, 0
+  index: -1
+stand_0008
+  rotate: true
+  xy: 718, 131
+  size: 124, 286
+  orig: 124, 286
+  offset: 0, 0
+  index: -1
+stand_0019
+  rotate: true
+  xy: 429, 258
+  size: 125, 288
+  orig: 125, 288
+  offset: 0, 0
+  index: -1

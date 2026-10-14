@@ -1,0 +1,160 @@
+
+tsunade00_texie.png
+size: 1934, 904
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm_1_Q1
+  rotate: true
+  xy: 482, 19
+  size: 274, 292
+  orig: 274, 292
+  offset: 0, 0
+  index: -1
+Arm_1_Q2
+  rotate: true
+  xy: 1299, 441
+  size: 461, 249
+  orig: 461, 249
+  offset: 0, 0
+  index: -1
+Arm_2_Q1
+  rotate: false
+  xy: 946, 33
+  size: 272, 295
+  orig: 272, 295
+  offset: 0, 0
+  index: -1
+Arm_2_Q2
+  rotate: true
+  xy: 1043, 441
+  size: 461, 254
+  orig: 461, 254
+  offset: 0, 0
+  index: -1
+Arm_3_Q1
+  rotate: true
+  xy: 1270, 36
+  size: 403, 203
+  orig: 403, 203
+  offset: 0, 0
+  index: -1
+Arm_4_Q1
+  rotate: true
+  xy: 1475, 36
+  size: 403, 203
+  orig: 403, 203
+  offset: 0, 0
+  index: -1
+Body_1_Q1
+  rotate: false
+  xy: 2, 214
+  size: 429, 688
+  orig: 429, 688
+  offset: 0, 0
+  index: -1
+Cloth_1_Q1
+  rotate: false
+  xy: 691, 330
+  size: 174, 572
+  orig: 174, 572
+  offset: 0, 0
+  index: -1
+Cloth_2_Q1
+  rotate: false
+  xy: 867, 330
+  size: 174, 572
+  orig: 174, 572
+  offset: 0, 0
+  index: -1
+Eye_Q1
+  rotate: false
+  xy: 482, 4
+  size: 169, 13
+  orig: 169, 13
+  offset: 0, 0
+  index: -1
+Eye_Q2
+  rotate: true
+  xy: 1220, 148
+  size: 181, 35
+  orig: 181, 35
+  offset: 0, 0
+  index: -1
+Hair_1_Q1
+  rotate: false
+  xy: 1043, 331
+  size: 225, 108
+  orig: 225, 108
+  offset: 0, 0
+  index: -1
+Hair_2_Q1
+  rotate: false
+  xy: 283, 4
+  size: 197, 208
+  orig: 197, 208
+  offset: 0, 0
+  index: -1
+Hair_3_Q1
+  rotate: false
+  xy: 1550, 509
+  size: 115, 393
+  orig: 115, 393
+  offset: 0, 0
+  index: -1
+Hair_4_Q1
+  rotate: false
+  xy: 1680, 267
+  size: 199, 334
+  orig: 199, 334
+  offset: 0, 0
+  index: -1
+Hair_5_Q1
+  rotate: false
+  xy: 433, 295
+  size: 256, 607
+  orig: 256, 607
+  offset: 0, 0
+  index: -1
+Hand_1_Q1
+  rotate: true
+  xy: 2, 3
+  size: 209, 279
+  orig: 210, 279
+  offset: 0, 0
+  index: -1
+Hand_2_Q1
+  rotate: false
+  xy: 1680, 2
+  size: 194, 263
+  orig: 194, 263
+  offset: 0, 0
+  index: -1
+Hand_Q2
+  rotate: false
+  xy: 776, 2
+  size: 168, 326
+  orig: 168, 326
+  offset: 0, 0
+  index: -1
+Head_1_Q1
+  rotate: true
+  xy: 1667, 603
+  size: 206, 265
+  orig: 206, 265
+  offset: 0, 0
+  index: -1
+Head_2_Q1
+  rotate: false
+  xy: 1680, 811
+  size: 244, 91
+  orig: 244, 91
+  offset: 0, 0
+  index: -1
+Mouth_Q1
+  rotate: false
+  xy: 653, 6
+  size: 56, 11
+  orig: 56, 11
+  offset: 0, 0
+  index: -1

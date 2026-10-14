@@ -1,0 +1,26 @@
+
+xuanguan.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dangqian1
+  rotate: false
+  xy: 2, 2
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+
+xuanguan2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/guangyun
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,467 @@
+
+shikamaru00.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0004
+  rotate: false
+  xy: 741, 816
+  size: 214, 206
+  orig: 214, 206
+  offset: 0, 0
+  index: -1
+attack_0009
+  rotate: true
+  xy: 260, 201
+  size: 146, 245
+  orig: 146, 245
+  offset: 0, 0
+  index: -1
+attack_0012
+  rotate: false
+  xy: 518, 687
+  size: 226, 126
+  orig: 226, 126
+  offset: 0, 0
+  index: -1
+fx_attack_0001
+  rotate: false
+  xy: 260, 555
+  size: 233, 209
+  orig: 233, 209
+  offset: 0, 0
+  index: -1
+fx_attack_0003
+  rotate: true
+  xy: 914, 64
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+fx_flash_00
+  rotate: false
+  xy: 949, 700
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_glow_00
+  rotate: false
+  xy: 949, 634
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_kuwuTrail
+  rotate: false
+  xy: 495, 557
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+fx_skill_1_obj_0
+  rotate: true
+  xy: 957, 766
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+fx_skill_1_obj_1
+  rotate: false
+  xy: 2, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_skill_2_cone1
+  rotate: false
+  xy: 2, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_skill_2_cone2
+  rotate: false
+  xy: 260, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_skill_2_disc
+  rotate: false
+  xy: 2, 250
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hit_0000
+  rotate: false
+  xy: 195, 2
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: false
+  xy: 518, 815
+  size: 221, 207
+  orig: 221, 207
+  offset: 0, 0
+  index: -1
+run_loop_0003
+  rotate: true
+  xy: 669, 355
+  size: 171, 191
+  orig: 171, 191
+  offset: 0, 0
+  index: -1
+run_loop_0006
+  rotate: true
+  xy: 753, 528
+  size: 181, 194
+  orig: 181, 194
+  offset: 0, 0
+  index: -1
+run_loop_0009
+  rotate: false
+  xy: 260, 349
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+run_loop_0012
+  rotate: true
+  xy: 720, 2
+  size: 153, 192
+  orig: 153, 192
+  offset: 0, 0
+  index: -1
+run_loop_0014
+  rotate: false
+  xy: 355, 3
+  size: 150, 196
+  orig: 150, 196
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 862, 361
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+skill_1_0002
+  rotate: true
+  xy: 746, 711
+  size: 103, 200
+  orig: 103, 200
+  offset: 0, 0
+  index: -1
+skill_1_0004
+  rotate: false
+  xy: 889, 158
+  size: 115, 212
+  orig: 115, 212
+  offset: 0, 0
+  index: -1
+skill_1_0010
+  rotate: true
+  xy: 507, 144
+  size: 203, 183
+  orig: 203, 183
+  offset: 0, 0
+  index: -1
+skill_1_0015
+  rotate: true
+  xy: 692, 157
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+skill_1_0021
+  rotate: false
+  xy: 479, 349
+  size: 188, 204
+  orig: 188, 204
+  offset: 0, 0
+  index: -1
+skill_1_0027
+  rotate: false
+  xy: 2, 16
+  size: 191, 232
+  orig: 191, 232
+  offset: 0, 0
+  index: -1
+skill_1_ready_0036
+  rotate: false
+  xy: 862, 372
+  size: 139, 154
+  orig: 139, 154
+  offset: 0, 0
+  index: -1
+skill_2_0034
+  rotate: true
+  xy: 507, 5
+  size: 137, 211
+  orig: 137, 211
+  offset: 0, 0
+  index: -1
+
+shikamaru002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0018
+  rotate: true
+  xy: 139, 2
+  size: 220, 121
+  orig: 220, 121
+  offset: 0, 0
+  index: -1
+attack_0019
+  rotate: true
+  xy: 179, 606
+  size: 218, 122
+  orig: 218, 122
+  offset: 0, 0
+  index: -1
+attack_0025
+  rotate: false
+  xy: 824, 724
+  size: 190, 145
+  orig: 190, 145
+  offset: 0, 0
+  index: -1
+attack_0030
+  rotate: true
+  xy: 824, 871
+  size: 149, 192
+  orig: 149, 192
+  offset: 0, 0
+  index: -1
+fx_attack_0002
+  rotate: false
+  xy: 262, 33
+  size: 91, 190
+  orig: 91, 190
+  offset: 0, 0
+  index: -1
+fx_blood_00
+  rotate: false
+  xy: 355, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_blood_01
+  rotate: false
+  xy: 485, 349
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_000
+  rotate: false
+  xy: 485, 219
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_001
+  rotate: false
+  xy: 485, 89
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_002
+  rotate: false
+  xy: 615, 330
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_003
+  rotate: false
+  xy: 615, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_004
+  rotate: false
+  xy: 745, 330
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_005
+  rotate: false
+  xy: 745, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_006
+  rotate: false
+  xy: 615, 70
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_explosion_fire_0_007
+  rotate: false
+  xy: 745, 70
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_skill_2_tentacle
+  rotate: false
+  xy: 875, 330
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_00_001
+  rotate: false
+  xy: 875, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skill_1_0006
+  rotate: false
+  xy: 2, 637
+  size: 175, 187
+  orig: 175, 187
+  offset: 0, 0
+  index: -1
+skill_1_0014
+  rotate: false
+  xy: 183, 833
+  size: 180, 187
+  orig: 180, 187
+  offset: 0, 0
+  index: -1
+skill_1_0016
+  rotate: false
+  xy: 250, 362
+  size: 174, 176
+  orig: 174, 176
+  offset: 0, 0
+  index: -1
+skill_1_0018
+  rotate: false
+  xy: 2, 450
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+skill_1_0020
+  rotate: false
+  xy: 2, 826
+  size: 179, 194
+  orig: 179, 194
+  offset: 0, 0
+  index: -1
+skill_1_ready_0032
+  rotate: true
+  xy: 250, 225
+  size: 135, 202
+  orig: 135, 202
+  offset: 0, 0
+  index: -1
+skill_2_0001
+  rotate: true
+  xy: 365, 808
+  size: 78, 245
+  orig: 78, 245
+  offset: 0, 0
+  index: -1
+skill_2_0003
+  rotate: false
+  xy: 136, 224
+  size: 112, 224
+  orig: 112, 224
+  offset: 0, 0
+  index: -1
+skill_2_0008
+  rotate: true
+  xy: 744, 592
+  size: 130, 205
+  orig: 130, 205
+  offset: 0, 0
+  index: -1
+skill_2_0012
+  rotate: true
+  xy: 735, 460
+  size: 130, 203
+  orig: 130, 203
+  offset: 0, 0
+  index: -1
+skill_2_0018
+  rotate: true
+  xy: 612, 754
+  size: 132, 210
+  orig: 132, 210
+  offset: 0, 0
+  index: -1
+skill_2_0020
+  rotate: false
+  xy: 2, 4
+  size: 135, 217
+  orig: 135, 217
+  offset: 0, 0
+  index: -1
+skill_2_0023
+  rotate: true
+  xy: 303, 540
+  size: 132, 217
+  orig: 132, 217
+  offset: 0, 0
+  index: -1
+skill_2_0025
+  rotate: true
+  xy: 529, 618
+  size: 134, 213
+  orig: 134, 213
+  offset: 0, 0
+  index: -1
+skill_2_0037
+  rotate: true
+  xy: 522, 479
+  size: 137, 211
+  orig: 137, 211
+  offset: 0, 0
+  index: -1
+standby_loop_0057
+  rotate: true
+  xy: 365, 888
+  size: 132, 228
+  orig: 132, 228
+  offset: 0, 0
+  index: -1
+standby_loop_0063
+  rotate: true
+  xy: 595, 888
+  size: 132, 227
+  orig: 132, 227
+  offset: 0, 0
+  index: -1
+standby_loop_0067
+  rotate: false
+  xy: 2, 223
+  size: 132, 225
+  orig: 132, 225
+  offset: 0, 0
+  index: -1
+standby_loop_0070
+  rotate: true
+  xy: 303, 674
+  size: 132, 224
+  orig: 132, 224
+  offset: 0, 0
+  index: -1

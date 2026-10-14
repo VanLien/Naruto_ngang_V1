@@ -1,0 +1,6 @@
+﻿VariableName,cd,dailyChallengeLimit,dailyCountLimit,gateLibID,huodongID,res,staminaWeightMax,staminaWeightMin
+Defaults,0,0,0,,0,,0,0
+ID,cd,dailyChallengeLimit,dailyCountLimit,gateLibID,huodongID,res,staminaWeightMax,staminaWeightMin
+1,60,10,5,2020,2020,,0.015,0.005
+2,60,10,5,2021,2021,,0.015,0.005
+3,60,10,5,2022,2022,,0.015,0.005

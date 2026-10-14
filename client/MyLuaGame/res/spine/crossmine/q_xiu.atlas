@@ -1,0 +1,146 @@
+
+q_xiu.png
+size: 475,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 164, 23
+  size: 55, 23
+  orig: 56, 24
+  offset: 1, 0
+  index: -1
+koudai1
+  rotate: false
+  xy: 451, 20
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+koudai2
+  rotate: false
+  xy: 344, 12
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 189, 26
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+lalian
+  rotate: false
+  xy: 413, 1
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 276, 1
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 382, 6
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 103, 1
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 224, 30
+  size: 48, 44
+  orig: 50, 44
+  offset: 2, 0
+  index: -1
+tou
+  rotate: true
+  xy: 103, 17
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 1, 5
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 270, 31
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: true
+  xy: 172, 2
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+y_yanjin
+  rotate: true
+  xy: 323, 6
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 358, 38
+  size: 116, 40
+  orig: 116, 43
+  offset: 0, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 242, 5
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: false
+  xy: 225, 1
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+z_shoubi
+  rotate: true
+  xy: 413, 18
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+z_yanjin
+  rotate: true
+  xy: 154, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 358, 4
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

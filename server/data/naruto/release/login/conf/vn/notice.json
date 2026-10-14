@@ -1,0 +1,35 @@
+{
+  "activity": [
+    {
+      "content": [
+        {
+          "content": "Máy chủ sẽ được mở lúc 19h hàng ngày, nhẫn giả chú ý theo dõi!",
+          "title": "Chính Thức Ra Mắt"
+        },
+        {
+          "content": "Thật là mạnh mẽ những chiến binh cao cả!",
+          "title": "Mừng Game Ra Mắt"
+        }
+      ],
+      "id": 100,
+      "titlebar": "Thông Báo"
+    }
+  ],
+  "banner": [
+    "login/img_banner_02@.png",
+    "login/img_banner_03@.png",
+    "login/img_banner_01@.png"
+  ],
+  "caution": [
+    {
+      "content": "Vấn đề quan trọng nhẫn giả cần lưu ý khi vào Game",
+      "title": "Cảnh Báo Lừa Đảo"
+    }
+  ],
+  "update": [
+    {
+      "content": "Phiên bản với những cập nhật mới nhất, chuẩn nguyên tác game",
+      "title": "Nội Dung Phiên Bản"
+    }
+  ]
+}

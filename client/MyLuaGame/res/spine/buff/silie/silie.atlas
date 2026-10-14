@@ -1,0 +1,27 @@
+
+silie.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/liuxue
+  rotate: false
+  xy: 2, 53
+  size: 142, 73
+  orig: 142, 73
+  offset: 0, 0
+  index: -1
+images/x1
+  rotate: true
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+images/x2
+  rotate: false
+  xy: 2, 15
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1

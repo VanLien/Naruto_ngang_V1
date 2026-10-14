@@ -1,0 +1,558 @@
+
+sasuke00.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0003
+  rotate: true
+  xy: 487, 693
+  size: 167, 216
+  orig: 167, 216
+  offset: 0, 0
+  index: -1
+attack_0004
+  rotate: true
+  xy: 713, 845
+  size: 177, 216
+  orig: 177, 216
+  offset: 0, 0
+  index: -1
+attack_0005
+  rotate: true
+  xy: 228, 675
+  size: 179, 210
+  orig: 179, 210
+  offset: 0, 0
+  index: -1
+attack_0006
+  rotate: true
+  xy: 182, 3
+  size: 162, 185
+  orig: 162, 185
+  offset: 0, 0
+  index: -1
+fx_attack_0002
+  rotate: true
+  xy: 899, 549
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+fx_attack_0003
+  rotate: false
+  xy: 931, 906
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+fx_attack_0004
+  rotate: false
+  xy: 917, 776
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+fx_fire_0_000
+  rotate: false
+  xy: 899, 515
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_001
+  rotate: false
+  xy: 899, 481
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_002
+  rotate: false
+  xy: 864, 468
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_003
+  rotate: false
+  xy: 898, 447
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_004
+  rotate: false
+  xy: 864, 434
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_005
+  rotate: false
+  xy: 990, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_006
+  rotate: false
+  xy: 402, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_0_007
+  rotate: false
+  xy: 402, 236
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_fire_2_000
+  rotate: true
+  xy: 440, 726
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_fire_2_001
+  rotate: true
+  xy: 440, 596
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_fire_2_002
+  rotate: false
+  xy: 200, 174
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_fire_2_003
+  rotate: false
+  xy: 330, 174
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_fire_2_004
+  rotate: true
+  xy: 880, 50
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_fire_2_005
+  rotate: false
+  xy: 880, 6
+  size: 128, 42
+  orig: 128, 42
+  offset: 0, 0
+  index: -1
+fx_flashPoint_0
+  rotate: false
+  xy: 405, 370
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_glow_0
+  rotate: false
+  xy: 820, 362
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_lightning_0_000
+  rotate: false
+  xy: 931, 819
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_001
+  rotate: false
+  xy: 917, 689
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_002
+  rotate: false
+  xy: 917, 602
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_003
+  rotate: false
+  xy: 935, 515
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_004
+  rotate: false
+  xy: 935, 428
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_005
+  rotate: false
+  xy: 935, 275
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_006
+  rotate: false
+  xy: 935, 188
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_0_007
+  rotate: false
+  xy: 935, 101
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+fx_lightning_trail_0
+  rotate: false
+  xy: 2, 922
+  size: 256, 100
+  orig: 256, 100
+  offset: 0, 0
+  index: -1
+fx_lightning_trail_1
+  rotate: true
+  xy: 408, 436
+  size: 158, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+fx_smoke_0_000
+  rotate: true
+  xy: 886, 362
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+fx_smoke_0_001
+  rotate: true
+  xy: 930, 362
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+fx_smoke_0_002
+  rotate: true
+  xy: 974, 362
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+fx_smoke_0_003
+  rotate: true
+  xy: 820, 436
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+fx_smoke_0_004
+  rotate: false
+  xy: 924, 57
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+fx_smoke_0_005
+  rotate: true
+  xy: 402, 304
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+hit_0002
+  rotate: true
+  xy: 695, 502
+  size: 147, 202
+  orig: 147, 202
+  offset: 0, 0
+  index: -1
+hit_0015
+  rotate: true
+  xy: 2, 457
+  size: 126, 200
+  orig: 126, 200
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: false
+  xy: 705, 651
+  size: 210, 192
+  orig: 210, 192
+  offset: 0, 0
+  index: -1
+run_loop_0003
+  rotate: false
+  xy: 769, 180
+  size: 164, 179
+  orig: 164, 179
+  offset: 0, 0
+  index: -1
+run_loop_0007
+  rotate: false
+  xy: 2, 585
+  size: 201, 166
+  orig: 201, 166
+  offset: 0, 0
+  index: -1
+run_loop_0009
+  rotate: false
+  xy: 484, 503
+  size: 209, 188
+  orig: 209, 188
+  offset: 0, 0
+  index: -1
+run_loop_0012
+  rotate: false
+  xy: 616, 176
+  size: 151, 180
+  orig: 151, 180
+  offset: 0, 0
+  index: -1
+skill1_0005
+  rotate: false
+  xy: 460, 174
+  size: 154, 182
+  orig: 154, 182
+  offset: 0, 0
+  index: -1
+skill1_0011
+  rotate: true
+  xy: 203, 218
+  size: 155, 197
+  orig: 155, 197
+  offset: 0, 0
+  index: -1
+skill1_0013
+  rotate: true
+  xy: 204, 375
+  size: 154, 199
+  orig: 154, 199
+  offset: 0, 0
+  index: -1
+skill1_0014
+  rotate: true
+  xy: 369, 2
+  size: 170, 189
+  orig: 170, 189
+  offset: 0, 0
+  index: -1
+skill2_0000
+  rotate: false
+  xy: 683, 361
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+skill2_0004
+  rotate: true
+  xy: 723, 5
+  size: 169, 155
+  orig: 169, 155
+  offset: 0, 0
+  index: -1
+skill2_0007
+  rotate: false
+  xy: 2, 2
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+skill2_0010
+  rotate: true
+  xy: 560, 2
+  size: 170, 161
+  orig: 170, 161
+  offset: 0, 0
+  index: -1
+skill2_0015
+  rotate: false
+  xy: 2, 753
+  size: 224, 167
+  orig: 224, 167
+  offset: 0, 0
+  index: -1
+skill2_0018
+  rotate: false
+  xy: 260, 856
+  size: 225, 166
+  orig: 225, 166
+  offset: 0, 0
+  index: -1
+skill2_0027
+  rotate: false
+  xy: 487, 862
+  size: 224, 160
+  orig: 224, 160
+  offset: 0, 0
+  index: -1
+standby_loop_0004
+  rotate: true
+  xy: 2, 312
+  size: 143, 199
+  orig: 143, 199
+  offset: 0, 0
+  index: -1
+standby_loop_0012
+  rotate: true
+  xy: 2, 167
+  size: 143, 196
+  orig: 143, 196
+  offset: 0, 0
+  index: -1
+standby_loop_0025
+  rotate: true
+  xy: 483, 358
+  size: 143, 198
+  orig: 143, 198
+  offset: 0, 0
+  index: -1
+standby_loop_0037
+  rotate: true
+  xy: 205, 531
+  size: 142, 201
+  orig: 142, 201
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 228, 911
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+
+sasuke002.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0010
+  rotate: false
+  xy: 339, 6
+  size: 162, 168
+  orig: 162, 168
+  offset: 0, 0
+  index: -1
+attack_0016
+  rotate: true
+  xy: 163, 2
+  size: 151, 174
+  orig: 151, 174
+  offset: 0, 0
+  index: -1
+attack_0019
+  rotate: true
+  xy: 775, 366
+  size: 144, 193
+  orig: 144, 193
+  offset: 0, 0
+  index: -1
+fx_flashCircle_0
+  rotate: false
+  xy: 2, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_glow_HalfBall
+  rotate: false
+  xy: 639, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steam_2
+  rotate: false
+  xy: 672, 66
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+run_loop_0014
+  rotate: false
+  xy: 163, 155
+  size: 147, 179
+  orig: 147, 179
+  offset: 0, 0
+  index: -1
+skill1_0002
+  rotate: true
+  xy: 382, 366
+  size: 144, 194
+  orig: 144, 194
+  offset: 0, 0
+  index: -1
+skill1_0009
+  rotate: false
+  xy: 2, 146
+  size: 159, 188
+  orig: 159, 188
+  offset: 0, 0
+  index: -1
+skill1_0023
+  rotate: true
+  xy: 503, 19
+  size: 168, 167
+  orig: 168, 167
+  offset: 0, 0
+  index: -1
+skill1_0024
+  rotate: false
+  xy: 769, 196
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+skill1_0028
+  rotate: false
+  xy: 312, 176
+  size: 158, 179
+  orig: 158, 179
+  offset: 0, 0
+  index: -1
+skill2_0002
+  rotate: false
+  xy: 190, 357
+  size: 190, 153
+  orig: 190, 153
+  offset: 0, 0
+  index: -1
+skill2_0012
+  rotate: false
+  xy: 472, 189
+  size: 165, 175
+  orig: 165, 175
+  offset: 0, 0
+  index: -1
+skill2_0032
+  rotate: false
+  xy: 2, 336
+  size: 186, 174
+  orig: 186, 174
+  offset: 0, 0
+  index: -1
+standby_loop_0016
+  rotate: true
+  xy: 578, 367
+  size: 143, 195
+  orig: 143, 195
+  offset: 0, 0
+  index: -1

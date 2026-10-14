@@ -1,0 +1,220 @@
+
+gaara01_sk2.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/zha 4_0
+  rotate: false
+  xy: 2, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_1
+  rotate: false
+  xy: 454, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_2
+  rotate: false
+  xy: 906, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_3
+  rotate: false
+  xy: 1358, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_4
+  rotate: false
+  xy: 1810, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_5
+  rotate: false
+  xy: 2262, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_6
+  rotate: false
+  xy: 2714, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+images/effect1/zha 4_7
+  rotate: false
+  xy: 3166, 2
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+
+gaara01_sk22.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/di/di_39
+  rotate: false
+  xy: 2, 2
+  size: 480, 160
+  orig: 480, 160
+  offset: 0, 0
+  index: -1
+
+gaara01_sk23.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/dibo/dibo_17
+  rotate: false
+  xy: 2, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_19
+  rotate: false
+  xy: 2, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_21
+  rotate: false
+  xy: 404, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_23
+  rotate: false
+  xy: 2, 2
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_25
+  rotate: false
+  xy: 404, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_27
+  rotate: false
+  xy: 806, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_29
+  rotate: false
+  xy: 404, 2
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_31
+  rotate: false
+  xy: 806, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_33
+  rotate: false
+  xy: 1208, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_35
+  rotate: false
+  xy: 806, 2
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_37
+  rotate: false
+  xy: 1208, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_39
+  rotate: false
+  xy: 1610, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_41
+  rotate: false
+  xy: 1208, 2
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_43
+  rotate: false
+  xy: 1610, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_45
+  rotate: false
+  xy: 2012, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_47
+  rotate: false
+  xy: 1610, 2
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_49
+  rotate: false
+  xy: 2012, 164
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+images/effect1/dibo/dibo_51
+  rotate: false
+  xy: 2414, 326
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+
+gaara01_sk24.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/heiping/hp_77
+  rotate: false
+  xy: 2, 2
+  size: 108, 51
+  orig: 108, 51
+  offset: 0, 0
+  index: -1

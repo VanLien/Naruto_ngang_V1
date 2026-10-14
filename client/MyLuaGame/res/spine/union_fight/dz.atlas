@@ -1,0 +1,48 @@
+
+dz.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 2, 2
+  size: 190, 188
+  orig: 190, 188
+  offset: 0, 0
+  index: -1
+shouji21
+  rotate: false
+  xy: 851, 121
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+shouji22
+  rotate: false
+  xy: 611, 68
+  size: 161, 122
+  orig: 161, 122
+  offset: 0, 0
+  index: -1
+shouji23
+  rotate: false
+  xy: 194, 27
+  size: 200, 163
+  orig: 200, 163
+  offset: 0, 0
+  index: -1
+shouji24
+  rotate: false
+  xy: 396, 88
+  size: 213, 102
+  orig: 213, 102
+  offset: 0, 0
+  index: -1
+xiaojian
+  rotate: false
+  xy: 774, 101
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1

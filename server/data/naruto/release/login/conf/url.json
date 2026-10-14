@@ -1,0 +1,4 @@
+{
+	"check": "http://180.93.98.5/package/check",
+	"buy": "http://180.93.98.5/package/buy"
+}

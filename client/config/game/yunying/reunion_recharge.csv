@@ -1,0 +1,42 @@
+﻿VariableName,huodongID,item,limitNum,limitType,name,rechargeID,res
+Defaults,0,{},,,,-1,
+ID,huodongID,item,limitNum,limitType,name,rechargeID,res
+1,101016,{stamina=100;gold=50000;rmb=60},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+2,101016,{100=5;930=10;501=3},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+3,101016,{19=10;gold=100000;rmb=300},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+4,101016,{519=10;13=20;gold=100000},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+5,101016,{519=20;13=30;gold=200000},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+6,101017,{stamina=100;gold=50000;rmb=60},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+7,101017,{100=5;930=10;501=3},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+8,101017,{19=10;gold=100000;rmb=300},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+9,101017,{519=10;gold=100000},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+10,101017,{519=20;gold=200000},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+11,101018,{stamina=100;gold=50000;rmb=60},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+12,101018,{100=5;930=10;501=3},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+13,101018,{19=10;13=10;rmb=300},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+14,101018,{519=10;13=20;gold=100000},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+15,101018,{519=20;13=30;gold=200000},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+101,1001,{stamina=100;rmb=180;503=1},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+102,1001,{518=5;gold=1000000;rmb=600},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+103,1001,{502=20;gold=50000;rmb=1960},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+104,1001,{519=20;rmb=3280},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+105,1001,{2103=60;rmb=4880;942=1},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+106,1001,{502=50;gold=300000;rmb=4880},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+201,1002,{stamina=100;rmb=180;503=1},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+202,1002,{518=5;gold=1000000;rmb=600},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+203,1002,{502=20;gold=50000;rmb=1960},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+204,1002,{519=20;rmb=3280},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+205,1002,{2103=60;rmb=4880;942=1},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+206,1002,{502=50;gold=300000;rmb=4880},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+301,1003,{stamina=100;rmb=180;503=1},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+302,1003,{518=5;gold=1000000;rmb=600},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+303,1003,{502=20;gold=50000;rmb=1960},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+304,1003,{519=20;rmb=3280},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+305,1003,{2103=60;rmb=4880;942=1},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+306,1003,{502=50;gold=300000;rmb=4880},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+401,1004,{stamina=100;rmb=180;503=1},1,2,Gói Người Chơi Trở Lại,102,activity/direct_gift/icon_tongyonglibao.png
+402,1004,{518=5;gold=1000000;rmb=600},1,2,Gói Người Chơi Trở Lại,106,activity/direct_gift/icon_tongyonglibao.png
+403,1004,{502=20;gold=50000;rmb=1960},1,2,Gói Người Chơi Trở Lại,108,activity/direct_gift/icon_tongyonglibao.png
+404,1004,{519=20;rmb=3280},1,2,Gói Người Chơi Trở Lại,111,activity/direct_gift/icon_tongyonglibao.png
+405,1004,{2103=60;rmb=4880;942=1},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png
+406,1004,{502=50;gold=300000;rmb=4880},1,2,Gói Người Chơi Trở Lại,112,activity/direct_gift/icon_tongyonglibao.png

@@ -1,0 +1,822 @@
+
+hinata00.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0012
+  rotate: false
+  xy: 385, 2
+  size: 178, 196
+  orig: 178, 196
+  offset: 0, 0
+  index: -1
+attack_0020
+  rotate: true
+  xy: 705, 202
+  size: 94, 222
+  orig: 94, 222
+  offset: 0, 0
+  index: -1
+attack_0026
+  rotate: true
+  xy: 495, 200
+  size: 96, 208
+  orig: 96, 208
+  offset: 0, 0
+  index: -1
+fx_attack_0001
+  rotate: true
+  xy: 911, 11
+  size: 61, 110
+  orig: 61, 110
+  offset: 0, 0
+  index: -1
+fx_circle_1
+  rotate: false
+  xy: 2, 713
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_circle_glow_01
+  rotate: false
+  xy: 413, 697
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_circle_glow_02
+  rotate: false
+  xy: 2, 455
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0005
+  rotate: true
+  xy: 413, 556
+  size: 139, 166
+  orig: 139, 166
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0008
+  rotate: false
+  xy: 899, 521
+  size: 123, 24
+  orig: 123, 24
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0008
+  rotate: false
+  xy: 899, 365
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0010
+  rotate: false
+  xy: 911, 74
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0013
+  rotate: true
+  xy: 325, 567
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0024
+  rotate: false
+  xy: 260, 559
+  size: 63, 96
+  orig: 63, 96
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0025
+  rotate: true
+  xy: 743, 955
+  size: 67, 268
+  orig: 67, 268
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0026
+  rotate: true
+  xy: 413, 955
+  size: 67, 328
+  orig: 67, 328
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0027
+  rotate: false
+  xy: 929, 202
+  size: 91, 161
+  orig: 91, 161
+  offset: 0, 0
+  index: -1
+fx_star_02
+  rotate: false
+  xy: 671, 697
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_swirl_0
+  rotate: false
+  xy: 2, 197
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_swirl_1
+  rotate: false
+  xy: 260, 298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_trail_3
+  rotate: false
+  xy: 518, 298
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+fx_trail_4
+  rotate: false
+  xy: 2, 971
+  size: 409, 51
+  orig: 409, 51
+  offset: 0, 0
+  index: -1
+fx_trail_5
+  rotate: true
+  xy: 648, 298
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: false
+  xy: 565, 2
+  size: 171, 196
+  orig: 171, 196
+  offset: 0, 0
+  index: -1
+run_loop_0003
+  rotate: false
+  xy: 132, 3
+  size: 125, 192
+  orig: 125, 192
+  offset: 0, 0
+  index: -1
+run_loop_0012
+  rotate: false
+  xy: 2, 3
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1013, 997
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+skill_1_0006
+  rotate: true
+  xy: 778, 547
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+skill_1_0015
+  rotate: false
+  xy: 260, 790
+  size: 151, 179
+  orig: 151, 179
+  offset: 0, 0
+  index: -1
+skill_1_0046
+  rotate: true
+  xy: 581, 569
+  size: 126, 195
+  orig: 126, 195
+  offset: 0, 0
+  index: -1
+skill_2_before_0009
+  rotate: false
+  xy: 929, 741
+  size: 92, 212
+  orig: 92, 212
+  offset: 0, 0
+  index: -1
+skill_2_hit_0026
+  rotate: false
+  xy: 259, 4
+  size: 124, 191
+  orig: 124, 191
+  offset: 0, 0
+  index: -1
+skill_2_hit_0038
+  rotate: true
+  xy: 260, 200
+  size: 96, 233
+  orig: 96, 233
+  offset: 0, 0
+  index: -1
+skill_2_hit_0061
+  rotate: false
+  xy: 738, 2
+  size: 171, 198
+  orig: 171, 198
+  offset: 0, 0
+  index: -1
+skill_2_hit_0145
+  rotate: false
+  xy: 260, 657
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+skill_2_hit_0150
+  rotate: true
+  xy: 929, 556
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0002
+  rotate: false
+  xy: 778, 300
+  size: 119, 245
+  orig: 119, 245
+  offset: 0, 0
+  index: -1
+
+hinata002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0009
+  rotate: false
+  xy: 809, 358
+  size: 179, 199
+  orig: 179, 199
+  offset: 0, 0
+  index: -1
+attack_0015
+  rotate: false
+  xy: 414, 330
+  size: 127, 221
+  orig: 127, 221
+  offset: 0, 0
+  index: -1
+fx_attack_0002
+  rotate: true
+  xy: 855, 708
+  size: 178, 165
+  orig: 178, 165
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0001
+  rotate: true
+  xy: 855, 888
+  size: 134, 167
+  orig: 134, 167
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0002
+  rotate: false
+  xy: 549, 2
+  size: 126, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_fill
+  rotate: false
+  xy: 2, 782
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_mesh_0
+  rotate: false
+  xy: 648, 818
+  size: 205, 204
+  orig: 205, 204
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_mesh_1
+  rotate: true
+  xy: 2, 129
+  size: 205, 204
+  orig: 205, 204
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_mesh_2
+  rotate: false
+  xy: 207, 347
+  size: 205, 204
+  orig: 205, 204
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_mesh_3
+  rotate: false
+  xy: 208, 141
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0011
+  rotate: false
+  xy: 975, 247
+  size: 47, 109
+  orig: 47, 109
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0017
+  rotate: false
+  xy: 208, 2
+  size: 184, 137
+  orig: 184, 137
+  offset: 0, 0
+  index: -1
+run_loop_0009
+  rotate: false
+  xy: 809, 159
+  size: 164, 197
+  orig: 164, 197
+  offset: 0, 0
+  index: -1
+skill_1_0008
+  rotate: true
+  xy: 677, 702
+  size: 114, 176
+  orig: 114, 176
+  offset: 0, 0
+  index: -1
+skill_1_0011
+  rotate: true
+  xy: 394, 2
+  size: 137, 153
+  orig: 137, 153
+  offset: 0, 0
+  index: -1
+skill_1_0021
+  rotate: true
+  xy: 414, 141
+  size: 187, 158
+  orig: 187, 158
+  offset: 0, 0
+  index: -1
+skill_2_before_0019
+  rotate: false
+  xy: 543, 338
+  size: 100, 219
+  orig: 100, 219
+  offset: 0, 0
+  index: -1
+skill_2_before_0024
+  rotate: true
+  xy: 210, 553
+  size: 168, 221
+  orig: 168, 221
+  offset: 0, 0
+  index: -1
+skill_2_before_0029
+  rotate: false
+  xy: 452, 801
+  size: 194, 221
+  orig: 194, 221
+  offset: 0, 0
+  index: -1
+skill_2_before_0034
+  rotate: false
+  xy: 2, 336
+  size: 203, 221
+  orig: 203, 221
+  offset: 0, 0
+  index: -1
+skill_2_before_0039
+  rotate: false
+  xy: 2, 559
+  size: 206, 221
+  orig: 206, 221
+  offset: 0, 0
+  index: -1
+skill_2_before_0044
+  rotate: false
+  xy: 244, 801
+  size: 206, 221
+  orig: 206, 221
+  offset: 0, 0
+  index: -1
+skill_2_hit_0049
+  rotate: false
+  xy: 702, 130
+  size: 105, 216
+  orig: 105, 216
+  offset: 0, 0
+  index: -1
+skill_2_hit_0056
+  rotate: false
+  xy: 645, 348
+  size: 162, 209
+  orig: 162, 209
+  offset: 0, 0
+  index: -1
+skill_2_hit_0140
+  rotate: false
+  xy: 880, 5
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1
+skill_2_hit_0155
+  rotate: true
+  xy: 244, 723
+  size: 76, 252
+  orig: 76, 252
+  offset: 0, 0
+  index: -1
+skill_2_hit_0200
+  rotate: true
+  xy: 498, 692
+  size: 107, 177
+  orig: 107, 177
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0005
+  rotate: false
+  xy: 433, 559
+  size: 198, 131
+  orig: 198, 131
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0008
+  rotate: false
+  xy: 794, 559
+  size: 201, 141
+  orig: 201, 141
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0012
+  rotate: true
+  xy: 633, 559
+  size: 131, 159
+  orig: 131, 159
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0018
+  rotate: true
+  xy: 2, 2
+  size: 125, 183
+  orig: 125, 183
+  offset: 0, 0
+  index: -1
+standby_loop_0017
+  rotate: false
+  xy: 574, 141
+  size: 126, 195
+  orig: 126, 195
+  offset: 0, 0
+  index: -1
+standby_loop_0035
+  rotate: true
+  xy: 677, 2
+  size: 126, 201
+  orig: 126, 201
+  offset: 0, 0
+  index: -1
+
+hinata003.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0001
+  rotate: false
+  xy: 510, 545
+  size: 152, 160
+  orig: 152, 160
+  offset: 0, 0
+  index: -1
+attack_0002
+  rotate: false
+  xy: 557, 132
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+attack_0006
+  rotate: false
+  xy: 2, 840
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1
+attack_0028
+  rotate: false
+  xy: 910, 818
+  size: 106, 204
+  orig: 106, 204
+  offset: 0, 0
+  index: -1
+fx_attack_0003
+  rotate: true
+  xy: 2, 640
+  size: 198, 154
+  orig: 198, 154
+  offset: 0, 0
+  index: -1
+fx_attack_0004
+  rotate: true
+  xy: 2, 240
+  size: 190, 145
+  orig: 190, 145
+  offset: 0, 0
+  index: -1
+fx_attack_0005
+  rotate: false
+  xy: 695, 393
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: -1
+fx_circle_0
+  rotate: false
+  xy: 557, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_glow_0
+  rotate: false
+  xy: 687, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0003
+  rotate: true
+  xy: 812, 412
+  size: 151, 118
+  orig: 151, 118
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0004
+  rotate: false
+  xy: 394, 268
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0006
+  rotate: false
+  xy: 355, 707
+  size: 173, 154
+  orig: 173, 154
+  offset: 0, 0
+  index: -1
+fx_skill_1_roleTrail_0007
+  rotate: false
+  xy: 530, 707
+  size: 164, 153
+  orig: 164, 153
+  offset: 0, 0
+  index: -1
+fx_skill_2_ball_glow
+  rotate: false
+  xy: 704, 180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0009
+  rotate: true
+  xy: 823, 277
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0014
+  rotate: false
+  xy: 174, 843
+  size: 173, 179
+  orig: 173, 179
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0015
+  rotate: true
+  xy: 927, 566
+  size: 184, 73
+  orig: 184, 73
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0016
+  rotate: true
+  xy: 497, 89
+  size: 177, 58
+  orig: 177, 58
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0018
+  rotate: false
+  xy: 897, 752
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+fx_skill_2_roleTrail_0023
+  rotate: false
+  xy: 932, 431
+  size: 75, 133
+  orig: 75, 133
+  offset: 0, 0
+  index: -1
+fx_speedSteam_0
+  rotate: false
+  xy: 823, 147
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_trailSteam_0_0
+  rotate: false
+  xy: 817, 17
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit_0000
+  rotate: false
+  xy: 2, 49
+  size: 143, 189
+  orig: 143, 189
+  offset: 0, 0
+  index: -1
+run_loop_0006
+  rotate: false
+  xy: 148, 433
+  size: 113, 187
+  orig: 113, 187
+  offset: 0, 0
+  index: -1
+run_loop_0015
+  rotate: false
+  xy: 277, 242
+  size: 115, 190
+  orig: 115, 190
+  offset: 0, 0
+  index: -1
+skill_1_0001
+  rotate: false
+  xy: 147, 52
+  size: 134, 180
+  orig: 134, 180
+  offset: 0, 0
+  index: -1
+skill_1_0002
+  rotate: false
+  xy: 782, 565
+  size: 143, 162
+  orig: 143, 162
+  offset: 0, 0
+  index: -1
+skill_1_0010
+  rotate: false
+  xy: 532, 287
+  size: 143, 164
+  orig: 143, 164
+  offset: 0, 0
+  index: -1
+skill_1_0013
+  rotate: true
+  xy: 356, 441
+  size: 100, 172
+  orig: 100, 172
+  offset: 0, 0
+  index: -1
+skill_1_0018
+  rotate: false
+  xy: 349, 863
+  size: 189, 159
+  orig: 189, 159
+  offset: 0, 0
+  index: -1
+skill_1_0024
+  rotate: false
+  xy: 540, 862
+  size: 185, 160
+  orig: 185, 160
+  offset: 0, 0
+  index: -1
+skill_1_0028
+  rotate: false
+  xy: 727, 857
+  size: 181, 165
+  orig: 181, 165
+  offset: 0, 0
+  index: -1
+skill_1_0036
+  rotate: false
+  xy: 283, 64
+  size: 133, 176
+  orig: 133, 176
+  offset: 0, 0
+  index: -1
+skill_2_before_0015
+  rotate: false
+  xy: 158, 622
+  size: 88, 216
+  orig: 88, 216
+  offset: 0, 0
+  index: -1
+skill_2_hit_0030
+  rotate: false
+  xy: 664, 545
+  size: 116, 160
+  orig: 116, 160
+  offset: 0, 0
+  index: -1
+skill_2_hit_0032
+  rotate: true
+  xy: 530, 453
+  size: 90, 163
+  orig: 90, 163
+  offset: 0, 0
+  index: -1
+skill_2_hit_0035
+  rotate: false
+  xy: 263, 434
+  size: 91, 202
+  orig: 91, 202
+  offset: 0, 0
+  index: -1
+skill_2_hit_0059
+  rotate: false
+  xy: 248, 638
+  size: 105, 203
+  orig: 105, 203
+  offset: 0, 0
+  index: -1
+skill_2_hit_0064
+  rotate: false
+  xy: 418, 64
+  size: 77, 202
+  orig: 77, 202
+  offset: 0, 0
+  index: -1
+skill_2_hit_0066
+  rotate: false
+  xy: 2, 432
+  size: 144, 206
+  orig: 144, 206
+  offset: 0, 0
+  index: -1
+skill_2_hit_0129
+  rotate: false
+  xy: 356, 543
+  size: 152, 162
+  orig: 152, 162
+  offset: 0, 0
+  index: -1
+skill_2_terminate_0016
+  rotate: false
+  xy: 704, 246
+  size: 117, 145
+  orig: 117, 145
+  offset: 0, 0
+  index: -1
+standby_loop_0021
+  rotate: false
+  xy: 149, 234
+  size: 126, 197
+  orig: 126, 197
+  offset: 0, 0
+  index: -1
+standby_loop_0026
+  rotate: true
+  xy: 696, 729
+  size: 126, 199
+  orig: 126, 199
+  offset: 0, 0
+  index: -1
+
+hinata004.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_trailSteam_0_1
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

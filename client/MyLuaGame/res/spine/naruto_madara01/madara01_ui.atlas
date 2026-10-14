@@ -1,0 +1,300 @@
+
+madara01_ui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daitu_biyan
+  rotate: true
+  xy: 1076, 26
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+daitu_body1
+  rotate: false
+  xy: 1493, 102
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+daitu_body10
+  rotate: true
+  xy: 1624, 477
+  size: 33, 275
+  orig: 33, 275
+  offset: 0, 0
+  index: -1
+daitu_body11
+  rotate: false
+  xy: 1493, 222
+  size: 219, 130
+  orig: 219, 130
+  offset: 0, 0
+  index: -1
+daitu_body12
+  rotate: false
+  xy: 654, 230
+  size: 265, 280
+  orig: 265, 280
+  offset: 0, 0
+  index: -1
+daitu_body13
+  rotate: false
+  xy: 1624, 354
+  size: 223, 121
+  orig: 223, 121
+  offset: 0, 0
+  index: -1
+daitu_body14
+  rotate: true
+  xy: 942, 70
+  size: 161, 261
+  orig: 161, 261
+  offset: 0, 0
+  index: -1
+daitu_body15
+  rotate: false
+  xy: 654, 99
+  size: 286, 129
+  orig: 286, 129
+  offset: 0, 0
+  index: -1
+daitu_body16
+  rotate: true
+  xy: 506, 4
+  size: 108, 144
+  orig: 108, 144
+  offset: 0, 0
+  index: -1
+daitu_body17
+  rotate: true
+  xy: 921, 233
+  size: 150, 277
+  orig: 150, 277
+  offset: 0, 0
+  index: -1
+daitu_body18
+  rotate: false
+  xy: 1926, 429
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+daitu_body19
+  rotate: false
+  xy: 1714, 124
+  size: 194, 104
+  orig: 194, 104
+  offset: 0, 0
+  index: -1
+daitu_body2
+  rotate: true
+  xy: 1714, 230
+  size: 122, 189
+  orig: 122, 189
+  offset: 0, 0
+  index: -1
+daitu_body20
+  rotate: true
+  xy: 1247, 427
+  size: 38, 293
+  orig: 38, 293
+  offset: 0, 0
+  index: -1
+daitu_body21
+  rotate: true
+  xy: 921, 385
+  size: 125, 324
+  orig: 125, 324
+  offset: 0, 0
+  index: -1
+daitu_body3
+  rotate: false
+  xy: 1926, 386
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+daitu_body4
+  rotate: true
+  xy: 1035, 2
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+daitu_body5
+  rotate: false
+  xy: 1247, 309
+  size: 226, 116
+  orig: 226, 116
+  offset: 0, 0
+  index: -1
+daitu_body6
+  rotate: false
+  xy: 942, 2
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+daitu_body7
+  rotate: true
+  xy: 1247, 467
+  size: 43, 375
+  orig: 43, 375
+  offset: 0, 0
+  index: -1
+daitu_body8
+  rotate: true
+  xy: 811, 55
+  size: 42, 129
+  orig: 42, 129
+  offset: 0, 0
+  index: -1
+daitu_body9
+  rotate: false
+  xy: 1385, 101
+  size: 106, 206
+  orig: 106, 206
+  offset: 0, 0
+  index: -1
+daitu_dao
+  rotate: true
+  xy: 2, 9
+  size: 38, 331
+  orig: 38, 331
+  offset: 0, 0
+  index: -1
+daitu_gunzi
+  rotate: true
+  xy: 2, 49
+  size: 26, 395
+  orig: 26, 395
+  offset: 0, 0
+  index: -1
+daitu_qianshou1
+  rotate: false
+  xy: 1205, 101
+  size: 178, 206
+  orig: 178, 206
+  offset: 0, 0
+  index: -1
+daitu_qianshou2
+  rotate: true
+  xy: 811, 7
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+daitu_qianshou3
+  rotate: false
+  xy: 1475, 356
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+daitu_qianshou4
+  rotate: true
+  xy: 1205, 72
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+daitu_qianshou5
+  rotate: true
+  xy: 1542, 438
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+daitu_qianshou6
+  rotate: false
+  xy: 1690, 161
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+daitu_qianshou7
+  rotate: true
+  xy: 704, 13
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+daitu_qianshou8
+  rotate: false
+  xy: 652, 2
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+daitu_qianshou9
+  rotate: false
+  xy: 335, 10
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+daitu_shanzi
+  rotate: true
+  xy: 2, 114
+  size: 396, 650
+  orig: 396, 650
+  offset: 0, 0
+  index: -1
+daitu_suolian
+  rotate: true
+  xy: 2, 77
+  size: 35, 502
+  orig: 35, 502
+  offset: 0, 0
+  index: -1
+daitu_youshou1
+  rotate: false
+  xy: 1200, 309
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1
+daitu_youshou2
+  rotate: true
+  xy: 1076, 2
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+daitu_youshou3
+  rotate: false
+  xy: 891, 10
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+daitu_youshou4
+  rotate: true
+  xy: 399, 50
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+daitu_youshou5
+  rotate: true
+  xy: 1849, 358
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+daitu_youshou6
+  rotate: true
+  xy: 2014, 462
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+daitu_youshou7
+  rotate: true
+  xy: 1849, 384
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1

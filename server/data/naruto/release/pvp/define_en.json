@@ -1,0 +1,2256 @@
+{
+  "pvp.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.1"],
+        "name": "pvp.en.1"
+      },
+      {
+        "dependent": ["storage.en.1", "game.en.1", "anticheat"],
+        "name": "yyhuodong.en.1"
+      },
+      {
+        "dependent": ["storage.en.1"],
+        "name": "arena.en.1"
+      },
+      {
+        "dependent": ["storage.en.1"],
+        "name": "union.en.1"
+      },
+      {
+        "dependent": ["storage.en.1"],
+        "name": "card_fight.en.1"
+      },
+      {
+        "dependent": ["storage.en.1", "game.en.1", "anticheat"],
+        "name": "union_fight.en.1"
+      },
+      {
+        "dependent": ["storage.en.1", "game.en.1", "anticheat"],
+        "name": "craft.en.1"
+      },
+      {
+        "dependent": ["storage.en.1", "game.en.1"],
+        "name": "gym.en.1"
+      },
+      {
+        "dependent": ["storage.en.1"],
+        "name": "clone.en.1"
+      },
+      {
+        "dependent": ["storage.en.1"],
+        "name": "hunting.en.1"
+      }
+    ]
+  },
+  "pvp.en.2": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.2"],
+        "name": "pvp.en.2"
+      },
+      {
+        "dependent": ["storage.en.2", "game.en.2", "anticheat"],
+        "name": "yyhuodong.en.2"
+      },
+      {
+        "dependent": ["storage.en.2"],
+        "name": "arena.en.2"
+      },
+      {
+        "dependent": ["storage.en.2"],
+        "name": "union.en.2"
+      },
+      {
+        "dependent": ["storage.en.2"],
+        "name": "card_fight.en.2"
+      },
+      {
+        "dependent": ["storage.en.2", "game.en.2", "anticheat"],
+        "name": "union_fight.en.2"
+      },
+      {
+        "dependent": ["storage.en.2", "game.en.2", "anticheat"],
+        "name": "craft.en.2"
+      },
+      {
+        "dependent": ["storage.en.2", "game.en.2"],
+        "name": "gym.en.2"
+      },
+      {
+        "dependent": ["storage.en.2"],
+        "name": "clone.en.2"
+      },
+      {
+        "dependent": ["storage.en.2"],
+        "name": "hunting.en.2"
+      }
+    ]
+  },
+  "pvp.en.3": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.3"],
+        "name": "pvp.en.3"
+      },
+      {
+        "dependent": ["storage.en.3", "game.en.3", "anticheat"],
+        "name": "yyhuodong.en.3"
+      },
+      {
+        "dependent": ["storage.en.3"],
+        "name": "arena.en.3"
+      },
+      {
+        "dependent": ["storage.en.3"],
+        "name": "union.en.3"
+      },
+      {
+        "dependent": ["storage.en.3"],
+        "name": "card_fight.en.3"
+      },
+      {
+        "dependent": ["storage.en.3", "game.en.3", "anticheat"],
+        "name": "union_fight.en.3"
+      },
+      {
+        "dependent": ["storage.en.3", "game.en.3", "anticheat"],
+        "name": "craft.en.3"
+      },
+      {
+        "dependent": ["storage.en.3", "game.en.3"],
+        "name": "gym.en.3"
+      },
+      {
+        "dependent": ["storage.en.3"],
+        "name": "clone.en.3"
+      },
+      {
+        "dependent": ["storage.en.3"],
+        "name": "hunting.en.3"
+      }
+    ]
+  },
+  "pvp.en.4": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.4"],
+        "name": "pvp.en.4"
+      },
+      {
+        "dependent": ["storage.en.4", "game.en.4", "anticheat"],
+        "name": "yyhuodong.en.4"
+      },
+      {
+        "dependent": ["storage.en.4"],
+        "name": "arena.en.4"
+      },
+      {
+        "dependent": ["storage.en.4"],
+        "name": "union.en.4"
+      },
+      {
+        "dependent": ["storage.en.4"],
+        "name": "card_fight.en.4"
+      },
+      {
+        "dependent": ["storage.en.4", "game.en.4", "anticheat"],
+        "name": "union_fight.en.4"
+      },
+      {
+        "dependent": ["storage.en.4", "game.en.4", "anticheat"],
+        "name": "craft.en.4"
+      },
+      {
+        "dependent": ["storage.en.4", "game.en.4"],
+        "name": "gym.en.4"
+      },
+      {
+        "dependent": ["storage.en.4"],
+        "name": "clone.en.4"
+      },
+      {
+        "dependent": ["storage.en.4"],
+        "name": "hunting.en.4"
+      }
+    ]
+  },
+  "pvp.en.5": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.5"],
+        "name": "pvp.en.5"
+      },
+      {
+        "dependent": ["storage.en.5", "game.en.5", "anticheat"],
+        "name": "yyhuodong.en.5"
+      },
+      {
+        "dependent": ["storage.en.5"],
+        "name": "arena.en.5"
+      },
+      {
+        "dependent": ["storage.en.5"],
+        "name": "union.en.5"
+      },
+      {
+        "dependent": ["storage.en.5"],
+        "name": "card_fight.en.5"
+      },
+      {
+        "dependent": ["storage.en.5", "game.en.5", "anticheat"],
+        "name": "union_fight.en.5"
+      },
+      {
+        "dependent": ["storage.en.5", "game.en.5", "anticheat"],
+        "name": "craft.en.5"
+      },
+      {
+        "dependent": ["storage.en.5", "game.en.5"],
+        "name": "gym.en.5"
+      },
+      {
+        "dependent": ["storage.en.5"],
+        "name": "clone.en.5"
+      },
+      {
+        "dependent": ["storage.en.5"],
+        "name": "hunting.en.5"
+      }
+    ]
+  },
+  "pvp.en.6": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.6"],
+        "name": "pvp.en.6"
+      },
+      {
+        "dependent": ["storage.en.6", "game.en.6", "anticheat"],
+        "name": "yyhuodong.en.6"
+      },
+      {
+        "dependent": ["storage.en.6"],
+        "name": "arena.en.6"
+      },
+      {
+        "dependent": ["storage.en.6"],
+        "name": "union.en.6"
+      },
+      {
+        "dependent": ["storage.en.6"],
+        "name": "card_fight.en.6"
+      },
+      {
+        "dependent": ["storage.en.6", "game.en.6", "anticheat"],
+        "name": "union_fight.en.6"
+      },
+      {
+        "dependent": ["storage.en.6", "game.en.6", "anticheat"],
+        "name": "craft.en.6"
+      },
+      {
+        "dependent": ["storage.en.6", "game.en.6"],
+        "name": "gym.en.6"
+      },
+      {
+        "dependent": ["storage.en.6"],
+        "name": "clone.en.6"
+      },
+      {
+        "dependent": ["storage.en.6"],
+        "name": "hunting.en.6"
+      }
+    ]
+  },
+  "pvp.en.7": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.7"],
+        "name": "pvp.en.7"
+      },
+      {
+        "dependent": ["storage.en.7", "game.en.7", "anticheat"],
+        "name": "yyhuodong.en.7"
+      },
+      {
+        "dependent": ["storage.en.7"],
+        "name": "arena.en.7"
+      },
+      {
+        "dependent": ["storage.en.7"],
+        "name": "union.en.7"
+      },
+      {
+        "dependent": ["storage.en.7"],
+        "name": "card_fight.en.7"
+      },
+      {
+        "dependent": ["storage.en.7", "game.en.7", "anticheat"],
+        "name": "union_fight.en.7"
+      },
+      {
+        "dependent": ["storage.en.7", "game.en.7", "anticheat"],
+        "name": "craft.en.7"
+      },
+      {
+        "dependent": ["storage.en.7", "game.en.7"],
+        "name": "gym.en.7"
+      },
+      {
+        "dependent": ["storage.en.7"],
+        "name": "clone.en.7"
+      },
+      {
+        "dependent": ["storage.en.7"],
+        "name": "hunting.en.7"
+      }
+    ]
+  },
+  "pvp.en.8": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.8"],
+        "name": "pvp.en.8"
+      },
+      {
+        "dependent": ["storage.en.8", "game.en.8", "anticheat"],
+        "name": "yyhuodong.en.8"
+      },
+      {
+        "dependent": ["storage.en.8"],
+        "name": "arena.en.8"
+      },
+      {
+        "dependent": ["storage.en.8"],
+        "name": "union.en.8"
+      },
+      {
+        "dependent": ["storage.en.8"],
+        "name": "card_fight.en.8"
+      },
+      {
+        "dependent": ["storage.en.8", "game.en.8", "anticheat"],
+        "name": "union_fight.en.8"
+      },
+      {
+        "dependent": ["storage.en.8", "game.en.8", "anticheat"],
+        "name": "craft.en.8"
+      },
+      {
+        "dependent": ["storage.en.8", "game.en.8"],
+        "name": "gym.en.8"
+      },
+      {
+        "dependent": ["storage.en.8"],
+        "name": "clone.en.8"
+      },
+      {
+        "dependent": ["storage.en.8"],
+        "name": "hunting.en.8"
+      }
+    ]
+  },
+  "pvp.en.9": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.9"],
+        "name": "pvp.en.9"
+      },
+      {
+        "dependent": ["storage.en.9", "game.en.9", "anticheat"],
+        "name": "yyhuodong.en.9"
+      },
+      {
+        "dependent": ["storage.en.9"],
+        "name": "arena.en.9"
+      },
+      {
+        "dependent": ["storage.en.9"],
+        "name": "union.en.9"
+      },
+      {
+        "dependent": ["storage.en.9"],
+        "name": "card_fight.en.9"
+      },
+      {
+        "dependent": ["storage.en.9", "game.en.9", "anticheat"],
+        "name": "union_fight.en.9"
+      },
+      {
+        "dependent": ["storage.en.9", "game.en.9", "anticheat"],
+        "name": "craft.en.9"
+      },
+      {
+        "dependent": ["storage.en.9", "game.en.9"],
+        "name": "gym.en.9"
+      },
+      {
+        "dependent": ["storage.en.9"],
+        "name": "clone.en.9"
+      },
+      {
+        "dependent": ["storage.en.9"],
+        "name": "hunting.en.9"
+      }
+    ]
+  },
+  "pvp.en.10": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.10"],
+        "name": "pvp.en.10"
+      },
+      {
+        "dependent": ["storage.en.10", "game.en.10", "anticheat"],
+        "name": "yyhuodong.en.10"
+      },
+      {
+        "dependent": ["storage.en.10"],
+        "name": "arena.en.10"
+      },
+      {
+        "dependent": ["storage.en.10"],
+        "name": "union.en.10"
+      },
+      {
+        "dependent": ["storage.en.10"],
+        "name": "card_fight.en.10"
+      },
+      {
+        "dependent": ["storage.en.10", "game.en.10", "anticheat"],
+        "name": "union_fight.en.10"
+      },
+      {
+        "dependent": ["storage.en.10", "game.en.10", "anticheat"],
+        "name": "craft.en.10"
+      },
+      {
+        "dependent": ["storage.en.10", "game.en.10"],
+        "name": "gym.en.10"
+      },
+      {
+        "dependent": ["storage.en.10"],
+        "name": "clone.en.10"
+      },
+      {
+        "dependent": ["storage.en.10"],
+        "name": "hunting.en.10"
+      }
+    ]
+  },
+  "pvp.en.11": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.11"],
+        "name": "pvp.en.11"
+      },
+      {
+        "dependent": ["storage.en.11", "game.en.11", "anticheat"],
+        "name": "yyhuodong.en.11"
+      },
+      {
+        "dependent": ["storage.en.11"],
+        "name": "arena.en.11"
+      },
+      {
+        "dependent": ["storage.en.11"],
+        "name": "union.en.11"
+      },
+      {
+        "dependent": ["storage.en.11"],
+        "name": "card_fight.en.11"
+      },
+      {
+        "dependent": ["storage.en.11", "game.en.11", "anticheat"],
+        "name": "union_fight.en.11"
+      },
+      {
+        "dependent": ["storage.en.11", "game.en.11", "anticheat"],
+        "name": "craft.en.11"
+      },
+      {
+        "dependent": ["storage.en.11", "game.en.11"],
+        "name": "gym.en.11"
+      },
+      {
+        "dependent": ["storage.en.11"],
+        "name": "clone.en.11"
+      },
+      {
+        "dependent": ["storage.en.11"],
+        "name": "hunting.en.11"
+      }
+    ]
+  },
+  "pvp.en.12": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.12"],
+        "name": "pvp.en.12"
+      },
+      {
+        "dependent": ["storage.en.12", "game.en.12", "anticheat"],
+        "name": "yyhuodong.en.12"
+      },
+      {
+        "dependent": ["storage.en.12"],
+        "name": "arena.en.12"
+      },
+      {
+        "dependent": ["storage.en.12"],
+        "name": "union.en.12"
+      },
+      {
+        "dependent": ["storage.en.12"],
+        "name": "card_fight.en.12"
+      },
+      {
+        "dependent": ["storage.en.12", "game.en.12", "anticheat"],
+        "name": "union_fight.en.12"
+      },
+      {
+        "dependent": ["storage.en.12", "game.en.12", "anticheat"],
+        "name": "craft.en.12"
+      },
+      {
+        "dependent": ["storage.en.12", "game.en.12"],
+        "name": "gym.en.12"
+      },
+      {
+        "dependent": ["storage.en.12"],
+        "name": "clone.en.12"
+      },
+      {
+        "dependent": ["storage.en.12"],
+        "name": "hunting.en.12"
+      }
+    ]
+  },
+  "pvp.en.13": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.13"],
+        "name": "pvp.en.13"
+      },
+      {
+        "dependent": ["storage.en.13", "game.en.13", "anticheat"],
+        "name": "yyhuodong.en.13"
+      },
+      {
+        "dependent": ["storage.en.13"],
+        "name": "arena.en.13"
+      },
+      {
+        "dependent": ["storage.en.13"],
+        "name": "union.en.13"
+      },
+      {
+        "dependent": ["storage.en.13"],
+        "name": "card_fight.en.13"
+      },
+      {
+        "dependent": ["storage.en.13", "game.en.13", "anticheat"],
+        "name": "union_fight.en.13"
+      },
+      {
+        "dependent": ["storage.en.13", "game.en.13", "anticheat"],
+        "name": "craft.en.13"
+      },
+      {
+        "dependent": ["storage.en.13", "game.en.13"],
+        "name": "gym.en.13"
+      },
+      {
+        "dependent": ["storage.en.13"],
+        "name": "clone.en.13"
+      },
+      {
+        "dependent": ["storage.en.13"],
+        "name": "hunting.en.13"
+      }
+    ]
+  },
+  "pvp.en.14": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.14"],
+        "name": "pvp.en.14"
+      },
+      {
+        "dependent": ["storage.en.14", "game.en.14", "anticheat"],
+        "name": "yyhuodong.en.14"
+      },
+      {
+        "dependent": ["storage.en.14"],
+        "name": "arena.en.14"
+      },
+      {
+        "dependent": ["storage.en.14"],
+        "name": "union.en.14"
+      },
+      {
+        "dependent": ["storage.en.14"],
+        "name": "card_fight.en.14"
+      },
+      {
+        "dependent": ["storage.en.14", "game.en.14", "anticheat"],
+        "name": "union_fight.en.14"
+      },
+      {
+        "dependent": ["storage.en.14", "game.en.14", "anticheat"],
+        "name": "craft.en.14"
+      },
+      {
+        "dependent": ["storage.en.14", "game.en.14"],
+        "name": "gym.en.14"
+      },
+      {
+        "dependent": ["storage.en.14"],
+        "name": "clone.en.14"
+      },
+      {
+        "dependent": ["storage.en.14"],
+        "name": "hunting.en.14"
+      }
+    ]
+  },
+  "pvp.en.15": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.15"],
+        "name": "pvp.en.15"
+      },
+      {
+        "dependent": ["storage.en.15", "game.en.15", "anticheat"],
+        "name": "yyhuodong.en.15"
+      },
+      {
+        "dependent": ["storage.en.15"],
+        "name": "arena.en.15"
+      },
+      {
+        "dependent": ["storage.en.15"],
+        "name": "union.en.15"
+      },
+      {
+        "dependent": ["storage.en.15"],
+        "name": "card_fight.en.15"
+      },
+      {
+        "dependent": ["storage.en.15", "game.en.15", "anticheat"],
+        "name": "union_fight.en.15"
+      },
+      {
+        "dependent": ["storage.en.15", "game.en.15", "anticheat"],
+        "name": "craft.en.15"
+      },
+      {
+        "dependent": ["storage.en.15", "game.en.15"],
+        "name": "gym.en.15"
+      },
+      {
+        "dependent": ["storage.en.15"],
+        "name": "clone.en.15"
+      },
+      {
+        "dependent": ["storage.en.15"],
+        "name": "hunting.en.15"
+      }
+    ]
+  },
+  "pvp.en.16": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.16"],
+        "name": "pvp.en.16"
+      },
+      {
+        "dependent": ["storage.en.16", "game.en.16", "anticheat"],
+        "name": "yyhuodong.en.16"
+      },
+      {
+        "dependent": ["storage.en.16"],
+        "name": "arena.en.16"
+      },
+      {
+        "dependent": ["storage.en.16"],
+        "name": "union.en.16"
+      },
+      {
+        "dependent": ["storage.en.16"],
+        "name": "card_fight.en.16"
+      },
+      {
+        "dependent": ["storage.en.16", "game.en.16", "anticheat"],
+        "name": "union_fight.en.16"
+      },
+      {
+        "dependent": ["storage.en.16", "game.en.16", "anticheat"],
+        "name": "craft.en.16"
+      },
+      {
+        "dependent": ["storage.en.16", "game.en.16"],
+        "name": "gym.en.16"
+      },
+      {
+        "dependent": ["storage.en.16"],
+        "name": "clone.en.16"
+      },
+      {
+        "dependent": ["storage.en.16"],
+        "name": "hunting.en.16"
+      }
+    ]
+  },
+  "pvp.en.17": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.17"],
+        "name": "pvp.en.17"
+      },
+      {
+        "dependent": ["storage.en.17", "game.en.17", "anticheat"],
+        "name": "yyhuodong.en.17"
+      },
+      {
+        "dependent": ["storage.en.17"],
+        "name": "arena.en.17"
+      },
+      {
+        "dependent": ["storage.en.17"],
+        "name": "union.en.17"
+      },
+      {
+        "dependent": ["storage.en.17"],
+        "name": "card_fight.en.17"
+      },
+      {
+        "dependent": ["storage.en.17", "game.en.17", "anticheat"],
+        "name": "union_fight.en.17"
+      },
+      {
+        "dependent": ["storage.en.17", "game.en.17", "anticheat"],
+        "name": "craft.en.17"
+      },
+      {
+        "dependent": ["storage.en.17", "game.en.17"],
+        "name": "gym.en.17"
+      },
+      {
+        "dependent": ["storage.en.17"],
+        "name": "clone.en.17"
+      },
+      {
+        "dependent": ["storage.en.17"],
+        "name": "hunting.en.17"
+      }
+    ]
+  },
+  "pvp.en.18": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.18"],
+        "name": "pvp.en.18"
+      },
+      {
+        "dependent": ["storage.en.18", "game.en.18", "anticheat"],
+        "name": "yyhuodong.en.18"
+      },
+      {
+        "dependent": ["storage.en.18"],
+        "name": "arena.en.18"
+      },
+      {
+        "dependent": ["storage.en.18"],
+        "name": "union.en.18"
+      },
+      {
+        "dependent": ["storage.en.18"],
+        "name": "card_fight.en.18"
+      },
+      {
+        "dependent": ["storage.en.18", "game.en.18", "anticheat"],
+        "name": "union_fight.en.18"
+      },
+      {
+        "dependent": ["storage.en.18", "game.en.18", "anticheat"],
+        "name": "craft.en.18"
+      },
+      {
+        "dependent": ["storage.en.18", "game.en.18"],
+        "name": "gym.en.18"
+      },
+      {
+        "dependent": ["storage.en.18"],
+        "name": "clone.en.18"
+      },
+      {
+        "dependent": ["storage.en.18"],
+        "name": "hunting.en.18"
+      }
+    ]
+  },
+  "pvp.en.19": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.19"],
+        "name": "pvp.en.19"
+      },
+      {
+        "dependent": ["storage.en.19", "game.en.19", "anticheat"],
+        "name": "yyhuodong.en.19"
+      },
+      {
+        "dependent": ["storage.en.19"],
+        "name": "arena.en.19"
+      },
+      {
+        "dependent": ["storage.en.19"],
+        "name": "union.en.19"
+      },
+      {
+        "dependent": ["storage.en.19"],
+        "name": "card_fight.en.19"
+      },
+      {
+        "dependent": ["storage.en.19", "game.en.19", "anticheat"],
+        "name": "union_fight.en.19"
+      },
+      {
+        "dependent": ["storage.en.19", "game.en.19", "anticheat"],
+        "name": "craft.en.19"
+      },
+      {
+        "dependent": ["storage.en.19", "game.en.19"],
+        "name": "gym.en.19"
+      },
+      {
+        "dependent": ["storage.en.19"],
+        "name": "clone.en.19"
+      },
+      {
+        "dependent": ["storage.en.19"],
+        "name": "hunting.en.19"
+      }
+    ]
+  },
+  "pvp.en.20": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.20"],
+        "name": "pvp.en.20"
+      },
+      {
+        "dependent": ["storage.en.20", "game.en.20", "anticheat"],
+        "name": "yyhuodong.en.20"
+      },
+      {
+        "dependent": ["storage.en.20"],
+        "name": "arena.en.20"
+      },
+      {
+        "dependent": ["storage.en.20"],
+        "name": "union.en.20"
+      },
+      {
+        "dependent": ["storage.en.20"],
+        "name": "card_fight.en.20"
+      },
+      {
+        "dependent": ["storage.en.20", "game.en.20", "anticheat"],
+        "name": "union_fight.en.20"
+      },
+      {
+        "dependent": ["storage.en.20", "game.en.20", "anticheat"],
+        "name": "craft.en.20"
+      },
+      {
+        "dependent": ["storage.en.20", "game.en.20"],
+        "name": "gym.en.20"
+      },
+      {
+        "dependent": ["storage.en.20"],
+        "name": "clone.en.20"
+      },
+      {
+        "dependent": ["storage.en.20"],
+        "name": "hunting.en.20"
+      }
+    ]
+  },
+  "pvp.en.21": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.21"],
+        "name": "pvp.en.21"
+      },
+      {
+        "dependent": ["storage.en.21", "game.en.21", "anticheat"],
+        "name": "yyhuodong.en.21"
+      },
+      {
+        "dependent": ["storage.en.21"],
+        "name": "arena.en.21"
+      },
+      {
+        "dependent": ["storage.en.21"],
+        "name": "union.en.21"
+      },
+      {
+        "dependent": ["storage.en.21"],
+        "name": "card_fight.en.21"
+      },
+      {
+        "dependent": ["storage.en.21", "game.en.21", "anticheat"],
+        "name": "union_fight.en.21"
+      },
+      {
+        "dependent": ["storage.en.21", "game.en.21", "anticheat"],
+        "name": "craft.en.21"
+      },
+      {
+        "dependent": ["storage.en.21", "game.en.21"],
+        "name": "gym.en.21"
+      },
+      {
+        "dependent": ["storage.en.21"],
+        "name": "clone.en.21"
+      },
+      {
+        "dependent": ["storage.en.21"],
+        "name": "hunting.en.21"
+      }
+    ]
+  },
+  "pvp.en.22": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.22"],
+        "name": "pvp.en.22"
+      },
+      {
+        "dependent": ["storage.en.22", "game.en.22", "anticheat"],
+        "name": "yyhuodong.en.22"
+      },
+      {
+        "dependent": ["storage.en.22"],
+        "name": "arena.en.22"
+      },
+      {
+        "dependent": ["storage.en.22"],
+        "name": "union.en.22"
+      },
+      {
+        "dependent": ["storage.en.22"],
+        "name": "card_fight.en.22"
+      },
+      {
+        "dependent": ["storage.en.22", "game.en.22", "anticheat"],
+        "name": "union_fight.en.22"
+      },
+      {
+        "dependent": ["storage.en.22", "game.en.22", "anticheat"],
+        "name": "craft.en.22"
+      },
+      {
+        "dependent": ["storage.en.22", "game.en.22"],
+        "name": "gym.en.22"
+      },
+      {
+        "dependent": ["storage.en.22"],
+        "name": "clone.en.22"
+      },
+      {
+        "dependent": ["storage.en.22"],
+        "name": "hunting.en.22"
+      }
+    ]
+  },
+  "pvp.en.23": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.23"],
+        "name": "pvp.en.23"
+      },
+      {
+        "dependent": ["storage.en.23", "game.en.23", "anticheat"],
+        "name": "yyhuodong.en.23"
+      },
+      {
+        "dependent": ["storage.en.23"],
+        "name": "arena.en.23"
+      },
+      {
+        "dependent": ["storage.en.23"],
+        "name": "union.en.23"
+      },
+      {
+        "dependent": ["storage.en.23"],
+        "name": "card_fight.en.23"
+      },
+      {
+        "dependent": ["storage.en.23", "game.en.23", "anticheat"],
+        "name": "union_fight.en.23"
+      },
+      {
+        "dependent": ["storage.en.23", "game.en.23", "anticheat"],
+        "name": "craft.en.23"
+      },
+      {
+        "dependent": ["storage.en.23", "game.en.23"],
+        "name": "gym.en.23"
+      },
+      {
+        "dependent": ["storage.en.23"],
+        "name": "clone.en.23"
+      },
+      {
+        "dependent": ["storage.en.23"],
+        "name": "hunting.en.23"
+      }
+    ]
+  },
+  "pvp.en.24": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.24"],
+        "name": "pvp.en.24"
+      },
+      {
+        "dependent": ["storage.en.24", "game.en.24", "anticheat"],
+        "name": "yyhuodong.en.24"
+      },
+      {
+        "dependent": ["storage.en.24"],
+        "name": "arena.en.24"
+      },
+      {
+        "dependent": ["storage.en.24"],
+        "name": "union.en.24"
+      },
+      {
+        "dependent": ["storage.en.24"],
+        "name": "card_fight.en.24"
+      },
+      {
+        "dependent": ["storage.en.24", "game.en.24", "anticheat"],
+        "name": "union_fight.en.24"
+      },
+      {
+        "dependent": ["storage.en.24", "game.en.24", "anticheat"],
+        "name": "craft.en.24"
+      },
+      {
+        "dependent": ["storage.en.24", "game.en.24"],
+        "name": "gym.en.24"
+      },
+      {
+        "dependent": ["storage.en.24"],
+        "name": "clone.en.24"
+      },
+      {
+        "dependent": ["storage.en.24"],
+        "name": "hunting.en.24"
+      }
+    ]
+  },
+  "pvp.en.25": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.25"],
+        "name": "pvp.en.25"
+      },
+      {
+        "dependent": ["storage.en.25", "game.en.25", "anticheat"],
+        "name": "yyhuodong.en.25"
+      },
+      {
+        "dependent": ["storage.en.25"],
+        "name": "arena.en.25"
+      },
+      {
+        "dependent": ["storage.en.25"],
+        "name": "union.en.25"
+      },
+      {
+        "dependent": ["storage.en.25"],
+        "name": "card_fight.en.25"
+      },
+      {
+        "dependent": ["storage.en.25", "game.en.25", "anticheat"],
+        "name": "union_fight.en.25"
+      },
+      {
+        "dependent": ["storage.en.25", "game.en.25", "anticheat"],
+        "name": "craft.en.25"
+      },
+      {
+        "dependent": ["storage.en.25", "game.en.25"],
+        "name": "gym.en.25"
+      },
+      {
+        "dependent": ["storage.en.25"],
+        "name": "clone.en.25"
+      },
+      {
+        "dependent": ["storage.en.25"],
+        "name": "hunting.en.25"
+      }
+    ]
+  },
+  "pvp.en.26": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.26"],
+        "name": "pvp.en.26"
+      },
+      {
+        "dependent": ["storage.en.26", "game.en.26", "anticheat"],
+        "name": "yyhuodong.en.26"
+      },
+      {
+        "dependent": ["storage.en.26"],
+        "name": "arena.en.26"
+      },
+      {
+        "dependent": ["storage.en.26"],
+        "name": "union.en.26"
+      },
+      {
+        "dependent": ["storage.en.26"],
+        "name": "card_fight.en.26"
+      },
+      {
+        "dependent": ["storage.en.26", "game.en.26", "anticheat"],
+        "name": "union_fight.en.26"
+      },
+      {
+        "dependent": ["storage.en.26", "game.en.26", "anticheat"],
+        "name": "craft.en.26"
+      },
+      {
+        "dependent": ["storage.en.26", "game.en.26"],
+        "name": "gym.en.26"
+      },
+      {
+        "dependent": ["storage.en.26"],
+        "name": "clone.en.26"
+      },
+      {
+        "dependent": ["storage.en.26"],
+        "name": "hunting.en.26"
+      }
+    ]
+  },
+  "pvp.en.27": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.27"],
+        "name": "pvp.en.27"
+      },
+      {
+        "dependent": ["storage.en.27", "game.en.27", "anticheat"],
+        "name": "yyhuodong.en.27"
+      },
+      {
+        "dependent": ["storage.en.27"],
+        "name": "arena.en.27"
+      },
+      {
+        "dependent": ["storage.en.27"],
+        "name": "union.en.27"
+      },
+      {
+        "dependent": ["storage.en.27"],
+        "name": "card_fight.en.27"
+      },
+      {
+        "dependent": ["storage.en.27", "game.en.27", "anticheat"],
+        "name": "union_fight.en.27"
+      },
+      {
+        "dependent": ["storage.en.27", "game.en.27", "anticheat"],
+        "name": "craft.en.27"
+      },
+      {
+        "dependent": ["storage.en.27", "game.en.27"],
+        "name": "gym.en.27"
+      },
+      {
+        "dependent": ["storage.en.27"],
+        "name": "clone.en.27"
+      },
+      {
+        "dependent": ["storage.en.27"],
+        "name": "hunting.en.27"
+      }
+    ]
+  },
+  "pvp.en.28": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.28"],
+        "name": "pvp.en.28"
+      },
+      {
+        "dependent": ["storage.en.28", "game.en.28", "anticheat"],
+        "name": "yyhuodong.en.28"
+      },
+      {
+        "dependent": ["storage.en.28"],
+        "name": "arena.en.28"
+      },
+      {
+        "dependent": ["storage.en.28"],
+        "name": "union.en.28"
+      },
+      {
+        "dependent": ["storage.en.28"],
+        "name": "card_fight.en.28"
+      },
+      {
+        "dependent": ["storage.en.28", "game.en.28", "anticheat"],
+        "name": "union_fight.en.28"
+      },
+      {
+        "dependent": ["storage.en.28", "game.en.28", "anticheat"],
+        "name": "craft.en.28"
+      },
+      {
+        "dependent": ["storage.en.28", "game.en.28"],
+        "name": "gym.en.28"
+      },
+      {
+        "dependent": ["storage.en.28"],
+        "name": "clone.en.28"
+      },
+      {
+        "dependent": ["storage.en.28"],
+        "name": "hunting.en.28"
+      }
+    ]
+  },
+  "pvp.en.29": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.29"],
+        "name": "pvp.en.29"
+      },
+      {
+        "dependent": ["storage.en.29", "game.en.29", "anticheat"],
+        "name": "yyhuodong.en.29"
+      },
+      {
+        "dependent": ["storage.en.29"],
+        "name": "arena.en.29"
+      },
+      {
+        "dependent": ["storage.en.29"],
+        "name": "union.en.29"
+      },
+      {
+        "dependent": ["storage.en.29"],
+        "name": "card_fight.en.29"
+      },
+      {
+        "dependent": ["storage.en.29", "game.en.29", "anticheat"],
+        "name": "union_fight.en.29"
+      },
+      {
+        "dependent": ["storage.en.29", "game.en.29", "anticheat"],
+        "name": "craft.en.29"
+      },
+      {
+        "dependent": ["storage.en.29", "game.en.29"],
+        "name": "gym.en.29"
+      },
+      {
+        "dependent": ["storage.en.29"],
+        "name": "clone.en.29"
+      },
+      {
+        "dependent": ["storage.en.29"],
+        "name": "hunting.en.29"
+      }
+    ]
+  },
+  "pvp.en.30": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.30"],
+        "name": "pvp.en.30"
+      },
+      {
+        "dependent": ["storage.en.30", "game.en.30", "anticheat"],
+        "name": "yyhuodong.en.30"
+      },
+      {
+        "dependent": ["storage.en.30"],
+        "name": "arena.en.30"
+      },
+      {
+        "dependent": ["storage.en.30"],
+        "name": "union.en.30"
+      },
+      {
+        "dependent": ["storage.en.30"],
+        "name": "card_fight.en.30"
+      },
+      {
+        "dependent": ["storage.en.30", "game.en.30", "anticheat"],
+        "name": "union_fight.en.30"
+      },
+      {
+        "dependent": ["storage.en.30", "game.en.30", "anticheat"],
+        "name": "craft.en.30"
+      },
+      {
+        "dependent": ["storage.en.30", "game.en.30"],
+        "name": "gym.en.30"
+      },
+      {
+        "dependent": ["storage.en.30"],
+        "name": "clone.en.30"
+      },
+      {
+        "dependent": ["storage.en.30"],
+        "name": "hunting.en.30"
+      }
+    ]
+  },
+  "pvp.en.31": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.31"],
+        "name": "pvp.en.31"
+      },
+      {
+        "dependent": ["storage.en.31", "game.en.31", "anticheat"],
+        "name": "yyhuodong.en.31"
+      },
+      {
+        "dependent": ["storage.en.31"],
+        "name": "arena.en.31"
+      },
+      {
+        "dependent": ["storage.en.31"],
+        "name": "union.en.31"
+      },
+      {
+        "dependent": ["storage.en.31"],
+        "name": "card_fight.en.31"
+      },
+      {
+        "dependent": ["storage.en.31", "game.en.31", "anticheat"],
+        "name": "union_fight.en.31"
+      },
+      {
+        "dependent": ["storage.en.31", "game.en.31", "anticheat"],
+        "name": "craft.en.31"
+      },
+      {
+        "dependent": ["storage.en.31", "game.en.31"],
+        "name": "gym.en.31"
+      },
+      {
+        "dependent": ["storage.en.31"],
+        "name": "clone.en.31"
+      },
+      {
+        "dependent": ["storage.en.31"],
+        "name": "hunting.en.31"
+      }
+    ]
+  },
+  "pvp.en.32": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.32"],
+        "name": "pvp.en.32"
+      },
+      {
+        "dependent": ["storage.en.32", "game.en.32", "anticheat"],
+        "name": "yyhuodong.en.32"
+      },
+      {
+        "dependent": ["storage.en.32"],
+        "name": "arena.en.32"
+      },
+      {
+        "dependent": ["storage.en.32"],
+        "name": "union.en.32"
+      },
+      {
+        "dependent": ["storage.en.32"],
+        "name": "card_fight.en.32"
+      },
+      {
+        "dependent": ["storage.en.32", "game.en.32", "anticheat"],
+        "name": "union_fight.en.32"
+      },
+      {
+        "dependent": ["storage.en.32", "game.en.32", "anticheat"],
+        "name": "craft.en.32"
+      },
+      {
+        "dependent": ["storage.en.32", "game.en.32"],
+        "name": "gym.en.32"
+      },
+      {
+        "dependent": ["storage.en.32"],
+        "name": "clone.en.32"
+      },
+      {
+        "dependent": ["storage.en.32"],
+        "name": "hunting.en.32"
+      }
+    ]
+  },
+  "pvp.en.33": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.33"],
+        "name": "pvp.en.33"
+      },
+      {
+        "dependent": ["storage.en.33", "game.en.33", "anticheat"],
+        "name": "yyhuodong.en.33"
+      },
+      {
+        "dependent": ["storage.en.33"],
+        "name": "arena.en.33"
+      },
+      {
+        "dependent": ["storage.en.33"],
+        "name": "union.en.33"
+      },
+      {
+        "dependent": ["storage.en.33"],
+        "name": "card_fight.en.33"
+      },
+      {
+        "dependent": ["storage.en.33", "game.en.33", "anticheat"],
+        "name": "union_fight.en.33"
+      },
+      {
+        "dependent": ["storage.en.33", "game.en.33", "anticheat"],
+        "name": "craft.en.33"
+      },
+      {
+        "dependent": ["storage.en.33", "game.en.33"],
+        "name": "gym.en.33"
+      },
+      {
+        "dependent": ["storage.en.33"],
+        "name": "clone.en.33"
+      },
+      {
+        "dependent": ["storage.en.33"],
+        "name": "hunting.en.33"
+      }
+    ]
+  },
+  "pvp.en.34": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.34"],
+        "name": "pvp.en.34"
+      },
+      {
+        "dependent": ["storage.en.34", "game.en.34", "anticheat"],
+        "name": "yyhuodong.en.34"
+      },
+      {
+        "dependent": ["storage.en.34"],
+        "name": "arena.en.34"
+      },
+      {
+        "dependent": ["storage.en.34"],
+        "name": "union.en.34"
+      },
+      {
+        "dependent": ["storage.en.34"],
+        "name": "card_fight.en.34"
+      },
+      {
+        "dependent": ["storage.en.34", "game.en.34", "anticheat"],
+        "name": "union_fight.en.34"
+      },
+      {
+        "dependent": ["storage.en.34", "game.en.34", "anticheat"],
+        "name": "craft.en.34"
+      },
+      {
+        "dependent": ["storage.en.34", "game.en.34"],
+        "name": "gym.en.34"
+      },
+      {
+        "dependent": ["storage.en.34"],
+        "name": "clone.en.34"
+      },
+      {
+        "dependent": ["storage.en.34"],
+        "name": "hunting.en.34"
+      }
+    ]
+  },
+  "pvp.en.35": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.35"],
+        "name": "pvp.en.35"
+      },
+      {
+        "dependent": ["storage.en.35", "game.en.35", "anticheat"],
+        "name": "yyhuodong.en.35"
+      },
+      {
+        "dependent": ["storage.en.35"],
+        "name": "arena.en.35"
+      },
+      {
+        "dependent": ["storage.en.35"],
+        "name": "union.en.35"
+      },
+      {
+        "dependent": ["storage.en.35"],
+        "name": "card_fight.en.35"
+      },
+      {
+        "dependent": ["storage.en.35", "game.en.35", "anticheat"],
+        "name": "union_fight.en.35"
+      },
+      {
+        "dependent": ["storage.en.35", "game.en.35", "anticheat"],
+        "name": "craft.en.35"
+      },
+      {
+        "dependent": ["storage.en.35", "game.en.35"],
+        "name": "gym.en.35"
+      },
+      {
+        "dependent": ["storage.en.35"],
+        "name": "clone.en.35"
+      },
+      {
+        "dependent": ["storage.en.35"],
+        "name": "hunting.en.35"
+      }
+    ]
+  },
+  "pvp.en.36": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.36"],
+        "name": "pvp.en.36"
+      },
+      {
+        "dependent": ["storage.en.36", "game.en.36", "anticheat"],
+        "name": "yyhuodong.en.36"
+      },
+      {
+        "dependent": ["storage.en.36"],
+        "name": "arena.en.36"
+      },
+      {
+        "dependent": ["storage.en.36"],
+        "name": "union.en.36"
+      },
+      {
+        "dependent": ["storage.en.36"],
+        "name": "card_fight.en.36"
+      },
+      {
+        "dependent": ["storage.en.36", "game.en.36", "anticheat"],
+        "name": "union_fight.en.36"
+      },
+      {
+        "dependent": ["storage.en.36", "game.en.36", "anticheat"],
+        "name": "craft.en.36"
+      },
+      {
+        "dependent": ["storage.en.36", "game.en.36"],
+        "name": "gym.en.36"
+      },
+      {
+        "dependent": ["storage.en.36"],
+        "name": "clone.en.36"
+      },
+      {
+        "dependent": ["storage.en.36"],
+        "name": "hunting.en.36"
+      }
+    ]
+  },
+  "pvp.en.37": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.37"],
+        "name": "pvp.en.37"
+      },
+      {
+        "dependent": ["storage.en.37", "game.en.37", "anticheat"],
+        "name": "yyhuodong.en.37"
+      },
+      {
+        "dependent": ["storage.en.37"],
+        "name": "arena.en.37"
+      },
+      {
+        "dependent": ["storage.en.37"],
+        "name": "union.en.37"
+      },
+      {
+        "dependent": ["storage.en.37"],
+        "name": "card_fight.en.37"
+      },
+      {
+        "dependent": ["storage.en.37", "game.en.37", "anticheat"],
+        "name": "union_fight.en.37"
+      },
+      {
+        "dependent": ["storage.en.37", "game.en.37", "anticheat"],
+        "name": "craft.en.37"
+      },
+      {
+        "dependent": ["storage.en.37", "game.en.37"],
+        "name": "gym.en.37"
+      },
+      {
+        "dependent": ["storage.en.37"],
+        "name": "clone.en.37"
+      },
+      {
+        "dependent": ["storage.en.37"],
+        "name": "hunting.en.37"
+      }
+    ]
+  },
+  "pvp.en.38": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.38"],
+        "name": "pvp.en.38"
+      },
+      {
+        "dependent": ["storage.en.38", "game.en.38", "anticheat"],
+        "name": "yyhuodong.en.38"
+      },
+      {
+        "dependent": ["storage.en.38"],
+        "name": "arena.en.38"
+      },
+      {
+        "dependent": ["storage.en.38"],
+        "name": "union.en.38"
+      },
+      {
+        "dependent": ["storage.en.38"],
+        "name": "card_fight.en.38"
+      },
+      {
+        "dependent": ["storage.en.38", "game.en.38", "anticheat"],
+        "name": "union_fight.en.38"
+      },
+      {
+        "dependent": ["storage.en.38", "game.en.38", "anticheat"],
+        "name": "craft.en.38"
+      },
+      {
+        "dependent": ["storage.en.38", "game.en.38"],
+        "name": "gym.en.38"
+      },
+      {
+        "dependent": ["storage.en.38"],
+        "name": "clone.en.38"
+      },
+      {
+        "dependent": ["storage.en.38"],
+        "name": "hunting.en.38"
+      }
+    ]
+  },
+  "pvp.en.39": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.39"],
+        "name": "pvp.en.39"
+      },
+      {
+        "dependent": ["storage.en.39", "game.en.39", "anticheat"],
+        "name": "yyhuodong.en.39"
+      },
+      {
+        "dependent": ["storage.en.39"],
+        "name": "arena.en.39"
+      },
+      {
+        "dependent": ["storage.en.39"],
+        "name": "union.en.39"
+      },
+      {
+        "dependent": ["storage.en.39"],
+        "name": "card_fight.en.39"
+      },
+      {
+        "dependent": ["storage.en.39", "game.en.39", "anticheat"],
+        "name": "union_fight.en.39"
+      },
+      {
+        "dependent": ["storage.en.39", "game.en.39", "anticheat"],
+        "name": "craft.en.39"
+      },
+      {
+        "dependent": ["storage.en.39", "game.en.39"],
+        "name": "gym.en.39"
+      },
+      {
+        "dependent": ["storage.en.39"],
+        "name": "clone.en.39"
+      },
+      {
+        "dependent": ["storage.en.39"],
+        "name": "hunting.en.39"
+      }
+    ]
+  },
+  "pvp.en.40": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.40"],
+        "name": "pvp.en.40"
+      },
+      {
+        "dependent": ["storage.en.40", "game.en.40", "anticheat"],
+        "name": "yyhuodong.en.40"
+      },
+      {
+        "dependent": ["storage.en.40"],
+        "name": "arena.en.40"
+      },
+      {
+        "dependent": ["storage.en.40"],
+        "name": "union.en.40"
+      },
+      {
+        "dependent": ["storage.en.40"],
+        "name": "card_fight.en.40"
+      },
+      {
+        "dependent": ["storage.en.40", "game.en.40", "anticheat"],
+        "name": "union_fight.en.40"
+      },
+      {
+        "dependent": ["storage.en.40", "game.en.40", "anticheat"],
+        "name": "craft.en.40"
+      },
+      {
+        "dependent": ["storage.en.40", "game.en.40"],
+        "name": "gym.en.40"
+      },
+      {
+        "dependent": ["storage.en.40"],
+        "name": "clone.en.40"
+      },
+      {
+        "dependent": ["storage.en.40"],
+        "name": "hunting.en.40"
+      }
+    ]
+  },
+  "pvp.en.41": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.41"],
+        "name": "pvp.en.41"
+      },
+      {
+        "dependent": ["storage.en.41", "game.en.41", "anticheat"],
+        "name": "yyhuodong.en.41"
+      },
+      {
+        "dependent": ["storage.en.41"],
+        "name": "arena.en.41"
+      },
+      {
+        "dependent": ["storage.en.41"],
+        "name": "union.en.41"
+      },
+      {
+        "dependent": ["storage.en.41"],
+        "name": "card_fight.en.41"
+      },
+      {
+        "dependent": ["storage.en.41", "game.en.41", "anticheat"],
+        "name": "union_fight.en.41"
+      },
+      {
+        "dependent": ["storage.en.41", "game.en.41", "anticheat"],
+        "name": "craft.en.41"
+      },
+      {
+        "dependent": ["storage.en.41", "game.en.41"],
+        "name": "gym.en.41"
+      },
+      {
+        "dependent": ["storage.en.41"],
+        "name": "clone.en.41"
+      },
+      {
+        "dependent": ["storage.en.41"],
+        "name": "hunting.en.41"
+      }
+    ]
+  },
+  "pvp.en.42": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.42"],
+        "name": "pvp.en.42"
+      },
+      {
+        "dependent": ["storage.en.42", "game.en.42", "anticheat"],
+        "name": "yyhuodong.en.42"
+      },
+      {
+        "dependent": ["storage.en.42"],
+        "name": "arena.en.42"
+      },
+      {
+        "dependent": ["storage.en.42"],
+        "name": "union.en.42"
+      },
+      {
+        "dependent": ["storage.en.42"],
+        "name": "card_fight.en.42"
+      },
+      {
+        "dependent": ["storage.en.42", "game.en.42", "anticheat"],
+        "name": "union_fight.en.42"
+      },
+      {
+        "dependent": ["storage.en.42", "game.en.42", "anticheat"],
+        "name": "craft.en.42"
+      },
+      {
+        "dependent": ["storage.en.42", "game.en.42"],
+        "name": "gym.en.42"
+      },
+      {
+        "dependent": ["storage.en.42"],
+        "name": "clone.en.42"
+      },
+      {
+        "dependent": ["storage.en.42"],
+        "name": "hunting.en.42"
+      }
+    ]
+  },
+  "pvp.en.43": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.43"],
+        "name": "pvp.en.43"
+      },
+      {
+        "dependent": ["storage.en.43", "game.en.43", "anticheat"],
+        "name": "yyhuodong.en.43"
+      },
+      {
+        "dependent": ["storage.en.43"],
+        "name": "arena.en.43"
+      },
+      {
+        "dependent": ["storage.en.43"],
+        "name": "union.en.43"
+      },
+      {
+        "dependent": ["storage.en.43"],
+        "name": "card_fight.en.43"
+      },
+      {
+        "dependent": ["storage.en.43", "game.en.43", "anticheat"],
+        "name": "union_fight.en.43"
+      },
+      {
+        "dependent": ["storage.en.43", "game.en.43", "anticheat"],
+        "name": "craft.en.43"
+      },
+      {
+        "dependent": ["storage.en.43", "game.en.43"],
+        "name": "gym.en.43"
+      },
+      {
+        "dependent": ["storage.en.43"],
+        "name": "clone.en.43"
+      },
+      {
+        "dependent": ["storage.en.43"],
+        "name": "hunting.en.43"
+      }
+    ]
+  },
+  "pvp.en.44": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.44"],
+        "name": "pvp.en.44"
+      },
+      {
+        "dependent": ["storage.en.44", "game.en.44", "anticheat"],
+        "name": "yyhuodong.en.44"
+      },
+      {
+        "dependent": ["storage.en.44"],
+        "name": "arena.en.44"
+      },
+      {
+        "dependent": ["storage.en.44"],
+        "name": "union.en.44"
+      },
+      {
+        "dependent": ["storage.en.44"],
+        "name": "card_fight.en.44"
+      },
+      {
+        "dependent": ["storage.en.44", "game.en.44", "anticheat"],
+        "name": "union_fight.en.44"
+      },
+      {
+        "dependent": ["storage.en.44", "game.en.44", "anticheat"],
+        "name": "craft.en.44"
+      },
+      {
+        "dependent": ["storage.en.44", "game.en.44"],
+        "name": "gym.en.44"
+      },
+      {
+        "dependent": ["storage.en.44"],
+        "name": "clone.en.44"
+      },
+      {
+        "dependent": ["storage.en.44"],
+        "name": "hunting.en.44"
+      }
+    ]
+  },
+  "pvp.en.45": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.45"],
+        "name": "pvp.en.45"
+      },
+      {
+        "dependent": ["storage.en.45", "game.en.45", "anticheat"],
+        "name": "yyhuodong.en.45"
+      },
+      {
+        "dependent": ["storage.en.45"],
+        "name": "arena.en.45"
+      },
+      {
+        "dependent": ["storage.en.45"],
+        "name": "union.en.45"
+      },
+      {
+        "dependent": ["storage.en.45"],
+        "name": "card_fight.en.45"
+      },
+      {
+        "dependent": ["storage.en.45", "game.en.45", "anticheat"],
+        "name": "union_fight.en.45"
+      },
+      {
+        "dependent": ["storage.en.45", "game.en.45", "anticheat"],
+        "name": "craft.en.45"
+      },
+      {
+        "dependent": ["storage.en.45", "game.en.45"],
+        "name": "gym.en.45"
+      },
+      {
+        "dependent": ["storage.en.45"],
+        "name": "clone.en.45"
+      },
+      {
+        "dependent": ["storage.en.45"],
+        "name": "hunting.en.45"
+      }
+    ]
+  },
+  "pvp.en.46": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.46"],
+        "name": "pvp.en.46"
+      },
+      {
+        "dependent": ["storage.en.46", "game.en.46", "anticheat"],
+        "name": "yyhuodong.en.46"
+      },
+      {
+        "dependent": ["storage.en.46"],
+        "name": "arena.en.46"
+      },
+      {
+        "dependent": ["storage.en.46"],
+        "name": "union.en.46"
+      },
+      {
+        "dependent": ["storage.en.46"],
+        "name": "card_fight.en.46"
+      },
+      {
+        "dependent": ["storage.en.46", "game.en.46", "anticheat"],
+        "name": "union_fight.en.46"
+      },
+      {
+        "dependent": ["storage.en.46", "game.en.46", "anticheat"],
+        "name": "craft.en.46"
+      },
+      {
+        "dependent": ["storage.en.46", "game.en.46"],
+        "name": "gym.en.46"
+      },
+      {
+        "dependent": ["storage.en.46"],
+        "name": "clone.en.46"
+      },
+      {
+        "dependent": ["storage.en.46"],
+        "name": "hunting.en.46"
+      }
+    ]
+  },
+  "pvp.en.47": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.47"],
+        "name": "pvp.en.47"
+      },
+      {
+        "dependent": ["storage.en.47", "game.en.47", "anticheat"],
+        "name": "yyhuodong.en.47"
+      },
+      {
+        "dependent": ["storage.en.47"],
+        "name": "arena.en.47"
+      },
+      {
+        "dependent": ["storage.en.47"],
+        "name": "union.en.47"
+      },
+      {
+        "dependent": ["storage.en.47"],
+        "name": "card_fight.en.47"
+      },
+      {
+        "dependent": ["storage.en.47", "game.en.47", "anticheat"],
+        "name": "union_fight.en.47"
+      },
+      {
+        "dependent": ["storage.en.47", "game.en.47", "anticheat"],
+        "name": "craft.en.47"
+      },
+      {
+        "dependent": ["storage.en.47", "game.en.47"],
+        "name": "gym.en.47"
+      },
+      {
+        "dependent": ["storage.en.47"],
+        "name": "clone.en.47"
+      },
+      {
+        "dependent": ["storage.en.47"],
+        "name": "hunting.en.47"
+      }
+    ]
+  },
+  "pvp.en.48": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.48"],
+        "name": "pvp.en.48"
+      },
+      {
+        "dependent": ["storage.en.48", "game.en.48", "anticheat"],
+        "name": "yyhuodong.en.48"
+      },
+      {
+        "dependent": ["storage.en.48"],
+        "name": "arena.en.48"
+      },
+      {
+        "dependent": ["storage.en.48"],
+        "name": "union.en.48"
+      },
+      {
+        "dependent": ["storage.en.48"],
+        "name": "card_fight.en.48"
+      },
+      {
+        "dependent": ["storage.en.48", "game.en.48", "anticheat"],
+        "name": "union_fight.en.48"
+      },
+      {
+        "dependent": ["storage.en.48", "game.en.48", "anticheat"],
+        "name": "craft.en.48"
+      },
+      {
+        "dependent": ["storage.en.48", "game.en.48"],
+        "name": "gym.en.48"
+      },
+      {
+        "dependent": ["storage.en.48"],
+        "name": "clone.en.48"
+      },
+      {
+        "dependent": ["storage.en.48"],
+        "name": "hunting.en.48"
+      }
+    ]
+  },
+  "pvp.en.49": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": ["storage.en.49"],
+        "name": "pvp.en.49"
+      },
+      {
+        "dependent": ["storage.en.49", "game.en.49", "anticheat"],
+        "name": "yyhuodong.en.49"
+      },
+      {
+        "dependent": ["storage.en.49"],
+        "name": "arena.en.49"
+      },
+      {
+        "dependent": ["storage.en.49"],
+        "name": "union.en.49"
+      },
+      {
+        "dependent": ["storage.en.49"],
+        "name": "card_fight.en.49"
+      },
+      {
+        "dependent": ["storage.en.49", "game.en.49", "anticheat"],
+        "name": "union_fight.en.49"
+      },
+      {
+        "dependent": ["storage.en.49", "game.en.49", "anticheat"],
+        "name": "craft.en.49"
+      },
+      {
+        "dependent": ["storage.en.49", "game.en.49"],
+        "name": "gym.en.49"
+      },
+      {
+        "dependent": ["storage.en.49"],
+        "name": "clone.en.49"
+      },
+      {
+        "dependent": ["storage.en.49"],
+        "name": "hunting.en.49"
+      }
+    ]
+  }
+}

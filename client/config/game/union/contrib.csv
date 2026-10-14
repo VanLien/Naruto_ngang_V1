@@ -1,0 +1,6 @@
+﻿VariableName,award,contrib,cost,title,vipNeed
+Defaults,{gold=100},1,{},,0
+ID,award,contrib,cost,title,vipNeed
+1,{coin3=50},50,{gold=30000},contribute1,
+2,{coin3=100},100,{rmb=30},contribute2,
+3,{coin3=250},250,{rmb=100},contribute3,5

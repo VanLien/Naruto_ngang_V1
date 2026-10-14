@@ -1,0 +1,59 @@
+﻿VariableName,skinID,roleID,itemID,cardID,icon,languages,name,unlockDesc
+Defaults,,,,,config/portrait/speedranktouxiang/img_25_pkq@.png,<cn;tw;en;vn;th;kr>,,特殊途径解锁
+ID,skinID,roleID,itemID,cardID,icon,languages,name,unlockDesc
+13,,,,121,config/portrait/toptouxiang/img_121.png,,Iruka,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+14,,,,1001,config/portrait/toptouxiang/img_1001.png,,Kiba,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+15,,,,1011,config/portrait/toptouxiang/img_1011.png,,Tenten,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+16,,,,1021,config/portrait/toptouxiang/img_1021.png,,Sakura,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+17,,,,1031,config/portrait/toptouxiang/img_1031.png,,Lee,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+18,,,,1041,config/portrait/toptouxiang/img_1041.png,,Ino,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+19,,,,1051,config/portrait/toptouxiang/img_1051.png,,Hinata,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+20,,,,1061,config/portrait/toptouxiang/img_1061.png,,Choji,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+21,,,,1071,config/portrait/toptouxiang/img_1071.png,,Shino,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+22,,,,1081,config/portrait/toptouxiang/img_1081.png,,Shikamaru,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+23,,,,1091,config/portrait/toptouxiang/img_1091.png,,Naruto,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+24,,,,1101,config/portrait/toptouxiang/img_1101.png,,Neji,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+25,,,,1111,config/portrait/toptouxiang/img_1111.png,,Sasuke,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+26,,,,1121,config/portrait/toptouxiang/img_1121.png,,Sai,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+27,,,,1131,config/portrait/toptouxiang/img_1131.png,,Suigetsu,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+28,,,,1141,config/portrait/toptouxiang/img_1141.png,,Karin,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+29,,,,1151,config/portrait/toptouxiang/img_1151.png,,Jugo,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+30,,,,1161,config/portrait/toptouxiang/img_1161.png,,Kimimaro,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+31,,,,1171,config/portrait/toptouxiang/img_1171.png,,Kabuto,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+32,,,,1181,config/portrait/toptouxiang/img_1181.png,,Zabuza,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+33,,,,1191,config/portrait/toptouxiang/img_1191.png,,Haku,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+34,,,,2001,config/portrait/toptouxiang/img_2001.png,,Temari (สงครามนินจา),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+35,,,,2011,config/portrait/toptouxiang/img_2011.png,,Kankuro (สงครามนินจา),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+37,,,,2031,config/portrait/toptouxiang/img_2031.png,,Hidan,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+38,,,,2041,config/portrait/toptouxiang/img_2041.png,,Deidara,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+39,,,,2051,config/portrait/toptouxiang/img_2051.png,,Kisame,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+40,,,,2061,config/portrait/toptouxiang/img_2061.png,,Kakuzu,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+41,,,,2071,config/portrait/toptouxiang/img_2071.png,,Killer Bee,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+42,,,,2081,config/portrait/toptouxiang/img_2081.png,,Chiyo,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+43,,,,2091,config/portrait/toptouxiang/img_2091.png,,Konan,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+44,,,,2101,config/portrait/toptouxiang/img_2101.png,,Sasori,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+45,,,,2111,config/portrait/toptouxiang/img_2111.png,,Danzo,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+46,,,,2121,config/portrait/toptouxiang/img_2121.png,,Asuma,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+47,,,,2131,config/portrait/toptouxiang/img_2131.png,,Yamato,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+48,,,,2141,config/portrait/toptouxiang/img_2141.png,,Jiraiya,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+49,,,,2151,config/portrait/toptouxiang/img_2151.png,,Kurenai,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+50,,,,2161,config/portrait/toptouxiang/img_2161.png,,Itachi,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+51,,,,2171,config/portrait/toptouxiang/img_2171.png,,Guy,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+52,,,,2181,config/portrait/toptouxiang/img_2181.png,,Kakashi,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+53,,,,2191,config/portrait/toptouxiang/img_2191.png,,Tsunade,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+54,,,,2201,config/portrait/toptouxiang/img_2201.png,,Orochimaru,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+55,,,,2211,config/portrait/toptouxiang/img_2211.png,,Gaara,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+56,,,,3001,config/portrait/toptouxiang/img_3001.png,,Naruto (Sage Mode),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+57,,,,3011,config/portrait/toptouxiang/img_3011.png,,Minato Namikaze,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+58,,,,3021,config/portrait/toptouxiang/img_3021.png,,Kakashi (Kamui),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+59,,,,3031,config/portrait/toptouxiang/img_3031.png,,Guy (Eight Gates),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+60,,,,3041,config/portrait/toptouxiang/img_3041.png,,Tsunade (Byakugō),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+61,,,,3051,config/portrait/toptouxiang/img_3051.png,,Jiraiya (Sage Mode),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+62,,,,3061,config/portrait/toptouxiang/img_3061.png,,Hiruzen Sarutobi,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+63,,,,3071,config/portrait/toptouxiang/img_3071.png,,Tobirama Senju,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+64,,,,3141,config/portrait/toptouxiang/img_3141.png,,Pain (Tendo),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+65,,,,3151,config/portrait/toptouxiang/img_3151.png,,Nagato (Edo Tensei),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+66,,,,3161,config/portrait/toptouxiang/img_3161.png,,Hashirama (ยุควอร์),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+68,,,,3121,config/portrait/toptouxiang/img_3121.png,,Sasuke (Susanoo),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+69,,,,3131,config/portrait/toptouxiang/img_3131.png,,Itachi (Susanoo),Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng
+70,,,,3241,config/portrait/toptouxiang/img_3241.png,,itachi Ronin,Nhận được sau khi mở khóa Sổ Tay Ninja tương ứng

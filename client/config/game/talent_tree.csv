@@ -1,0 +1,7 @@
+﻿VariableName,des,icon,languages,name,preTalentpoint,roleLevel,showLevel
+Defaults,,,<cn;tw;en;vn;th;kr>,,,,
+ID,des,icon,languages,name,preTalentpoint,roleLevel,showLevel
+1,Chỉ số cơ bản của toàn đội,talent/icon_jc.png,,Cơ Bản,0,25,0
+2,Chỉ số thưởng từ Ninja trong đội,talent/icon_jj.png,,Nâng Cao,150,45,0
+3,Thưởng đặc biệt riêng của Ninja #F36##C0xf76b45#（#C0x5B545B#Thưởng HP trong【Chỉ số】chỉ có hiệu lực với Ninja có cùng hệ）,talent/icon_ys.png,,Chỉ Số,220,65,0
+4,Thưởng đặc biệt trong chế độ sự kiện,talent/icon_tz.png,<cn>,Thử Thách,350,75,0

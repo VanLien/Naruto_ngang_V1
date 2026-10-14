@@ -1,0 +1,238 @@
+{
+
+ 
+ "crossdb.vn.1": {
+ "mainnsqd": "180.93.98.5:4150",
+   "nsqlookupd": "http://180.93.98.5:4161/", 
+   "services": [
+     {
+       "dbname": "cross_vn_1", 
+       "mongodb": "180.93.98.5:27022",
+       "name": "crossdb.vn.1", 
+       "pool_limit": 10
+     }
+   ]
+ },
+ "crossdb.vn.2": {
+ "mainnsqd": "180.93.98.5:4150",
+   "nsqlookupd": "http://180.93.98.5:4161/", 
+   "services": [
+     {
+       "dbname": "cross_vn_2", 
+       "mongodb": "180.93.98.5:27022",
+       "name": "crossdb.vn.2", 
+       "pool_limit": 10
+     }
+   ]
+ },
+ "commentdb.vn.1": {
+   "mainnsqd": "180.93.98.5:4150",
+   "nsqlookupd": "http://180.93.98.5:4161/", 
+   "services": [
+     {
+       "dbname": "comment_vn_1", 
+       "mongodb": "180.93.98.5:27022",
+       "name": "commentdb.vn.1", 
+       "pool_limit": 10
+     }
+   ]
+ },
+ "comment.vn.1": {
+   "mainnsqd": "180.93.98.5:4150", 
+   "nsqlookupd": "http://180.93.98.5:4161/",
+   "services": [
+     {
+       "dependent": [
+         "commentdb.vn.1"
+       ], 
+       "name": "card_comment.vn.1"
+     }, 
+     {
+       "dependent": [
+         "commentdb.vn.1"
+       ], 
+       "name": "card_score.vn.1"
+     }
+   ]
+ },
+ "cross.vn.1": {
+   "mainnsqd": "180.93.98.5:4150", 
+   "nsqlookupd": "http://180.93.98.5:4161/",
+   "services": [
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ],
+       "name": "crossmatch.vn.1"
+     },
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.1"
+       ], 
+       "name": "crosscraft.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "crossfishing.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "huodongboss.vn.1"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.1"
+       ], 
+       "name": "crossarena.vn.1"
+     }, 
+     {
+       "dependent": [
+         "online_fight_forward", 
+         "crosslobby.vn.1", 
+         "crossdb.vn.1"
+       ], 
+       "name": "onlinefight.vn.1"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.1"
+       ], 
+       "name": "crossgym.vn.1"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.1"
+       ], 
+       "name": "crossmine.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "crossunionqa.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "skyscraper.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "crossredpacket.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "crossranking.vn.1"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.1"
+       ], 
+       "name": "crosshorse.vn.1"
+     }
+   ]    
+ },
+ "cross.vn.2": {
+   "mainnsqd": "180.93.98.5:4150", 
+   "nsqlookupd": "http://180.93.98.5:4161/",
+   "services": [
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ],
+       "name": "crossmatch.vn.2"
+     },
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.2"
+       ], 
+       "name": "crosscraft.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "crossfishing.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "huodongboss.vn.2"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.2"
+       ], 
+       "name": "crossarena.vn.2"
+     }, 
+     {
+       "dependent": [
+         "online_fight_forward", 
+         "crosslobby.vn.2", 
+         "crossdb.vn.2"
+       ], 
+       "name": "onlinefight.vn.2"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.2"
+       ], 
+       "name": "crossgym.vn.2"
+     }, 
+     {
+       "dependent": [
+         "anticheat", 
+         "crossdb.vn.2"
+       ], 
+       "name": "crossmine.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "crossunionqa.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "skyscraper.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "crossredpacket.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "crossranking.vn.2"
+     }, 
+     {
+       "dependent": [
+         "crossdb.vn.2"
+       ], 
+       "name": "crosshorse.vn.2"
+     }
+   ]    
+ }
+}

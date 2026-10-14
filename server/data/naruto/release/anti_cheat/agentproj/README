@@ -1,0 +1,11 @@
+autoscan
+aclocal -I /usr/share/libtool
+autoconf
+autoheader
+libtoolize
+automake --add-missing
+
+autoreconf -i
+
+./configure
+make

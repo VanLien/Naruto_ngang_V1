@@ -1,0 +1,97 @@
+
+yunhsi2.png
+size: 802,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguanghuan1
+  rotate: true
+  xy: 496, 399
+  size: 632, 151
+  orig: 632, 151
+  offset: 0, 0
+  index: -1
+diguanghuan2
+  rotate: true
+  xy: 649, 399
+  size: 632, 150
+  orig: 632, 150
+  offset: 0, 0
+  index: -1
+diguanghuan3
+  rotate: false
+  xy: 1, 40
+  size: 620, 139
+  orig: 620, 139
+  offset: 0, 0
+  index: -1
+diyuan1
+  rotate: true
+  xy: 1, 212
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+diyuan2
+  rotate: true
+  xy: 442, 460
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+diyuan3
+  rotate: false
+  xy: 623, 1
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 541
+  size: 493, 490
+  orig: 493, 490
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 641, 232
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: true
+  xy: 641, 65
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+nq
+  rotate: false
+  xy: 1, 300
+  size: 240, 239
+  orig: 240, 239
+  offset: 0, 0
+  index: -1
+skill2_2_1
+  rotate: false
+  xy: 243, 343
+  size: 197, 196
+  orig: 210, 210
+  offset: 8, 9
+  index: -1
+skill2_2_2
+  rotate: false
+  xy: 442, 201
+  size: 197, 196
+  orig: 210, 210
+  offset: 8, 9
+  index: -1
+xuanhzong
+  rotate: false
+  xy: 243, 181
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

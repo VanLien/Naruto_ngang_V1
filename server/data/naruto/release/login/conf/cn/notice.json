@@ -1,0 +1,43 @@
+{
+  "activity": [
+    {
+      "content": [
+        {
+          "content": "Máy chủ sẽ được chính thức ra mắt lúc 10h ngày 00/00/2023!", 
+          "title": "Lịch ra máy chủ mới"
+        },       
+        {
+          "content": "Sensei tặng bộ GIFTCODE chung cho toàn thể Nhẫn Giả: \n   「LIKENINJA」\n   「VIP999」\n   「FANNINJA」\n   「TOPNINJAVN」\nHãy đến và tham gia cuộc phiêu lưu này ngay bây giờ cùng Sensei nào!!!", 
+          "title": "Quà tặng tân thủ"
+        }
+      ], 
+      "id": 100, 
+      "titlebar": "Thông báo"
+    }
+  ], 
+  "banner": [
+    "login/img_banner_02@.png", 
+    "login/img_banner_03@.png",
+    "login/img_banner_01@.png" 
+  ],
+  "caution": [
+    {
+      "content": "Cảnh Báo Lừa Đảo",
+      "title": "Lưu ý"
+    },
+    {
+      "content": "Hiện tại, Làng Lá Thức Tỉnh chỉ nạp qua kênh nạp duy nhất trong game\nBất cứ trang nạp nào khác đều là giả mạo và BQT sẽ không chịu trách nhiệm nếu các Nhẫn Giả bị lừa khi nạp vào những trang giả mạo khác!\nNếu nạp quá lâu mà không nhận được「Tiền」vui lòng liên hệ「Fanpage」để được hỗ trợ nhanh nhất!\nTrân trọng!",
+      "title": "Cảnh báo"
+    }
+  ],
+  "update": [
+    {
+      "content": "Phiên bản Naruto mới nhất, chuẩn nhất 2023",
+      "title": "Nội dung cập nhật"
+    },
+    {
+      "content": "Chào mừng các Nhẫn Giả đã đến với Làng Lá Thức Tỉnh, Sensei tặng phần quà「VIP 5」+「5k Nguyên Bảo」tri ân cho tân thủ với tài khoản mới đăng ký",
+      "title": "Nội dung cập nhật"
+    }
+  ]
+}

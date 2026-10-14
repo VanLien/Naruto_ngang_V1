@@ -1,0 +1,111 @@
+
+neji02_sk2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagua_1
+  rotate: false
+  xy: 641, 3
+  size: 298, 115
+  orig: 298, 115
+  offset: 0, 0
+  index: -1
+bagua_2
+  rotate: false
+  xy: 641, 120
+  size: 340, 127
+  orig: 340, 127
+  offset: 0, 0
+  index: -1
+bagua_3
+  rotate: false
+  xy: 983, 149
+  size: 259, 98
+  orig: 259, 98
+  offset: 0, 0
+  index: -1
+bagua_4
+  rotate: false
+  xy: 2, 2
+  size: 637, 245
+  orig: 637, 245
+  offset: 0, 0
+  index: -1
+bdii_0
+  rotate: false
+  xy: 1244, 167
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1
+di_0
+  rotate: false
+  xy: 1421, 177
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_1
+  rotate: false
+  xy: 1549, 177
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_2
+  rotate: false
+  xy: 1677, 177
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_3
+  rotate: false
+  xy: 1805, 177
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_4
+  rotate: false
+  xy: 983, 77
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_5
+  rotate: false
+  xy: 1111, 77
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_6
+  rotate: false
+  xy: 941, 5
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_7
+  rotate: false
+  xy: 1069, 5
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_8
+  rotate: false
+  xy: 1244, 95
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+di_9
+  rotate: true
+  xy: 1933, 121
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1

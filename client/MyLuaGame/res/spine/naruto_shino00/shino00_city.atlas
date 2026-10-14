@@ -1,0 +1,62 @@
+
+shino00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0058
+  rotate: true
+  xy: 636, 401
+  size: 93, 278
+  orig: 93, 278
+  offset: 0, 0
+  index: -1
+idle_0061
+  rotate: true
+  xy: 2, 99
+  size: 114, 279
+  orig: 114, 279
+  offset: 0, 0
+  index: -1
+idle_0069
+  rotate: false
+  xy: 2, 215
+  size: 177, 279
+  orig: 177, 279
+  offset: 0, 0
+  index: -1
+idle_0077
+  rotate: false
+  xy: 181, 215
+  size: 171, 279
+  orig: 171, 279
+  offset: 0, 0
+  index: -1
+idle_0102
+  rotate: true
+  xy: 354, 381
+  size: 113, 280
+  orig: 113, 280
+  offset: 0, 0
+  index: -1
+stand_0020
+  rotate: true
+  xy: 354, 189
+  size: 94, 277
+  orig: 94, 277
+  offset: 0, 0
+  index: -1
+stand_0030
+  rotate: true
+  xy: 354, 285
+  size: 94, 278
+  orig: 94, 278
+  offset: 0, 0
+  index: -1
+stand_0037
+  rotate: true
+  xy: 2, 2
+  size: 95, 278
+  orig: 95, 278
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+*.o
+.deps
+.history
+.vscode
+.svn

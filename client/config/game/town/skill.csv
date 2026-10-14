@@ -1,0 +1,13 @@
+﻿VariableName,belongBase,desc,effect,icon,level,name,skill,type,upgradeCondition
+Defaults,0,,<>,,0,,0,0,<>
+ID,belongBase,desc,effect,icon,level,name,skill,type,upgradeCondition
+1,,,,,1,,101,,
+2,,,,,2,,101,,<1;1>
+3,,,,,3,,101,,<2;1>
+4,,,,,4,,101,,<3;1>
+5,,,,,5,,101,,<4;1>
+6,,,,,1,,102,,
+7,,,,,2,,102,,<1;1>
+8,,,,,3,,102,,<2;1>
+9,,,,,4,,102,,<3;1>
+10,,,,,5,,102,,<4;1>

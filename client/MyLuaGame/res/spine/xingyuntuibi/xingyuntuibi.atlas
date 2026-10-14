@@ -1,0 +1,83 @@
+
+xingyuntuibi.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 2, 5
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 209, 68
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 1355, 132
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+tuidi
+  rotate: false
+  xy: 2, 127
+  size: 734, 120
+  orig: 734, 120
+  offset: 0, 0
+  index: -1
+wezdi
+  rotate: false
+  xy: 738, 17
+  size: 615, 230
+  orig: 615, 230
+  offset: 0, 0
+  index: -1
+xng
+  rotate: false
+  xy: 124, 43
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 1529, 192
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+yaogan_1
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+yaogan_3
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+yaogan_2
+  rotate: false
+  xy: 1472, 144
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1355, 48
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1

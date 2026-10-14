@@ -1,0 +1,43 @@
+﻿VariableName,challengeAward,desc,firstAward,gateID,killAward,name,repeatAward
+Defaults,{},,{},0,{},,{}
+ID,challengeAward,desc,firstAward,gateID,killAward,name,repeatAward
+1,{900=3;gold=10000;5000=2;coin3=50},"“Mở toàn bộ trang bị Ninja, đừng chớp mắt!”",{19=2;932=20;5000=20},1000,{gold=100000;rmb=100},Tenten,{951=1;932=10;gold=100000}
+2,{900=3;gold=10000;5000=2;coin3=50},“Hôm nay cũng sẽ bảo vệ học sinh!”,{519=1;932=20;5000=20},1001,{gold=100000;rmb=100},Iruka,{951=1;932=10;gold=100000}
+3,{900=3;gold=10000;5000=2;coin3=50},“Lần này... tôi sẽ không lùi bước.”,{932=25;5000=25;502=1},1002,{gold=100000;rmb=100},Hinata Hyuga,{951=1;932=10;gold=100000}
+4,{900=3;gold=10000;5000=2;coin3=50},"“Trái tim của ngươi, ta sẽ khống chế.”",{932=25;5000=25;rmb=100},1003,{gold=100000;rmb=100},Ino Yamanaka,{951=1;932=10;gold=100000}
+5,{900=3;gold=10000;5000=2;coin3=50},"“Xe tăng thịt nghiền nát, đập ngươi tan tành!”",{932=30;5000=30;501=1},1004,{gold=100000;rmb=100},Choji Akimichi,{951=1;932=10;gold=100000}
+6,{900=3;gold=10000;5000=2;coin3=50},"“Phân thân thuật, lên!”",{19=2;932=30;5000=30},1005,{gold=100000;rmb=100},Naruto Uzumaki,{951=1;932=10;gold=110000}
+7,{900=3;gold=10000;5000=2;coin3=50},"“Áp sát kẻ địch, một đòn!”",{519=1;932=35;5000=35},1006,{gold=100000;rmb=100},Sasuke Uchiha,{951=1;932=15;gold=110000}
+8,{900=3;gold=10000;5000=2;coin3=50},“Ấn chú... đang bùng nổ!”,{932=35;5000=35;502=1},1007,{gold=100000;rmb=100},Jugo,{951=1;932=15;gold=120000}
+9,{900=3;gold=10000;5000=2;coin3=50},“Bọ đã bao vây ngươi.”,{932=40;5000=40;rmb=100},1008,{gold=100000;rmb=100},Shino Aburame,{951=1;932=15;gold=120000}
+10,{900=3;gold=10000;5000=2;coin3=50},"“Kiếm xương, đứng lên nhảy múa!”",{932=40;5000=40;501=1},1009,{gold=100000;rmb=100},Kimimaro,{951=1;932=15;gold=130000}
+11,{900=3;gold=10000;5000=2;coin3=50},"“Dữ liệu, đã phân tích xong.”",{19=2;932=50;5000=50},1010,{gold=100000;rmb=100},Kabuto,{951=1;932=20;gold=130000}
+12,{900=3;gold=10000;5000=2;coin3=50},"“Ám sát không tiếng động, bắt đầu!”",{519=1;932=50;5000=50},1011,{gold=100000;rmb=100},Sai,{951=1;932=20;gold=140000}
+13,{900=3;gold=10000;5000=2;coin3=50},“Năm mạng đủ để đối đầu với ngươi không?”,{932=50;5000=50;502=1},1012,{gold=100000;rmb=100},Kakuzu,{951=1;932=20;gold=150000}
+14,{900=3;gold=10000;5000=2;coin3=50},“Yo! Rap tiễn ngươi đi!”,{932=60;5000=60;rmb=100},1013,{gold=100000;rmb=100},Killer B,{951=1;932=20;gold=160000}
+15,{900=3;gold=10000;5000=2;coin3=50},“Con rối không phải đồ chơi.”,{932=60;5000=60;501=1},1014,{gold=100000;rmb=100},Chiyo,{951=1;932=25;gold=170000}
+16,{900=3;gold=10000;5000=2;coin3=50},"“Bí thuật đỏ, điều khiển trăm cơ quan!”",{19=2;932=60;5000=60},1015,{gold=100000;rmb=100},Sasuke,{951=2;932=25;gold=180000}
+17,{900=3;gold=10000;5000=2;coin3=50},"“Vây cá mập, đã đói rồi.”",{519=1;932=70;5000=70},1016,{gold=100000;rmb=100},Killer B,{951=2;932=25;gold=190000}
+18,{900=3;gold=10000;5000=2;coin3=50},“Huyết chú đã sẵn sàng.”,{932=70;5000=70;501=1},1017,{gold=100000;rmb=100},Hidan,{951=2;932=25;gold=200000}
+19,{900=3;gold=10000;5000=2;coin3=50},“Căn nguyên bóng tối nuốt chửng ánh sáng.”,{932=70;5000=70;rmb=100},1018,{gold=100000;rmb=100},Danzo Shimura,{951=2;932=30;gold=210000}
+20,{900=3;gold=10000;5000=2;coin3=50},"“Tiên thuật Núi Myoboku, xuất hiện!”",{932=80;5000=80;501=1},1019,{gold=100000;rmb=100},Jiraiya,{951=2;932=30;gold=220000}
+21,{900=3;gold=10000;5000=2;coin3=50},"“Tsukuyomi, vĩnh hằng trong khoảnh khắc.”",{19=2;932=80;5000=80},1020,{gold=100000;rmb=100},Itachi Uchiha,{951=2;932=30;gold=230000}
+22,{900=3;gold=10000;5000=2;coin3=50},"“Gương băng, phong tỏa tất cả.”",{519=1;932=80;5000=80},1021,{gold=100000;rmb=100},Haku,{951=2;932=35;gold=240000}
+23,{900=3;gold=10000;5000=2;coin3=50},“Phong Độn · Liệt Phong Trảm!”,{932=90;5000=90;501=1},1022,{gold=100000;rmb=100},Temari (Chiến tranh Ninja),{951=2;932=35;gold=250000}
+24,{900=3;gold=10000;5000=2;coin3=50},"“Rắn lột da, sinh mệnh mới đã đến.”",{932=90;5000=90;rmb=100},1023,{gold=100000;rmb=100},Kabuto (Orochimaru),{951=2;932=35;gold=260000}
+25,{900=3;gold=10000;5000=2;coin3=50},“Bát Môn Độn Giáp mở!”,{932=90;5000=90;501=1},1024,{gold=100000;rmb=100},Might Guy,{951=2;932=40;gold=270000}
+26,{900=3;gold=10000;5000=2;coin3=50},“Raikiri xuyên thủng bóng tối”,{19=2;932=100;5000=100},1025,{gold=100000;rmb=100},Kakashi,{951=2;932=40;gold=280000}
+27,{900=3;gold=10000;5000=2;coin3=50},"“Sức mạnh khổng lồ, giải quyết bằng một cú đấm!”",{519=1;932=100;5000=100},1026,{gold=100000;rmb=100},Tsunade,{951=2;932=40;gold=290000}
+28,{900=3;gold=10000;5000=2;coin3=50},"“Thác cát, chôn vùi ngươi!”",{932=110;5000=110;501=1},1027,{gold=100000;rmb=100},Gaara,{951=2;932=40;gold=300000}
+29,{900=3;gold=10000;5000=2;coin3=50},“Rasengan khổng lồ (Tiên thuật)”,{932=110;5000=110;rmb=100},1028,{gold=100000;rmb=100},Naruto (Chế độ Tiên Nhân),{951=2;932=40;gold=310000}
+30,{900=3;gold=10000;5000=2;coin3=50},“Phong Độn · Hỏa Tro Hợp!”,{932=110;5000=110;501=1},1029,{gold=100000;rmb=100},Asuma,{951=2;932=40;gold=320000}
+31,{900=3;gold=10000;5000=2;coin3=50},"“Bách Hào Chi Ấn, mở hoàn toàn!”",{19=2;932=120;5000=120},1030,{gold=100000;rmb=100},Tsunade (Chế độ Bách Hào),{951=3;932=45;gold=330000}
+32,{900=3;gold=10000;5000=2;coin3=50},“Tiên thuật · Goemon!”,{519=1;932=120;5000=120},1031,{gold=100000;rmb=100},Jiraiya (Chế độ Tiên Nhân),{951=3;932=45;gold=340000}
+33,{900=3;gold=10000;5000=2;coin3=50},"“Ý chí Hỏa Chi Ý, thiêu đốt mọi kẻ địch!”",{932=120;5000=120;501=1},1032,{gold=100000;rmb=100},Hiruzen Sarutobi,{951=3;932=45;gold=350000}
+34,{900=3;gold=10000;5000=2;coin3=50},“Tuổi trẻ bùng cháy!”,{932=130;5000=130;rmb=100},1033,{gold=100000;rmb=100},Might Guy (Chế độ Kinh Môn),{951=3;932=45;gold=360000}
+35,{900=3;gold=10000;5000=2;coin3=50},“Kamui xé toạc không gian!”,{932=130;5000=130;501=1},1034,{gold=100000;rmb=100},Kakashi (Chế độ Kamui),{951=3;932=45;gold=370000}
+36,{900=3;gold=10000;5000=2;coin3=50},"“Hiraishin, giết trong chớp mắt!”",{19=2;932=140;5000=140},1035,{gold=100000;rmb=100},Minato Namikaze,{951=3;932=50;gold=380000}
+37,{900=3;gold=10000;5000=2;coin3=50},King (Chế độ Kingmon) dường như đã nhận được sức mạnh mạnh hơn,{519=1;932=140;5000=140},1036,{gold=100000;rmb=100},King (Chế độ Kingmon),{951=3;932=50;gold=390000}
+38,{900=3;gold=10000;5000=2;coin3=50},Tsunade (Chế độ Bách Hào) dường như đã nhận được sức mạnh mạnh hơn,{932=140;5000=140;501=1},1037,{gold=100000;rmb=100},Tsunade (Chế độ Bách Hào),{951=3;932=50;gold=400000}
+39,{900=3;gold=10000;5000=2;coin3=50},Jiraiya (Chế độ Tiên Nhân) dường như đã nhận được sức mạnh mạnh hơn,{932=150;5000=150;rmb=100},1038,{gold=100000;rmb=100},Jiraiya (Chế độ Tiên Nhân),{951=3;932=50;gold=410000}
+40,{900=3;gold=10000;5000=2;coin3=50},Hiruzen Sarutobi dường như đã nhận được sức mạnh mạnh hơn,{932=150;5000=150;501=1},1039,{gold=100000;rmb=100},Hiruzen Sarutobi,{951=3;932=50;gold=420000}

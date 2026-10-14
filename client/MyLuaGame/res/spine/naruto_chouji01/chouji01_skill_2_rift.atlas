@@ -1,0 +1,62 @@
+
+chouji01_skill_2_rift.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 908, 113
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_groundRift_0
+  rotate: false
+  xy: 392, 113
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+fx_groundRift_1
+  rotate: false
+  xy: 2, 89
+  size: 388, 152
+  orig: 388, 152
+  offset: 0, 0
+  index: -1
+fx_groundRift_2
+  rotate: false
+  xy: 2, 2
+  size: 320, 85
+  orig: 320, 85
+  offset: 0, 0
+  index: -1
+fx_hitTrail_0
+  rotate: false
+  xy: 1298, 113
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_hitTrail_1
+  rotate: false
+  xy: 650, 113
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+fx_steamTrail_0
+  rotate: false
+  xy: 1038, 113
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steamTrail_1
+  rotate: false
+  xy: 1168, 113
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+{
+  "online_fight_forward.vn.1": {
+    "services": [
+      {
+        "name": "online_fight_forward.vn.1"
+      }
+    ], 
+    "nsqd_tcp_addresses": [
+      "180.93.98.5:4150"
+    ], 
+    "nsqlookupd": "http://180.93.98.5:4161/", 
+    "query_ip_url": "http://180.93.98.5:18080/ip"
+  }
+  
+}

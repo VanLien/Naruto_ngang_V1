@@ -1,0 +1,10 @@
+﻿VariableName,attrFix,attrType
+Defaults,,
+ID,attrFix,attrType
+1,1,cure
+2,1.2,damage
+3,1.2,specialDamage
+4,1.2,defence
+5,1.2,specialDefence
+6,1,mp1Recover
+7,1.1,hpMax

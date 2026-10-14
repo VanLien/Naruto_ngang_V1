@@ -1,0 +1,4 @@
+﻿VariableName,refreshInterval,refreshNum
+Defaults,0,{}
+ID,refreshInterval,refreshNum
+1,5,{1=10;3=50;2=40}

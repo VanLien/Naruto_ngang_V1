@@ -1,0 +1,58 @@
+{
+  "pvpmerge.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "alias": ["pvp.dev.1", "pvp.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "pvpmerge.dev.1"
+      },
+      {
+        "alias": ["yyhuodong.dev.1", "yyhuodong.dev.2"],
+        "dependent": ["storagemerge.dev.1", "gamemerge.dev.1", "anticheat"],
+        "name": "yyhuodongmerge.dev.1"
+      },
+      {
+        "alias": ["arena.dev.1", "arena.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "arenamerge.dev.1"
+      },
+      {
+        "alias": ["union.dev.1", "union.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "unionmerge.dev.1"
+      },
+      {
+        "alias": ["card_fight.dev.1", "card_fight.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "card_fightmerge.dev.1"
+      },
+      {
+        "alias": ["union_fight.dev.1", "union_fight.dev.2"],
+        "dependent": ["storagemerge.dev.1", "gamemerge.dev.1", "anticheat"],
+        "name": "union_fightmerge.dev.1"
+      },
+      {
+        "alias": ["craft.dev.1", "craft.dev.2"],
+        "dependent": ["storagemerge.dev.1", "gamemerge.dev.1", "anticheat"],
+        "name": "craftmerge.dev.1"
+      },
+      {
+        "alias": ["gym.dev.1", "gym.dev.2"],
+        "dependent": ["storagemerge.dev.1", "gamemerge.dev.1"],
+        "name": "gymmerge.dev.1"
+      },
+      {
+        "alias": ["clone.dev.1", "clone.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "clonemerge.dev.1"
+      },
+      {
+        "alias": ["hunting.dev.1", "hunting.dev.2"],
+        "dependent": ["storagemerge.dev.1"],
+        "name": "huntingmerge.dev.1"
+      }
+    ]
+  }
+}

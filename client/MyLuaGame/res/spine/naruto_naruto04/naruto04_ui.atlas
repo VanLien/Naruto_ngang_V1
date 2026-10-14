@@ -1,0 +1,62 @@
+
+naruto04_ui.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 584, 21
+  size: 103, 131
+  orig: 103, 131
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 787, 6
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 689, 2
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 356, 154
+  size: 100, 353
+  orig: 100, 353
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 149
+  size: 105, 352
+  orig: 105, 352
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 11
+  size: 136, 250
+  orig: 136, 250
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 711, 115
+  size: 139, 247
+  orig: 139, 247
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 356, 2
+  size: 150, 226
+  orig: 150, 226
+  offset: 0, 0
+  index: -1

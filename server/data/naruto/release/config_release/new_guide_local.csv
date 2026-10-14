@@ -1,0 +1,17 @@
+﻿VariableName,animateAngle,anyPosCancel,choices,force,gotoScene,lightSize,offPos,order,roleName,service,showAward,showType,specialName,stage,startGate,startLevel,tagName,talkContent,useRoleFigure
+Defaults,0,false,<>,1,0,,,0,,0,false,1,,,0,1,<>,,
+ID,animateAngle,anyPosCancel,choices,force,gotoScene,lightSize,offPos,order,roleName,service,showAward,showType,specialName,stage,startGate,startLevel,tagName,talkContent,useRoleFigure
+1,,,,,,,,,,,,2,summerChallenge101,1,,,,Pika! Pika!,
+2,,,<11;21;31>,,,,,,,1,,2,,1,,,,"Pikachu, vậy chúng ta hãy cùng nhau chiến đấu nhé!",
+11,,,,,,,,,,,,2,,1,,,,Golden Apple 2,
+21,,,,,,,,,,,,2,,1,,,,Silver Apple 2,
+31,,,,,,,,,,,,2,,1,,,,Rotten Apple 2,
+1001,,,,,,,{y=-150;x=0},,Người dẫn chương trình,,,2,summerChallenge1001,2,,,,"Chào mừng tất cả mọi người đến với sự kiện “Summer Festival Treasure Adventure”, hiện tại chúng ta đang ở trên quần đảo xinh đẹp nơi Milotic sinh sống. Trong khoảng thời gian tiếp theo, mọi người sẽ cùng chúng ta tham gia chuyến phiêu lưu đầy kích thích để truy tìm truyền thuyết về Milotic, và tiến đến ngôi đền bí ẩn giữa hồ để khám phá bí mật của nó…",<32>
+1002,,,,,,,{y=-150;x=0},,Người dẫn chương trình,,,2,,2,,,,"Nghe nói truyền thuyết về Milotic nằm dưới ngôi đền giữa hồ ở trung tâm của quần đảo này, và chìa khóa để vào ngôi đền đó được giấu trong các màn chơi đầy kịch tính của chúng ta. Chỉ có duy nhất một đội có thể vượt qua tất cả các ải thành công, mới có quyền tiến vào ngôi đền giữa hồ, nơi Milotic và kho báu tối thượng của sự kiện này đang chờ bạn!",<32>
+1003,,,,,,,{y=-150;x=0},,Người dẫn chương trình,,,2,,2,,,,"Mỗi đội sẽ nhận được một “Sổ tay phiêu lưu”, bên trong có bản đồ khu vực sự kiện, cùng với hướng dẫn chi tiết về tất cả nhiệm vụ…",<32>
+1004,,,,2,,,,,,1,,2,,2,,,,Tôi không chờ nổi nữa! Bắt đầu thôi nào!,<0>
+2001,,true,,2,,{dx=0;width=215;dy=0;height=215},{y=250;x=-800},,Rotom Pokédex,,,,mimicry,3,,,<buffLeftPanel;buffList;subList;cell>,Chạm để xem chi tiết Boss Buff,<32>
+2002,,true,,2,,{dx=0;width=82;dy=0;height=82},{y=150;x=-800},,Rotom Pokédex,,,,,3,,,<buffLeftPanel;buffList;subList;cell;markerSpace>,"Chạm để chọn Buff này và trang bị, sau khi kết thúc khiêu chiến sẽ nhận được nhiều điểm hơn",<32>
+2003,,true,,,,{dx=90;width=600;dy=450;height=400},{y=450;x=150},,Rotom Pokédex,,,,,3,,,<buffRightPanel>,"Có thể xem số lượng và hiệu ứng của Buff đã chọn, khi điểm tích lũy đạt điều kiện được chỉ định sẽ mở khóa thêm ô Buff",<32>
+2004,,true,,,,{dx=0;width=950;dy=-20;height=180},{y=250;x=-400},,Rotom Pokédex,1,,,,3,,,<bg;panel;progressBarBg>,"Sau khi chọn Buff, cấp độ của Boss sẽ tăng theo cấp Buff đã chọn, độ khó cũng sẽ tăng lên!!",<32>
+3001,,true,,2,,{dx=0;width=215;dy=0;height=215},{y=250;x=-800},,Rotom Pokédex,1,,,mimicryNewBuff,4,,,<buffLeftPanel;buffList;subList;cell>,"Sau khi kết thúc khiêu chiến, sẽ nhận được Boss Buff mới! Có thể trang bị để vượt qua độ khó và nhận phần thưởng cao hơn!",<0>

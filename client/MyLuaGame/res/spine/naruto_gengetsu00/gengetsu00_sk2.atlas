@@ -1,0 +1,27 @@
+
+gengetsu00_sk2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 84
+  size: 500, 321
+  orig: 500, 321
+  offset: 0, 0
+  index: -1
+bdii_0
+  rotate: false
+  xy: 2, 2
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1
+ybi1_0
+  rotate: false
+  xy: 504, 195
+  size: 455, 210
+  orig: 455, 210
+  offset: 0, 0
+  index: -1

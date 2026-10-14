@@ -1,0 +1,83 @@
+
+ino00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0063
+  rotate: true
+  xy: 319, 85
+  size: 87, 283
+  orig: 87, 283
+  offset: 0, 0
+  index: -1
+idle_0067
+  rotate: true
+  xy: 614, 283
+  size: 102, 282
+  orig: 102, 282
+  offset: 0, 0
+  index: -1
+idle_0074
+  rotate: true
+  xy: 319, 286
+  size: 99, 293
+  orig: 99, 293
+  offset: 0, 0
+  index: -1
+idle_0079
+  rotate: false
+  xy: 2, 81
+  size: 98, 304
+  orig: 98, 304
+  offset: 0, 0
+  index: -1
+idle_0085
+  rotate: false
+  xy: 102, 89
+  size: 100, 296
+  orig: 100, 296
+  offset: 0, 0
+  index: -1
+idle_0098
+  rotate: true
+  xy: 602, 178
+  size: 103, 282
+  orig: 103, 282
+  offset: 0, 0
+  index: -1
+idle_0106
+  rotate: true
+  xy: 319, 174
+  size: 110, 281
+  orig: 110, 281
+  offset: 0, 0
+  index: -1
+idle_0108
+  rotate: false
+  xy: 204, 102
+  size: 113, 283
+  orig: 113, 283
+  offset: 0, 0
+  index: -1
+stand_0015
+  rotate: true
+  xy: 604, 15
+  size: 80, 279
+  orig: 80, 279
+  offset: 0, 0
+  index: -1
+stand_0022
+  rotate: false
+  xy: 886, 2
+  size: 79, 279
+  orig: 79, 279
+  offset: 0, 0
+  index: -1
+stand_0028
+  rotate: true
+  xy: 604, 97
+  size: 79, 280
+  orig: 79, 280
+  offset: 0, 0
+  index: -1

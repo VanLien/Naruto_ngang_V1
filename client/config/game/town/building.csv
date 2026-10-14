@@ -1,0 +1,44 @@
+﻿VariableName,buildID,desc,level,levelUpCost,levelUpCostTime,name,upgradeConditions
+Defaults,0,,1,{},1,,<>
+ID,buildID,desc,level,levelUpCost,levelUpCostTime,name,upgradeConditions
+1,1,Trung tâm thành phố1,,,,Trung tâm thành phố,
+2,1,Trung tâm thành phố2,2,{gold=100},60,Trung tâm thành phố,
+3,1,Trung tâm thành phố3,3,{gold=200},80,Trung tâm thành phố,
+4,1,Trung tâm thành phố4,4,{gold=300},100,Trung tâm thành phố,
+5,1,Trung tâm thành phố5,5,{gold=400},120,Trung tâm thành phố,
+6,1,Trung tâm thành phố6,6,{gold=500},140,Trung tâm thành phố,
+7,1,Trung tâm thành phố7,7,{gold=600},160,Trung tâm thành phố,
+8,1,Trung tâm thành phố8,8,{gold=700},180,Trung tâm thành phố,
+9,1,Trung tâm thành phố9,9,{gold=800},200,Trung tâm thành phố,
+10,1,Trung tâm thành phố10,10,{gold=900},220,Trung tâm thành phố,
+101,2,,,,,Ngôi nhà của tôi,
+102,2,,2,{gold=100},5,Ngôi nhà của tôi,<201>
+103,2,,3,{gold=200},5,Ngôi nhà của tôi,<201>
+104,2,,4,{gold=300},5,Ngôi nhà của tôi,<201>
+105,2,,5,{gold=400},5,Ngôi nhà của tôi,<201>
+106,2,,6,{gold=500},5,Ngôi nhà của tôi,<202>
+107,2,,7,{gold=600},5,Ngôi nhà của tôi,<202>
+108,2,,8,{gold=700},5,Ngôi nhà của tôi,<203>
+109,2,,9,{gold=800},5,Ngôi nhà của tôi,<203>
+110,2,,10,{gold=900},5,Ngôi nhà của tôi,<203>
+201,3,,,,,Nhà máy luyện kim,
+202,3,,2,{gold=100},5,Nhà máy luyện kim,
+203,3,,3,{gold=200},5,Nhà máy luyện kim,
+204,3,,4,{gold=300},5,Nhà máy luyện kim,
+205,3,,5,{gold=400},5,Nhà máy luyện kim,
+206,3,,6,{gold=500},5,Nhà máy luyện kim,
+207,3,,7,{gold=600},5,Nhà máy luyện kim,
+208,3,,8,{gold=700},5,Nhà máy luyện kim,
+209,3,,9,{gold=800},5,Nhà máy luyện kim,
+210,3,,10,{gold=900},5,Nhà máy luyện kim,
+301,4,,,,,Trung tâm tài chính,
+302,4,,2,{gold=100},5,Trung tâm tài chính,
+303,4,,3,{gold=200},5,Trung tâm tài chính,
+304,4,,4,{gold=300},5,Trung tâm tài chính,
+305,4,,5,{gold=400},5,Trung tâm tài chính,
+306,4,,6,{gold=500},5,Trung tâm tài chính,
+307,4,,7,{gold=600},5,Trung tâm tài chính,
+308,4,,8,{gold=700},5,Trung tâm tài chính,
+309,4,,9,{gold=800},5,Trung tâm tài chính,
+310,4,,10,{gold=900},5,Trung tâm tài chính,
+401,5,,,,,Thám hiểm chưa biết,

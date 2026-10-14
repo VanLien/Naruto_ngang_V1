@@ -1,0 +1,4 @@
+变量名,actorSize,targetSize,barrierSize,actorScale,objectMinScale,objectMaxScale,specialMinScale,specialMaxScale
+默认值,,,,,,,,
+ID,移动对象碰撞大小,目标碰撞大小,障碍碰撞大小,移动对象缩放值,物体最小缩放值,物体最大缩放值,特殊道具最小缩放值,特殊道具最大缩放值
+1,{width=60;height=80},{width=45;height=50},{width=50;height=45},0.45,0.7,1.1,0.8,1

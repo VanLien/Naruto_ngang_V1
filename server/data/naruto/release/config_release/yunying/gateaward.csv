@@ -1,0 +1,7 @@
+﻿VariableName,award,desc,gateID,huodongID
+Defaults,{},,1,0
+ID,award,desc,gateID,huodongID
+1,{gold=100000;rmb=100},Hoàn thành ải Chương 1 chế độ Khó,10009,9001
+2,{gold=100000;rmb=100},Hoàn thành ải Chương 3 chế độ Khó,10212,9001
+3,{gold=100000;rmb=100},Hoàn thành ải Chương 5 chế độ Khó,10412,9001
+4,{gold=100000;rmb=100},Hoàn thành ải Chương 7 chế độ Khó,10612,9001

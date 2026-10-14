@@ -1,0 +1,1428 @@
+
+itachi_02.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2345
+  rotate: false
+  xy: 2884, 45
+  size: 404, 205
+  orig: 404, 205
+  offset: 0, 0
+  index: -1
+Eff_atk/a0001
+  rotate: false
+  xy: 2883, 0
+  size: 86, 21
+  orig: 86, 21
+  offset: 0, 0
+  index: -1
+Eff_atk/a0003
+  rotate: false
+  xy: 2242, 12
+  size: 109, 33
+  orig: 109, 33
+  offset: 0, 0
+  index: -1
+Eff_atk/a0005
+  rotate: false
+  xy: 314, 42
+  size: 286, 46
+  orig: 286, 46
+  offset: 0, 0
+  index: -1
+Eff_atk/a0006
+  rotate: false
+  xy: 1405, 28
+  size: 202, 60
+  orig: 202, 60
+  offset: 0, 0
+  index: -1
+Eff_atk/a0007
+  rotate: false
+  xy: 2534, 26
+  size: 156, 62
+  orig: 156, 62
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0001
+  rotate: false
+  xy: 1609, 11
+  size: 191, 77
+  orig: 191, 77
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0013
+  rotate: false
+  xy: 2162, 0
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+Eff_atk2/d
+  rotate: true
+  xy: 2353, 7
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Eff_atk2/e
+  rotate: false
+  xy: 4060, 657
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0001
+  rotate: true
+  xy: 4012, 112
+  size: 138, 35
+  orig: 138, 35
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0002
+  rotate: false
+  xy: 3810, 11
+  size: 208, 93
+  orig: 208, 93
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0007
+  rotate: false
+  xy: 957, 13
+  size: 225, 75
+  orig: 225, 75
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0009
+  rotate: false
+  xy: 1802, 16
+  size: 172, 72
+  orig: 172, 72
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0011
+  rotate: true
+  xy: 2825, 17
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0001
+  rotate: false
+  xy: 2162, 47
+  size: 195, 41
+  orig: 195, 41
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0002
+  rotate: true
+  xy: 3968, 403
+  size: 247, 109
+  orig: 247, 109
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0005
+  rotate: false
+  xy: 1184, 18
+  size: 219, 70
+  orig: 219, 70
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0007
+  rotate: true
+  xy: 4071, 175
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0001
+  rotate: false
+  xy: 522, 0
+  size: 158, 39
+  orig: 158, 39
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0002
+  rotate: false
+  xy: 3290, 47
+  size: 260, 57
+  orig: 260, 57
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0003
+  rotate: false
+  xy: 602, 41
+  size: 239, 47
+  orig: 239, 47
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0004
+  rotate: false
+  xy: 314, 9
+  size: 206, 31
+  orig: 206, 31
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0005
+  rotate: false
+  xy: 1405, 0
+  size: 147, 26
+  orig: 147, 26
+  offset: 0, 0
+  index: -1
+Eff_atk4/c0006
+  rotate: false
+  xy: 2883, 23
+  size: 103, 20
+  orig: 103, 20
+  offset: 0, 0
+  index: -1
+Eff_ult/d0001
+  rotate: false
+  xy: 2692, 9
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+Eff_ult/d0009
+  rotate: false
+  xy: 4020, 5
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+Pose2_Hair1
+  rotate: true
+  xy: 2359, 46
+  size: 42, 173
+  orig: 42, 173
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 682, 9
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+Stand_Belt3
+  rotate: true
+  xy: 3968, 652
+  size: 300, 90
+  orig: 300, 90
+  offset: 0, 0
+  index: -1
+Stand_Belt4
+  rotate: false
+  xy: 0, 0
+  size: 312, 88
+  orig: 312, 88
+  offset: 0, 0
+  index: -1
+Stand_Coat5
+  rotate: true
+  xy: 3290, 106
+  size: 142, 720
+  orig: 142, 720
+  offset: 0, 0
+  index: -1
+Stand_Hair3
+  rotate: true
+  xy: 1976, 30
+  size: 58, 184
+  orig: 58, 184
+  offset: 0, 0
+  index: -1
+Stand_HandR2
+  rotate: true
+  xy: 3968, 252
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+Stand_Necklace
+  rotate: false
+  xy: 843, 0
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_00
+  rotate: false
+  xy: 0, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_01
+  rotate: false
+  xy: 0, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_02
+  rotate: false
+  xy: 1442, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_03
+  rotate: false
+  xy: 0, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_04
+  rotate: false
+  xy: 1442, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_05
+  rotate: false
+  xy: 0, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_06
+  rotate: false
+  xy: 1442, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_07
+  rotate: true
+  xy: 2884, 2656
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_08
+  rotate: false
+  xy: 0, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_09
+  rotate: false
+  xy: 1442, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_10
+  rotate: false
+  xy: 0, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_11
+  rotate: false
+  xy: 1442, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_12
+  rotate: true
+  xy: 2884, 1214
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_13
+  rotate: false
+  xy: 1442, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+effect/0000
+  rotate: false
+  xy: 2242, 0
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect/a_0007
+  rotate: false
+  xy: 3552, 3136
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+effect/a_0008
+  rotate: false
+  xy: 2884, 252
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+effect/a_0009
+  rotate: false
+  xy: 3552, 2174
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+effect/a_0010
+  rotate: false
+  xy: 3552, 1212
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+effect/a_0011
+  rotate: false
+  xy: 3426, 250
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+effect/beijing02
+  rotate: true
+  xy: 3968, 337
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+effect/liudong
+  rotate: true
+  xy: 4049, 122
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: false
+  xy: 4060, 696
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+effect/tiao01
+  rotate: true
+  xy: 3552, 40
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+effect/xian
+  rotate: false
+  xy: 3968, 954
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+
+itachi_022.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13shouji_0000
+  rotate: false
+  xy: 2884, 412
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Eff_atk/a0009
+  rotate: false
+  xy: 116, 35
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0005
+  rotate: true
+  xy: 3921, 442
+  size: 213, 170
+  orig: 213, 170
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0001
+  rotate: false
+  xy: 0, 22
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0004
+  rotate: true
+  xy: 3893, 874
+  size: 359, 202
+  orig: 359, 202
+  offset: 0, 0
+  index: -1
+Eff_atk4/a0005
+  rotate: false
+  xy: 2884, 52
+  size: 246, 95
+  orig: 246, 95
+  offset: 0, 0
+  index: -1
+Eff_ult/d0007
+  rotate: true
+  xy: 3923, 1629
+  size: 329, 142
+  orig: 329, 142
+  offset: 0, 0
+  index: -1
+Pose2_Coat4
+  rotate: false
+  xy: 3406, 124
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1
+Pose2_Coat9
+  rotate: false
+  xy: 3705, 53
+  size: 352, 363
+  orig: 352, 363
+  offset: 0, 0
+  index: -1
+Stand_ArmR1
+  rotate: false
+  xy: 3866, 1235
+  size: 204, 259
+  orig: 204, 259
+  offset: 0, 0
+  index: -1
+Stand_ArmR2
+  rotate: false
+  xy: 3893, 657
+  size: 175, 215
+  orig: 175, 215
+  offset: 0, 0
+  index: -1
+Stand_Armor
+  rotate: true
+  xy: 3552, 1223
+  size: 271, 312
+  orig: 271, 312
+  offset: 0, 0
+  index: -1
+Stand_Belt2
+  rotate: false
+  xy: 3686, 418
+  size: 233, 237
+  orig: 233, 237
+  offset: 0, 0
+  index: -1
+Stand_Coat4
+  rotate: false
+  xy: 3552, 3314
+  size: 537, 782
+  orig: 537, 782
+  offset: 0, 0
+  index: -1
+Stand_Coat6
+  rotate: false
+  xy: 3552, 2612
+  size: 497, 700
+  orig: 497, 700
+  offset: 0, 0
+  index: -1
+Stand_Hair1
+  rotate: true
+  xy: 3132, 37
+  size: 110, 224
+  orig: 110, 224
+  offset: 0, 0
+  index: -1
+Stand_HandL
+  rotate: true
+  xy: 3606, 6
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+Stand_LegL1
+  rotate: true
+  xy: 2884, 149
+  size: 261, 520
+  orig: 261, 520
+  offset: 0, 0
+  index: -1
+Stand_LegR1
+  rotate: false
+  xy: 3686, 657
+  size: 205, 564
+  orig: 205, 564
+  offset: 0, 0
+  index: -1
+Stand_Neck
+  rotate: true
+  xy: 3923, 1521
+  size: 106, 161
+  orig: 106, 161
+  offset: 0, 0
+  index: -1
+Stand_Sword1
+  rotate: true
+  xy: 3552, 1960
+  size: 650, 472
+  orig: 650, 472
+  offset: 0, 0
+  index: -1
+Stand_Sword2
+  rotate: false
+  xy: 3552, 1496
+  size: 369, 462
+  orig: 369, 462
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_14
+  rotate: false
+  xy: 0, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_15
+  rotate: false
+  xy: 0, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_16
+  rotate: false
+  xy: 1442, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_17
+  rotate: false
+  xy: 0, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_18
+  rotate: false
+  xy: 1442, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_19
+  rotate: false
+  xy: 0, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_20
+  rotate: false
+  xy: 1442, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_21
+  rotate: true
+  xy: 2884, 2656
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_22
+  rotate: false
+  xy: 0, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_23
+  rotate: false
+  xy: 1442, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_24
+  rotate: false
+  xy: 0, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_25
+  rotate: false
+  xy: 1442, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_26
+  rotate: true
+  xy: 2884, 1214
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_27
+  rotate: false
+  xy: 1442, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+yan01
+  rotate: false
+  xy: 3358, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan02
+  rotate: false
+  xy: 3482, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+
+itachi_023.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13shouji_0001
+  rotate: false
+  xy: 2884, 412
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0003
+  rotate: true
+  xy: 3914, 3693
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0007
+  rotate: true
+  xy: 3914, 3886
+  size: 210, 178
+  orig: 210, 178
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0009
+  rotate: true
+  xy: 3552, 1780
+  size: 217, 107
+  orig: 217, 107
+  offset: 0, 0
+  index: -1
+Eff_atk2/a0011
+  rotate: true
+  xy: 3765, 2486
+  size: 202, 110
+  orig: 202, 110
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0002
+  rotate: false
+  xy: 3552, 3285
+  size: 354, 201
+  orig: 354, 201
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0005
+  rotate: false
+  xy: 3552, 3488
+  size: 359, 205
+  orig: 359, 205
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0008
+  rotate: false
+  xy: 3552, 2690
+  size: 283, 193
+  orig: 283, 193
+  offset: 0, 0
+  index: -1
+Eff_atk2/b0010
+  rotate: true
+  xy: 3374, 14
+  size: 136, 158
+  orig: 136, 158
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0003
+  rotate: false
+  xy: 2884, 0
+  size: 201, 108
+  orig: 201, 108
+  offset: 0, 0
+  index: -1
+Eff_atk4/b0004
+  rotate: true
+  xy: 3552, 1339
+  size: 213, 95
+  orig: 213, 95
+  offset: 0, 0
+  index: -1
+Eff_ult/d0003
+  rotate: false
+  xy: 3552, 2885
+  size: 284, 204
+  orig: 284, 204
+  offset: 0, 0
+  index: -1
+Eff_ult/d0005
+  rotate: false
+  xy: 3552, 3091
+  size: 312, 192
+  orig: 312, 192
+  offset: 0, 0
+  index: -1
+Pose1_Feet2
+  rotate: false
+  xy: 3908, 3235
+  size: 187, 113
+  orig: 187, 113
+  offset: 0, 0
+  index: -1
+Pose2_Feet1
+  rotate: true
+  xy: 3866, 3108
+  size: 125, 189
+  orig: 125, 189
+  offset: 0, 0
+  index: -1
+Pose2_Head
+  rotate: false
+  xy: 3493, 198
+  size: 174, 212
+  orig: 174, 212
+  offset: 0, 0
+  index: -1
+Stand_ArmL1
+  rotate: false
+  xy: 3552, 2433
+  size: 211, 255
+  orig: 211, 255
+  offset: 0, 0
+  index: -1
+Stand_ArmL2
+  rotate: true
+  xy: 3186, 152
+  size: 258, 305
+  orig: 258, 305
+  offset: 0, 0
+  index: -1
+Stand_Belt1
+  rotate: true
+  xy: 3913, 3515
+  size: 176, 152
+  orig: 176, 152
+  offset: 0, 0
+  index: -1
+Stand_Feet1
+  rotate: false
+  xy: 3724, 2299
+  size: 95, 132
+  orig: 95, 132
+  offset: 0, 0
+  index: -1
+Stand_Feet2
+  rotate: false
+  xy: 3186, 36
+  size: 186, 114
+  orig: 186, 114
+  offset: 0, 0
+  index: -1
+Stand_Hair2
+  rotate: false
+  xy: 3534, 24
+  size: 169, 172
+  orig: 169, 172
+  offset: 0, 0
+  index: -1
+Stand_Head
+  rotate: true
+  xy: 3908, 3350
+  size: 136, 188
+  orig: 136, 188
+  offset: 0, 0
+  index: -1
+Stand_LegL2
+  rotate: false
+  xy: 3552, 1999
+  size: 137, 218
+  orig: 137, 218
+  offset: 0, 0
+  index: -1
+Stand_LegR2
+  rotate: false
+  xy: 3552, 1554
+  size: 100, 224
+  orig: 100, 224
+  offset: 0, 0
+  index: -1
+Stand_Pauldron
+  rotate: false
+  xy: 3552, 2219
+  size: 170, 212
+  orig: 170, 212
+  offset: 0, 0
+  index: -1
+Stand_all
+  rotate: false
+  xy: 3552, 3695
+  size: 360, 401
+  orig: 360, 401
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_28
+  rotate: false
+  xy: 0, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_29
+  rotate: false
+  xy: 0, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_30
+  rotate: false
+  xy: 1442, 3430
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_31
+  rotate: false
+  xy: 0, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_32
+  rotate: false
+  xy: 1442, 2762
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_33
+  rotate: false
+  xy: 0, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_34
+  rotate: false
+  xy: 1442, 2094
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_35
+  rotate: true
+  xy: 2884, 2656
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_36
+  rotate: false
+  xy: 0, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_37
+  rotate: false
+  xy: 1442, 1426
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_38
+  rotate: false
+  xy: 0, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_39
+  rotate: false
+  xy: 1442, 758
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_40
+  rotate: true
+  xy: 2884, 1214
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_41
+  rotate: false
+  xy: 1442, 90
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+xxxx2
+  rotate: false
+  xy: 2884, 110
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+yan03
+  rotate: false
+  xy: 3552, 1215
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan04
+  rotate: false
+  xy: 3724, 2175
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan05
+  rotate: false
+  xy: 3691, 2051
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan06
+  rotate: false
+  xy: 3691, 1927
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan07
+  rotate: false
+  xy: 3661, 1803
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+yan08
+  rotate: false
+  xy: 3815, 2051
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+
+itachi_024.png
+size: 4006,4006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_lanziguangxian
+  rotate: false
+  xy: 1442, 2058
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+12_yumao
+  rotate: false
+  xy: 2888, 722
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+1_andi
+  rotate: false
+  xy: 0, 722
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0001
+  rotate: false
+  xy: 2164, 2058
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0002
+  rotate: false
+  xy: 722, 722
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0003
+  rotate: true
+  xy: 0, 0
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0004
+  rotate: false
+  xy: 1444, 776
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0005
+  rotate: false
+  xy: 2166, 776
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0006
+  rotate: true
+  xy: 1444, 54
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0007
+  rotate: false
+  xy: 2886, 2726
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0008
+  rotate: false
+  xy: 2888, 1444
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0009
+  rotate: true
+  xy: 2726, 0
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_42
+  rotate: false
+  xy: 0, 3340
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_43
+  rotate: false
+  xy: 0, 2672
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_44
+  rotate: false
+  xy: 1442, 3340
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+clip/skeleton-animation_45
+  rotate: false
+  xy: 0, 2004
+  size: 1440, 666
+  orig: 1440, 666
+  offset: 0, 0
+  index: -1
+
+itachi_025.png
+size: 4006,4006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_yidongdi_0010
+  rotate: false
+  xy: 0, 2726
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+2_yidongdi_0011
+  rotate: false
+  xy: 0, 1444
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+3_yueliangdi
+  rotate: false
+  xy: 0, 162
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+5_yuelianggaoliang
+  rotate: true
+  xy: 722, 3286
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+6_kuosan
+  rotate: true
+  xy: 2004, 3286
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+7_yun1
+  rotate: false
+  xy: 3286, 2726
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+7_yun2
+  rotate: true
+  xy: 722, 2564
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+7_yun3
+  rotate: true
+  xy: 2004, 2564
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+8_shexian1
+  rotate: false
+  xy: 3286, 1444
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0005
+  rotate: false
+  xy: 722, 162
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0006
+  rotate: true
+  xy: 722, 1842
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0007
+  rotate: true
+  xy: 2004, 1842
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0008
+  rotate: true
+  xy: 1444, 1120
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0009
+  rotate: true
+  xy: 2726, 722
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0010
+  rotate: true
+  xy: 1444, 398
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_danwuya_0011
+  rotate: true
+  xy: 2726, 0
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+
+itachi_026.png
+size: 4086,4086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13shouji_0002
+  rotate: false
+  xy: 2888, 3286
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+13shouji_0003
+  rotate: false
+  xy: 2888, 2484
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+13shouji_0004
+  rotate: false
+  xy: 2888, 1682
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+13shouji_0005
+  rotate: false
+  xy: 2166, 722
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+14guang_0000
+  rotate: false
+  xy: 2968, 960
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+14guang_0001
+  rotate: false
+  xy: 2166, 0
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+14guang_0002
+  rotate: false
+  xy: 2968, 238
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+9_danwuya_0012
+  rotate: false
+  xy: 0, 2806
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0000
+  rotate: false
+  xy: 0, 1524
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0001
+  rotate: false
+  xy: 722, 2806
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0002
+  rotate: false
+  xy: 0, 242
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0003
+  rotate: false
+  xy: 722, 1524
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0004
+  rotate: false
+  xy: 1444, 2806
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0005
+  rotate: false
+  xy: 722, 242
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0006
+  rotate: false
+  xy: 1444, 1524
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0007
+  rotate: false
+  xy: 2166, 2806
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+9_qunwuya_0008
+  rotate: false
+  xy: 1444, 242
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+huang_1
+  rotate: false
+  xy: 2166, 1524
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+
+itachi_027.png
+size: 1442,1442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14guang_0003
+  rotate: false
+  xy: 0, 722
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+14guang_0004
+  rotate: false
+  xy: 0, 0
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1

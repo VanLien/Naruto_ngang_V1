@@ -1,0 +1,8 @@
+﻿VariableName,compensate,cost,huodongID,quality
+Defaults,{},0,0,1
+ID,compensate,cost,huodongID,quality
+10012,{529=20},,1001,2
+10013,{529=40},,1001,3
+10014,{529=80},50,1001,4
+10015,{529=400},100,1001,5
+10016,{529=2000},300,1001,6

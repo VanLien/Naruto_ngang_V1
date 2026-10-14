@@ -1,0 +1,13 @@
+﻿VariableName,award,color,huodongID,medalLevel,medalsName,points,rankRes,resource,resourceNum
+Defaults,{},<76;81;106>,1001,1,,0,,,
+ID,award,color,huodongID,medalLevel,medalsName,points,rankRes,resource,resourceNum
+1,{stamina=100;2322=1},,1,,skyscraperMedalsName1,60,activity/sky_scraper/icon_tie.png,activity/sky_scraper/icon_xz_tie.png,activity/sky_scraper/txt_1_tie.png
+2,{gold=288000;503=5},,1,2,skyscraperMedalsName1,80,activity/sky_scraper/icon_tie.png,activity/sky_scraper/icon_xz_tie.png,activity/sky_scraper/txt_2_tie.png
+3,{519=3;2023=1},<129;80;61>,1,3,skyscraperMedalsName2,100,activity/sky_scraper/icon_tong.png,activity/sky_scraper/icon_xz_tong.png,activity/sky_scraper/txt_1_tong.png
+4,{520=5;rmb=188},<129;80;61>,1,4,skyscraperMedalsName2,120,activity/sky_scraper/icon_tong.png,activity/sky_scraper/icon_xz_tong.png,activity/sky_scraper/txt_2_tong.png
+5,{901=30;502=6},<82;108;136>,1,5,skyscraperMedalsName3,140,activity/sky_scraper/icon_yin.png,activity/sky_scraper/icon_xz_yin.png,activity/sky_scraper/txt_1_yin.png
+6,{902=20;gold=588000},<82;108;136>,1,6,skyscraperMedalsName3,160,activity/sky_scraper/icon_yin.png,activity/sky_scraper/icon_xz_yin.png,activity/sky_scraper/txt_2_yin.png
+7,{2412=1;850=500},<82;108;136>,1,7,skyscraperMedalsName3,180,activity/sky_scraper/icon_yin.png,activity/sky_scraper/icon_xz_yin.png,activity/sky_scraper/txt_3_yin.png
+8,{4000=200;gold=880000},<131;78;0>,1,8,skyscraperMedalsName4,200,activity/sky_scraper/icon_jin.png,activity/sky_scraper/icon_xz_jin.png,activity/sky_scraper/txt_1_jin.png
+9,{151=1000;521=1},<131;78;0>,1,9,skyscraperMedalsName4,220,activity/sky_scraper/icon_jin.png,activity/sky_scraper/icon_xz_jin.png,activity/sky_scraper/txt_2_jin.png
+10,{rmb=388;529=5000},<131;78;0>,1,10,skyscraperMedalsName4,240,activity/sky_scraper/icon_jin.png,activity/sky_scraper/icon_xz_jin.png,activity/sky_scraper/txt_3_jin.png

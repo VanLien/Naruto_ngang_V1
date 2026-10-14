@@ -1,0 +1,459 @@
+
+login.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1mr_1
+  rotate: true
+  xy: 382, 9
+  size: 21, 64
+  orig: 21, 64
+  offset: 0, 0
+  index: -1
+1mr_10
+  rotate: true
+  xy: 3833, 690
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+1mr_11
+  rotate: false
+  xy: 689, 54
+  size: 289, 241
+  orig: 289, 241
+  offset: 0, 0
+  index: -1
+1mr_12
+  rotate: false
+  xy: 3587, 646
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+1mr_13
+  rotate: false
+  xy: 3410, 736
+  size: 324, 283
+  orig: 324, 283
+  offset: 0, 0
+  index: -1
+1mr_14
+  rotate: true
+  xy: 1285, 114
+  size: 181, 253
+  orig: 181, 253
+  offset: 0, 0
+  index: -1
+1mr_15
+  rotate: true
+  xy: 1860, 281
+  size: 130, 163
+  orig: 130, 163
+  offset: 0, 0
+  index: -1
+1mr_16
+  rotate: false
+  xy: 2887, 338
+  size: 155, 149
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+1mr_17
+  rotate: true
+  xy: 2130, 533
+  size: 486, 624
+  orig: 486, 624
+  offset: 0, 0
+  index: -1
+1mr_2
+  rotate: false
+  xy: 4037, 875
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+1mr_3
+  rotate: false
+  xy: 1632, 271
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+1mr_4
+  rotate: true
+  xy: 4037, 948
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+1mr_5
+  rotate: false
+  xy: 2130, 438
+  size: 210, 93
+  orig: 210, 93
+  offset: 0, 0
+  index: -1
+1mr_6
+  rotate: true
+  xy: 2263, 279
+  size: 157, 70
+  orig: 157, 70
+  offset: 0, 0
+  index: -1
+1mr_7
+  rotate: true
+  xy: 3996, 707
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+1mr_8
+  rotate: false
+  xy: 3922, 692
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+1mr_9
+  rotate: true
+  xy: 3736, 693
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+2mr_1
+  rotate: false
+  xy: 2756, 489
+  size: 338, 165
+  orig: 338, 165
+  offset: 0, 0
+  index: -1
+2mr_2
+  rotate: false
+  xy: 3096, 476
+  size: 305, 178
+  orig: 305, 178
+  offset: 0, 0
+  index: -1
+2mr_3
+  rotate: false
+  xy: 1566, 271
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+2mr_4
+  rotate: true
+  xy: 3044, 461
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+2mr_5
+  rotate: true
+  xy: 3410, 657
+  size: 77, 175
+  orig: 77, 175
+  offset: 0, 0
+  index: -1
+2mr_6
+  rotate: false
+  xy: 1566, 413
+  size: 562, 606
+  orig: 562, 606
+  offset: 0, 0
+  index: -1
+2mr_7
+  rotate: false
+  xy: 2342, 440
+  size: 199, 91
+  orig: 199, 91
+  offset: 0, 0
+  index: -1
+2mr_8
+  rotate: false
+  xy: 382, 32
+  size: 305, 263
+  orig: 305, 263
+  offset: 0, 0
+  index: -1
+2mr_9
+  rotate: false
+  xy: 980, 87
+  size: 303, 208
+  orig: 303, 208
+  offset: 0, 0
+  index: -1
+3mr_1
+  rotate: false
+  xy: 1566, 331
+  size: 292, 80
+  orig: 292, 80
+  offset: 0, 0
+  index: -1
+3mr_2
+  rotate: true
+  xy: 2025, 278
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+3mr_3
+  rotate: true
+  xy: 2726, 339
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+3mr_4
+  rotate: true
+  xy: 2756, 656
+  size: 363, 652
+  orig: 363, 652
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 297
+  size: 1562, 722
+  orig: 1562, 722
+  offset: 0, 0
+  index: -1
+gx_1
+  rotate: false
+  xy: 2135, 284
+  size: 126, 152
+  orig: 126, 152
+  offset: 0, 0
+  index: -1
+gx_2
+  rotate: true
+  xy: 2543, 352
+  size: 179, 181
+  orig: 179, 181
+  offset: 0, 0
+  index: -1
+gx_3
+  rotate: true
+  xy: 3736, 773
+  size: 246, 299
+  orig: 246, 299
+  offset: 0, 0
+  index: -1
+yw
+  rotate: false
+  xy: 2, 2
+  size: 378, 293
+  orig: 378, 293
+  offset: 0, 0
+  index: -1
+
+login2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/eff_glow_004
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Textures/eff_glow_big_white
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_nova_01
+  rotate: false
+  xy: 2, 390
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Textures/eff_quan_004
+  rotate: false
+  xy: 516, 646
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_quan_024
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_wenli_026
+  rotate: false
+  xy: 518, 388
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+login3.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00000
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00001
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00002
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00003
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00004
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00005
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00006
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00007
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00008
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00009
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00010
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00011
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00012
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00013
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00014
+  rotate: false
+  xy: 1512, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00015
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00016
+  rotate: false
+  xy: 1512, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00017
+  rotate: false
+  xy: 1814, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00018
+  rotate: false
+  xy: 1512, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00019
+  rotate: false
+  xy: 1814, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00020
+  rotate: false
+  xy: 2116, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00021
+  rotate: false
+  xy: 1814, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

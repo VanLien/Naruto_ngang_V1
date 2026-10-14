@@ -1,0 +1,8 @@
+﻿VariableName,drawTriggerTimes,drawTriggerType,drawType,effectLimit,libs,startCount,weightEnd,weightStart
+Defaults,0,2,,0,{},0,0,0
+ID,drawTriggerTimes,drawTriggerType,drawType,effectLimit,libs,startCount,weightEnd,weightStart
+1,1,0,default,,{1=10},,,
+2,11,0,default,,{2=10},,,
+3,31,0,default,,{3=10},,,
+4,51,0,default,,{4=10},,,
+5,81,0,default,,{5=10},,,

@@ -1,0 +1,11 @@
+﻿VariableName,award,desc,goto,huodongID,taskParam,taskSpecialParam,taskType
+Defaults,{},,,0,21,{},35
+ID,award,desc,goto,huodongID,taskParam,taskSpecialParam,taskType
+1,{gold=60000},(Nhận được từ lần nạp đầu tiên),,18001,32,,
+2,{gold=120000},(Nhận được từ gói VIP12),,18001,222,,
+3,{gold=20000},(Nhận được vào ngày đăng nhập thứ hai),,18001,,,
+4,{gold=60000},(Nhận được vào ngày đăng nhập thứ ba),,18001,51,,
+5,{gold=80000},(Có thể nhận được từ rút thẻ ngẫu nhiên),,18001,322,,
+6,{gold=100000},(Có thể nhận được từ rút thẻ ngẫu nhiên),,18001,272,,
+7,{gold=100000},(Có thể nhận được từ sự kiện giảm giá hằng ngày),,18001,162,,
+8,{gold=60000},(Có thể nhận được từ rút thẻ ngẫu nhiên),,18001,352,,

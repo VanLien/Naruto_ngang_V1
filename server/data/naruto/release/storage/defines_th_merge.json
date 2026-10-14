@@ -1,0 +1,26 @@
+{
+  "storagemerge.th.1": {
+    "debug": true,
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "gamemerge_th_1",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storagemerge.th.1"
+      }
+    ]
+  },
+  "storagemerge.th.2": {
+    "debug": true,
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "gamemerge_th_2",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storagemerge.th.2"
+      }
+    ]
+  }
+}

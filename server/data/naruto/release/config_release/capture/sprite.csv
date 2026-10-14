@@ -1,0 +1,4 @@
+﻿VariableName,cardID,cd,exp,gate,gatePos,group,languages,limitPos,name,rate1,rate2,rate3,sceneTimes,time,totalTimes,type,weight,weightFix1,weightFix2,weightFix3
+Defaults,0,0,0,0,{},0,<cn;tw;en;vn;th;kr>,<>,,0,0,0,0,0,0,0,100,0,0,0
+ID,cardID,cd,exp,gate,gatePos,group,languages,limitPos,name,rate1,rate2,rate3,sceneTimes,time,totalTimes,type,weight,weightFix1,weightFix2,weightFix3
+1,21,,10,10205,{y=642;x=2081},,,,鸣人(少年),70,80,100,5,,999,1,,0.2,0.3,1

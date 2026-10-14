@@ -1,0 +1,4 @@
+变量名,servOpenDays,gradeProtect,winStreakGradeLimit,winStreakCount,winStreakScoreAward,formulaValidBeginGrade,openWeekday,timeSection,matchTime,matchTimeMax,extraAdd
+默认值,,,,,0,,<1;2;3;4;5;6;7>,<<500;2200>>,0,0,{1=10%;7=10%;8=10%}
+ID,开启相对服务器天数,段位保护,连胜段位限制,连胜场次,连胜额外积分奖励,积分计算公式起始段位,开放星期,开始结束时间,每日有奖励匹配次数,每日最大匹配次数(-1表示无上限),已有卡牌的加成
+1,33,5,10,3,0,10,<6;7>,<<1000;2000>>,6,999,{1=12%;7=12%;8=12%}

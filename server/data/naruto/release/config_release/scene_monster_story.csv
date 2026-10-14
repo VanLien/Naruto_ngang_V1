@@ -1,0 +1,46 @@
+﻿VariableName,animate,animateAngle,anyPosCancel,canSkip,choices,force,gotoStep,headPos,headRes,isFirstGate,lastTime,lightSize,needAutoJump,offPos,roleName,showType,storyType,tagName,talkContent,talkSelect,topPosX,topPosY,topTalk,triggerTime,useRoleFigure
+Defaults,,0,FALSE,FALSE,<>,1,<>,,,FALSE,0,,0,,,2,0,<>,"""""",<>,0,0,"""""",0,
+ID,animate,animateAngle,anyPosCancel,canSkip,choices,force,gotoStep,headPos,headRes,isFirstGate,lastTime,lightSize,needAutoJump,offPos,roleName,showType,storyType,tagName,talkContent,talkSelect,topPosX,topPosY,topTalk,triggerTime,useRoleFigure
+101,,,,,,,,,,,2000,,,,Ban Kết Giới,,,,Sự hỗn loạn trong thời không! Mọi hướng đều đang bị tấn công!,,,,,,
+111,,,,,,,,,,,,,,,,3,,,,,,,,,
+112,,,,,,,,,,,2000,,,,,,,,Các ngươi... Sasuke... cuối cùng cũng ra tay rồi sao?,,,,,1500,<58>
+113,,,,,,,,,,,2000,,,,,,,,Vậy thì tới đây!,,,,,3500,<58>
+114,,,,,,2,,,,,2000,,,,,,,,…………,,,,,5500,<67>
+115,,,,,,2,,,,,2000,,,,,,,,Xem ra nếu không nghiêm túc thì không ổn rồi,,,,,7500,<67>
+116,,,,,,,,,,,2000,,,,,,,,Tới đây!,,,,,9500,<58>
+121,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<bottomRightPanel;skill1>,Chạm vào đây để chọn kỹ năng muốn sử dụng,,,,,,
+122,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<UILayer;hitPanel8>,"Sau khi chọn kỹ năng, chạm vào mục tiêu của kỹ năng đó",,,,,,
+131,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<bottomRightPanel;skill1>,Chạm vào đây để chọn kỹ năng muốn sử dụng,,,,,,
+132,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<UILayer;hitPanel7>,"Sau khi chọn kỹ năng, chạm vào mục tiêu của kỹ năng đó",,,,,,
+141,,,,,,2,,,,,2000,,,,,,,,Đồ đàn bà ngu ngốc!,,,,,,<66>
+142,,,,,,2,,,,,4000,,,,,,,,Mangekyō Sharingan!,,,,,2000,<66>
+151,,,,,,2,,,,,2000,,,,,,,,Hãy để ta cảm nhận sức mạnh của các ngươi một chút!,,,,,,<67>
+161,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<bottomRightPanel;skill1>,Chạm vào đây để chọn kỹ năng muốn sử dụng,,,,,,
+162,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<UILayer;hitPanel8>,"Sau khi chọn kỹ năng, chạm vào mục tiêu của kỹ năng đó",,,,,,
+191,,,,,,2,,,,,2000,,,,,,,,Dù có bắt đầu cuộc sống mới... cũng không thể dập tắt “Ý Chí Lửa” của ta được,,,,,,<63>
+201,,,,,,2,,,,,2000,,,,,,,,Chỉ là cát bụi... vẫn không thể sánh với ta dù chỉ một chút!,,,,,,<212>
+211,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<bottomRightPanel;skill1>,Chạm vào đây để chọn kỹ năng muốn sử dụng,,,,,,
+212,effect/shouyindao.skel,,,,,,,,login/new_character/img_pake_newguide_1.png,,,,,,Ếch Ninja,1,,<UILayer;hitPanel8>,"Sau khi chọn kỹ năng, chạm vào mục tiêu của kỹ năng đó",,,,,,
+301,,,,,,,,,,,2000,,,,,,,,Không ngờ sức mạnh của các ngươi cũng không tệ đâu,,,,,,<58>
+302,,,,,,,,,,,2000,,,,,,,,Nhưng cuối cùng rồi... chiến thắng nhất định sẽ thuộc về bọn ta,,,,,2000,<58>
+303,,,,,,2,,,,,2000,,,,,,,,……,,,,,4000,<67>
+304,,,,,,2,,,,,2000,,,,,,,,"Miệng lưỡi cũng ghê gớm đấy, được rồi... khởi động đủ rồi, thời gian cũng kéo dài quá lâu, đại quân sắp đến rồi",,,,,6000,<67>
+305,,,,,,,,,,,2000,,,,,,,,Cái gì! Vẫn còn nhiều kẻ địch hơn nữa sao!?,,,,,8000,<58>
+306,,,,,,2,,,,,,,,,,,,,"Vậy thì thử nghĩ xem, làm sao mới có thể sống sót khỏi tay bọn ta!",,,,,10000,<67>
+1001,,,,,,,,,,TRUE,2000,,,,,,,,Xông lên!,,,,,,<0>
+1011,,,,,,2,,{y=600;x=-30},login/new_character/img_pake_newguide_2.png,TRUE,2000,,,{y=100;x=-30},Ếch Ninja,,,,Để ta tự dạy các ngươi những kiến thức cơ bản của chiến đấu!,,,,,,
+1012,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<bottomRightPanel;skill3>,,,,,,,
+1013,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<UILayer;hitPanel7>,,,,,,,
+1021,effect/shouyindao.skel,,,,,,,,,TRUE,,,,,,1,,<bottomRightPanel;skill3>,,,,,,,
+1022,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<UILayer;hitPanel8>,,,,,,,
+1031,,,,,,2,,,,TRUE,2000,,,{y=100;x=-30},,,,,,,,,,,
+1032,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<bottomRightPanel;skill2>,,,,,,,
+1033,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<UILayer;hitPanel7>,,,,,,,
+1041,effect/shouyindao.skel,,,,,,,,,TRUE,,,,,,1,,<bottomRightPanel;skill2>,,,,,,,
+1042,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<UILayer;hitPanel9>,,,,,,,
+1051,,,,,,2,,,,TRUE,2000,,,{y=100;x=-30},,,,,,,,,,,
+1052,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<bottomRightPanel;skill1>,,,,,,,
+1053,effect/shouyindao.skel,,,,,,,,,,,,,,,1,,<UILayer;hitPanel11>,,,,,,,
+1201,,,,,,2,,{y=600;x=-30},login/new_character/img_pake_newguide_2.png,TRUE,2000,,,{y=100;x=-30},Ếch Ninja,,,,Bật chiến đấu tự động và tăng tốc chiến đấu,,,,,,
+1202,effect/shouyindao.skel,,TRUE,,,,,,login/new_character/img_pake_newguide_1.png,,,{dx=-40;width=720;dy=0;height=180},,,Ếch Ninja,1,,<Panel;bottomLeftPanel;speedUp>,Chạm vào đây để bật tăng tốc chiến đấu,,,,,,
+1203,effect/shouyindao.skel,,TRUE,,,,,,login/new_character/img_pake_newguide_1.png,,,{dx=-40;width=720;dy=0;height=180},,,Ếch Ninja,1,,<Panel;bottomLeftPanel;autoAtt>,Chạm vào đây để bật chiến đấu tự động,,,,,,

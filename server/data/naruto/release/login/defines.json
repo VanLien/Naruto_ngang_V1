@@ -1,0 +1,57 @@
+{
+  "login.dev.1": {
+    "debug": true,
+    "addr": ":16666",
+    "http_addr": ":18080",
+    "patch_url": "http://180.93.98.5/update/",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "name": "login.dev.1",
+        "dependent": ["accountdb.dev.1"]
+      }
+    ]
+  },
+  "login.vn.1": {
+    "addr": ":16666",
+    "http_addr": ":18080",
+    "patch_url": "http://180.93.98.5/update/",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "name": "login.vn.1",
+        "dependent": ["accountdb.vn.1"]
+      }
+    ]
+  },
+  "login.en.1": {
+    "debug": true,
+    "addr": ":16666",
+    "http_addr": ":18080",
+    "patch_url": "http://180.93.98.5/update/",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "name": "login.en.1",
+        "dependent": ["accountdb.en.1"]
+      }
+    ]
+  },
+  "login.th.1": {
+    "debug": true,
+    "addr": ":16666",
+    "http_addr": ":18080",
+    "patch_url": "http://180.93.98.5/update/",
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "mainnsqd": "180.93.98.5:4150",
+    "services": [
+      {
+        "name": "login.th.1",
+        "dependent": ["accountdb.th.1"]
+      }
+    ]
+  }
+}

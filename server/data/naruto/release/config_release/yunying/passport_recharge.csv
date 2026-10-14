@@ -1,0 +1,9 @@
+﻿VariableName,desc,discountValue,exp,icon,level,logo,name,rechargeID,res,type
+Defaults,,0,0,,0,,,,,
+ID,desc,discountValue,exp,icon,level,logo,name,rechargeID,res,type
+1,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Mở khóa#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Thẻ thông hành cao cấp \nNhận#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50#EXP#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50#khổng lồ \n#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Tăng cấp thẻ nhanh hơn,,,activity/passport/icon_better.png,,,Thẻ thông hành thường,113,activity/passport/tips/kaitong.png,1
+2,#L00100000##LOC0xFFFCED##LOS2##C0x72c1a1##F50#Kích hoạt#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Thẻ thông hành cao cấp \nGói quà thẻ thông hành#L00100000##LOC0xFFFCED##LOS2##C0xf76b45##F50#siêu giá trị \n#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#Mua nhận ngay#L00100000##LOC0xFFFCED##LOS2##C0xea5ec1##F44#30#L00100000##LOC0xFFFCED##LOS2##C0x57472e##F44#cấp,2,,activity/passport/icon_lv.png,30,1,Thẻ thông hành cao cấp,205,activity/passport/tips/maoxian.png,1
+3,,,600,,,,600 EXP,43,,2
+4,,,1600,,,,1600 EXP,45,,2
+5,,,2500,,,,2500 EXP,46,,2
+6,,,4000,,,,4000 EXP,203,,2

@@ -1,0 +1,12 @@
+﻿VariableName,award,contrib,desc,languages,sortID,targetArg,targetDisplay,targetType,type,userType
+Defaults,{},1,,<cn;tw;en;vn;kr>,999,,,1,1,
+ID,award,contrib,desc,languages,sortID,targetArg,targetDisplay,targetType,type,userType
+1,{gold=5000;coin3=20},30,Dùng 200000 vàng,,10,200000,200000,20,,1
+2,{gold=5000;coin3=20},30,Tăng tốc huấn luyện Ninja cho thành viên bang hội 3 lần,,11,3,3,56,,1
+3,{gold=5000;coin3=20},30,Quyên góp bang hội 5 lần,,12,5,5,55,,1
+4,{gold=20000;coin3=50},200,Tích lũy thử thách phó bản bang hội 12 lần,,102,12,12,59,2,1
+5,{gold=20000;coin3=50},200,Tích lũy tiêu hao thể lực 1500,,103,1500,1500,28,2,1
+6,{gold=50000;coin3=200},1000,Toàn bộ thành viên tích lũy cống hiến 7500,,201,7500,7500,75,2,2
+7,{gold=50000;coin3=200},1000,Toàn bộ thành viên tích lũy tiêu hao vàng 50000,,202,50000,50000,21,2,2
+8,{gold=50000;coin3=200},1000,Tích lũy thử thách phó bản bang hội 200 người-lần,,203,200,200,59,2,2
+9,{gold=20000;coin3=50},200,Trung tâm cầu nguyện tích lũy tặng mảnh 10 lần,,101,10,10,98,2,1

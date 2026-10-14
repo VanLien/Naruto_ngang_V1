@@ -1,0 +1,54 @@
+
+kejinjiekejiesuo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: true
+  xy: 318, 28
+  size: 172, 236
+  orig: 172, 236
+  offset: 0, 0
+  index: -1
+lizi6_4
+  rotate: true
+  xy: 556, 10
+  size: 190, 197
+  orig: 190, 197
+  offset: 0, 0
+  index: -1
+suo
+  rotate: false
+  xy: 755, 39
+  size: 145, 161
+  orig: 145, 161
+  offset: 0, 0
+  index: -1
+xian7_1
+  rotate: true
+  xy: 2, 2
+  size: 198, 314
+  orig: 198, 314
+  offset: 0, 0
+  index: -1
+
+kejinjiekejiesuo2.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingwen/kejihuoyingwen
+  rotate: false
+  xy: 2, 2
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+yingwen/kejinjieyingwen
+  rotate: false
+  xy: 102, 16
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1

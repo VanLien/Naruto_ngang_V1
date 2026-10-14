@@ -1,0 +1,122 @@
+{
+  "crosshunting.dev.1": {
+    "nsqd_tcp_addresses": ["110.172.29.223:4150"],
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.dev.1", "anticheat"],
+        "name": "crosshunting.dev.1"
+      }
+    ]
+  },
+  "crossunionfight.dev.1": {
+    "nsqd_tcp_addresses": ["110.172.29.223:4150"],
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.dev.1", "anticheat"],
+        "name": "crossunionfight.dev.1"
+      }
+    ]
+  },
+  "crossdb.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dbname": "cross_dev_1",
+        "mongodb": "110.172.29.223:27022",
+        "name": "crossdb.dev.1",
+        "pool_limit": 10
+      }
+    ]
+  },
+  "comment.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["commentdb.dev.1"],
+        "name": "card_comment.dev.1"
+      },
+      {
+        "dependent": ["commentdb.dev.1"],
+        "name": "card_score.dev.1"
+      }
+    ]
+  },
+  "commentdb.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dbname": "comment_dev_1",
+        "mongodb": "110.172.29.223:27022",
+        "name": "commentdb.dev.1",
+        "pool_limit": 10
+      }
+    ]
+  },
+  "cross.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crossmatch.dev.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.dev.1"],
+        "name": "crosscraft.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crossfishing.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "huodongboss.dev.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.dev.1"],
+        "name": "crossarena.dev.1"
+      },
+      {
+        "dependent": [
+          "online_fight_forward",
+          "crosslobby.dev.1",
+          "crossdb.dev.1"
+        ],
+        "name": "onlinefight.dev.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.dev.1"],
+        "name": "crossgym.dev.1"
+      },
+      {
+        "dependent": ["anticheat", "crossdb.dev.1"],
+        "name": "crossmine.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crossunionqa.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "skyscraper.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crossredpacket.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crossranking.dev.1"
+      },
+      {
+        "dependent": ["crossdb.dev.1"],
+        "name": "crosshorse.dev.1"
+      }
+    ]
+  }
+}

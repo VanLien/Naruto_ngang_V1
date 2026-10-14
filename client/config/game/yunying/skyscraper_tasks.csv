@@ -1,0 +1,9 @@
+﻿VariableName,award,huodongID,label,params,points,type
+Defaults,{},1001,,0,0,1
+ID,award,huodongID,label,params,points,type
+1,{gold=100000;5000=10;850=100},1,Tổng số tầng xây dựng hôm nay đạt đủ 25 tầng,25,25,
+2,{gold=150000;930=10;502=1},1,Tổng số tầng xây dựng hôm nay đạt đủ 75 tầng,75,25,
+5,{451=100;gold=100000;5000=10},1,Tổng điểm nhận được hôm nay đạt đủ 800 điểm,800,25,2
+6,{stamina=30;gold=150000;930=10},1,Tổng điểm nhận được hôm nay đạt đủ 1600 điểm,1600,25,2
+9,{930=10;850=50;5000=10},1,Nhận đánh giá “Xây dựng hoàn hảo” hôm nay đủ 8 lần,8,25,3
+10,{930=15;850=50;5000=15},1,Nhận đánh giá “Xây dựng hoàn hảo” hôm nay đủ 20 lần,20,25,3

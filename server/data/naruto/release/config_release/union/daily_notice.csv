@@ -1,0 +1,11 @@
+﻿VariableName,desc,targetType,tarhetArg
+Defaults,,,
+ID,desc,targetType,tarhetArg
+1,Tạo đóng góp cho tổ chức,contribute,
+2,Có nhiệm vụ hằng ngày chưa hoàn thành,uniontask,
+3,Có thể nhận phần thưởng hằng ngày,dailygift,
+4,Tăng tốc cho đồng đội,speedup,6
+5,Có lì xì để nhận,dailypacket,
+6,Thử thách phó bản tổ chức,fuben,3
+7,Có thể đăng ký chiến tổ chức,fightsign,
+8,Có thể thực hiện điều ước,fragdonate,

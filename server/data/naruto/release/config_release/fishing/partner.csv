@@ -1,0 +1,7 @@
+﻿VariableName,actMode,actRate,cost,desc,name,needLv,scale,spcialEffect,spcialEffectDesc,unitId
+Defaults,0,0,{},,,0,1,,,0
+ID,actMode,actRate,cost,desc,name,needLv,scale,spcialEffect,spcialEffectDesc,unitId
+1,,,{gold=500000},Trông ngốc nghếch nhưng rất đáng yêu,Psyduck,3,1.4,,,221
+2,,,{rmb=300},Đừng thả dòng điện xuống nước đấy nhé,Pikachu,5,1.4,,,92
+3,,,{rmb=300},Có lẽ có thể ném hạt giống xuống nước làm mồi nhử?,Bulbasaur,7,1.4,,,1
+4,,,{rmb=300},Gọi nó đi bắt cá giúp có lẽ sẽ nhanh hơn?,Squirtle,9,1.4,,,21

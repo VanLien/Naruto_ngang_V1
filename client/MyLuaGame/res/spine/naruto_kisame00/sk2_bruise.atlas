@@ -1,0 +1,76 @@
+
+sk2_bruise.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bruise_seq_0_000
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_001
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_002
+  rotate: false
+  xy: 518, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_003
+  rotate: false
+  xy: 776, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_004
+  rotate: false
+  xy: 1034, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_005
+  rotate: false
+  xy: 1292, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_006
+  rotate: false
+  xy: 1550, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_bruise_seq_0_007
+  rotate: false
+  xy: 1808, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_flash_10
+  rotate: false
+  xy: 2066, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_5
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

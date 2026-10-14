@@ -1,0 +1,12 @@
+{
+  "online_fight_forward.dev.1": {
+    "services": [
+      {
+        "name": "online_fight_forward.dev.1"
+      }
+    ],
+    "nsqd_tcp_addresses": ["110.172.29.223:4150"],
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "query_ip_url": "http://110.172.29.223:18080/ip"
+  }
+}

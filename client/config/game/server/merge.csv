@@ -1,0 +1,4 @@
+﻿VariableName,craftAwardVer,destServer,pwAwardVer,randomTowerAwardVer,realityMerge,serverID,servers
+Defaults,0,,0,0,0,,<>
+ID,craftAwardVer,destServer,pwAwardVer,randomTowerAwardVer,realityMerge,serverID,servers
+1,101,gamemerge.dev.1,101,101,1,1,<game.dev.5;game.dev.6>

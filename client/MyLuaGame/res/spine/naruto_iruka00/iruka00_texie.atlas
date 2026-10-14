@@ -1,0 +1,174 @@
+
+iruka00_texie.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 2, 1450
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10003
+  rotate: false
+  xy: 2, 1088
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10006
+  rotate: false
+  xy: 804, 1450
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10007
+  rotate: false
+  xy: 2, 726
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10008
+  rotate: false
+  xy: 804, 1088
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10010
+  rotate: false
+  xy: 1606, 1450
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10011
+  rotate: false
+  xy: 2, 364
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10012
+  rotate: false
+  xy: 804, 726
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10014
+  rotate: false
+  xy: 1606, 1088
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10015
+  rotate: false
+  xy: 2408, 1450
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10016
+  rotate: false
+  xy: 2, 2
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10018
+  rotate: false
+  xy: 804, 364
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10019
+  rotate: false
+  xy: 1606, 726
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10020
+  rotate: false
+  xy: 2408, 1088
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10022
+  rotate: false
+  xy: 3210, 1450
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10024
+  rotate: false
+  xy: 804, 2
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10025
+  rotate: false
+  xy: 1606, 364
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10026
+  rotate: false
+  xy: 2408, 726
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10027
+  rotate: false
+  xy: 3210, 1088
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10028
+  rotate: false
+  xy: 1606, 2
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10030
+  rotate: false
+  xy: 2408, 364
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10031
+  rotate: false
+  xy: 3210, 726
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+10032
+  rotate: false
+  xy: 2408, 2
+  size: 800, 360
+  orig: 800, 360
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 3210, 212
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

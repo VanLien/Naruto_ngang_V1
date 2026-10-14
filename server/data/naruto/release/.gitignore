@@ -1,0 +1,35 @@
+*.a
+*.exe
+*.pyc
+config_csv.py
+config_dev
+LastModifyList.txt
+.history
+.vscode/
+.idea
+.svn/
+*.play
+*.data
+pkg
+_gsdata_
+
+*.pyc
+# release
+release
+
+# anti-cheat
+anti-cheat/agent
+anti-cheat/game_config/
+anti-cheat/game_csv2lua/
+
+
+cn_config_csv.py
+th.config_csv.msgpack
+tw.config_csv.msgpack
+kr.config_csv.msgpack
+en.config_csv.msgpack
+cn.config_csv.msgpack
+*.log
+login/conf/vn/serv.json
+
+*.gen.go

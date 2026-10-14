@@ -1,0 +1,4 @@
+变量名,servOpenDays,pwFreeTimes
+默认值,,
+ID,开启相对服务器天数,每日免费挑战次数
+1,60,5

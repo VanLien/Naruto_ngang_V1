@@ -1,0 +1,4 @@
+﻿VariableName,cards,defaultCards,figures,gold,items,newAward,rmb
+Defaults,<>,<>,<>,0,{},{},0
+ID,cards,defaultCards,figures,gold,items,newAward,rmb
+1,<{nvalue={speed=10;specialDamage=10;damage=10;hp=10;specialDefence=10;defence=10};id=1031;character=5}>,,<17>,50000,{11=10;5000=5;30101=1},{14=3;2273=1;gold=66666;8617=1000;32033=1;5100=1;card={id=4851}},

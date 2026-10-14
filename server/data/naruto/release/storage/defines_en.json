@@ -1,0 +1,576 @@
+{
+  "account.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "alias": ["giftdb.en.1", "paymentdb.en.1"],
+        "dbname": "account",
+        "mongodb": "15.235.218.69:27018",
+        "name": "accountdb.en.1"
+      }
+    ]
+  },
+  "gift.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "gift",
+        "mongodb": "15.235.218.69:27018",
+        "name": "giftdb.en.1"
+      }
+    ]
+  },
+
+  "paymentdb.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "order",
+        "mongodb": "15.235.218.69:27018",
+        "name": "paymentdb.en.1"
+      }
+    ]
+  },
+  "storage.en.1": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_1",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.1"
+      }
+    ]
+  },
+  "storage.en.2": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_2",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.2"
+      }
+    ]
+  },
+  "storage.en.3": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_3",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.3"
+      }
+    ]
+  },
+  "storage.en.4": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_4",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.4"
+      }
+    ]
+  },
+  "storage.en.5": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_5",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.5"
+      }
+    ]
+  },
+  "storage.en.6": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_6",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.6"
+      }
+    ]
+  },
+  "storage.en.7": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_7",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.7"
+      }
+    ]
+  },
+  "storage.en.8": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_8",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.8"
+      }
+    ]
+  },
+  "storage.en.9": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_9",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.9"
+      }
+    ]
+  },
+  "storage.en.10": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_10",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.10"
+      }
+    ]
+  },
+  "storage.en.11": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_11",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.11"
+      }
+    ]
+  },
+  "storage.en.12": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_12",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.12"
+      }
+    ]
+  },
+  "storage.en.13": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_13",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.13"
+      }
+    ]
+  },
+  "storage.en.14": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_14",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.14"
+      }
+    ]
+  },
+  "storage.en.15": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_15",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.15"
+      }
+    ]
+  },
+  "storage.en.16": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_16",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.16"
+      }
+    ]
+  },
+  "storage.en.17": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_17",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.17"
+      }
+    ]
+  },
+  "storage.en.18": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_18",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.18"
+      }
+    ]
+  },
+  "storage.en.19": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_19",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.19"
+      }
+    ]
+  },
+  "storage.en.20": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_20",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.20"
+      }
+    ]
+  },
+  "storage.en.21": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_21",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.21"
+      }
+    ]
+  },
+  "storage.en.22": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_22",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.22"
+      }
+    ]
+  },
+  "storage.en.23": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_23",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.23"
+      }
+    ]
+  },
+  "storage.en.24": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_24",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.24"
+      }
+    ]
+  },
+  "storage.en.25": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_25",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.25"
+      }
+    ]
+  },
+  "storage.en.26": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_26",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.26"
+      }
+    ]
+  },
+  "storage.en.27": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_27",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.27"
+      }
+    ]
+  },
+  "storage.en.28": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_28",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.28"
+      }
+    ]
+  },
+  "storage.en.29": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_29",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.29"
+      }
+    ]
+  },
+  "storage.en.30": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_30",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.30"
+      }
+    ]
+  },
+  "storage.en.31": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_31",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.31"
+      }
+    ]
+  },
+  "storage.en.32": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_32",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.32"
+      }
+    ]
+  },
+  "storage.en.33": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_33",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.33"
+      }
+    ]
+  },
+  "storage.en.34": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_34",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.34"
+      }
+    ]
+  },
+  "storage.en.35": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_35",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.35"
+      }
+    ]
+  },
+  "storage.en.36": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_36",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.36"
+      }
+    ]
+  },
+  "storage.en.37": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_37",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.37"
+      }
+    ]
+  },
+  "storage.en.38": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_38",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.38"
+      }
+    ]
+  },
+  "storage.en.39": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_39",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.39"
+      }
+    ]
+  },
+  "storage.en.40": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_40",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.40"
+      }
+    ]
+  },
+  "storage.en.41": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_41",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.41"
+      }
+    ]
+  },
+  "storage.en.42": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_42",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.42"
+      }
+    ]
+  },
+  "storage.en.43": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_43",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.43"
+      }
+    ]
+  },
+  "storage.en.44": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_44",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.44"
+      }
+    ]
+  },
+  "storage.en.45": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_45",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.45"
+      }
+    ]
+  },
+  "storage.en.46": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_46",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.46"
+      }
+    ]
+  },
+  "storage.en.47": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_47",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.47"
+      }
+    ]
+  },
+  "storage.en.48": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_48",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.48"
+      }
+    ]
+  },
+  "storage.en.49": {
+    "mainnsqd": "15.235.218.69:4150",
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dbname": "game_en_49",
+        "mongodb": "15.235.218.69:27100",
+        "name": "storage.en.49"
+      }
+    ]
+  }
+}

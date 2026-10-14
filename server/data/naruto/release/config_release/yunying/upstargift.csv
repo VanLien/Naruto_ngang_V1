@@ -1,0 +1,10 @@
+﻿VariableName,award,day,desc,huodongID,rechargeID,star
+Defaults,{},1,,0,0,3
+ID,award,day,desc,huodongID,rechargeID,star
+1,{rmb=6480;680=1;539=120},,Giảm giá giới hạn,56784,45,
+2,{rmb=12880;680=2;539=240},2,Giảm giá giới hạn,56784,46,5
+3,{rmb=12880;680=2;539=240},3,Giảm giá giới hạn,56784,46,7
+4,{rmb=28880;680=4;539=600},4,Giảm giá giới hạn,56784,47,9
+5,{rmb=12880;680=2;539=240},5,Giảm giá giới hạn,56784,46,10
+6,{rmb=12880;680=2;539=240},6,Giảm giá giới hạn,56784,46,11
+7,{rmb=28880;680=4;539=600},7,Giảm giá giới hạn,56784,47,12

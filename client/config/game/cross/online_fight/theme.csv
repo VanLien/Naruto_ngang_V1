@@ -1,0 +1,10 @@
+﻿VariableName,desc,rarityLimit,skills
+Defaults,,{},{}
+ID,desc,rarityLimit,skills
+1,Bắt đầu với Nộ khí đầy,,{78001=1}
+2,Kỹ năng thường không giới hạn,,{78002=1}
+3,Hồi phục Nộ khí nhanh,,{78003=1}
+4,Ưu thế nguyên tố tự nhiên tăng lên,,{78004=1}
+5,Chỉ cho phép sử dụng thẻ cấp A trở xuống,{3=0;4=0},
+6,Chỉ cho phép sử dụng thẻ cấp S trở xuống,{4=0},
+7,Chỉ có thể sử dụng 2 thẻ cấp S,{3=2},

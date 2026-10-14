@@ -1,0 +1,765 @@
+
+tobirama00_texie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1secspl1_DBjia
+  rotate: false
+  xy: 653, 153
+  size: 117, 78
+  orig: 117, 78
+  offset: 0, 0
+  index: -1
+1secspl1_Djia
+  rotate: true
+  xy: 674, 282
+  size: 103, 138
+  orig: 103, 138
+  offset: 0, 0
+  index: -1
+1secspl1_Hair1
+  rotate: true
+  xy: 2, 2
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+1secspl1_Hair2
+  rotate: false
+  xy: 434, 129
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+1secspl1_Hmao
+  rotate: true
+  xy: 587, 126
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+1secspl1_Kua
+  rotate: false
+  xy: 674, 387
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+1secspl1_Lmao
+  rotate: true
+  xy: 653, 96
+  size: 55, 120
+  orig: 55, 120
+  offset: 0, 0
+  index: -1
+1secspl1_Lmao_2
+  rotate: false
+  xy: 814, 282
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+1secspl1_Ls1
+  rotate: false
+  xy: 892, 148
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+1secspl1_Ls1_2
+  rotate: true
+  xy: 982, 417
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+1secspl1_Ls2
+  rotate: false
+  xy: 944, 152
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+1secspl1_Ls2_2
+  rotate: true
+  xy: 800, 230
+  size: 50, 127
+  orig: 50, 127
+  offset: 0, 0
+  index: -1
+1secspl1_Ls3
+  rotate: true
+  xy: 464, 106
+  size: 62, 121
+  orig: 62, 121
+  offset: 0, 0
+  index: -1
+1secspl1_Ls3_2
+  rotate: true
+  xy: 151, 24
+  size: 63, 134
+  orig: 63, 134
+  offset: 0, 0
+  index: -1
+1secspl1_Lt1
+  rotate: false
+  xy: 953, 56
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+1secspl1_Lt2
+  rotate: true
+  xy: 906, 282
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+1secspl1_Lt3
+  rotate: false
+  xy: 814, 423
+  size: 166, 80
+  orig: 166, 80
+  offset: 0, 0
+  index: -1
+1secspl1_Rmao
+  rotate: true
+  xy: 464, 170
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+1secspl1_Rmao_2
+  rotate: true
+  xy: 286, 90
+  size: 77, 146
+  orig: 77, 146
+  offset: 0, 0
+  index: -1
+1secspl1_Rs1
+  rotate: true
+  xy: 929, 235
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+1secspl1_Rs1_2
+  rotate: true
+  xy: 587, 57
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+1secspl1_Rs2
+  rotate: true
+  xy: 516, 242
+  size: 54, 142
+  orig: 54, 142
+  offset: 0, 0
+  index: -1
+1secspl1_Rs2_2
+  rotate: true
+  xy: 660, 233
+  size: 47, 138
+  orig: 47, 138
+  offset: 0, 0
+  index: -1
+1secspl1_Rs3
+  rotate: true
+  xy: 775, 87
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+1secspl1_Rs3_2
+  rotate: true
+  xy: 287, 30
+  size: 58, 144
+  orig: 58, 144
+  offset: 0, 0
+  index: -1
+1secspl1_Rt1
+  rotate: true
+  xy: 877, 87
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+1secspl1_Rt2
+  rotate: true
+  xy: 286, 169
+  size: 76, 176
+  orig: 76, 176
+  offset: 0, 0
+  index: -1
+1secspl1_Rt3
+  rotate: true
+  xy: 772, 153
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+1secspl1_St
+  rotate: false
+  xy: 2, 25
+  size: 147, 220
+  orig: 147, 220
+  offset: 0, 0
+  index: -1
+1secspl1_St_2
+  rotate: false
+  xy: 516, 298
+  size: 156, 205
+  orig: 156, 205
+  offset: 0, 0
+  index: -1
+1secspl1_Tou
+  rotate: false
+  xy: 151, 89
+  size: 133, 156
+  orig: 133, 156
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 247
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+
+tobirama00_texie2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00000
+  rotate: false
+  xy: 2, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00001
+  rotate: false
+  xy: 2, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00002
+  rotate: false
+  xy: 804, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00003
+  rotate: false
+  xy: 2, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00004
+  rotate: false
+  xy: 804, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00005
+  rotate: false
+  xy: 1606, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00006
+  rotate: false
+  xy: 2, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00007
+  rotate: false
+  xy: 804, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00008
+  rotate: false
+  xy: 1606, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00009
+  rotate: false
+  xy: 2408, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00010
+  rotate: false
+  xy: 2, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00011
+  rotate: false
+  xy: 804, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00012
+  rotate: false
+  xy: 1606, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00013
+  rotate: false
+  xy: 2408, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00014
+  rotate: false
+  xy: 3210, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00015
+  rotate: false
+  xy: 804, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00016
+  rotate: false
+  xy: 1606, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00017
+  rotate: false
+  xy: 2408, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_bao/qsfj_uniqueskill_bao_00018
+  rotate: false
+  xy: 3210, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+
+tobirama00_texie3.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00000
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00001
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00002
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00003
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00004
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00005
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00006
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00007
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00008
+  rotate: false
+  xy: 1618, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00009
+  rotate: false
+  xy: 1820, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00010
+  rotate: false
+  xy: 2022, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00011
+  rotate: false
+  xy: 2224, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00012
+  rotate: false
+  xy: 2426, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_baoqi/qsfj_uniqueskill_baoqi_00013
+  rotate: false
+  xy: 2628, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+tobirama00_texie4.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00000
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00001
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00002
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00003
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00004
+  rotate: false
+  xy: 806, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00005
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00006
+  rotate: false
+  xy: 1208, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00007
+  rotate: false
+  xy: 1208, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00008
+  rotate: false
+  xy: 1610, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00009
+  rotate: false
+  xy: 1610, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00010
+  rotate: false
+  xy: 2012, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00011
+  rotate: false
+  xy: 2012, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00012
+  rotate: false
+  xy: 2414, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00013
+  rotate: false
+  xy: 2414, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00014
+  rotate: false
+  xy: 2816, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00015
+  rotate: false
+  xy: 2816, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00016
+  rotate: false
+  xy: 3218, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_hailang/qsfj_uniqueskill_hailang_00017
+  rotate: false
+  xy: 3218, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+tobirama00_texie5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00000
+  rotate: false
+  xy: 2, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00001
+  rotate: false
+  xy: 2, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00002
+  rotate: false
+  xy: 804, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00003
+  rotate: false
+  xy: 2, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00004
+  rotate: false
+  xy: 804, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00005
+  rotate: false
+  xy: 1606, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00006
+  rotate: false
+  xy: 2, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00007
+  rotate: false
+  xy: 804, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00008
+  rotate: false
+  xy: 1606, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00009
+  rotate: false
+  xy: 2408, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00010
+  rotate: false
+  xy: 2, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00011
+  rotate: false
+  xy: 804, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00012
+  rotate: false
+  xy: 1606, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00013
+  rotate: false
+  xy: 2408, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00014
+  rotate: false
+  xy: 3210, 3210
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00015
+  rotate: false
+  xy: 804, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00016
+  rotate: false
+  xy: 1606, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00017
+  rotate: false
+  xy: 2408, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00018
+  rotate: false
+  xy: 3210, 2408
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00019
+  rotate: false
+  xy: 1606, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00020
+  rotate: false
+  xy: 2408, 804
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+Textures/qsfj_uniqueskill_shuihua_2/qsfj_uniqueskill_shuihua_2_00021
+  rotate: false
+  xy: 3210, 1606
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1

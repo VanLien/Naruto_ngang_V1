@@ -1,0 +1,13 @@
+
+itachi02_sk1.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect1/BD
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

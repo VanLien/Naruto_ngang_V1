@@ -1,0 +1,13 @@
+
+skill_2_bg.png
+size: 32,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1

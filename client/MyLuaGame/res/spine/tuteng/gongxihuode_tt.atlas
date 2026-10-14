@@ -1,0 +1,90 @@
+
+gongxihuode_tt.png
+size: 1664,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: true
+  xy: 1548, 2
+  size: 68, 56
+  orig: 93, 67
+  offset: 11, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 1386, 2
+  size: 160, 68
+  orig: 160, 68
+  offset: 0, 0
+  index: -1
+cao3
+  rotate: true
+  xy: 772, 19
+  size: 137, 30
+  orig: 137, 30
+  offset: 0, 0
+  index: -1
+cao4
+  rotate: true
+  xy: 804, 37
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 15
+  size: 769, 141
+  orig: 779, 141
+  offset: 1, 0
+  index: -1
+gt
+  rotate: false
+  xy: 804, 3
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
+gxjhY
+  rotate: false
+  xy: 1212, 72
+  size: 360, 84
+  orig: 360, 84
+  offset: 0, 0
+  index: -1
+lz
+  rotate: false
+  xy: 1013, 65
+  size: 197, 91
+  orig: 197, 91
+  offset: 0, 0
+  index: -1
+tutenf
+  rotate: true
+  xy: 909, 44
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 1574, 82
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yq2
+  rotate: true
+  xy: 1318, 1
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+yq3
+  rotate: false
+  xy: 1606, 35
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+city_xiaoren.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0031
+  rotate: true
+  xy: 1043, 148
+  size: 103, 357
+  orig: 103, 357
+  offset: 0, 0
+  index: -1
+idle_0036
+  rotate: true
+  xy: 960, 40
+  size: 104, 358
+  orig: 104, 358
+  offset: 0, 0
+  index: -1
+idle_0041
+  rotate: true
+  xy: 684, 146
+  size: 105, 357
+  orig: 105, 357
+  offset: 0, 0
+  index: -1
+idle_0056
+  rotate: true
+  xy: 1696, 153
+  size: 98, 357
+  orig: 98, 357
+  offset: 0, 0
+  index: -1
+idle_0059
+  rotate: true
+  xy: 3062, 160
+  size: 91, 357
+  orig: 91, 357
+  offset: 0, 0
+  index: -1
+idle_0062
+  rotate: true
+  xy: 2341, 156
+  size: 95, 358
+  orig: 95, 358
+  offset: 0, 0
+  index: -1
+idle_0067
+  rotate: true
+  xy: 3136, 73
+  size: 85, 284
+  orig: 85, 284
+  offset: 0, 0
+  index: -1
+idle_0070
+  rotate: true
+  xy: 398, 143
+  size: 108, 284
+  orig: 108, 284
+  offset: 0, 0
+  index: -1
+idle_0074
+  rotate: true
+  xy: 2055, 154
+  size: 97, 284
+  orig: 97, 284
+  offset: 0, 0
+  index: -1
+idle_0078
+  rotate: true
+  xy: 2193, 55
+  size: 97, 284
+  orig: 97, 284
+  offset: 0, 0
+  index: -1
+idle_0116
+  rotate: true
+  xy: 1613, 47
+  size: 100, 288
+  orig: 100, 288
+  offset: 0, 0
+  index: -1
+idle_0118
+  rotate: true
+  xy: 1903, 53
+  size: 98, 288
+  orig: 98, 288
+  offset: 0, 0
+  index: -1
+idle_30065
+  rotate: true
+  xy: 2479, 62
+  size: 92, 295
+  orig: 92, 295
+  offset: 0, 0
+  index: -1
+idle_30069
+  rotate: true
+  xy: 367, 17
+  size: 108, 295
+  orig: 108, 295
+  offset: 0, 0
+  index: -1
+idle_30074
+  rotate: true
+  xy: 664, 35
+  size: 106, 294
+  orig: 106, 294
+  offset: 0, 0
+  index: -1
+idle_30087
+  rotate: true
+  xy: 1320, 43
+  size: 103, 291
+  orig: 103, 291
+  offset: 0, 0
+  index: -1
+idle_30092
+  rotate: true
+  xy: 1402, 149
+  size: 102, 292
+  orig: 102, 292
+  offset: 0, 0
+  index: -1
+kxty
+  rotate: false
+  xy: 109, 127
+  size: 287, 124
+  orig: 287, 124
+  offset: 0, 0
+  index: -1
+stand_0000
+  rotate: true
+  xy: 3709, 2
+  size: 81, 284
+  orig: 81, 284
+  offset: 0, 0
+  index: -1
+stand_0008
+  rotate: true
+  xy: 3422, 2
+  size: 81, 285
+  orig: 81, 285
+  offset: 0, 0
+  index: -1
+stand_0024
+  rotate: true
+  xy: 3422, 85
+  size: 81, 285
+  orig: 81, 285
+  offset: 0, 0
+  index: -1
+stand_0068
+  rotate: true
+  xy: 2701, 160
+  size: 91, 359
+  orig: 91, 359
+  offset: 0, 0
+  index: -1
+stand_0077
+  rotate: true
+  xy: 2776, 67
+  size: 91, 358
+  orig: 91, 358
+  offset: 0, 0
+  index: -1
+stand_30000
+  rotate: true
+  xy: 3722, 169
+  size: 82, 299
+  orig: 82, 299
+  offset: 0, 0
+  index: -1
+stand_30003
+  rotate: true
+  xy: 3722, 85
+  size: 82, 299
+  orig: 82, 299
+  offset: 0, 0
+  index: -1
+stand_30006
+  rotate: true
+  xy: 3421, 168
+  size: 83, 299
+  orig: 83, 299
+  offset: 0, 0
+  index: -1
+ty1
+  rotate: true
+  xy: 2, 40
+  size: 211, 105
+  orig: 211, 105
+  offset: 0, 0
+  index: -1
+xyty
+  rotate: false
+  xy: 109, 7
+  size: 256, 118
+  orig: 256, 118
+  offset: 0, 0
+  index: -1

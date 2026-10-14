@@ -1,0 +1,6 @@
+﻿VariableName,dropLib,dropNum,randWeight
+Defaults,<>,0,0
+ID,dropLib,dropNum,randWeight
+1,<1003;1004;1005>,,300
+2,<1004;1005>,1,680
+3,<1004;1005>,2,20

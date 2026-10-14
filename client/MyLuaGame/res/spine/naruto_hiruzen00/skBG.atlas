@@ -1,0 +1,55 @@
+
+skBG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_sk2_back
+  rotate: false
+  xy: 1529, 129
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bg_sk2_cloud
+  rotate: false
+  xy: 1529, 387
+  size: 511, 114
+  orig: 511, 114
+  offset: 0, 0
+  index: -1
+bg_sk2_cloud_lit
+  rotate: false
+  xy: 1028, 320
+  size: 499, 181
+  orig: 499, 181
+  offset: 0, 0
+  index: -1
+bg_sk2_ground
+  rotate: false
+  xy: 2, 68
+  size: 1024, 433
+  orig: 1024, 433
+  offset: 0, 0
+  index: -1
+bg_sk2_ground_lit
+  rotate: false
+  xy: 1028, 190
+  size: 497, 128
+  orig: 497, 128
+  offset: 0, 0
+  index: -1
+col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rift_4
+  rotate: false
+  xy: 1028, 65
+  size: 408, 123
+  orig: 408, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+﻿VariableName,costRMB,openLevel,openVIP
+Defaults,0,1,1
+ID,costRMB,openLevel,openVIP
+1,,0,0
+2,68,24,0
+3,88,36,0
+4,188,48,0
+5,288,60,0
+6,388,72,0
+7,288,,3
+8,388,,6

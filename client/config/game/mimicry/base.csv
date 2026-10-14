@@ -1,0 +1,4 @@
+﻿VariableName,battleTimesDailyAdd,battleTimesLimit,crossGroupSize,fastChallengeThreshold,initBattleTimes,initBuff,minServerOpenDays,quality1BuffFieldNum,quality2BuffFieldNum,quality3BuffFieldNum,quality4BuffFieldNum,rankingRequiredOpenDays,subCrossGroupSize
+Defaults,2,20,15,150000,10,{1=2},120,8,6,3,2,160,100
+ID,battleTimesDailyAdd,battleTimesLimit,crossGroupSize,fastChallengeThreshold,initBattleTimes,initBuff,minServerOpenDays,quality1BuffFieldNum,quality2BuffFieldNum,quality3BuffFieldNum,quality4BuffFieldNum,rankingRequiredOpenDays,subCrossGroupSize
+1,,,,,,,1,,,,,,

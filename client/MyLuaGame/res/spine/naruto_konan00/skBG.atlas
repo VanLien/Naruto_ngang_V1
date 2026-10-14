@@ -1,0 +1,62 @@
+
+skBG.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 792, 389
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0003
+  rotate: true
+  xy: 260, 304
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0004
+  rotate: true
+  xy: 526, 304
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0005
+  rotate: true
+  xy: 2, 46
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0006
+  rotate: true
+  xy: 268, 153
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0007
+  rotate: true
+  xy: 534, 153
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0008
+  rotate: true
+  xy: 268, 2
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+glow_17
+  rotate: false
+  xy: 2, 197
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

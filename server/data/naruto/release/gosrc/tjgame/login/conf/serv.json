@@ -1,0 +1,8 @@
+[
+  {"id": 1, "key": "game.dev.1", "name": "1区", "addr": "192.168.1.96:28879", "status": 1},
+  {"id": 2, "key": "game.dev.2", "name": "2区", "addr": "192.168.1.96:28878", "status": 2},
+  {"id": 3, "key": "game.dev.3", "name": "3区", "addr": "192.168.1.96:28877", "status": 2},
+  {"id": 4, "key": "game.dev.4", "name": "4区", "addr": "192.168.1.96:28876", "status": 3},
+  {"id": 5, "key": "game.dev.5", "name": "5区", "addr": "192.168.1.96:28875", "status": 3},
+  {"id": 6, "key": "game.dev.6", "name": "6区", "addr": "192.168.1.96:28874", "status": 3}
+]

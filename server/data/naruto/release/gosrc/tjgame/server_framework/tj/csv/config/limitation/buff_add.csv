@@ -1,0 +1,17 @@
+变量名,buffPos,buffType,buffVal,buffIcon,buffIcon2,buffWeight
+默认值,1,,,"""""","""""",10
+ID,buff位置,buff类型(1-100是属性id对应；101以上是特殊类型),buff效果,图标,图标文字,buff权重
+1,1,7,10%,00ShuMa/SL_res/gongji.png,00ShuMa/GQ_res/limitation/gjl.png,
+2,1,16,1000,00ShuMa/SL_res/gongji.png,00ShuMa/GQ_res/limitation/shl.png,
+,,,,,,
+,,,,,,
+,,,,,,
+101,2,8,10%,00ShuMa/SL_res/fangyu.png,00ShuMa/GQ_res/limitation/fyl.png,
+102,2,17,1000,00ShuMa/SL_res/fangyu.png,00ShuMa/GQ_res/limitation/msl.png,
+,,,,,,
+,,,,,,
+,,,,,,
+201,3,10,1000,00ShuMa/SL_res/baoji.png,00ShuMa/GQ_res/limitation/bjl.png,
+202,3,13,1000,00ShuMa/SL_res/gedang.png,00ShuMa/GQ_res/limitation/gdl.png,
+203,3,18,1000,00ShuMa/SL_res/xixue.png,00ShuMa/GQ_res/limitation/xxl.png,
+204,3,26,1000,00ShuMa/SL_res/fanshang.png,00ShuMa/GQ_res/limitation/mkl.png,

@@ -1,0 +1,13 @@
+﻿VariableName,award,needPoint
+Defaults,{},
+ID,award,needPoint
+1,{gold=30000;521=1;coin1=100},20
+2,{11=15;gold=24000;coin1=80},18
+3,{11=15;gold=21000;coin1=60},16
+4,{gold=18000;521=1;coin1=60},14
+5,{11=15;gold=15000;coin1=60},12
+6,{gold=30000;talent_point=1;coin1=100},10
+7,{11=15;gold=24000;coin1=80},8
+8,{11=15;gold=21000;coin1=60},6
+9,{11=15;gold=18000;coin1=60},4
+10,{11=15;gold=15000;coin1=60},2

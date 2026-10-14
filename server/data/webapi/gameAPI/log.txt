@@ -1,0 +1,186 @@
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",204,332001,9]-  orderid : 69b23c82338b3f0367de3d3f1773360620 amout : 600000.00 accountid : 69b23c80e03b5249d24d17f3
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,332501,15]-  orderid : 69b23c82338b3f0367de3d3f1773360690 amout : 400000.00 accountid : 69b23c80e03b5249d24d17f3
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,332500,11]-  orderid : 69b23c82338b3f0367de3d3f1773360731 amout : 400000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "45ea19f8"}
+Create 400000.00: 400000.00
+Pay Code: 45ea19f8
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,337000,48]-  orderid : 69b23c82338b3f0367de3d3f1773360940 amout : 400000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "e1b716e1"}
+Create 400000.00: 400000.00
+Pay Code: e1b716e1
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",41,332500,10]-  orderid : 69b23c82338b3f0367de3d3f1773361051 amout : 128000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "9cfb716e"}
+Create 128000.00: 128000.00
+Pay Code: 9cfb716e
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",28,332500,12]-  orderid : 69b23c82338b3f0367de3d3f1773361112 amout : 19980.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "7a84d16a"}
+Create 19980.00: 19980.00
+Pay Code: 7a84d16a
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",29,332500,13]-  orderid : 69b23c82338b3f0367de3d3f1773361163 amout : 49980.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "f4492abf"}
+Create 49980.00: 49980.00
+Pay Code: f4492abf
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,332027,557]-  orderid : 69b23c82338b3f0367de3d3f1773361246 amout : 400000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "ca51151d"}
+Create 400000.00: 400000.00
+Pay Code: ca51151d
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,337000,48]-  orderid : 69b23c82338b3f0367de3d3f1773361253 amout : 400000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "cf221e6c"}
+Create 400000.00: 400000.00
+Pay Code: cf221e6c
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",204,332001,9]-  orderid : 69b23c82338b3f0367de3d3f1773361393 amout : 600000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "d6e4a647"}
+Create 600000.00: 600000.00
+Pay Code: d6e4a647
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",204,337000,50]-  orderid : 69b23c82338b3f0367de3d3f1773361446 amout : 600000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "91518f50"}
+Create 600000.00: 600000.00
+Pay Code: 91518f50
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",204,337000,50]-  orderid : 69b23c82338b3f0367de3d3f1773361483 amout : 600000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "7a7948a8"}
+Create 600000.00: 600000.00
+Pay Code: 7a7948a8
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",46,337000,49]-  orderid : 69b23c82338b3f0367de3d3f1773361523 amout : 500000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "775451b1"}
+Create 500000.00: 500000.00
+Pay Code: 775451b1
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",46,332001,8]-  orderid : 69b23c82338b3f0367de3d3f1773361536 amout : 500000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "da06de73"}
+Create 500000.00: 500000.00
+Pay Code: da06de73
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",203,333024,468]-  orderid : 69b23c82338b3f0367de3d3f1773361815 amout : 600000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "a16042d2"}
+Create 600000.00: 600000.00
+Pay Code: a16042d2
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,332027,557]-  orderid : 69b23c82338b3f0367de3d3f1773362120 amout : 200000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "17a30e06"}
+Create 200000.00: 200000.00
+Pay Code: 17a30e06
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b27514bb8b9469ec73b5d3","69b27515338b3f0367de3d8e","game.vn.1",3,0,3]-  orderid : 69b27515338b3f0367de3d8e1773362175 amout : 10000.00 accountid : 69b27514bb8b9469ec73b5d3
+CALL API
+Create Code: {"content": "cdbeb87e"}
+Create 10000.00: 10000.00
+Pay Code: cdbeb87e
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",113,350000,1]-  orderid : 69b23c82338b3f0367de3d3f1773362445 amout : 100000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "a3597c6d"}
+Create 100000.00: 100000.00
+Pay Code: a3597c6d
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",43,350000,3]-  orderid : 69b23c82338b3f0367de3d3f1773362467 amout : 200000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "f3bdfd99"}
+Create 200000.00: 200000.00
+Pay Code: f3bdfd99
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,337000,48]-  orderid : 69b23c82338b3f0367de3d3f1773362504 amout : 200000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "842508c1"}
+Create 200000.00: 200000.00
+Pay Code: 842508c1
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",43,337000,46]-  orderid : 69b23c82338b3f0367de3d3f1773362514 amout : 200000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "d5ab2bc6"}
+Create 200000.00: 200000.00
+Pay Code: d5ab2bc6
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",45,332501,15]-  orderid : 69b23c82338b3f0367de3d3f1773362535 amout : 200000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "f9c6fa57"}
+Create 200000.00: 200000.00
+Pay Code: f9c6fa57
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",44,337000,47]-  orderid : 69b23c82338b3f0367de3d3f1773362631 amout : 300000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "013081c4"}
+Create 300000.00: 300000.00
+Pay Code: 013081c4
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",112,700000,6]-  orderid : 69b23c82338b3f0367de3d3f1773362655 amout : 300000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "3b114d10"}
+Create 300000.00: 300000.00
+Pay Code: 3b114d10
+Pay check: Ok
+Sử lý giao dịch thành công
+
+["69b23c80e03b5249d24d17f3","69b23c82338b3f0367de3d3f","game.vn.1",40,337000,45]-  orderid : 69b23c82338b3f0367de3d3f1773362702 amout : 100000.00 accountid : 69b23c80e03b5249d24d17f3
+CALL API
+Create Code: {"content": "b3183c17"}
+Create 100000.00: 100000.00
+Pay Code: b3183c17
+Pay check: Ok
+Sử lý giao dịch thành công
+

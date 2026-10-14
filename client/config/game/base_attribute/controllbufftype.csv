@@ -1,0 +1,12 @@
+﻿VariableName,controllBuffType,unlock
+Defaults,,true
+ID,controllBuffType,unlock
+1,stun,
+2,sleepy,
+3,confusion,
+4,silence,
+5,sneer,
+6,freeze,
+7,leave,false
+8,changeImage,false
+9,kongju,

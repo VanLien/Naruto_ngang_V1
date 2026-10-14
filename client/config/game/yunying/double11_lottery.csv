@@ -1,0 +1,11 @@
+﻿VariableName,award,huodongID,name,prize,weight
+Defaults,{},0,,0,0
+ID,award,huodongID,name,prize,weight
+1,{gold=1680000;rmb=288;521=4;503=6},1,Giải Nhất,1,1
+2,{gold=1080000;rmb=168;521=2;503=4},1,Giải Nhì,2,4
+3,{rmb=88;gold=680000;502=3;503=2},1,Giải Ba,3,20
+4,{rmb=38;gold=280000;502=1;503=1},1,Giải May Mắn,4,75
+11,{gold=1680000;rmb=288;521=4;503=6},2,Giải Nhất,1,1
+12,{gold=1080000;rmb=168;521=2;503=4},2,Giải Nhì,2,4
+13,{rmb=88;gold=680000;502=3;503=2},2,Giải Ba,3,20
+14,{rmb=38;gold=280000;502=1;503=1},2,Giải May Mắn,4,75

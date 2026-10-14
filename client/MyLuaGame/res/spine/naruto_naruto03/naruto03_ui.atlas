@@ -1,0 +1,689 @@
+
+naruto03_ui.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11001901_bizi
+  rotate: false
+  xy: 3202, 226
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+11001901_bozi
+  rotate: false
+  xy: 1607, 10
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+11001901_ckl1
+  rotate: false
+  xy: 964, 151
+  size: 323, 103
+  orig: 323, 103
+  offset: 0, 0
+  index: -1
+11001901_ckl2_1
+  rotate: true
+  xy: 1716, 136
+  size: 118, 199
+  orig: 118, 199
+  offset: 0, 0
+  index: -1
+11001901_ckl3_1
+  rotate: true
+  xy: 1289, 81
+  size: 173, 228
+  orig: 173, 228
+  offset: 0, 0
+  index: -1
+11001901_daizi1
+  rotate: true
+  xy: 2115, 200
+  size: 54, 210
+  orig: 54, 210
+  offset: 0, 0
+  index: -1
+11001901_daizi2
+  rotate: false
+  xy: 663, 65
+  size: 230, 59
+  orig: 230, 59
+  offset: 0, 0
+  index: -1
+11001901_er
+  rotate: true
+  xy: 2213, 175
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+11001901_fa1
+  rotate: true
+  xy: 2952, 208
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+11001901_fa2
+  rotate: true
+  xy: 2115, 172
+  size: 26, 96
+  orig: 26, 96
+  offset: 0, 0
+  index: -1
+11001901_fa3
+  rotate: false
+  xy: 2784, 183
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+11001901_fa4
+  rotate: true
+  xy: 2866, 198
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+11001901_fa5
+  rotate: true
+  xy: 1153, 99
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+11001901_fa6
+  rotate: true
+  xy: 1067, 85
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+11001901_fa7
+  rotate: false
+  xy: 329, 2
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+11001901_houfa
+  rotate: true
+  xy: 384, 16
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+11001901_lian
+  rotate: true
+  xy: 1519, 109
+  size: 145, 195
+  orig: 145, 195
+  offset: 0, 0
+  index: -1
+11001901_qugan
+  rotate: true
+  xy: 2, 22
+  size: 232, 325
+  orig: 232, 325
+  offset: 0, 0
+  index: -1
+11001901_tuntui
+  rotate: true
+  xy: 329, 59
+  size: 195, 332
+  orig: 195, 332
+  offset: 0, 0
+  index: -1
+11001901_yan1
+  rotate: true
+  xy: 546, 30
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+11001901_yan2
+  rotate: false
+  xy: 3162, 216
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+11001901_yanpi1
+  rotate: false
+  xy: 462, 30
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+11001901_yanpi2
+  rotate: false
+  xy: 1716, 115
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+11001901_yousahngbi
+  rotate: true
+  xy: 1917, 153
+  size: 101, 196
+  orig: 101, 196
+  offset: 0, 0
+  index: -1
+11001901_youshou1
+  rotate: false
+  xy: 1244, 66
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+11001901_youshou2
+  rotate: true
+  xy: 3024, 225
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+11001901_youshou3
+  rotate: true
+  xy: 2502, 171
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+11001901_youshouwan
+  rotate: false
+  xy: 1076, 2
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+11001901_youxiu1
+  rotate: true
+  xy: 895, 2
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+11001901_youxiu2
+  rotate: true
+  xy: 992, 2
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+11001901_zuoshangbi
+  rotate: true
+  xy: 2327, 167
+  size: 87, 173
+  orig: 87, 173
+  offset: 0, 0
+  index: -1
+11001901_zuoshou
+  rotate: true
+  xy: 2650, 182
+  size: 72, 132
+  orig: 72, 132
+  offset: 0, 0
+  index: -1
+11001901_zuoshouwan
+  rotate: false
+  xy: 3103, 212
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+11001901_zuotui
+  rotate: false
+  xy: 663, 126
+  size: 299, 128
+  orig: 299, 128
+  offset: 0, 0
+  index: -1
+11001901_zuoxiu
+  rotate: true
+  xy: 1519, 2
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+11001901_zuoxiu2
+  rotate: true
+  xy: 992, 81
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+11001901_zuoxiu3
+  rotate: true
+  xy: 1151, 2
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+
+naruto03_ui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/eff_glow_004
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Textures/eff_glow_big_white
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_nova_01
+  rotate: false
+  xy: 2, 390
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Textures/eff_quan_004
+  rotate: false
+  xy: 516, 646
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_quan_024
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Textures/eff_wenli_026
+  rotate: false
+  xy: 518, 388
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+naruto03_ui3.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00000
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00001
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00002
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00003
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00004
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00005
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00006
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00007
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00008
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00009
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00010
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00011
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00012
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00013
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00014
+  rotate: false
+  xy: 1512, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00015
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00016
+  rotate: false
+  xy: 1512, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00017
+  rotate: false
+  xy: 1814, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00018
+  rotate: false
+  xy: 1512, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00019
+  rotate: false
+  xy: 1814, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00020
+  rotate: false
+  xy: 2116, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_feng/mingrenjiuwei_lihui_feng_00021
+  rotate: false
+  xy: 1814, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+
+naruto03_ui4.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00000
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00001
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00002
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00003
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00004
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00005
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00006
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00007
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00008
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00009
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00010
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00011
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00012
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00013
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00014
+  rotate: false
+  xy: 1512, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00015
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00016
+  rotate: false
+  xy: 1512, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00017
+  rotate: false
+  xy: 1814, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00018
+  rotate: false
+  xy: 1512, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00019
+  rotate: false
+  xy: 1814, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00020
+  rotate: false
+  xy: 2116, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00021
+  rotate: false
+  xy: 1814, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00022
+  rotate: false
+  xy: 2116, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00023
+  rotate: false
+  xy: 2418, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00024
+  rotate: false
+  xy: 2116, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00025
+  rotate: false
+  xy: 2418, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00026
+  rotate: false
+  xy: 2720, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00027
+  rotate: false
+  xy: 2418, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00028
+  rotate: false
+  xy: 2720, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Textures/mingrenjiuwei_lihui_huo/mingrenjiuwei_lihui_huo_00029
+  rotate: false
+  xy: 3022, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

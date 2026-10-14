@@ -1,0 +1,20 @@
+﻿VariableName,attrNatureType,attrType,icon,name,needGuildLv,preSkill,sort
+Defaults,0,1,config/item/icon_bsdmz.png,,0,<>,1
+ID,attrNatureType,attrType,icon,name,needGuildLv,preSkill,sort
+1,,,common/icon/union_skill/icon_sm.png,HP,,,
+2,,7,common/icon/union_skill/icon_bs.png,Tăng cường thể chất,,,2
+3,,8,common/icon/union_skill/icon_bj.png,Tăng cường Ninjutsu,,,3
+4,,9,common/icon/union_skill/icon_wf.png,Tăng cường phòng thủ,,,4
+5,,10,common/icon/union_skill/icon_tf.png,Tăng cường kháng,,,5
+6,,,common/icon/union_skill/icon_sm.png,Rèn luyện sức bền,6,<1;10>,6
+7,,7,common/icon/union_skill/icon_bs.png,Rèn luyện sức mạnh,6,<2;10>,7
+8,,8,common/icon/union_skill/icon_bj.png,Rèn luyện tinh thần,6,<3;10>,8
+9,,9,common/icon/union_skill/icon_wf.png,Rèn luyện thể lực,6,<4;10>,9
+10,,10,common/icon/union_skill/icon_tf.png,Rèn luyện linh hồn,6,<5;10>,10
+11,,17,common/icon/union_skill/icon_tg.png,Rèn luyện phòng thủ,8,,11
+12,,19,common/icon/union_skill/icon_tg.png,Tăng cường phòng thủ,8,,12
+13,,28,common/icon/union_skill/icon_sm.png,Tăng cường hồi phục,8,,14
+14,,14,common/icon/union_skill/icon_wg.png,Tăng tỉ lệ chí mạng,8,,15
+15,,15,common/icon/union_skill/icon_wg.png,Tăng sát thương chí mạng,8,,16
+16,,16,common/icon/union_skill/icon_tf.png,Tăng kháng chí mạng,8,,17
+17,,18,common/icon/union_skill/icon_bs.png,Phá phòng thủ,8,,13

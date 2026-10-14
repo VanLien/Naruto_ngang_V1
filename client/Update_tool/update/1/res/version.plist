@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_version</key>
+	<string>2.1.0.1</string>
+	<key>git_version</key>
+	<string>GIT_VERSION</string>
+	<key>loginServer</key>
+	<string>180.93.98.5:16666</string>
+	<key>patch</key>
+	<string>1</string>
+	<key>serverUrl</key>
+	<string>http://180.93.98.5:18080/servers</string>
+	<key>versionUrl</key>
+	<string>http://180.93.98.5:18080/version</string>
+	<key>noticeUrl</key>
+	<string>http://180.93.98.5:18080/notice</string>
+	<key>reportUrl</key>
+	<string>http://180.93.98.5:1104</string>
+	<key>disableWordCheckUrl</key>
+	<string>http://180.93.98.5:1144/check</string>
+	<key>forShenhe</key>
+	<string>false</string>
+	<key>forOBB</key>
+	<string>false</string>
+	<key>feedBackUrl</key>
+	<string>http://180.93.98.5:1104/feedback</string>
+	<key>channel</key>
+	<string>none</string>
+	<key>sdk</key>
+	<string>none</string>
+	<key>tag</key>
+	<string>none</string>
+	<key>localization</key>
+	<string>vn</string>
+</dict>
+</plist>

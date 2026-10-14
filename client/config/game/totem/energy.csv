@@ -1,0 +1,18 @@
+﻿VariableName,addType1,addType2,attrAddDesc1,attrAddDesc2,attrDesc,attrNum1,attrNum2,attrType1,attrType2,powerNum,symbolGroupType
+Defaults,,,,,,,,0,0,1,0
+ID,addType1,addType2,attrAddDesc1,attrAddDesc2,attrDesc,attrNum1,attrNum2,attrType1,attrType2,powerNum,symbolGroupType
+101,1,,Tăng HP,,Tăng HP cơ bản của ninja hàng trước trong chiến đấu (phần trăm),3.00%,,1,,35,1
+102,1,1,Tăng phòng thủ vật lý,Tăng kháng phép,Tăng phòng thủ đôi của ninja hàng trước trong chiến đấu (phần trăm),3.00%,3.00%,9,10,80,1
+103,3,,Kháng chí mạng,,Tăng kháng chí mạng của toàn bộ ninja (phần trăm),300,,16,,130,1
+201,2,,Tăng HP,,Tăng HP cơ bản của ninja hàng sau trong chiến đấu (phần trăm),3.00%,,1,,35,2
+202,2,2,Tăng tấn công vật lý,Tăng tấn công phép,Tăng tấn công đôi của ninja hàng sau trong chiến đấu (phần trăm),3.00%,3.00%,7,8,80,2
+203,3,,Tăng tỷ lệ chí mạng,,Tăng tỷ lệ chí mạng cơ bản của toàn bộ ninja (phần trăm),300,,14,,130,2
+301,3,,Tăng HP,,Tăng HP của toàn bộ ninja,8000,,1,,40,3
+302,3,,Tăng HP,,Tăng HP cơ bản của toàn bộ ninja (phần trăm),3.00%,,1,,90,3
+303,3,,Tăng giảm sát thương,,Tăng giảm sát thương cơ bản của toàn bộ ninja (phần trăm),300,,23,,160,3
+401,3,3,Tăng tấn công vật lý,Tăng tấn công phép,Tăng tấn công đôi của toàn bộ ninja,2000,2000,7,8,40,4
+402,3,3,Tăng tấn công vật lý,Tăng tấn công phép,Tăng tấn công đôi cơ bản của toàn bộ ninja (phần trăm),3.00%,3.00%,7,8,90,4
+403,3,,Tăng thưởng sát thương,,Tăng thưởng sát thương cơ bản của toàn bộ ninja (phần trăm),300,,22,,160,4
+501,3,,Tăng HP,,Tăng HP của toàn bộ ninja,8000,,1,,60,5
+502,3,,Tăng HP,,Tăng HP cơ bản của toàn bộ ninja (phần trăm),3.00%,,1,,130,5
+503,3,,Tăng giảm sát thương trong đấu trường,,Tăng giảm sát thương cơ bản trong đấu trường của toàn bộ ninja (phần trăm),300,,93,,240,5

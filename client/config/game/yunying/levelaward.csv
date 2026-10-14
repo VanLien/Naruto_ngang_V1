@@ -1,0 +1,13 @@
+﻿VariableName,award,desc,huodongID,needLevel
+Defaults,{},,0,1
+ID,award,desc,huodongID,needLevel
+1,{11=10;gold=10000;rmb=50},Đạt cấp 5,3001,5
+2,{11=15;gold=20000;rmb=60},Đạt cấp 10,3001,10
+3,{11=20;gold=30000;rmb=70},Đạt cấp 15,3001,15
+4,{gold=40000;12=20;rmb=80},Đạt cấp 20,3001,20
+5,{gold=50000;12=25;rmb=90},Đạt cấp 25,3001,25
+6,{gold=60000;12=30;rmb=100},Đạt cấp 30,3001,30
+7,{gold=70000;12=35;rmb=110},Đạt cấp 35,3001,35
+8,{gold=80000;12=40;rmb=120},Đạt cấp 40,3001,40
+9,{13=20;rmb=130;gold=90000},Đạt cấp 45,3001,45
+10,{13=25;rmb=140;gold=100000},Đạt cấp 50,3001,50

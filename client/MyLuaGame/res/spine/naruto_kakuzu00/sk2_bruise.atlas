@@ -1,0 +1,55 @@
+
+sk2_bruise.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion_seg_0_000
+  rotate: false
+  xy: 2, 64
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+explosion_seg_0_001
+  rotate: false
+  xy: 2, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+explosion_seg_0_002
+  rotate: false
+  xy: 132, 194
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+explosion_seg_0_003
+  rotate: false
+  xy: 65, 64
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+explosion_seg_0_004
+  rotate: false
+  xy: 65, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+explosion_seg_0_005
+  rotate: false
+  xy: 132, 132
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+flash_10
+  rotate: false
+  xy: 2, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

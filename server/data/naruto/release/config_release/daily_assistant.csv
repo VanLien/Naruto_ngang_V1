@@ -1,0 +1,22 @@
+﻿VariableName,features,inUnlock,languages,name,sortID,type
+Defaults,,0,<cn;tw;en;vn;th;kr>,,1,1
+ID,features,inUnlock,languages,name,sortID,type
+101,unionDailyGift,,,Quà tặng hằng ngày Bang Hội,,
+102,unionRedpacket,1,,Hồng bao hằng ngày Bang Hội,2,
+103,trainer,1,,Thưởng hằng ngày từ Sổ Tay Ninja,3,
+104,gainGold,,,Kho Báu,4,
+201,drawCardRmb,,,Rút thẻ bằng Vàng,,2
+202,drawCardGold,,,Rút thẻ bằng Xu Đồng,2,2
+203,drawEquip,1,,Rút Trang Sức,3,2
+204,explorer,1,,Tìm kiếm Linh Hồn Yêu Thú,5,2
+205,gem,1,,Rút Ấn,4,2
+206,chip,1,,Rút Bí Kíp,6,2
+207,totemDraw,1,<cn>,Tìm kiếm (Illusion Seal),7,2
+301,craft,1,,Đại Hội Ninja,,3
+302,unionFight,1,,Chiến Bang Hội,2,3
+401,activityGate,1,,Phó Bản Hằng Ngày,,4
+402,endlessTower,1,,Con Đường Trưởng Thành,2,4
+501,unionContrib,,,Quyên góp cho Bang Hội,,5
+502,unionFragDonate,,,Cầu nguyện trong Bang Hội,2,5
+503,unionTrainingSpeedup,,,Tăng tốc thời gian của bạn bè,3,5
+504,unionFuben,,,Phó Bản Bang Hội,4,5

@@ -1,0 +1,96 @@
+
+xunblianshi1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 1156, 178
+  size: 181, 64
+  orig: 181, 64
+  offset: 0, 0
+  index: -1
+btn_lock
+  rotate: false
+  xy: 1487, 186
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+btn_unlock
+  rotate: true
+  xy: 1156, 114
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 2
+  size: 1022, 240
+  orig: 1022, 240
+  offset: 0, 0
+  index: -1
+jinjie
+  rotate: false
+  xy: 1026, 61
+  size: 106, 51
+  orig: 106, 51
+  offset: 0, 0
+  index: -1
+lg
+  rotate: false
+  xy: 1339, 172
+  size: 146, 70
+  orig: 146, 70
+  offset: 0, 0
+  index: -1
+suoba
+  rotate: false
+  xy: 1026, 19
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+suoshen
+  rotate: false
+  xy: 1134, 80
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 1026, 114
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+xunblianshi12.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/flare_Fire
+  rotate: false
+  xy: 192, 74
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 2, 47
+  size: 188, 193
+  orig: 188, 193
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 2, 2
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4 @@
+变量名,divinate1_weight,divinate2_weight,building_up_weight,res_collect_weight,res_collect_max_weight,daily_active_times,shop_exist_time,shop_cd_time
+默认值,<0;0>,<0;0>,<0;0>,<0;0>,1,5,3600,3600
+ID,占卜1权值,占卜2权值,建筑升级权值,资源收集权值,资源收集权值上限,每日激活次数,商店存在时间,商店冷却时间
+1,<0.02;0.04>,<0.02;0.04>,<0.04;0.06>,<0.08;0.12>,0.4,1,7200,21600

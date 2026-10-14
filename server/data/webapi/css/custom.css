@@ -1,0 +1,263 @@
+.captcha {
+    padding: 0px;
+    width: 100px;
+}
+
+.captcha img {
+    width: 100%;
+    height: 49px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.cl10 {
+    padding-top: 15px;
+}
+
+.fll2 {
+    margin-left: 20px;
+}
+
+.bottool {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ds-center {
+    display: flex;
+    justify-content: space-around;
+}
+
+.clearbg {
+    background: none;
+}
+
+.clearpadding {
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.alink {
+    color: white;
+}
+
+.alink:hover {
+    color: #ffea49;
+}
+
+.imgborder {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.textaleft {
+    text-align: left !important;
+}
+
+/* ----------------------------------------------- */
+.input-group input {
+    border: 1px solid #fa5b36;
+    border-left: none;
+}
+
+.input-group .input-group-addon {
+    border: 1px solid #fa5b36;
+    border-right: none;
+}
+
+.input-group .captcha {
+    border-right: 1px solid #fa5b36 !important;
+    border-left: none;
+}
+
+.form-control:focus {
+    border-color: #fa5b36;
+}
+
+.dataTables_filter input {
+    border: 1px solid #fa5b36;
+    height: 23px;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.paginate_button.current,
+.paginate_button:hover {
+    background: #fa5b36 !important;
+    border: 1px solid #fa5b36 !important;
+    border-radius: 5px;
+}
+
+/* ------------------------------------------------------------ */
+.fll {
+    margin-left: 0px;
+}
+
+.fll2 {
+    margin-left: 0px;
+}
+
+.copy {
+    color: #fa5b36 !important;
+}
+
+/* ----------------------------logo-------------------------- */
+@font-face {
+    font-family: fzfont;
+    src: url("../fonts/Fz2.ttf");
+}
+
+.logo-tt {
+    z-index: 10;
+    /* text-transform: uppercase; */
+    letter-spacing: 0.5em;
+    border: 1px double #fa5b36;
+    border-width: 4px 0;
+    padding: 5px 0em;
+    margin: 0 0 0 0;
+    font-size: 20px;
+}
+
+.logo-tt span {
+    /* font-family: fzfont; */
+    font: 300 2em/1 "Oswald", fzfont;
+    /* font: 300 2em/1 "Oswald", sans-serif; */
+    letter-spacing: 5px;
+    padding: 0.25em 0 0.325em;
+    display: block;
+    margin: 0 auto;
+    text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+    background: url("../images/animated-text-fill.png") repeat-y;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: aitf 80s linear infinite;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+}
+
+@-webkit-keyframes aitf {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+/* ----------------------------end logo---------------------- */
+
+.fix-size {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.text-note {
+    font-size: 16px;
+}
+
+.note-list {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.note-list .blue-text {
+    color: blue;
+}
+
+.dataTables_wrapper {
+    overflow: auto;
+}
+
+#sb-site,
+.mp-pusher {
+    background-color: aliceblue !important;
+}
+
+.form-login {
+    position: absolute;
+    background-color: #ffffff;
+    min-height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15px;
+    border-radius: 12px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: -25px;
+    z-index: 2;
+    width: 90%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.form-login form {
+    width: -webkit-fill-available;
+    padding: 20px 10px;
+}
+
+.form-login form .input-group-addon,
+.form-login form input {
+    height: 50px;
+}
+
+.body-content {
+    position: relative;
+}
+
+.image-logo {
+    height: 120px;
+}
+
+.fl-center {
+    display: flex;
+    justify-content: center;
+}
+
+.box-captcha {
+    box-sizing: content-box;
+}
+
+#sb-site {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.giftcodeparent {
+    padding-bottom: 50px;
+}
+
+@supports (-webkit-overflow-scrolling: touch) {}
+
+@supports not (-webkit-overflow-scrolling: touch) {
+
+    html,
+    body {
+        height: 100% !important;
+    }
+
+    .container {
+        height: -webkit-fill-available;
+    }
+
+}
+
+.row.body-content{
+    min-height: 650px;
+}
+
+.ii {
+    width: 70%;
+    cursor: pointer !important;
+    border-radius: 3px;
+    padding: 5px;
+    border: solid 1px #d45a5a;
+    background-color: #eeeeee;
+}
+
+.cp {
+    border-radius: 3px;
+    padding: 5px;
+    border: solid 1px #d45a5a;
+    background-color: #eeeeee;
+}

@@ -1,0 +1,62 @@
+
+neji00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0065
+  rotate: true
+  xy: 230, 199
+  size: 105, 290
+  orig: 105, 290
+  offset: 0, 0
+  index: -1
+idle_0082
+  rotate: false
+  xy: 2, 15
+  size: 112, 289
+  orig: 112, 289
+  offset: 0, 0
+  index: -1
+idle_0088
+  rotate: false
+  xy: 116, 15
+  size: 112, 289
+  orig: 112, 289
+  offset: 0, 0
+  index: -1
+idle_0095
+  rotate: true
+  xy: 230, 95
+  size: 102, 289
+  orig: 102, 289
+  offset: 0, 0
+  index: -1
+idle_0100
+  rotate: true
+  xy: 522, 207
+  size: 97, 289
+  orig: 97, 289
+  offset: 0, 0
+  index: -1
+stand_0049
+  rotate: true
+  xy: 522, 115
+  size: 90, 289
+  orig: 90, 289
+  offset: 0, 0
+  index: -1
+stand_0056
+  rotate: true
+  xy: 522, 22
+  size: 91, 289
+  orig: 91, 289
+  offset: 0, 0
+  index: -1
+stand_0061
+  rotate: true
+  xy: 230, 2
+  size: 91, 290
+  orig: 91, 290
+  offset: 0, 0
+  index: -1

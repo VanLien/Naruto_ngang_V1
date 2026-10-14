@@ -1,0 +1,4 @@
+﻿VariableName,dailyMax,onceMax,weightMax,weightMin
+Defaults,0,0,0,0
+ID,dailyMax,onceMax,weightMax,weightMin
+1,5,5,0.006,0.008

@@ -1,0 +1,40 @@
+
+buzhen2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangzhu1
+  rotate: false
+  xy: 2, 2
+  size: 649, 445
+  orig: 649, 445
+  offset: 0, 0
+  index: -1
+
+buzhen22.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 316, 182
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 2, 70
+  size: 312, 311
+  orig: 312, 311
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 2, 2
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1403 @@
+﻿VariableName,awakeDes1,awakeSeqID,isOpen,pos,scale,unlockLimit1,unlockLimit2,unlockType1,unlockType2,zawakeID
+Defaults,,0,1,{},0.5,{},{},-1,-1,0
+ID,awakeDes1,awakeSeqID,isOpen,pos,scale,unlockLimit1,unlockLimit2,unlockType1,unlockType2,zawakeID
+10101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1
+10102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1
+10103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1
+10104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1
+10105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1
+10106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1
+10107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1
+10108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1
+10201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2
+10202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2
+10203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2
+10204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2
+10205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2
+10206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2
+10207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2
+10208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2
+11101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,11
+11102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,11
+11103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,11
+11104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,11
+11105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,11
+11106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,11
+11107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,11
+11108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,11
+11201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,12
+11202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,12
+11203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,12
+11204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,12
+11205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,12
+11206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,12
+11207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,12
+11208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,12
+11301,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,13
+11302,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,13
+11303,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,13
+11304,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,13
+11305,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,13
+11306,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,13
+11307,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,13
+11308,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,13
+12101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,21
+12102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,21
+12103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,21
+12104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,21
+12105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,21
+12106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,21
+12107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,21
+12108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,21
+12201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,22
+12202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,22
+12203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,22
+12204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,22
+12205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,22
+12206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,22
+12207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,22
+12208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,22
+13101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,31
+13102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,31
+13103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,31
+13104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,31
+13105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,31
+13106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,31
+13107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,31
+13108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,31
+14101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,41
+14102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,41
+14103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,41
+14104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,41
+14105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,41
+14106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,41
+14107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,41
+14108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,41
+14201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,42
+14202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,42
+14203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,42
+14204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,42
+14205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,42
+14206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,42
+14207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,42
+14208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,42
+15101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,51
+15102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,51
+15103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,51
+15104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,51
+15105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,51
+15106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,51
+15107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,51
+15108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,51
+16101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,61
+16102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,61
+16103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,61
+16104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,61
+16105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,61
+16106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,61
+16107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,61
+16108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,61
+17101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,71
+17102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,71
+17103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,71
+17104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,71
+17105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,71
+17106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,71
+17107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,71
+17108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,71
+18101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,81
+18102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,81
+18103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,81
+18104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,81
+18105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,81
+18106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,81
+18107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,81
+18108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,81
+19101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,91
+19102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,91
+19103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,91
+19104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,91
+19105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,91
+19106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,91
+19107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,91
+19108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,91
+20101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,101
+20102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,101
+20103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,101
+20104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,101
+20105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,101
+20106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,101
+20107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,101
+20108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,101
+21101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,111
+21102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,111
+21103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,111
+21104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,111
+21105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,111
+21106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,111
+21107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,111
+21108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,111
+22101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,121
+22102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,121
+22103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,121
+22104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,121
+22105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,121
+22106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,121
+22107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,121
+22108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,121
+23101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,131
+23102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,131
+23103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,131
+23104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,131
+23105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,131
+23106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,131
+23107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,131
+23108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,131
+25101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,151
+25102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,151
+25103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,151
+25104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,151
+25105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,151
+25106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,151
+25107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,151
+25108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,151
+26101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,161
+26102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,161
+26103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,161
+26104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,161
+26105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,161
+26106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,161
+26107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,161
+26108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,161
+27101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,171
+27102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,171
+27103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,171
+27104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,171
+27105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,171
+27106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,171
+27107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,171
+27108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,171
+29101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,191
+29102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,191
+29103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,191
+29104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,191
+29105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,191
+29106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,191
+29107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,191
+29108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,191
+32101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,221
+32102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,221
+32103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,221
+32104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,221
+32105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,221
+32106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,221
+32107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,221
+32108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,221
+33101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,231
+33102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,231
+33103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,231
+33104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,231
+33105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,231
+33106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,231
+33107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,231
+33108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,231
+34101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,241
+34102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,241
+34103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,241
+34104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,241
+34105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,241
+34106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,241
+34107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,241
+34108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,241
+36101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,261
+36102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,261
+36103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,261
+36104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,261
+36105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,261
+36106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,261
+36107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,261
+36108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,261
+36201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,262
+36202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,262
+36203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,262
+36204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,262
+36205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,262
+36206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,262
+36207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,262
+36208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,262
+37101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,271
+37102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,271
+37103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,271
+37104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,271
+37105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,271
+37106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,271
+37107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,271
+37108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,271
+38101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,281
+38102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,281
+38103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,281
+38104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,281
+38105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,281
+38106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,281
+38107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,281
+38108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,281
+40101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,301
+40102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,301
+40103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,301
+40104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,301
+40105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,301
+40106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,301
+40107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,301
+40108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,301
+43101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,331
+43102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,331
+43103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,331
+43104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,331
+43105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,331
+43106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,331
+43107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,331
+43108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,331
+44101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,341
+44102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,341
+44103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,341
+44104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,341
+44105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,341
+44106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,341
+44107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,341
+44108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,341
+45101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,351
+45102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,351
+45103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,351
+45104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,351
+45105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,351
+45106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,351
+45107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,351
+45108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,351
+47101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,371
+47102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,371
+47103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,371
+47104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,371
+47105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,371
+47106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,371
+47107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,371
+47108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,371
+48101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,381
+48102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,381
+48103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,381
+48104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,381
+48105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,381
+48106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,381
+48107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,381
+48108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,381
+49101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,391
+49102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,391
+49103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,391
+49104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,391
+49105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,391
+49106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,391
+49107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,391
+49108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,391
+49201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,392
+49202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,392
+49203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,392
+49204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,392
+49205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,392
+49206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,392
+49207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,392
+49208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,392
+50101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,401
+50102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,401
+50103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,401
+50104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,401
+50105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,401
+50106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,401
+50107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,401
+50108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,401
+55101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,451
+55102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,451
+55103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,451
+55104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,451
+55105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,451
+55106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,451
+55107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,451
+55108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,451
+56101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,461
+56102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,461
+56103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,461
+56104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,461
+56105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,461
+56106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,461
+56107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,461
+56108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,461
+56201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,462
+56202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,462
+56203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,462
+56204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,462
+56205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,462
+56206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,462
+56207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,462
+56208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,462
+56301,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,463
+56302,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,463
+56303,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,463
+56304,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,463
+56305,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,463
+56306,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,463
+56307,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,463
+56308,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,463
+57101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,471
+57102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,471
+57103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,471
+57104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,471
+57105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,471
+57106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,471
+57107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,471
+57108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,471
+58101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,481
+58102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,481
+58103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,481
+58104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,481
+58105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,481
+58106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,481
+58107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,481
+58108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,481
+59101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,491
+59102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,491
+59103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,491
+59104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,491
+59105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,491
+59106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,491
+59107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,491
+59108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,491
+60101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,501
+60102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,501
+60103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,501
+60104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,501
+60105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,501
+60106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,501
+60107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,501
+60108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,501
+64101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,541
+64102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,541
+64103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,541
+64104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,541
+64105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,541
+64106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,541
+64107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,541
+64108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,541
+65101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,551
+65102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,551
+65103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,551
+65104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,551
+65105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,551
+65106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,551
+65107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,551
+65108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,551
+67101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,571
+67102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,571
+67103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,571
+67104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,571
+67105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,571
+67106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,571
+67107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,571
+67108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,571
+67201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,572
+67202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,572
+67203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,572
+67204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,572
+67205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,572
+67206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,572
+67207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,572
+67208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,572
+69101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,591
+69102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,591
+69103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,591
+69104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,591
+69105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,591
+69106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,591
+69107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,591
+69108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,591
+70101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,601
+70102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,601
+70103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,601
+70104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,601
+70105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,601
+70106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,601
+70107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,601
+70108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,601
+73101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,631
+73102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,631
+73103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,631
+73104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,631
+73105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,631
+73106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,631
+73107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,631
+73108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,631
+74101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,641
+74102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,641
+74103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,641
+74104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,641
+74105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,641
+74106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,641
+74107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,641
+74108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,641
+79101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,691
+79102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,691
+79103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,691
+79104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,691
+79105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,691
+79106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,691
+79107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,691
+79108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,691
+80101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,701
+80102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,701
+80103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,701
+80104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,701
+80105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,701
+80106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,701
+80107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,701
+80108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,701
+81101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,711
+81102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,711
+81103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,711
+81104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,711
+81105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,711
+81106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,711
+81107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,711
+81108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,711
+82101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,721
+82102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,721
+82103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,721
+82104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,721
+82105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,721
+82106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,721
+82107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,721
+82108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,721
+83101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,731
+83102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,731
+83103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,731
+83104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,731
+83105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,731
+83106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,731
+83107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,731
+83108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,731
+84101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,741
+84102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,741
+84103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,741
+84104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,741
+84105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,741
+84106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,741
+84107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,741
+84108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,741
+85101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,751
+85102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,751
+85103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,751
+85104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,751
+85105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,751
+85106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,751
+85107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,751
+85108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,751
+86101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,761
+86102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,761
+86103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,761
+86104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,761
+86105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,761
+86106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,761
+86107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,761
+86108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,761
+87101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,771
+87102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,771
+87103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,771
+87104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,771
+87105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,771
+87106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,771
+87107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,771
+87108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,771
+88101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,781
+88102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,781
+88103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,781
+88104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,781
+88105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,781
+88106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,781
+88107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,781
+88108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,781
+89101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,791
+89102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,791
+89103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,791
+89104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,791
+89105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,791
+89106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,791
+89107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,791
+89108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,791
+90101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,801
+90102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,801
+90103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,801
+90104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,801
+90105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,801
+90106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,801
+90107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,801
+90108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,801
+96101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,861
+96102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,861
+96103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,861
+96104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,861
+96105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,861
+96106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,861
+96107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,861
+96108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,861
+98101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,881
+98102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,881
+98103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,881
+98104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,881
+98105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,881
+98106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,881
+98107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,881
+98108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,881
+98201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,882
+98202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,882
+98203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,882
+98204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,882
+98205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,882
+98206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,882
+98207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,882
+98208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,882
+99101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,891
+99102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,891
+99103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,891
+99104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,891
+99105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,891
+99106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,891
+99107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,891
+99108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,891
+113101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1031
+113102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1031
+113103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1031
+113104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1031
+113105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1031
+113106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1031
+113107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1031
+113108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1031
+117101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1071
+117102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1071
+117103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1071
+117104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1071
+117105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1071
+117106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1071
+117107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1071
+117108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1071
+118101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1081
+118102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1081
+118103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1081
+118104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1081
+118105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1081
+118106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1081
+118107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1081
+118108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1081
+127101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1171
+127102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1171
+127103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1171
+127104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1171
+127105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1171
+127106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1171
+127107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1171
+127108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1171
+132101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1221
+132102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1221
+132103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1221
+132104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1221
+132105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1221
+132106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1221
+132107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1221
+132108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1221
+133101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1231
+133102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1231
+133103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1231
+133104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1231
+133105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1231
+133106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1231
+133107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1231
+133108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1231
+134101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1241
+134102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1241
+134103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1241
+134104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1241
+134105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1241
+134106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1241
+134107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1241
+134108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1241
+135101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1251
+135102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1251
+135103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1251
+135104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1251
+135105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1251
+135106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1251
+135107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1251
+135108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1251
+136101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1261
+136102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1261
+136103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1261
+136104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1261
+136105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1261
+136106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1261
+136107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1261
+136108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1261
+137101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1271
+137102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1271
+137103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1271
+137104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1271
+137105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1271
+137106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1271
+137107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1271
+137108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1271
+139101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1291
+139102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1291
+139103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1291
+139104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1291
+139105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1291
+139106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1291
+139107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1291
+139108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1291
+140101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1301
+140102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1301
+140103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1301
+140104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1301
+140105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1301
+140106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1301
+140107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1301
+140108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1301
+141101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1311
+141102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1311
+141103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1311
+141104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1311
+141105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1311
+141106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1311
+141107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1311
+141108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1311
+141201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1312
+141202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1312
+141203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1312
+141204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1312
+141205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1312
+141206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1312
+141207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1312
+141208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1312
+145101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1351
+145102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1351
+145103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1351
+145104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1351
+145105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1351
+145106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1351
+145107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1351
+145108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1351
+149101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1391
+149102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1391
+149103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1391
+149104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1391
+149105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1391
+149106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1391
+149107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1391
+149108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1391
+149201,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1392
+149202,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1392
+149203,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1392
+149204,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1392
+149205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1392
+149206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1392
+149207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1392
+149208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1392
+152101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1421
+152102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1421
+152103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1421
+152104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1421
+152105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1421
+152106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1421
+152107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1421
+152108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1421
+154101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1441
+154102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1441
+154103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1441
+154104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1441
+154105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1441
+154106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1441
+154107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1441
+154108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1441
+160101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1501
+160102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1501
+160103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1501
+160104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1501
+160105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1501
+160106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1501
+160107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1501
+160108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1501
+171101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1611
+171102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1611
+171103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1611
+171104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1611
+171105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1611
+171106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1611
+171107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1611
+171108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1611
+190101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1801
+190102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1801
+190103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1801
+190104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1801
+190105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1801
+190106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1801
+190107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1801
+190108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1801
+191101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1811
+191102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1811
+191103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1811
+191104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1811
+191105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1811
+191106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1811
+191107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1811
+191108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1811
+194101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1841
+194102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1841
+194103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1841
+194104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1841
+194105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1841
+194106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1841
+194107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1841
+194108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1841
+195101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1851
+195102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1851
+195103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1851
+195104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1851
+195105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1851
+195106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1851
+195107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1851
+195108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1851
+195201,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1852
+195202,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1852
+195203,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1852
+195204,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1852
+195205,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1852
+195206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1852
+195207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1852
+195208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1852
+196101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1861
+196102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1861
+196103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,1861
+196104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,1861
+196105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,1861
+196106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,1861
+196107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,1861
+196108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,1861
+199101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1891
+199102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1891
+199103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1891
+199104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1891
+199105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1891
+199106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1891
+199107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1891
+199108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1891
+200101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1901
+200102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1901
+200103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1901
+200104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1901
+200105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1901
+200106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1901
+200107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1901
+200108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1901
+201101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1911
+201102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1911
+201103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1911
+201104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1911
+201105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1911
+201106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1911
+201107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1911
+201108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1911
+202101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1921
+202102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1921
+202103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1921
+202104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1921
+202105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1921
+202106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1921
+202107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1921
+202108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1921
+203101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1931
+203102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1931
+203103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1931
+203104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1931
+203105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1931
+203106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1931
+203107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1931
+203108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1931
+204101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1941
+204102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1941
+204103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1941
+204104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1941
+204105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1941
+204106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1941
+204107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1941
+204108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1941
+205101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1951
+205102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1951
+205103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,1951
+205104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,1951
+205105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,1951
+205106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,1951
+205107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,1951
+205108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,1951
+206101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1961
+206102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1961
+206103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1961
+206104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1961
+206105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1961
+206106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1961
+206107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1961
+206108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1961
+207101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1971
+207102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1971
+207103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1971
+207104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1971
+207105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1971
+207106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1971
+207107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1971
+207108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1971
+208101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,1981
+208102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1981
+208103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1981
+208104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1981
+208105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1981
+208106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1981
+208107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1981
+208108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1981
+208201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1982
+208202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=4;equipStarSum=8;effort=7},,,,1982
+208203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=200;advance=15;star=9},,,,1982
+208204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1982
+208205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=300;advance=17;star=10},,,,1982
+208206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=8;equipStarSum=18;effort=11},,,,1982
+208207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=400;advance=19;star=11},,,,1982
+208208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=170},,,,1982
+209101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,1991
+209102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,1991
+209103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,1991
+209104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,1991
+209105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,1991
+209106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,1991
+209107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,1991
+209108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,1991
+211101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2011
+211102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2011
+211103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2011
+211104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2011
+211105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2011
+211106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2011
+211107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2011
+211108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2011
+213101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2031
+213102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2031
+213103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2031
+213104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2031
+213105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2031
+213106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2031
+213107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2031
+213108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2031
+217101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2071
+217102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2071
+217103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2071
+217104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2071
+217105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2071
+217106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2071
+217107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2071
+217108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2071
+233101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2231
+233102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2231
+233103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2231
+233104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2231
+233105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2231
+233106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2231
+233107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2231
+233108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2231
+234101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2241
+234102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2241
+234103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2241
+234104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2241
+234105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2241
+234106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2241
+234107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2241
+234108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2241
+237101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2271
+237102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2271
+237103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2271
+237104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2271
+237105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2271
+237106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2271
+237107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2271
+237108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2271
+240101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2301
+240102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2301
+240103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2301
+240104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2301
+240105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2301
+240106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2301
+240107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2301
+240108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2301
+240201,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2302
+240202,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2302
+240203,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2302
+240204,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2302
+240205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2302
+240206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2302
+240207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2302
+240208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2302
+245101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2351
+245102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2351
+245103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2351
+245104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2351
+245105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2351
+245106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2351
+245107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2351
+245108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2351
+246101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2361
+246102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2361
+246103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2361
+246104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2361
+246105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2361
+246106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2361
+246107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2361
+246108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2361
+248101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2381
+248102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2381
+248103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2381
+248104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2381
+248105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2381
+248106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2381
+248107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2381
+248108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2381
+249101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2391
+249102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2391
+249103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2391
+249104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2391
+249105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2391
+249106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2391
+249107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2391
+249108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2391
+250101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2401
+250102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2401
+250103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2401
+250104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2401
+250105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2401
+250106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2401
+250107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2401
+250108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2401
+253101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2431
+253102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2431
+253103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2431
+253104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2431
+253105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2431
+253106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2431
+253107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2431
+253108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2431
+254101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2441
+254102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2441
+254103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,2441
+254104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,2441
+254105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,2441
+254106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,2441
+254107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,2441
+254108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,2441
+257101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2471
+257102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2471
+257103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2471
+257104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2471
+257105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2471
+257106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2471
+257107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2471
+257108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2471
+258101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2481
+258102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2481
+258103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2481
+258104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2481
+258105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2481
+258106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2481
+258107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2481
+258108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2481
+269101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2591
+269102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2591
+269103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2591
+269104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2591
+269105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2591
+269106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2591
+269107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2591
+269108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2591
+271101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2611
+271102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2611
+271103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2611
+271104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2611
+271105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2611
+271106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2611
+271107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2611
+271108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2611
+273101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2631
+273102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2631
+273103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2631
+273104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2631
+273105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2631
+273106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2631
+273107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2631
+273108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2631
+278101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2681
+278102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2681
+278103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2681
+278104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2681
+278105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2681
+278106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2681
+278107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2681
+278108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2681
+282101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2721
+282102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2721
+282103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2721
+282104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2721
+282105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2721
+282106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2721
+282107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2721
+282108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2721
+292101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2821
+292102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2821
+292103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2821
+292104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2821
+292105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2821
+292106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2821
+292107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2821
+292108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2821
+294101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2841
+294102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2841
+294103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2841
+294104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2841
+294105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2841
+294106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2841
+294107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2841
+294108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2841
+297101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2871
+297102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2871
+297103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2871
+297104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2871
+297105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2871
+297106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2871
+297107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2871
+297108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2871
+299101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2891
+299102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2891
+299103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2891
+299104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2891
+299105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2891
+299106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2891
+299107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2891
+299108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2891
+302101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2921
+302102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2921
+302103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2921
+302104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2921
+302105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2921
+302106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2921
+302107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2921
+302108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2921
+302201,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2922
+302202,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2922
+302203,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2922
+302204,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2922
+302205,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2922
+302206,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2922
+302207,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2922
+302208,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2922
+306101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,2961
+306102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2961
+306103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,2961
+306104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,2961
+306105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,2961
+306106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,2961
+306107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,2961
+306108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,2961
+309101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,2991
+309102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,2991
+309103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,2991
+309104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,2991
+309105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,2991
+309106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,2991
+309107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,2991
+309108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,2991
+310101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3001
+310102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3001
+310103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3001
+310104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3001
+310105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3001
+310106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3001
+310107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3001
+310108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3001
+311101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3011
+311102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3011
+311103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3011
+311104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3011
+311105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3011
+311106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3011
+311107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3011
+311108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3011
+312101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3021
+312102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3021
+312103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3021
+312104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3021
+312105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3021
+312106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3021
+312107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3021
+312108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3021
+324101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3141
+324102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3141
+324103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3141
+324104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3141
+324105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3141
+324106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3141
+324107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3141
+324108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3141
+325101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3151
+325102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3151
+325103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3151
+325104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3151
+325105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3151
+325106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3151
+325107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3151
+325108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3151
+326101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3161
+326102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3161
+326103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3161
+326104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3161
+326105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3161
+326106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3161
+326107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3161
+326108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3161
+327101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3171
+327102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3171
+327103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3171
+327104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3171
+327105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3171
+327106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3171
+327107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3171
+327108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3171
+328101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3181
+328102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3181
+328103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3181
+328104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3181
+328105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3181
+328106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3181
+328107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3181
+328108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3181
+331101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3211
+331102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3211
+331103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3211
+331104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3211
+331105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3211
+331106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3211
+331107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3211
+331108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3211
+332101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3221
+332102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3221
+332103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3221
+332104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3221
+332105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3221
+332106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3221
+332107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3221
+332108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3221
+334101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3241
+334102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3241
+334103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3241
+334104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3241
+334105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3241
+334106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3241
+334107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3241
+334108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3241
+335101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3251
+335102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3251
+335103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3251
+335104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3251
+335105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3251
+335106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3251
+335107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3251
+335108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3251
+336101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3261
+336102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3261
+336103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3261
+336104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3261
+336105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3261
+336106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3261
+336107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3261
+336108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3261
+338101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3281
+338102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3281
+338103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3281
+338104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3281
+338105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3281
+338106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3281
+338107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3281
+338108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3281
+339101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3291
+339102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3291
+339103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3291
+339104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3291
+339105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3291
+339106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3291
+339107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3291
+339108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3291
+340101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3301
+340102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3301
+340103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3301
+340104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3301
+340105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3301
+340106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3301
+340107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3301
+340108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3301
+344101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3341
+344102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3341
+344103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3341
+344104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3341
+344105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3341
+344106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3341
+344107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3341
+344108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3341
+345101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3351
+345102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3351
+345103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3351
+345104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3351
+345105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3351
+345106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3351
+345107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3351
+345108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3351
+351101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3411
+351102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3411
+351103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3411
+351104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3411
+351105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3411
+351106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3411
+351107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3411
+351108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3411
+353101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3431
+353102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3431
+353103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3431
+353104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3431
+353105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3431
+353106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3431
+353107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3431
+353108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3431
+357101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3471
+357102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3471
+357103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3471
+357104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3471
+357105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3471
+357106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3471
+357107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3471
+357108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3471
+360101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3501
+360102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3501
+360103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3501
+360104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3501
+360105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3501
+360106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3501
+360107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3501
+360108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3501
+361101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3511
+361102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3511
+361103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3511
+361104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3511
+361105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3511
+361106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3511
+361107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3511
+361108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3511
+364101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3541
+364102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3541
+364103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3541
+364104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3541
+364105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3541
+364106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3541
+364107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3541
+364108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3541
+366101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3561
+366102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3561
+366103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=150;advance=14;star=9},,,,3561
+366104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=8;nvalueSum=140},,,,3561
+366105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=200;advance=15;star=10},,,,3561
+366106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=10;effort=11},,,,3561
+366107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=250;advance=16;star=11},,,,3561
+366108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=12;nvalueSum=140},,,,3561
+369101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3591
+369102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3591
+369103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3591
+369104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3591
+369105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3591
+369106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3591
+369107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3591
+369108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3591
+371101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3611
+371102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3611
+371103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3611
+371104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3611
+371105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3611
+371106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3611
+371107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3611
+371108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3611
+373101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3631
+373102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3631
+373103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3631
+373104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3631
+373105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3631
+373106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3631
+373107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3631
+373108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3631
+374101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,3641
+374102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3641
+374103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,3641
+374104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,3641
+374105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,3641
+374106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,3641
+374107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,3641
+374108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,3641
+376101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3661
+376102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3661
+376103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3661
+376104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3661
+376105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3661
+376106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3661
+376107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3661
+376108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3661
+387101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3771
+387102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3771
+387103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3771
+387104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3771
+387105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3771
+387106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3771
+387107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3771
+387108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3771
+394101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,3841
+394102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,3841
+394103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,3841
+394104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,3841
+394105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,3841
+394106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,3841
+394107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,3841
+394108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,3841
+423101,Thuộc tính đã được tăng cường,1,,,,{star=8;goodFeel=100;advance=13},,,,4131
+423102,Kỹ năng tấn công thường đã được tăng cường!,2,,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,4131
+423103,Kỹ năng thường đã được tăng cường!,3,,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,4131
+423104,Kỹ năng bị động đã được tăng cường!,4,,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,4131
+423105,Thuộc tính đã được tăng cường,5,,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,4131
+423106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,4131
+423107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,4131
+423108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,4131
+427101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,4171
+427102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,4171
+427103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=180;advance=15;star=9},,,,4171
+427104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=12;nvalueSum=160},,,,4171
+427105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=260;advance=17;star=10},,,,4171
+427106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=6;equipStarSum=18;effort=11},,,,4171
+427107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=350;advance=19;star=11},,,,4171
+427108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=24;nvalueSum=160},,,,4171
+710101,Thuộc tính đã được tăng cường,1,3,,,{star=8;goodFeel=100;advance=13},,,,7001
+710102,Kỹ năng tấn công thường đã được tăng cường!,2,3,,,{zawakeStage=108;equipAwakeSum=2;equipStarSum=6;effort=7},,,,7001
+710103,Kỹ năng thường đã được tăng cường!,3,3,,,{zawakeStage=208;goodFeel=160;advance=15;star=9},,,,7001
+710104,Kỹ năng bị động đã được tăng cường!,4,3,,,{zawakeStage=308;effort=9;equipStarSum=9;nvalueSum=140},,,,7001
+710105,Thuộc tính đã được tăng cường,5,3,,,{zawakeStage=408;goodFeel=220;advance=16;star=10},,,,7001
+710106,Bí thuật (Tuyệt chiêu cuối) đã được tăng cường!,6,3,,,{zawakeStage=508;equipAwakeSum=4;equipStarSum=12;effort=11},,,,7001
+710107,Thuộc tính đã được tăng cường,7,3,,,{zawakeStage=608;goodFeel=300;advance=17;star=11},,,,7001
+710108,Thuộc tính đã được tăng cường,8,3,,,{zawakeStage=708;effort=13;equipStarSum=15;nvalueSum=140},,,,7001

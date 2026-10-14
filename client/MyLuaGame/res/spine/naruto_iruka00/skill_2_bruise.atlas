@@ -1,0 +1,69 @@
+
+skill_2_bruise.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flash_2
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_000
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_001
+  rotate: false
+  xy: 132, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_002
+  rotate: false
+  xy: 198, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_003
+  rotate: false
+  xy: 264, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_004
+  rotate: false
+  xy: 330, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_005
+  rotate: false
+  xy: 396, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_006
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamSpeed_0_007
+  rotate: false
+  xy: 134, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

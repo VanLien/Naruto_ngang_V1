@@ -1,0 +1,7 @@
+变量名,level,hp,mp1,hpRecover,mp1Recover,attackDamage,defence,defenceIgnore,strikeLevel,strikeDamage,strikeResistance,blockLevel,breakBlockLevel,blockPower,damageAdd,damageSub,suckBlood,rebound,mainSkillAdd,mainSkillSub,fightgoVal,skillPercent,curePower,controlPer,immuneControl
+默认值,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ID,等级,血量,mp1魔法值,HP回复,MP1回复,攻击力,防御力,防御忽视,暴击等级,暴击伤害,暴击抗性,格挡等级,破格挡等级,格挡强度,伤害加成,伤害减免,吸血,反弹,大招伤害加成,大招伤害抗性,先手值,技能概率,治疗效果,控制率,免疫控制率
+1,0,0.085,0,0,0,0.425,0.425,0,0.000015,0.00001,0.000005,0.000015,0.00001,0.000005,0.00006,0.00006,0.00002,0.00002,0,0,0,0,,,
+,,,,,,,,,0.48,0.216,0.512,0.44,0.44,0.3,0.275,0.275,0.191,0.175,,,,,,,
+,,,,,,,,,0.096,0.0432,0.1024,0.088,0.088,0.06,0.055,0.055,0.0382,0.035,,,,,,,
+,,,,,,,,,360,,,,,,,0.0000561,,,,,,,,,

@@ -1,0 +1,90 @@
+
+mifune00_sk2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect1/172602xzz5ce9ieuz6_0
+  rotate: false
+  xy: 1112, 836
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_1
+  rotate: false
+  xy: 2, 115
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_2
+  rotate: false
+  xy: 414, 322
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_3
+  rotate: false
+  xy: 1112, 674
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_4
+  rotate: false
+  xy: 1434, 836
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_5
+  rotate: false
+  xy: 736, 322
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_6
+  rotate: false
+  xy: 1112, 512
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/172602xzz5ce9ieuz6_7
+  rotate: false
+  xy: 1434, 674
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+effect1/20240201-170142_0
+  rotate: false
+  xy: 2, 2
+  size: 240, 111
+  orig: 240, 111
+  offset: 0, 0
+  index: -1
+effect1/bdii_0
+  rotate: false
+  xy: 1756, 905
+  size: 200, 91
+  orig: 200, 91
+  offset: 0, 0
+  index: -1
+effect1/object_4003
+  rotate: false
+  xy: 2, 277
+  size: 410, 205
+  orig: 410, 205
+  offset: 0, 0
+  index: -1
+effect1/tc2
+  rotate: false
+  xy: 2, 484
+  size: 1108, 512
+  orig: 1108, 512
+  offset: 0, 0
+  index: -1

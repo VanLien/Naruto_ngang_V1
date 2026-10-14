@@ -1,0 +1,4 @@
+﻿VariableName,attrCorrectMap,extraAward,preBetCost,preBetFailAward,preBetWinAward,roleLevel,roundLimit,sceneCount,servOpenDays,top4BetCost,top4BetFailAward,top4BetWinAward,unionLevel
+Defaults,<100028;100029;100030>,{},{},{},{},0,<20;10;10>,<1;1;5>,,{},{},{},0
+ID,attrCorrectMap,extraAward,preBetCost,preBetFailAward,preBetWinAward,roleLevel,roundLimit,sceneCount,servOpenDays,top4BetCost,top4BetFailAward,top4BetWinAward,unionLevel
+1,,{gold=200000;rmb=30;coin3=800},{coin3=500},{gold=200000;rmb=50;coin3=600},{coin3=300},50,,,1,{gold=100000;rmb=20;coin3=200},{rmb=100;gold=600000;502=2;coin3=3000},{coin3=1500},4

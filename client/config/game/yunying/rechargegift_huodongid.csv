@@ -1,0 +1,5 @@
+﻿VariableName,beginDate,endDate,huodongID,languages,servers
+Defaults,20190902,20190902,0,<cn;tw;en;kr>,{vn=<1;999999>;cn=<1;999999>;cn_qd=<1;999999>;en=<1;999999>;xy=<1;999999>;kr=<1;999999>;dev=<1;999999>}
+ID,beginDate,endDate,huodongID,languages,servers
+1,20210531,20210607,4201,<cn>,
+2,20210607,20210614,4202,<cn>,

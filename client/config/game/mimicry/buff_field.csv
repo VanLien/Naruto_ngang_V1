@@ -1,0 +1,14 @@
+﻿VariableName,quality,scoresCondition
+Defaults,0,9999999
+ID,quality,scoresCondition
+1,1,40000
+2,1,80000
+3,1,120000
+4,1,200000
+5,2,50000
+6,2,150000
+7,2,400000
+8,3,200000
+9,3,500000
+10,4,300000
+11,4,1000000

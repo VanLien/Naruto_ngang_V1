@@ -1,0 +1,48 @@
+
+battle_zidong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deb
+  rotate: false
+  xy: 224, 4
+  size: 218, 99
+  orig: 218, 99
+  offset: 0, 0
+  index: -1
+dsb
+  rotate: false
+  xy: 444, 4
+  size: 218, 99
+  orig: 218, 99
+  offset: 0, 0
+  index: -1
+dyb
+  rotate: false
+  xy: 2, 2
+  size: 220, 101
+  orig: 220, 101
+  offset: 0, 0
+  index: -1
+dyb1
+  rotate: false
+  xy: 664, 32
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+zd1
+  rotate: false
+  xy: 750, 53
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+zd2
+  rotate: false
+  xy: 664, 6
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1

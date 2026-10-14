@@ -1,0 +1,6 @@
+﻿VariableName,attrFix1,attrFix2,attrFix3,attrFix4,attrFix5,attrFix6,attrType1,attrType2,attrType3,attrType4,attrType5,attrType6,skillLevelFix
+Defaults,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+ID,attrFix1,attrFix2,attrFix3,attrFix4,attrFix5,attrFix6,attrType1,attrType2,attrType3,attrType4,attrType5,attrType6,skillLevelFix
+1,0.78,0.85,0.85,0.5,0.5,0.6,1,7,8,9,10,13,0.01
+2,0.88,0.9,0.9,0.6,0.6,0.7,1,7,8,9,10,13,0.01
+3,1.08,1.1,1.1,0.7,0.7,0.85,1,7,8,9,10,13,0.01

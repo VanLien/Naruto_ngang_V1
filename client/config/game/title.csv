@@ -1,0 +1,40 @@
+﻿VariableName,alwaysDisplay,attrNatureType1,attrNatureType2,attrNatureType3,attrType1,attrType2,attrType3,attrValue1,attrValue2,attrValue3,color,condition1,conditionArg1_1,conditionArg1_2,conditionArg2_1,conditionArg2_2,conditionDesc,days,feature,itemId,kind,languages,message,rank,res,showType,title,type
+Defaults,1,0,0,0,0,0,0,,,,<92;153;112>,,,,,,,0,,,1,<cn;tw;en;vn;th;kr>,,,,txt,,1
+ID,alwaysDisplay,attrNatureType1,attrNatureType2,attrNatureType3,attrType1,attrType2,attrType3,attrValue1,attrValue2,attrValue3,color,condition1,conditionArg1_1,conditionArg1_2,conditionArg2_1,conditionArg2_2,conditionDesc,days,feature,itemId,kind,languages,message,rank,res,showType,title,type
+1,,,,,9,10,,30,30,,,1,10,,,,Nhận khi Lv.10,,,2400,,,,,config/title/title_55.png,pic,Học viên tốt nghiệp Trường Ninja,2
+2,,,,,7,8,,500,500,,,1,99,,,,Nhận khi Lv.99,,,2401,,,,,config/title/title_20.png,pic,Nhân vật nổi tiếng của Thế Giới Ninja,2
+3,,,,,1,,,100,,,,1,1,,,,Nhận khi Lv.1,,,2402,,,,,config/title/title_48.png,pic,Đứa Con Của Lời Tiên Tri,2
+4,,,,,13,,,30,,,,1,50,,,,Nhận khi Lv.50,,,2403,,,,,config/title/title_16.png,pic,Nhân vật nổi tiếng của Konoha,2
+5,,,,,1,,,300,,,,2,10510,,,,Vượt ải 5-10,,,2404,,,,,config/title/title_40.png,pic,Ánh Sáng Của Konoha,2
+6,,,,,7,8,,100,100,,,2,11210,,,,Vượt ải 12-10,,,2405,,,,,config/title/title_41.png,pic,Người Bảo Vệ Konoha,2
+7,,,,,1,,,500,,,,76,50,,,,Mở khóa Sách 50 mục,,,2407,,,,,config/title/title_19.png,pic,Tia Chớp Vàng Tốc Độ,2
+8,,,,,1,,,1000,,,,76,100,,,,Mở khóa Sách 100 mục,,,2408,,,,,config/title/title_37.png,pic,Tổng Chỉ Huy Tam Nhẫn,2
+9,,,,,1,,,2000,,,,76,200,,,,Mở khóa Sách 200 mục,,,2409,,,,,config/title/title_47.png,pic,Chứng Nhân Của Sự Tái Sinh,2
+10,,,,,9,10,,100,100,,,77,100050,,,,Vượt Con Đường Trưởng Thành đến ải 50,,,2410,,,,,config/title/title_22.png,pic,Sakura Nở Rộ,2
+11,,,,,7,8,,60,60,,,41,100,,,,Tham chiến Arena tích lũy đủ 100 lần,,,2411,,,,,config/title/title_5.png,pic,Chiến Mã Của Chiến Trường,2
+12,,,,,9,10,,100,100,,,18,200,,,,Tích lũy triệu hồi vàng đủ 200 lần,,,2412,,,,,config/title/title_28.png,pic,Kẻ Mạnh Mẽ Của Số Phận,2
+13,,,,,1,,,500,,,,26,100,,,,Mua thể lực tích lũy đủ 100 lần,,,2413,,,,,config/title/title_26.png,pic,Người Thanh Tẩy Tai Họa,2
+14,,,,,7,8,,150,150,,,33,1000,,,,Vượt ải cốt truyện và chế độ khó tích lũy đủ 1000 lần,,,2414,,,,,config/title/title_27.png,pic,Kẻ Mạnh Lên Từ Rèn Luyện,2
+15,,,,,9,10,,80,80,,,70,200,,,,Hoàn thành nhiệm vụ hằng ngày đủ 200 lần,,,2415,,,,,config/title/title_45.png,pic,Sự Trở Lại Của Đội Anbu,2
+16,,,,,1,,,300,,,,55,150,,,,Quyên góp trong tổ chức tích lũy đủ 150 lần,,,2416,,,,,config/title/title_18.png,pic,Tổ Chức Số Một,2
+17,,,,,7,8,,80,80,,,78,50,,,,Có đủ 50 bạn bè,,,2417,,,,,config/title/title_35.png,pic,Sự Chào Đón Từ Tám Phương,2
+18,,,,,9,10,,1%,1%,,,20,200000000,,,,"Tiêu Xu Đồng tích lũy đủ 200,000,000 đồng  ",,,2418,,,,,config/title/title_61.png,pic,Yêu Bạn,2
+19,,,,,7,8,,1%,1%,,,21,99999,,,,"Tiêu YB tích lũy đủ 99,999  ",,,2419,,,,,config/title/title_62.png,pic,Sức Mạnh Trâu Bò Bứt Phá,2
+20,,,,,1,,,1000,,,,25,99,,,,Điểm danh vào game đủ 99 lần,,,2420,,,,,config/title/title_57.png,pic,Cảm Ơn Vì Đã Ở Bên Nhau,2
+21,,,,,9,10,,150,150,,,38,500,,,,Nâng cấp trang sức đủ 500 lần,,,2421,,,,,config/title/title_60.png,pic,Đỉnh Núi Cao Nhất,2
+22,,,,,7,8,,120,120,,,6,200000,,,,"Lực chiến đạt 200,000  ",,,2422,,,,,config/title/title_3.png,pic,Tam Nhẫn Chiến Đấu,99
+23,,,,,7,8,,1%,1%,,,6,800000,,,,"Lực chiến đạt 800,000  ",,,2423,,,,,config/title/title_2.png,pic,Đỉnh Cao Chiến Đấu,99
+24,,,,,14,,,100,,,,,,,,,Hạng 1 Arena (tổng kết lúc 21:00 mỗi ngày),1,arena,2471,,,"#C0xFF5B545B#【Quán Quân Arena】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",1,config/title/title_15.png,pic,Linh Hồn Lục Đạo,
+25,,,,,14,,,100,,,,,,,,,Hạng 2 Arena (tổng kết lúc 21:00 mỗi ngày),1,arena,2472,,,"#C0xFF5B545B#【Á Quân Arena】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",2,config/title/title_12.png,pic,Tinh Thần Lục Đạo,
+26,,,,,14,,,100,,,,,,,,,Hạng 3 Arena (tổng kết lúc 21:00 mỗi ngày),1,arena,2473,,,"#C0xFF5B545B#【Hạng 3 Arena】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",3,config/title/title_14.png,pic,Ý Chí Lục Đạo,
+27,,,,,1,,,1%,,,,,,,,,Hạng 1 Sách (tổng kết lúc 05:00 mỗi ngày),1,pokedex,2474,,,"#C0xFF5B545B#【Hạng 1 Tổng Sách】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",1,config/title/title_36.png,pic,Cùng Đồng Hành Mãi Mãi,
+28,,,,,7,8,,1%,1%,,,,,,,,Hạng 1 Sao Vượt Ải (tổng kết lúc 05:00 mỗi ngày),1,star,2475,,,"#C0xFF5B545B#【Kỹ Thuật Viên Mạnh Nhất】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",1,config/title/title_46.png,pic,Kỹ Thuật Viên Mạnh Nhất,
+31,,,,,1,,,1%,,,,5,6,,,,Nhận khi đạt VIP6,,,2476,,,,,config/title/title_38.png,pic,Vua Của Ảo Thuật,99
+32,,,,,9,10,,1%,1%,,,5,10,,,,Nhận khi đạt VIP10,,,2477,,,,,config/title/title_39.png,pic,Kẻ Chinh Phục Ảo Thuật,99
+33,,,,,7,8,,1%,1%,,,5,15,,,,Nhận khi đạt VIP15,,,2478,,,,,config/title/title_24.png,pic,Lục Đạo Thập Giới,99
+34,,,,,22,23,,100,100,,,5,18,,,,Nhận khi đạt VIP18,,,2479,,,,,config/title/title_34.png,pic,Người Thay Đổi Thế Giới Ninja,99
+35,,,,,1,,,1%,,,,,,,,,Nhận từ thẻ tháng,30,monthcard,2501,,,,,config/title/title_11.png,pic,Tam Nhẫn Của Thế Giới Ninja,99
+36,,,,,7,8,,1%,1%,,,,,,,,Nhận từ thẻ tháng,30,monthcard,2502,,,,,config/title/title_10.png,pic,Chúa Tể Thế Giới Ninja,99
+44,,,,,14,,,100,,,,,,,,,Chủ Nhân Vinh Dự Dojo (tổng kết Chủ Nhật 21:45),7,gym,2503,,,"#C0xFF5B545B#【Chủ Nhân Vinh Dự Dojo】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",1,config/title/title_31.png,pic,Cơn Thịnh Nộ Của Kiếm Kusanagi,
+45,,,,,14,,,100,,,,,,,,,Chủ Nhân Vinh Dự Dojo Liên Server (tổng kết Chủ Nhật 21:45),7,crossGym,2504,,,"#C0xFF5B545B#【Chủ Nhân Vinh Dự Dojo Liên Server】#T{idx}-0.8##C0x5C9971##L10100##LULrole1#{name}#C0xFF5B545B# đã online rồi, mau đi xin chữ ký thôi～",1,config/title/title_32.png,pic,Lời Thề Của Kiếm Kusanagi,
+104,,,,,1,,,500,,,,,,,,,Nhận từ sự kiện đặc biệt,,,2406,,<cn>,,,,pic,Lao Động Là Vinh Dự Cao Nhất,3

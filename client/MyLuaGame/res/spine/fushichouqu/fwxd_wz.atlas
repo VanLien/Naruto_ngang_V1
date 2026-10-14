@@ -1,0 +1,20 @@
+
+fwxd_wz.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imp
+  rotate: false
+  xy: 2, 2
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+limited
+  rotate: false
+  xy: 123, 10
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1

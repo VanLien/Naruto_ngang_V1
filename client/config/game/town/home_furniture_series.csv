@@ -1,0 +1,12 @@
+﻿VariableName,addAttrs,expAdd,name,rarity
+Defaults,{},0,”“,0
+ID,addAttrs,expAdd,name,rarity
+101,{10=1%;7=500},5,Ngôi nhà ấm áp,
+102,{9=1%;8=500},10,Phong cách châu Âu tối giản,
+103,{10=1%;7=500},5,Tiến lên!,1
+104,{9=1%;8=500},10,Ếch hành,
+105,{10=1%;7=500},5,Phong cách Mỹ pha trộn,
+106,{9=1%;8=500},5,Ngôi nhà nhẫn giả,
+107,{10=1%;7=500},15,Phong cách Trung Hoa,1
+108,{9=1%;8=500},20,Điện tử,
+109,{10=1%;7=500},5,Ở nhà,

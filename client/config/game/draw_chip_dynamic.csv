@@ -1,0 +1,14 @@
+﻿VariableName,drawTriggerTimes,drawTriggerType,effectLimit,libID,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,selected,startCount,unselected,weightEnd,weightStart
+Defaults,0,2,0,0,50,0,0.2,30,0.01,2,0,1,0,0
+ID,drawTriggerTimes,drawTriggerType,effectLimit,libID,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,selected,startCount,unselected,weightEnd,weightStart
+1,1,0,,22501,,,,,,3,,,,
+11,1,0,,22502,,,,,,3,,,,
+21,2,1,,22503,,,,,,4.5,2,,0.02,0.013
+22,1,3,1,22503,,,,,,1,1,0,,
+23,1,0,,22503,,,,,,,,,,
+31,2,1,,22504,,,,,,4.5,2,,0.02,0.013
+32,1,3,1,22504,,,,,,1,1,0,,
+33,1,0,,22504,,,,,,,,,,
+41,2,1,,22505,,,,,,4.5,2,,0.02,0.013
+42,1,3,1,22505,,,,,,1,1,0,,
+43,1,0,,22505,,,,,,,,,,

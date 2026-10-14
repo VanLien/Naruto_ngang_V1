@@ -1,0 +1,48 @@
+
+diban.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongtiao
+  rotate: false
+  xy: 517, 278
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+huangtiao
+  rotate: false
+  xy: 517, 158
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+lantiao
+  rotate: false
+  xy: 942, 278
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+lvtiao
+  rotate: false
+  xy: 517, 38
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1
+zhi1
+  rotate: true
+  xy: 2, 2
+  size: 394, 513
+  orig: 394, 513
+  offset: 0, 0
+  index: -1
+zitiao
+  rotate: false
+  xy: 942, 158
+  size: 423, 118
+  orig: 423, 118
+  offset: 0, 0
+  index: -1

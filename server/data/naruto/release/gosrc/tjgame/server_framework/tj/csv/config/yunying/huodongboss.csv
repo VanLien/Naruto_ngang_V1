@@ -1,0 +1,5 @@
+变量名,_beizhu,huodongID,staminaWeightRange,dailyMax,dailyChallengeMax,timeLimit,cdTime
+默认值,,,<0;0.1>,10,30,240,0
+ID,_备注,运营活动版本ID,随机体力权值,每日触发次数上限,每日挑战他人触发的关卡上限,活动boss存在时间（分钟）,激活冷却时间
+1,test,1,<0.005;0.015>,6,10,180,60
+2,test,2,<0;0.1>,20,15,120,0

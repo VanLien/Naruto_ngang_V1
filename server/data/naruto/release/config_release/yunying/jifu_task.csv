@@ -1,0 +1,19 @@
+﻿VariableName,award,boardID,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType
+Defaults,{},0,,,0,9999,{},0
+ID,award,boardID,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType
+101,{stamina=30;gold=100000},1,Khiêu chiến ải thường 600 lần,10000,10011,600,,29
+102,{gold=100000;503=3},2,Đột phá giới hạn Pokémon 50 lần,strengthen-advance,10011,50,,35
+103,{519=2;gold=100000},3,Vượt Ether Paradise tích lũy đủ 7 tầng 3 lượt,randomTower,10011,3,{3=7},112
+104,{gold=100000;520=1},4,Đăng nhập tích lũy 5 ngày,,10011,5,,17
+105,{gold=100000;901=10},5,Tiêu tổng 20000000 vàng,,10011,20000000,,20
+106,{gold=100000;850=50},6,Số lần quay bằng vàng đạt 30 lần,drawCard-diamond,10011,30,,50
+107,{gold=100000;851=50},7,Khiêu chiến ải Elite 150 lần,20000,10011,150,,30
+108,{gold=100000;5000=10},8,Hoàn thành nhiệm vụ ủy thác cấp S trở lên 25 lần,dispatchTask,10011,25,{25=4},86
+109,{gold=100000;930=10},9,Tăng cấp Pokémon tích lũy 200 lần,strengthen-1,10011,200,,36
+110,{gold=100000;529=500},10,Tiêu tổng 3000 vàng,,10011,3000,,21
+111,{902=5;gold=100000},11,Mua thể lực (Stamina) 20 lần,gainStamina,10011,20,,26
+112,{gold=100000;coin1=1000},12,Sử dụng tính năng Tầm Bảo (Treasure) tích lũy 60 lần,gainGold,10011,60,,18
+113,{coin2=1000;gold=100000},13,Chiến đấu đấu trường tổng 50 lần,arena,10011,50,,41
+114,{gold=100000;coin3=1000},14,Nâng cấp kỹ năng 200 lần,strengthen-5,10011,200,,34
+115,{gold=100000;talent_point=2},15,Quyên góp bang 40 lần,union,10011,40,,55
+116,{19=3;gold=100000},16,Tăng sao Pokémon 20 lần,strengthen-4,10011,20,,37

@@ -1,0 +1,33 @@
+
+tupohuan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihonghuan
+  rotate: false
+  xy: 654, 19
+  size: 628, 629
+  orig: 628, 629
+  offset: 0, 0
+  index: -1
+xihuan
+  rotate: false
+  xy: 2, 2
+  size: 650, 646
+  orig: 650, 646
+  offset: 0, 0
+  index: -1
+
+tupohuan2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/xing1
+  rotate: false
+  xy: 2, 2
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

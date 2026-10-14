@@ -1,0 +1,1152 @@
+
+konan00.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0008
+  rotate: false
+  xy: 3894, 541
+  size: 129, 267
+  orig: 129, 267
+  offset: 0, 0
+  index: -1
+attack_0013
+  rotate: false
+  xy: 3894, 273
+  size: 130, 266
+  orig: 130, 266
+  offset: 0, 0
+  index: -1
+col_white
+  rotate: false
+  xy: 4023, 836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_000
+  rotate: false
+  xy: 4023, 1292
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_001
+  rotate: false
+  xy: 4023, 1162
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_002
+  rotate: false
+  xy: 4023, 1032
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_003
+  rotate: false
+  xy: 4023, 902
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_004
+  rotate: false
+  xy: 4025, 706
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_005
+  rotate: false
+  xy: 4025, 576
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_006
+  rotate: false
+  xy: 4026, 446
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_circleTrack_0_007
+  rotate: false
+  xy: 4026, 316
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0003
+  rotate: false
+  xy: 3872, 2672
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0004
+  rotate: false
+  xy: 3872, 2406
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0005
+  rotate: false
+  xy: 3872, 2140
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0006
+  rotate: false
+  xy: 3872, 1874
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0007
+  rotate: false
+  xy: 3872, 1608
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0008
+  rotate: false
+  xy: 3872, 1342
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0009
+  rotate: false
+  xy: 3872, 1076
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_flyPapers_0010
+  rotate: false
+  xy: 3872, 810
+  size: 149, 264
+  orig: 149, 264
+  offset: 0, 0
+  index: -1
+fx_glowflash_03_0
+  rotate: false
+  xy: 3872, 2938
+  size: 170, 256
+  orig: 170, 256
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0016
+  rotate: false
+  xy: 2, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0017
+  rotate: false
+  xy: 2, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0018
+  rotate: false
+  xy: 837, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0019
+  rotate: false
+  xy: 2, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0020
+  rotate: false
+  xy: 837, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0021
+  rotate: false
+  xy: 1672, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0022
+  rotate: false
+  xy: 2, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0023
+  rotate: false
+  xy: 837, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0024
+  rotate: false
+  xy: 1672, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0025
+  rotate: false
+  xy: 2507, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0026
+  rotate: false
+  xy: 2, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0027
+  rotate: false
+  xy: 837, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0028
+  rotate: false
+  xy: 1672, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0029
+  rotate: false
+  xy: 2507, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0030
+  rotate: true
+  xy: 3342, 3261
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0031
+  rotate: false
+  xy: 2, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0032
+  rotate: false
+  xy: 837, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0033
+  rotate: false
+  xy: 1672, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0034
+  rotate: false
+  xy: 2507, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0035
+  rotate: false
+  xy: 2, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0036
+  rotate: false
+  xy: 837, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0037
+  rotate: false
+  xy: 1672, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0038
+  rotate: false
+  xy: 2507, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0039
+  rotate: true
+  xy: 3342, 2426
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0040
+  rotate: false
+  xy: 837, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0041
+  rotate: false
+  xy: 1672, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0042
+  rotate: false
+  xy: 2507, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0043
+  rotate: true
+  xy: 3342, 1591
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0044
+  rotate: false
+  xy: 1672, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0045
+  rotate: false
+  xy: 2507, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_inner_0046
+  rotate: false
+  xy: 2507, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0016
+  rotate: true
+  xy: 3342, 756
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk2_000
+  rotate: true
+  xy: 4023, 2139
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk2_001
+  rotate: true
+  xy: 4023, 1900
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk2_002
+  rotate: true
+  xy: 4023, 1661
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk2_003
+  rotate: true
+  xy: 4023, 1422
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: true
+  xy: 3564, 47
+  size: 205, 235
+  orig: 205, 235
+  offset: 0, 0
+  index: -1
+run_loop_0004
+  rotate: false
+  xy: 3801, 22
+  size: 189, 230
+  orig: 189, 230
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 30
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+skill1_0026
+  rotate: false
+  xy: 2570, 14
+  size: 423, 370
+  orig: 423, 370
+  offset: 0, 0
+  index: -1
+skill1_0031
+  rotate: false
+  xy: 1645, 30
+  size: 462, 354
+  orig: 462, 354
+  offset: 0, 0
+  index: -1
+skill1_0036
+  rotate: false
+  xy: 3872, 3473
+  size: 191, 293
+  orig: 191, 293
+  offset: 0, 0
+  index: -1
+skill1_0067
+  rotate: false
+  xy: 2, 41
+  size: 553, 343
+  orig: 553, 343
+  offset: 0, 0
+  index: -1
+skill2_0012
+  rotate: true
+  xy: 3320, 39
+  size: 213, 242
+  orig: 213, 242
+  offset: 0, 0
+  index: -1
+skill2_0022
+  rotate: true
+  xy: 3342, 254
+  size: 500, 550
+  orig: 500, 550
+  offset: 0, 0
+  index: -1
+skill2_0093
+  rotate: true
+  xy: 1103, 43
+  size: 341, 540
+  orig: 341, 540
+  offset: 0, 0
+  index: -1
+skill2_0095
+  rotate: true
+  xy: 557, 37
+  size: 347, 544
+  orig: 347, 544
+  offset: 0, 0
+  index: -1
+skill2_0099_x
+  rotate: false
+  xy: 2109, 58
+  size: 459, 326
+  orig: 459, 326
+  offset: 0, 0
+  index: -1
+skill2_0101_h
+  rotate: false
+  xy: 3872, 3768
+  size: 205, 326
+  orig: 205, 326
+  offset: 0, 0
+  index: -1
+skill2_0102_h
+  rotate: true
+  xy: 2995, 34
+  size: 350, 323
+  orig: 350, 323
+  offset: 0, 0
+  index: -1
+skill2_0103_x
+  rotate: false
+  xy: 4023, 2656
+  size: 70, 280
+  orig: 70, 280
+  offset: 0, 0
+  index: -1
+skill2_0104_h
+  rotate: false
+  xy: 4023, 2378
+  size: 56, 276
+  orig: 56, 276
+  offset: 0, 0
+  index: -1
+skill2_0107_x
+  rotate: false
+  xy: 3872, 3196
+  size: 160, 275
+  orig: 160, 275
+  offset: 0, 0
+  index: -1
+standby_loop_0058
+  rotate: false
+  xy: 3992, 2
+  size: 94, 269
+  orig: 94, 269
+  offset: 0, 0
+  index: -1
+
+konan002.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0009
+  rotate: false
+  xy: 3872, 2440
+  size: 100, 267
+  orig: 100, 267
+  offset: 0, 0
+  index: -1
+attack_0017
+  rotate: false
+  xy: 2388, 118
+  size: 110, 266
+  orig: 110, 266
+  offset: 0, 0
+  index: -1
+attack_0025
+  rotate: false
+  xy: 3872, 2171
+  size: 99, 267
+  orig: 99, 267
+  offset: 0, 0
+  index: -1
+skill1_0068
+  rotate: false
+  xy: 3872, 2171
+  size: 99, 267
+  orig: 99, 267
+  offset: 0, 0
+  index: -1
+fx_circle_16
+  rotate: false
+  xy: 1558, 3
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_circle_3
+  rotate: false
+  xy: 3392, 6
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_flash_10
+  rotate: false
+  xy: 3852, 1331
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_5
+  rotate: false
+  xy: 3852, 1461
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_6_001
+  rotate: false
+  xy: 3852, 1201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_6_002
+  rotate: false
+  xy: 3872, 1071
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_6_003
+  rotate: false
+  xy: 3872, 941
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_flash_8_001
+  rotate: false
+  xy: 3872, 811
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_halfBall_glow
+  rotate: false
+  xy: 3872, 681
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0017
+  rotate: false
+  xy: 2, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0018
+  rotate: false
+  xy: 2, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0019
+  rotate: false
+  xy: 837, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0020
+  rotate: false
+  xy: 2, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0021
+  rotate: false
+  xy: 837, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0022
+  rotate: false
+  xy: 1672, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0023
+  rotate: false
+  xy: 2, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0024
+  rotate: false
+  xy: 837, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0025
+  rotate: false
+  xy: 1672, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0026
+  rotate: false
+  xy: 2507, 3566
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0027
+  rotate: false
+  xy: 2, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0028
+  rotate: false
+  xy: 837, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0029
+  rotate: false
+  xy: 1672, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0030
+  rotate: false
+  xy: 2507, 3036
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0031
+  rotate: true
+  xy: 3342, 3261
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0032
+  rotate: false
+  xy: 2, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0033
+  rotate: false
+  xy: 837, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0034
+  rotate: false
+  xy: 1672, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0035
+  rotate: false
+  xy: 2507, 2506
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0036
+  rotate: false
+  xy: 2, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0037
+  rotate: false
+  xy: 837, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0038
+  rotate: false
+  xy: 1672, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0039
+  rotate: false
+  xy: 2507, 1976
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0040
+  rotate: true
+  xy: 3342, 2426
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0041
+  rotate: false
+  xy: 837, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0042
+  rotate: false
+  xy: 1672, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0043
+  rotate: false
+  xy: 2507, 1446
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0044
+  rotate: true
+  xy: 3342, 1591
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0045
+  rotate: false
+  xy: 1672, 386
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_konan_paperCircle_outer_0046
+  rotate: false
+  xy: 2507, 916
+  size: 833, 528
+  orig: 833, 528
+  offset: 0, 0
+  index: -1
+fx_paperWhite
+  rotate: false
+  xy: 3968, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_paper_00
+  rotate: true
+  xy: 3650, 6
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+hit_0000
+  rotate: false
+  xy: 3780, 39
+  size: 186, 199
+  orig: 186, 199
+  offset: 0, 0
+  index: -1
+run_loop_0007
+  rotate: false
+  xy: 3872, 3392
+  size: 174, 229
+  orig: 174, 229
+  offset: 0, 0
+  index: -1
+run_loop_0010
+  rotate: false
+  xy: 3872, 3853
+  size: 197, 241
+  orig: 197, 241
+  offset: 0, 0
+  index: -1
+run_loop_0013
+  rotate: false
+  xy: 3872, 3623
+  size: 184, 228
+  orig: 184, 228
+  offset: 0, 0
+  index: -1
+run_loop_0016
+  rotate: false
+  xy: 3872, 3160
+  size: 172, 230
+  orig: 172, 230
+  offset: 0, 0
+  index: -1
+skill1_0029
+  rotate: false
+  xy: 2, 36
+  size: 419, 348
+  orig: 419, 348
+  offset: 0, 0
+  index: -1
+skill1_0043
+  rotate: false
+  xy: 3782, 240
+  size: 280, 325
+  orig: 280, 325
+  offset: 0, 0
+  index: -1
+skill1_0044
+  rotate: true
+  xy: 3454, 264
+  size: 301, 326
+  orig: 301, 326
+  offset: 0, 0
+  index: -1
+skill1_0056
+  rotate: false
+  xy: 848, 73
+  size: 431, 311
+  orig: 431, 311
+  offset: 0, 0
+  index: -1
+skill1_0059
+  rotate: false
+  xy: 423, 54
+  size: 423, 330
+  orig: 423, 330
+  offset: 0, 0
+  index: -1
+skill2_0010
+  rotate: false
+  xy: 3872, 2935
+  size: 166, 223
+  orig: 166, 223
+  offset: 0, 0
+  index: -1
+skill2_0011
+  rotate: false
+  xy: 3872, 2709
+  size: 161, 224
+  orig: 161, 224
+  offset: 0, 0
+  index: -1
+skill2_0014
+  rotate: false
+  xy: 2507, 2
+  size: 517, 402
+  orig: 517, 402
+  offset: 0, 0
+  index: -1
+skill2_0020
+  rotate: false
+  xy: 2507, 406
+  size: 474, 508
+  orig: 474, 508
+  offset: 0, 0
+  index: -1
+skill2_0024
+  rotate: true
+  xy: 1281, 133
+  size: 251, 434
+  orig: 251, 434
+  offset: 0, 0
+  index: -1
+skill2_0032
+  rotate: false
+  xy: 2077, 53
+  size: 309, 331
+  orig: 309, 331
+  offset: 0, 0
+  index: -1
+skill2_0080
+  rotate: true
+  xy: 3454, 567
+  size: 537, 416
+  orig: 537, 416
+  offset: 0, 0
+  index: -1
+skill2_0083
+  rotate: false
+  xy: 3342, 1106
+  size: 508, 483
+  orig: 508, 483
+  offset: 0, 0
+  index: -1
+skill2_0085
+  rotate: false
+  xy: 2983, 412
+  size: 469, 502
+  orig: 469, 502
+  offset: 0, 0
+  index: -1
+skill2_0097_h
+  rotate: false
+  xy: 1717, 26
+  size: 358, 358
+  orig: 358, 358
+  offset: 0, 0
+  index: -1
+skill2_0100_x
+  rotate: false
+  xy: 3026, 54
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+skill2_0106_h
+  rotate: true
+  xy: 1281, 50
+  size: 81, 275
+  orig: 81, 275
+  offset: 0, 0
+  index: -1
+standby_loop_0059
+  rotate: false
+  xy: 3872, 1900
+  size: 94, 269
+  orig: 94, 269
+  offset: 0, 0
+  index: -1
+standby_loop_0060
+  rotate: false
+  xy: 3872, 1629
+  size: 94, 269
+  orig: 94, 269
+  offset: 0, 0
+  index: -1
+trail_12_005
+  rotate: true
+  xy: 3342, 976
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+trail_42_001
+  rotate: false
+  xy: 3872, 615
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_003
+  rotate: false
+  xy: 3968, 108
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_005
+  rotate: false
+  xy: 3968, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+trail_42_007
+  rotate: false
+  xy: 2388, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+konan003.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_circle_10
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk1_000
+  rotate: false
+  xy: 1552, 260
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk1_001
+  rotate: false
+  xy: 392, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk1_002
+  rotate: false
+  xy: 1681, 260
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_konan_wingDisappear_sk1_003
+  rotate: false
+  xy: 521, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+fx_paper_03
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_shockwave_29
+  rotate: false
+  xy: 1292, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_shockwave_4
+  rotate: false
+  xy: 260, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_shockwave_5
+  rotate: false
+  xy: 518, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_sk2_bul_blue
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steam_speed_0
+  rotate: false
+  xy: 1422, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+obj_sk1_inner
+  rotate: false
+  xy: 776, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+obj_sk1_outer
+  rotate: false
+  xy: 1034, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shockwave_1
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

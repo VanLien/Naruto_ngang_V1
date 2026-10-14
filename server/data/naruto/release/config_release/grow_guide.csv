@@ -1,0 +1,33 @@
+﻿VariableName,award,desc,feature,icon,items,name,res,taskDesc,taskParam,taskType,type
+Defaults,{},"""""","""""","""""",<>,"""""","""""","""""",9999,0,1
+ID,award,desc,feature,icon,items,name,res,taskDesc,taskParam,taskType,type
+1,{gold=10000;rmb=20},"Độ khó mới, thử thách mới",heroGate,city/levelup/grow_guide_1.png,<5000;gold>,Ải Độ Khó,config/grow_guide/hard.jpg,,,,
+2,{gold=10000;rmb=20},"Độ khó mới, thử thách mới",heroGate,city/levelup/grow_guide_2.png,<5000;gold>,Ải Độ Khó,config/grow_guide/hard.jpg,Thử thách ải độ khó cao 50 lần,50,30,2
+3,{gold=10000;rmb=20},"Khi đường hẹp gặp nhau, dũng giả sẽ thắng",arena,city/levelup/grow_guide_3.png,<coin1>,Đấu Trường,config/grow_guide/arena.jpg,,,,
+4,{gold=10000;rmb=20},"Khi đường hẹp gặp nhau, dũng giả sẽ thắng",arena,city/levelup/grow_guide_4.png,<coin1>,Đấu Trường,config/grow_guide/arena.jpg,Thử thách Đấu Trường 20 lần,20,41,2
+5,{gold=10000;rmb=20},"Thử thách nhẹ nhàng, nhận thưởng cực lớn",activityGate,city/levelup/grow_guide_5.png,<gold;12;13;602;603>,Phó Bản Hằng Ngày,config/grow_guide/daily.jpg,,,,
+6,{gold=10000;rmb=20},"Thử thách nhẹ nhàng, nhận thưởng cực lớn",activityGate,city/levelup/grow_guide_6.png,<gold;12;13;602;603>,Phó Bản Hằng Ngày,config/grow_guide/daily.jpg,Thử thách Phó Bản Hằng Ngày 10 lần,10,32,2
+7,{gold=10000;rmb=20},"Hành trình vô tận, tiến về phía trước không sợ hãi",endlessTower,city/levelup/grow_guide_7.png,<451;452;19;gold>,Con Đường Trưởng Thành,config/grow_guide/endless.jpg,,,,
+9,{gold=10000;rmb=20},"Tham gia tổ chức, để gặp bạn bè cùng mục tiêu",union,city/levelup/grow_guide_9.png,<coin3>,Tổ Chức,config/grow_guide/union.jpg,,,,
+10,{gold=10000;rmb=20},"Tham gia tổ chức, để gặp bạn bè cùng mục tiêu",union,city/levelup/grow_guide_10.png,<coin3>,Tổ Chức,config/grow_guide/union.jpg,Quyên góp cho Tổ Chức 10 lần,10,55,2
+11,{gold=10000;rmb=20},Chiến đấu để tranh giành vị trí số một,craft,city/levelup/grow_guide_11.png,<coin6>,Thi Đấu Ninja,config/grow_guide/sydh.jpg,,,,
+12,{gold=10000;rmb=20},Chiến đấu để tranh giành vị trí số một,craft,city/levelup/grow_guide_12.png,<coin6>,Thi Đấu Ninja,config/grow_guide/sydh.jpg,Đăng ký tham gia Thi Đấu Ninja 5 lần,5,102,2
+13,{gold=10000;rmb=20},"Tăng sức mạnh toàn đội, mạnh hơn trước",talent,city/levelup/grow_guide_13.png,<talent_point>,Cường Hóa Thiên Phú,config/grow_guide/talent.jpg,,,,
+14,{gold=10000;rmb=20},"Tăng sức mạnh toàn đội, mạnh hơn trước",talent,city/levelup/grow_guide_14.png,<talent_point>,Cường Hóa Thiên Phú,config/grow_guide/talent.jpg,Sử dụng đủ 50 Mảnh Pha Lê Thiên Phú,50,99,2
+15,{gold=10000;rmb=20},"Không bắt đầu từ bước nhỏ, thì không thể đi ngàn dặm",dailyTask,city/levelup/grow_guide_15.png,<role_exp;453;19>,Nhiệm Vụ Hằng Ngày,config/grow_guide/task.jpg,,,,
+16,{gold=10000;rmb=20},"Không bắt đầu từ bước nhỏ, thì không thể đi ngàn dặm",dailyTask,city/levelup/grow_guide_16.png,<role_exp;453;19>,Nhiệm Vụ Hằng Ngày,config/grow_guide/task.jpg,Hoàn thành Nhiệm Vụ Hằng Ngày 20 lần,20,70,2
+17,{gold=10000;rmb=20},"Không sợ ải ác mộng, sẵn sàng đối mặt mọi thử thách",nightmareGate,city/levelup/grow_guide_17.png,,Ải Ác Mộng,config/grow_guide/nightmare.jpg,,,,
+18,{gold=10000;rmb=20},"Không sợ ải ác mộng, sẵn sàng đối mặt mọi thử thách",nightmareGate,city/levelup/grow_guide_18.png,,Ải Ác Mộng,config/grow_guide/nightmare.jpg,Vượt qua Ải Ác Mộng 5 lần,5,31,2
+19,{gold=10000;rmb=20},"Tích lũy Ninja, mở khóa sức mạnh mới",handbook,city/levelup/grow_guide_19.png,,Sổ Tay,config/grow_guide/handbook.jpg,,,,
+21,{gold=10000;rmb=20},"Thử thách ngẫu nhiên, vui không giới hạn",randomTower,city/levelup/grow_guide_21.png,<coin2;4000>,Huấn Luyện Đặc Biệt Đội Anbu,config/grow_guide/randomtower.jpg,,,,
+22,{gold=10000;rmb=20},"Thử thách ngẫu nhiên, vui không giới hạn",randomTower,city/levelup/grow_guide_22.png,<coin2>,Huấn Luyện Đặc Biệt Đội Anbu,config/grow_guide/randomtower.jpg,Chiến thắng trong Đội Anbu 20 lần,20,100,2
+25,{gold=10000;rmb=20},"Giao nhiệm vụ cho Ninja, nhận nhiều phần thưởng",dispatchTask,city/levelup/grow_guide_25.png,<2101;2102;2103;5000>,Nhiệm Vụ Phái Ninja,config/grow_guide/dispatch.jpg,,,,
+26,{gold=10000;rmb=20},"Giao nhiệm vụ cho Ninja, nhận nhiều phần thưởng",dispatchTask,city/levelup/grow_guide_26.png,<2101;2102;2103;5000>,Nhiệm Vụ Phái Ninja,config/grow_guide/dispatch.jpg,Hoàn thành nhiệm vụ phái 5 lần,5,101,2
+27,{gold=10000;rmb=20},,explorer,city/levelup/grow_guide_27.png,<coin4>,Thú Triệu Hồi,config/grow_guide/explorer.jpg,,,,
+28,{gold=10000;rmb=20},,explorer,city/levelup/grow_guide_28.png,<coin4>,Thú Triệu Hồi,config/grow_guide/explorer.jpg,Nâng cấp Thú Triệu Hồi 5 lần,5,84,2
+29,{gold=10000;rmb=20},"Thử thách Ninja mạnh mẽ, để nhận mảnh",cloneBattle,city/levelup/grow_guide_29.png,,Thử Thách Ảo Ảnh,config/grow_guide/clone.jpg,,,,
+30,{gold=10000;rmb=20},"Thử thách Ninja mạnh mẽ, để nhận mảnh",cloneBattle,city/levelup/grow_guide_30.png,,Thử Thách Ảo Ảnh,config/grow_guide/clone.jpg,Chiến thắng trong Thử Thách Ảo Ảnh 3 lần,3,66,2
+31,{gold=10000;rmb=20},Khảm ấn để nhận hiệu ứng phản lực mạnh mẽ,gem,city/levelup/grow_guide_31.png,<529>,Ấn,config/grow_guide/gem.png,,,,
+32,{gold=10000;rmb=20},Khảm ấn để nhận hiệu ứng phản lực mạnh mẽ,gem,city/levelup/grow_guide_32.png,<529>,Rút Ấn,config/grow_guide/gemdraw.png,Rút Ấn tổng cộng đủ 20 lần,20,105,2
+36,{gold=10000;rmb=20},"Nhiệm vụ Ninja xa, thách đấu các cao thủ",hunting,city/levelup/grow_guide_36.png,,Nhiệm Vụ Ninja Xa,config/grow_guide/sldd.png,Hoàn thành Nhiệm Vụ Ninja Xa (lộ trình thường) 1 lần,1,113,2
+37,{gold=10000;rmb=20},"Nhiệm vụ Ninja xa, thách đấu các cao thủ",specialHunting,city/levelup/grow_guide_37.png,,Lộ Trình Nâng Cao của Nhiệm Vụ Ninja Xa,config/grow_guide/sldd.png,Hoàn thành Nhiệm Vụ Ninja Xa (lộ trình nâng cao) 1 lần,1,114,2

@@ -1,0 +1,188 @@
+
+skBG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 2, 68
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+cloud_03
+  rotate: true
+  xy: 1938, 326
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+col_white
+  rotate: false
+  xy: 132, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow_17
+  rotate: false
+  xy: 2, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rift_5
+  rotate: false
+  xy: 260, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+smoke_16_001
+  rotate: false
+  xy: 648, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke_22
+  rotate: false
+  xy: 518, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke_23
+  rotate: false
+  xy: 1808, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_000
+  rotate: false
+  xy: 778, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_001
+  rotate: false
+  xy: 908, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_002
+  rotate: false
+  xy: 1038, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_003
+  rotate: false
+  xy: 1292, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_004
+  rotate: false
+  xy: 1422, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_005
+  rotate: false
+  xy: 1552, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_1_006
+  rotate: false
+  xy: 1682, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_4_000
+  rotate: false
+  xy: 1812, 196
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_4_001
+  rotate: false
+  xy: 1168, 66
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_4_002
+  rotate: false
+  xy: 1298, 66
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+steam_circle_4_003
+  rotate: false
+  xy: 1428, 66
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+swirl_15
+  rotate: false
+  xy: 1034, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+swirl_5
+  rotate: false
+  xy: 518, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+swirl_9
+  rotate: false
+  xy: 776, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+trail_21
+  rotate: false
+  xy: 2, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+water_0
+  rotate: false
+  xy: 1292, 326
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+water_1
+  rotate: false
+  xy: 260, 68
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+water_3
+  rotate: false
+  xy: 1550, 326
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

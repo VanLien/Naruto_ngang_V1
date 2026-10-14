@@ -1,0 +1,605 @@
+
+sakura00.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0018
+  rotate: true
+  xy: 330, 70
+  size: 137, 182
+  orig: 137, 182
+  offset: 0, 0
+  index: -1
+fx_attack_0003
+  rotate: false
+  xy: 862, 347
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+fx_ground_seg_01_000
+  rotate: true
+  xy: 366, 520
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+fx_rift_0
+  rotate: false
+  xy: 2, 766
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+fx_skill_1_ground
+  rotate: true
+  xy: 924, 292
+  size: 209, 96
+  orig: 209, 96
+  offset: 0, 0
+  index: -1
+fx_skill_1_rift
+  rotate: true
+  xy: 932, 702
+  size: 320, 85
+  orig: 320, 85
+  offset: 0, 0
+  index: -1
+fx_steamTrail_000
+  rotate: false
+  xy: 254, 700
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_001
+  rotate: false
+  xy: 2, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_002
+  rotate: false
+  xy: 68, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_003
+  rotate: false
+  xy: 134, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_004
+  rotate: false
+  xy: 200, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_005
+  rotate: false
+  xy: 266, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_006
+  rotate: false
+  xy: 332, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_steamTrail_007
+  rotate: false
+  xy: 398, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_trail_1
+  rotate: true
+  xy: 732, 294
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+run_loop_0000
+  rotate: false
+  xy: 187, 503
+  size: 177, 188
+  orig: 177, 188
+  offset: 0, 0
+  index: -1
+run_loop_0003
+  rotate: true
+  xy: 330, 209
+  size: 144, 183
+  orig: 144, 183
+  offset: 0, 0
+  index: -1
+run_loop_0009
+  rotate: false
+  xy: 2, 503
+  size: 183, 188
+  orig: 183, 188
+  offset: 0, 0
+  index: -1
+run_loop_0012
+  rotate: true
+  xy: 330, 355
+  size: 146, 183
+  orig: 146, 183
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1008, 265
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+skill_2_0000
+  rotate: false
+  xy: 932, 503
+  size: 81, 197
+  orig: 81, 197
+  offset: 0, 0
+  index: -1
+skill_2_0003
+  rotate: true
+  xy: 2, 695
+  size: 69, 250
+  orig: 69, 250
+  offset: 0, 0
+  index: -1
+skill_2_0142
+  rotate: false
+  xy: 366, 628
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+skill_2_C_0074
+  rotate: false
+  xy: 732, 4
+  size: 274, 286
+  orig: 274, 286
+  offset: 0, 0
+  index: -1
+skill_2_C_0084
+  rotate: false
+  xy: 515, 2
+  size: 215, 356
+  orig: 215, 356
+  offset: 0, 0
+  index: -1
+skill_2_C_0149
+  rotate: true
+  xy: 2, 91
+  size: 410, 326
+  orig: 410, 326
+  offset: 0, 0
+  index: -1
+skill_2_C_0180
+  rotate: true
+  xy: 516, 693
+  size: 329, 414
+  orig: 329, 414
+  offset: 0, 0
+  index: -1
+skill_2_C_0198
+  rotate: true
+  xy: 515, 360
+  size: 331, 407
+  orig: 331, 407
+  offset: 0, 0
+  index: -1
+
+sakura002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0010
+  rotate: true
+  xy: 804, 425
+  size: 207, 177
+  orig: 207, 177
+  offset: 0, 0
+  index: -1
+fx_attack_0002
+  rotate: true
+  xy: 983, 471
+  size: 161, 30
+  orig: 161, 30
+  offset: 0, 0
+  index: -1
+fx_copyDisappear
+  rotate: false
+  xy: 601, 16
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_shockwave_02
+  rotate: false
+  xy: 343, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+run_loop_0006
+  rotate: true
+  xy: 804, 284
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+skill_2_0028
+  rotate: false
+  xy: 859, 69
+  size: 120, 213
+  orig: 120, 213
+  offset: 0, 0
+  index: -1
+skill_2_C_0041
+  rotate: true
+  xy: 324, 260
+  size: 349, 226
+  orig: 349, 226
+  offset: 0, 0
+  index: -1
+skill_2_C_0060
+  rotate: true
+  xy: 552, 274
+  size: 348, 250
+  orig: 348, 250
+  offset: 0, 0
+  index: -1
+skill_2_C_0099
+  rotate: true
+  xy: 2, 4
+  size: 204, 339
+  orig: 204, 339
+  offset: 0, 0
+  index: -1
+skill_2_C_0133
+  rotate: true
+  xy: 663, 634
+  size: 382, 328
+  orig: 382, 328
+  offset: 0, 0
+  index: -1
+skill_2_C_0144
+  rotate: true
+  xy: 2, 210
+  size: 399, 320
+  orig: 399, 320
+  offset: 0, 0
+  index: -1
+skill_2_C_0161
+  rotate: false
+  xy: 336, 624
+  size: 325, 392
+  orig: 325, 392
+  offset: 0, 0
+  index: -1
+skill_2_C_0208
+  rotate: false
+  xy: 2, 611
+  size: 332, 405
+  orig: 332, 405
+  offset: 0, 0
+  index: -1
+
+sakura003.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_skill_1_obj
+  rotate: false
+  xy: 2, 171
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hit_0000
+  rotate: false
+  xy: 740, 25
+  size: 154, 174
+  orig: 154, 174
+  offset: 0, 0
+  index: -1
+skill_2_0157
+  rotate: false
+  xy: 578, 29
+  size: 160, 170
+  orig: 160, 170
+  offset: 0, 0
+  index: -1
+skill_2_0165
+  rotate: false
+  xy: 420, 10
+  size: 156, 196
+  orig: 156, 196
+  offset: 0, 0
+  index: -1
+skill_2_0185
+  rotate: false
+  xy: 260, 5
+  size: 158, 201
+  orig: 158, 201
+  offset: 0, 0
+  index: -1
+skill_2_0198
+  rotate: true
+  xy: 2, 11
+  size: 158, 198
+  orig: 158, 198
+  offset: 0, 0
+  index: -1
+skill_2_C_0000
+  rotate: false
+  xy: 687, 433
+  size: 319, 279
+  orig: 319, 279
+  offset: 0, 0
+  index: -1
+skill_2_C_0033
+  rotate: false
+  xy: 2, 429
+  size: 313, 252
+  orig: 313, 252
+  offset: 0, 0
+  index: -1
+skill_2_C_0046
+  rotate: false
+  xy: 317, 208
+  size: 321, 242
+  orig: 321, 242
+  offset: 0, 0
+  index: -1
+skill_2_C_0053
+  rotate: false
+  xy: 347, 452
+  size: 323, 246
+  orig: 323, 246
+  offset: 0, 0
+  index: -1
+skill_2_C_0102
+  rotate: true
+  xy: 640, 201
+  size: 230, 284
+  orig: 230, 284
+  offset: 0, 0
+  index: -1
+skill_2_C_0106
+  rotate: true
+  xy: 687, 714
+  size: 308, 327
+  orig: 308, 327
+  offset: 0, 0
+  index: -1
+skill_2_C_0113
+  rotate: true
+  xy: 347, 700
+  size: 322, 338
+  orig: 322, 338
+  offset: 0, 0
+  index: -1
+skill_2_C_0121
+  rotate: false
+  xy: 2, 683
+  size: 343, 339
+  orig: 343, 339
+  offset: 0, 0
+  index: -1
+skill_2_cut_0008
+  rotate: false
+  xy: 926, 210
+  size: 93, 221
+  orig: 93, 221
+  offset: 0, 0
+  index: -1
+standby_loop_0006
+  rotate: false
+  xy: 896, 2
+  size: 118, 197
+  orig: 118, 197
+  offset: 0, 0
+  index: -1
+
+sakura004.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_0002
+  rotate: true
+  xy: 844, 892
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1
+attack_0004
+  rotate: true
+  xy: 398, 644
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+fx_ground_seg_01_001
+  rotate: false
+  xy: 2, 2
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+fx_ground_seg_01_002
+  rotate: false
+  xy: 673, 503
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+fx_ground_seg_01_003
+  rotate: false
+  xy: 781, 503
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+fx_smoke_00_000
+  rotate: true
+  xy: 268, 649
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_00_001
+  rotate: true
+  xy: 569, 612
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_00_002
+  rotate: true
+  xy: 699, 735
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_00_003
+  rotate: false
+  xy: 829, 762
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_00_004
+  rotate: false
+  xy: 829, 632
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_2
+  rotate: false
+  xy: 699, 605
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_smoke_3
+  rotate: false
+  xy: 268, 519
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_steam_2
+  rotate: false
+  xy: 543, 482
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+run_loop_0015
+  rotate: false
+  xy: 305, 841
+  size: 136, 180
+  orig: 136, 180
+  offset: 0, 0
+  index: -1
+skill_2_0006
+  rotate: false
+  xy: 2, 766
+  size: 75, 255
+  orig: 75, 255
+  offset: 0, 0
+  index: -1
+skill_2_0014
+  rotate: false
+  xy: 79, 804
+  size: 104, 217
+  orig: 104, 217
+  offset: 0, 0
+  index: -1
+skill_2_0150
+  rotate: false
+  xy: 398, 513
+  size: 143, 129
+  orig: 143, 129
+  offset: 0, 0
+  index: -1
+skill_2_cut_0018
+  rotate: false
+  xy: 2, 534
+  size: 75, 230
+  orig: 75, 230
+  offset: 0, 0
+  index: -1
+skill_2_cut_0025
+  rotate: false
+  xy: 79, 571
+  size: 72, 231
+  orig: 72, 231
+  offset: 0, 0
+  index: -1
+skill_2_cut_0030
+  rotate: false
+  xy: 2, 301
+  size: 69, 231
+  orig: 69, 231
+  offset: 0, 0
+  index: -1
+standby_loop_0000
+  rotate: false
+  xy: 185, 821
+  size: 118, 200
+  orig: 118, 200
+  offset: 0, 0
+  index: -1
+standby_loop_0011
+  rotate: true
+  xy: 443, 784
+  size: 119, 194
+  orig: 119, 194
+  offset: 0, 0
+  index: -1
+standby_loop_0025
+  rotate: true
+  xy: 443, 905
+  size: 116, 199
+  orig: 116, 199
+  offset: 0, 0
+  index: -1
+standby_loop_0030
+  rotate: false
+  xy: 2, 104
+  size: 115, 195
+  orig: 115, 195
+  offset: 0, 0
+  index: -1
+standby_loop_0037
+  rotate: false
+  xy: 153, 611
+  size: 113, 191
+  orig: 113, 191
+  offset: 0, 0
+  index: -1
+standby_loop_0045
+  rotate: true
+  xy: 644, 907
+  size: 114, 198
+  orig: 114, 198
+  offset: 0, 0
+  index: -1

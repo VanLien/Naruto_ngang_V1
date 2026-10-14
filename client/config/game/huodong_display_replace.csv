@@ -1,0 +1,13 @@
+﻿VariableName,beginDate,beginTime,clientParam,endDate,endTime
+Defaults,20160101,500,{},20250101,500
+ID,beginDate,beginTime,clientParam,endDate,endTime
+1,20200116,,{loginSpine=login/chunjiedenglu.skel},20200214,
+2,20200426,,{loginSpine=login/51denglutu.skel},20200809,
+3,20200810,,{loginSpine=login/denglu_qiuji.skel},20201027,
+4,20201028,,{loginSpine=login/wsj_denglu.skel},20201217,
+5,20201216,,{loginSpine=login/changjing.skel},20210101,
+6,20210102,,{loginSpine=login/chunjiedenglu.skel},20210301,
+7,20210326,,{loginSpine=login/znqdl.skel},20210405,
+8,20210501,,{loginSpine=login/51denglutu.skel},20210701,
+9,20210701,,{loginSpine=login/xjyd.skel},20210901,
+10,20211025,,{loginSpine=login/wsj_denglu.skel},20211112,

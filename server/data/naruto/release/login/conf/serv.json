@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Manga dev 1",
+    "key": "game.dev.1",
+    "status": 1,
+    "addr": "110.172.29.223:8988"
+  },
+  {
+    "id": 2,
+    "name": "Manga dev 2",
+    "key": "game.dev.2",
+    "status": 1,
+    "addr": "110.172.29.223:8988"
+  }
+]

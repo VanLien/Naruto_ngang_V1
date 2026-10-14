@@ -1,0 +1,34 @@
+
+skBG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_sand_cluster_0
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ramp_v_2
+  rotate: false
+  xy: 516, 582
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sand_ground_part_0
+  rotate: false
+  xy: 2, 198
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

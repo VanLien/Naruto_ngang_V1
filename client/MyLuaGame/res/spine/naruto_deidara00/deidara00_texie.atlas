@@ -1,0 +1,286 @@
+
+deidara00_texie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+didala_benti_duzi
+  rotate: true
+  xy: 523, 7
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+didala_benti_lingzi
+  rotate: false
+  xy: 446, 4
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+didala_benti_liuhai1
+  rotate: true
+  xy: 682, 225
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+didala_benti_liuhai2
+  rotate: false
+  xy: 861, 262
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+didala_benti_liuhai3
+  rotate: false
+  xy: 808, 216
+  size: 13, 40
+  orig: 13, 40
+  offset: 0, 0
+  index: -1
+didala_benti_tou
+  rotate: false
+  xy: 912, 281
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+didala_benti_yihoubai
+  rotate: false
+  xy: 703, 323
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+didala_benti_youbi1
+  rotate: false
+  xy: 631, 152
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+didala_benti_youbi2
+  rotate: false
+  xy: 398, 2
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+didala_benti_youjiao
+  rotate: true
+  xy: 697, 220
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+didala_benti_youshou
+  rotate: false
+  xy: 947, 287
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+didala_benti_youyibai1
+  rotate: true
+  xy: 888, 275
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+didala_benti_youyibai2
+  rotate: true
+  xy: 682, 161
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+didala_benti_zuojiao
+  rotate: true
+  xy: 982, 286
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+didala_benti_zuotui
+  rotate: true
+  xy: 401, 30
+  size: 31, 120
+  orig: 31, 120
+  offset: 0, 0
+  index: -1
+didala_benti_zuoxiu
+  rotate: true
+  xy: 348, 22
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+didala_benti_zuoyibai
+  rotate: true
+  xy: 516, 254
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+didala_niao_er
+  rotate: false
+  xy: 682, 184
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+didala_niao_lian
+  rotate: false
+  xy: 697, 258
+  size: 124, 63
+  orig: 124, 63
+  offset: 0, 0
+  index: -1
+didala_niao_st_1
+  rotate: false
+  xy: 170, 2
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1
+didala_niao_st_2
+  rotate: true
+  xy: 212, 22
+  size: 25, 134
+  orig: 25, 134
+  offset: 0, 0
+  index: -1
+didala_niao_st_3
+  rotate: false
+  xy: 944, 330
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+didala_niao_st_4
+  rotate: true
+  xy: 612, 157
+  size: 95, 17
+  orig: 95, 17
+  offset: 0, 0
+  index: -1
+didala_niao_st_5
+  rotate: false
+  xy: 922, 324
+  size: 20, 107
+  orig: 20, 107
+  offset: 0, 0
+  index: -1
+didala_niao_st_6
+  rotate: false
+  xy: 2, 2
+  size: 166, 27
+  orig: 166, 27
+  offset: 0, 0
+  index: -1
+didala_niao_st_7
+  rotate: false
+  xy: 401, 63
+  size: 183, 41
+  orig: 183, 41
+  offset: 0, 0
+  index: -1
+didala_niao_weiba
+  rotate: false
+  xy: 2, 31
+  size: 208, 73
+  orig: 208, 73
+  offset: 0, 0
+  index: -1
+didala_niao_youchi1
+  rotate: false
+  xy: 516, 433
+  size: 428, 77
+  orig: 428, 77
+  offset: 0, 0
+  index: -1
+didala_niao_youchi2
+  rotate: false
+  xy: 212, 49
+  size: 187, 55
+  orig: 187, 55
+  offset: 0, 0
+  index: -1
+didala_niao_youchi3
+  rotate: false
+  xy: 2, 106
+  size: 597, 47
+  orig: 597, 47
+  offset: 0, 0
+  index: -1
+didala_niao_youchi4
+  rotate: false
+  xy: 2, 155
+  size: 608, 97
+  orig: 608, 97
+  offset: 0, 0
+  index: -1
+didala_niao_youchi5
+  rotate: false
+  xy: 682, 144
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+didala_niao_youtui1
+  rotate: false
+  xy: 631, 246
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+didala_niao_youtui2
+  rotate: false
+  xy: 946, 368
+  size: 76, 142
+  orig: 76, 142
+  offset: 0, 0
+  index: -1
+didala_niao_zuochi
+  rotate: false
+  xy: 516, 341
+  size: 185, 90
+  orig: 185, 90
+  offset: 0, 0
+  index: -1
+didala_niao_zuotui1
+  rotate: true
+  xy: 823, 240
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+didala_niao_zuotui2
+  rotate: false
+  xy: 853, 326
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+didala_tianchongse_baixxx
+  rotate: false
+  xy: 774, 190
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+didala_tianchongse_huixxx
+  rotate: false
+  xy: 823, 211
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 254
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

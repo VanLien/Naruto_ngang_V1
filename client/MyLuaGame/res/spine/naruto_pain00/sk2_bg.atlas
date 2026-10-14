@@ -1,0 +1,258 @@
+
+sk2_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/col_white
+  rotate: false
+  xy: 910, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_000
+  rotate: false
+  xy: 132, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_001
+  rotate: false
+  xy: 910, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_002
+  rotate: false
+  xy: 198, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_003
+  rotate: false
+  xy: 264, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_004
+  rotate: false
+  xy: 330, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_005
+  rotate: false
+  xy: 396, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_006
+  rotate: false
+  xy: 462, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_007
+  rotate: false
+  xy: 528, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_008
+  rotate: false
+  xy: 594, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_009
+  rotate: false
+  xy: 660, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_010
+  rotate: false
+  xy: 726, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_011
+  rotate: false
+  xy: 792, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_012
+  rotate: false
+  xy: 853, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_013
+  rotate: false
+  xy: 919, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_014
+  rotate: false
+  xy: 858, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_5_015
+  rotate: false
+  xy: 858, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx/fire_6_001
+  rotate: false
+  xy: 260, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_002
+  rotate: false
+  xy: 390, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_003
+  rotate: false
+  xy: 520, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_004
+  rotate: false
+  xy: 650, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_005
+  rotate: false
+  xy: 780, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_006
+  rotate: false
+  xy: 260, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_007
+  rotate: false
+  xy: 390, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_008
+  rotate: false
+  xy: 520, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_009
+  rotate: false
+  xy: 650, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_010
+  rotate: false
+  xy: 780, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_011
+  rotate: false
+  xy: 203, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_012
+  rotate: false
+  xy: 333, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_013
+  rotate: false
+  xy: 463, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_014
+  rotate: false
+  xy: 593, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/fire_6_015
+  rotate: false
+  xy: 723, 72
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/glow_13
+  rotate: false
+  xy: 2, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx/stone_18
+  rotate: true
+  xy: 910, 332
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+fx/stone_19
+  rotate: false
+  xy: 2, 2
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+fx/stone_20
+  rotate: false
+  xy: 2, 78
+  size: 199, 124
+  orig: 199, 124
+  offset: 0, 0
+  index: -1

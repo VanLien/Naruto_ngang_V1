@@ -1,0 +1,152 @@
+
+anniu1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidian
+  rotate: false
+  xy: 322, 109
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+baikuang
+  rotate: false
+  xy: 172, 106
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+f_heidi
+  rotate: false
+  xy: 2, 41
+  size: 107, 43
+  orig: 107, 43
+  offset: 0, 0
+  index: -1
+f_hongkuang
+  rotate: false
+  xy: 322, 211
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1
+hongdian
+  rotate: false
+  xy: 111, 54
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+jinglingbiao
+  rotate: false
+  xy: 322, 139
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+neiyuan1
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sanjiao
+  rotate: false
+  xy: 382, 160
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+waiguang1
+  rotate: true
+  xy: 2, 5
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+waikuangdi
+  rotate: false
+  xy: 2, 86
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 430, 222
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+xing_wu
+  rotate: false
+  xy: 61, 6
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+
+anniu12.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/_NavigationFire_00829
+  rotate: false
+  xy: 376, 14
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00830
+  rotate: false
+  xy: 318, 23
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00831
+  rotate: false
+  xy: 359, 73
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+TX/_NavigationFire_00832
+  rotate: false
+  xy: 243, 13
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+TX/energy_06_00001
+  rotate: false
+  xy: 243, 76
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+TX/energy_28_00009
+  rotate: false
+  xy: 124, 16
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+TX/guangyun
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TX/skill2_2_1
+  rotate: false
+  xy: 421, 63
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

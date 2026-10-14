@@ -1,0 +1,4 @@
+﻿VariableName,autoSignVIP,betRateFix,failPoint,finalSignAward,maxBetWin,minBetRate,preSignAward,servOpenDays,winAward,winLimit,winPoint
+Defaults,,,,{},,,{},,{},,
+ID,autoSignVIP,betRateFix,failPoint,finalSignAward,maxBetWin,minBetRate,preSignAward,servOpenDays,winAward,winLimit,winPoint
+1,3,1,1,{5504=5;rmb=50;gold=200000},1000000,2,{gold=100000;rmb=20;5503=5},14,{5503=1},6,2

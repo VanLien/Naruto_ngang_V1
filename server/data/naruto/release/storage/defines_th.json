@@ -1,0 +1,257 @@
+{
+  "account.th.1": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "alias": ["giftdb.th.1", "paymentdb.th.1"],
+        "dbname": "account",
+        "mongodb": "15.235.181.86:27018",
+        "name": "accountdb.th.1"
+      }
+    ]
+  },
+  "gift.th.1": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "gift",
+        "mongodb": "15.235.181.86:27018",
+        "name": "giftdb.th.1"
+      }
+    ]
+  },
+
+  "paymentdb.th.1": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "order",
+        "mongodb": "15.235.181.86:27018",
+        "name": "paymentdb.th.1"
+      }
+    ]
+  },
+  "storage.th.11": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_11",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.11"
+      }
+    ]
+  },
+  "storage.th.12": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_12",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.12"
+      }
+    ]
+  },
+  "storage.th.13": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_13",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.13"
+      }
+    ]
+  },
+  "storage.th.14": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_14",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.14"
+      }
+    ]
+  },
+  "storage.th.15": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_15",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.15"
+      }
+    ]
+  },
+  "storage.th.16": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_16",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.16"
+      }
+    ]
+  },
+  "storage.th.17": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_17",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.17"
+      }
+    ]
+  },
+  "storage.th.18": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_18",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.18"
+      }
+    ]
+  },
+  "storage.th.19": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_19",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.19"
+      }
+    ]
+  },
+  "storage.th.20": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_20",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.20"
+      }
+    ]
+  },
+  "storage.th.21": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_21",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.21"
+      }
+    ]
+  },
+  "storage.th.22": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_22",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.22"
+      }
+    ]
+  },
+  "storage.th.23": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_23",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.23"
+      }
+    ]
+  },
+  "storage.th.24": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_24",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.24"
+      }
+    ]
+  },
+  "storage.th.25": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_25",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.25"
+      }
+    ]
+  },
+  "storage.th.26": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_26",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.26"
+      }
+    ]
+  },
+  "storage.th.27": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_27",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.27"
+      }
+    ]
+  },
+  "storage.th.28": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_28",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.28"
+      }
+    ]
+  },
+  "storage.th.29": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_29",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.29"
+      }
+    ]
+  },
+  "storage.th.30": {
+    "mainnsqd": "15.235.181.86:4150",
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dbname": "game_th_30",
+        "mongodb": "15.235.181.86:27100",
+        "name": "storage.th.30"
+      }
+    ]
+  }
+}

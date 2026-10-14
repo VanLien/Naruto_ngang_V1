@@ -1,0 +1,55 @@
+
+sk2_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_ball_1
+  rotate: false
+  xy: 2, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_ball_5
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_black
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_eye_2_circle
+  rotate: false
+  xy: 260, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_glow_12
+  rotate: false
+  xy: 776, 326
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_glow_8
+  rotate: false
+  xy: 132, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_shockwave_22
+  rotate: false
+  xy: 518, 198
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

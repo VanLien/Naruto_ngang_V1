@@ -1,0 +1,83 @@
+
+battlearena_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzjd1
+  rotate: false
+  xy: 928, 80
+  size: 236, 182
+  orig: 236, 182
+  offset: 0, 0
+  index: -1
+zdjs1
+  rotate: false
+  xy: 2, 163
+  size: 924, 336
+  orig: 924, 336
+  offset: 0, 0
+  index: -1
+zdjs2
+  rotate: false
+  xy: 928, 264
+  size: 456, 235
+  orig: 456, 235
+  offset: 0, 0
+  index: -1
+zdjs3
+  rotate: false
+  xy: 2, 45
+  size: 252, 116
+  orig: 252, 116
+  offset: 0, 0
+  index: -1
+zdks1
+  rotate: true
+  xy: 1382, 3
+  size: 202, 204
+  orig: 202, 204
+  offset: 0, 0
+  index: -1
+zdks2
+  rotate: false
+  xy: 1588, 2
+  size: 199, 203
+  orig: 199, 203
+  offset: 0, 0
+  index: -1
+zdks27
+  rotate: true
+  xy: 1789, 21
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+zdks3
+  rotate: false
+  xy: 256, 2
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+zdks4
+  rotate: true
+  xy: 1386, 207
+  size: 292, 294
+  orig: 292, 294
+  offset: 0, 0
+  index: -1
+zdks5
+  rotate: false
+  xy: 1682, 211
+  size: 289, 288
+  orig: 289, 288
+  offset: 0, 0
+  index: -1
+zdks6
+  rotate: true
+  xy: 1166, 27
+  size: 235, 214
+  orig: 235, 214
+  offset: 0, 0
+  index: -1

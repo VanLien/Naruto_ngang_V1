@@ -1,0 +1,6 @@
+﻿VariableName,buff,max
+Defaults,0,10
+ID,buff,max
+1,2,30
+2,2,30
+3,4,60

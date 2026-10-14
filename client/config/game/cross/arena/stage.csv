@@ -1,0 +1,41 @@
+﻿VariableName,award,finishAward,icon,periodAward,range,stageID,stageLevel,stageName,stagePinyin,stageRes,version
+Defaults,{},{},,{},<>,1,,,,,0
+ID,award,finishAward,icon,periodAward,range,stageID,stageLevel,stageName,stagePinyin,stageRes,version
+1,{2103=2;gold=100000;850=200},{502=5;rmb=200;529=2000},common/icon/rank_stage/icon_qt_3.png,{gold=300000;502=2;529=360},<7081;100001>,,III,Đồng III,qingtong,,
+2,{2103=2;gold=100000;850=200},{502=5;rmb=210;529=2100},common/icon/rank_stage/icon_qt_2.png,{gold=320000;502=2;529=380},<5081;7081>,2,II,Đồng II,qingtong,,
+3,{2103=2;gold=110000;850=200},{502=5;rmb=220;529=2200},common/icon/rank_stage/icon_qt_1.png,{gold=340000;502=2;529=400},<4081;5081>,3,I,Đồng I,qingtong,,
+4,{2103=2;gold=110000;501=1},{502=6;rmb=230;529=2300},common/icon/rank_stage/icon_by_3.png,{gold=360000;502=2;529=420},<3481;4081>,4,III,Bạc III,baiyin,,
+5,{2103=2;gold=120000;850=400},{502=6;rmb=240;529=2400},common/icon/rank_stage/icon_by_2.png,{gold=380000;502=2;529=440},<2881;3481>,5,II,Bạc II,baiyin,,
+6,{2103=2;gold=120000;850=400},{502=6;rmb=250;529=2500},common/icon/rank_stage/icon_by_1.png,{gold=400000;502=2;529=460},<2281;2881>,6,I,Bạc I,baiyin,,
+7,{2103=3;gold=130000;502=2},{502=7;rmb=260;529=2600},common/icon/rank_stage/icon_hj_3.png,{gold=420000;502=3;529=480},<1881;2281>,7,III,Vàng III,huangjin,,
+8,{2103=3;519=2;gold=130000},{502=7;rmb=280;529=2800},common/icon/rank_stage/icon_hj_2.png,{gold=440000;502=3;529=500},<1481;1881>,8,II,Vàng II,huangjin,,
+9,{2103=3;519=2;gold=140000},{502=7;rmb=300;529=3000},common/icon/rank_stage/icon_hj_1.png,{gold=460000;502=3;529=540},<1081;1481>,9,I,Vàng I,huangjin,,
+10,{2103=3;gold=140000;973=1},{502=8;rmb=320;529=3200},common/icon/rank_stage/icon_bj_4.png,{gold=480000;502=4;529=580},<841;1081>,10,IV,Bạch Kim IV,baijin,,
+11,{2103=3;519=2;gold=150000},{502=8;rmb=340;529=3400},common/icon/rank_stage/icon_bj_3.png,{gold=500000;502=4;529=620},<601;841>,11,III,Bạch Kim III,baijin,,
+12,{2103=3;519=2;gold=150000},{502=9;rmb=360;529=3600},common/icon/rank_stage/icon_bj_2.png,{gold=520000;502=4;529=660},<361;601>,12,II,Bạch Kim II,baijin,,
+13,{2103=3;gold=165000;973=1},{502=9;rmb=390;529=3900},common/icon/rank_stage/icon_bj_1.png,{gold=540000;502=4;529=700},<281;361>,13,I,Bạch Kim I,baijin,,
+14,{902=15;2103=4;gold=165000},{502=10;rmb=420;529=4200},common/icon/rank_stage/icon_zs_4.png,{gold=560000;502=5;529=750},<201;281>,14,IV,Kim Cương IV,zuanshi,,
+15,{902=15;2103=4;gold=180000},{502=10;rmb=450;529=4500},common/icon/rank_stage/icon_zs_3.png,{gold=580000;502=5;529=800},<121;201>,15,III,Kim Cương III,zuanshi,,
+16,{2103=4;gold=180000;502=3},{502=11;rmb=480;529=4800},common/icon/rank_stage/icon_zs_2.png,{gold=600000;502=6;529=850},<91;121>,16,II,Kim Cương II,zuanshi,,
+17,{902=20;2103=4;gold=195000},{502=11;rmb=520;529=5200},common/icon/rank_stage/icon_zs_1.png,{gold=620000;502=6;529=900},<61;91>,17,I,Kim Cương I,zuanshi,,
+18,{902=20;2103=5;gold=195000},{502=13;rmb=560;529=5600},common/icon/rank_stage/icon_ds.png,{gold=640000;502=7;529=950},<31;61>,18,K,Bậc Thầy Vô Úy,dashi,,
+19,{2103=6;gold=210000;521=5},{502=15;rmb=600;529=6000},common/icon/rank_stage/icon_wz.png,{gold=660000;502=8;529=1000},<1;31>,19,K,Vua Đỉnh Cao,wangzhe,,
+101,{2103=2;gold=100000;850=200},{rmb=500;529=4000;539=10},common/icon/rank_stage/icon_qt_3.png,{gold=400000;529=360;539=5},<7081;100001>,,III,Đồng III,qingtong,,1
+102,{2103=2;gold=100000;850=200},{rmb=525;529=4200;539=15},common/icon/rank_stage/icon_qt_2.png,{gold=460000;529=380;539=8},<5081;7081>,2,II,Đồng II,qingtong,,1
+103,{2103=2;gold=110000;850=200},{rmb=550;529=4400;539=20},common/icon/rank_stage/icon_qt_1.png,{gold=480000;529=400;539=10},<4081;5081>,3,I,Đồng I,qingtong,,1
+104,{2103=2;gold=110000;501=1},{rmb=575;529=4600;539=25},common/icon/rank_stage/icon_by_3.png,{gold=500000;529=420;539=12},<3481;4081>,4,III,Bạc III,baiyin,,1
+105,{2103=2;gold=120000;850=400},{rmb=600;529=4800;539=30},common/icon/rank_stage/icon_by_2.png,{gold=520000;529=440;539=15},<2881;3481>,5,II,Bạc II,baiyin,,1
+106,{2103=2;gold=120000;850=400},{rmb=625;529=5000;539=35},common/icon/rank_stage/icon_by_1.png,{gold=540000;529=460;539=18},<2281;2881>,6,I,Bạc I,baiyin,,1
+107,{2103=3;gold=130000;539=20},{rmb=650;529=5200;539=40},common/icon/rank_stage/icon_hj_3.png,{gold=560000;529=480;539=20},<1881;2281>,7,III,Vàng III,huangjin,,1
+108,{2103=3;526=5;gold=130000},{rmb=700;529=5600;539=45},common/icon/rank_stage/icon_hj_2.png,{gold=580000;529=500;539=22},<1481;1881>,8,II,Vàng II,huangjin,,1
+109,{2103=3;526=5;gold=140000},{rmb=750;529=6000;539=50},common/icon/rank_stage/icon_hj_1.png,{gold=600000;529=540;539=25},<1081;1481>,9,I,Vàng I,huangjin,,1
+110,{2103=3;gold=140000;973=1},{rmb=800;529=6400;539=55},common/icon/rank_stage/icon_bj_4.png,{gold=620000;529=580;539=28},<841;1081>,10,IV,Bạch Kim IV,baijin,,1
+111,{2103=3;526=5;gold=150000},{rmb=850;529=6800;539=60},common/icon/rank_stage/icon_bj_3.png,{gold=640000;529=620;539=30},<601;841>,11,III,Bạch Kim III,baijin,,1
+112,{2103=3;526=5;gold=150000},{rmb=900;529=7200;539=65},common/icon/rank_stage/icon_bj_2.png,{gold=700000;529=660;539=32},<361;601>,12,II,Bạch Kim II,baijin,,1
+113,{2103=3;gold=165000;973=1},{rmb=975;529=7800;539=70},common/icon/rank_stage/icon_bj_1.png,{gold=800000;529=700;539=35},<281;361>,13,I,Bạch Kim I,baijin,,1
+114,{902=15;2103=4;gold=165000},{rmb=1050;529=8400;539=75},common/icon/rank_stage/icon_zs_4.png,{gold=900000;529=750;539=38},<201;281>,14,IV,Kim Cương IV,zuanshi,,1
+115,{902=15;2103=4;gold=180000},{rmb=1125;529=9000;539=80},common/icon/rank_stage/icon_zs_3.png,{gold=1000000;529=800;539=40},<121;201>,15,III,Kim Cương III,zuanshi,,1
+116,{2103=4;gold=180000;539=30},{rmb=1200;529=9600;539=90},common/icon/rank_stage/icon_zs_2.png,{gold=1100000;529=850;539=45},<91;121>,16,II,Kim Cương II,zuanshi,,1
+117,{902=20;2103=4;gold=195000},{rmb=1300;529=10400;539=100},common/icon/rank_stage/icon_zs_1.png,{gold=1200000;529=900;539=50},<61;91>,17,I,Kim Cương I,zuanshi,,1
+118,{902=20;2103=5;gold=195000},{540=50;rmb=1400;529=11200},common/icon/rank_stage/icon_ds.png,{gold=1300000;540=20;529=950},<31;61>,18,K,Bậc Thầy Vô Úy,dashi,,1
+119,{2103=6;540=30;gold=210000},{540=100;rmb=1500;529=12000},common/icon/rank_stage/icon_wz.png,{gold=1500000;540=30;529=1000},<1;31>,19,K,Vua Đỉnh Cao,wangzhe,,1

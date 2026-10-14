@@ -1,0 +1,13 @@
+
+hashirama01_sk2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Textures/bg
+  rotate: false
+  xy: 2, 2
+  size: 363, 188
+  orig: 363, 188
+  offset: 0, 0
+  index: -1

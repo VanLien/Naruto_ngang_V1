@@ -1,0 +1,41 @@
+
+sk2BG.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 1032, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow_17
+  rotate: false
+  xy: 516, 68
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lines_1
+  rotate: false
+  xy: 774, 68
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rift_0
+  rotate: false
+  xy: 2, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+rift_2
+  rotate: false
+  xy: 2, 68
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1

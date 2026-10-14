@@ -1,0 +1,69 @@
+
+sasuke00_city.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_0067
+  rotate: true
+  xy: 688, 201
+  size: 85, 284
+  orig: 85, 284
+  offset: 0, 0
+  index: -1
+idle_0070
+  rotate: false
+  xy: 2, 2
+  size: 108, 284
+  orig: 108, 284
+  offset: 0, 0
+  index: -1
+idle_0074
+  rotate: true
+  xy: 402, 189
+  size: 97, 284
+  orig: 97, 284
+  offset: 0, 0
+  index: -1
+idle_0078
+  rotate: true
+  xy: 402, 90
+  size: 97, 284
+  orig: 97, 284
+  offset: 0, 0
+  index: -1
+idle_0116
+  rotate: true
+  xy: 112, 186
+  size: 100, 288
+  orig: 100, 288
+  offset: 0, 0
+  index: -1
+idle_0118
+  rotate: true
+  xy: 112, 86
+  size: 98, 288
+  orig: 98, 288
+  offset: 0, 0
+  index: -1
+stand_0000
+  rotate: true
+  xy: 688, 118
+  size: 81, 284
+  orig: 81, 284
+  offset: 0, 0
+  index: -1
+stand_0008
+  rotate: true
+  xy: 688, 35
+  size: 81, 285
+  orig: 81, 285
+  offset: 0, 0
+  index: -1
+stand_0024
+  rotate: true
+  xy: 112, 3
+  size: 81, 285
+  orig: 81, 285
+  offset: 0, 0
+  index: -1

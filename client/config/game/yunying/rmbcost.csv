@@ -1,0 +1,8 @@
+﻿VariableName,amount,award,desc,huodongID
+Defaults,0,{},,0
+ID,amount,award,desc,huodongID
+1,280,{gold=10000;card=30041;21006=100;52=100},Tổng chi tiêu tích lũy 280 vàng,5001
+2,1280,{gold=10000;card=30041;21006=100;52=100},Tổng chi tiêu tích lũy 1280 vàng,5001
+3,3280,{gold=10000;card=30041;21006=100;52=100},Tổng chi tiêu tích lũy 3280 vàng,5001
+4,6800,{gold=10000;card=30041;21006=100;52=100},Tổng chi tiêu tích lũy 6800 vàng,5001
+5,13800,{gold=10000;card=30041;21006=100;52=100},Tổng chi tiêu tích lũy 13800 vàng,5001

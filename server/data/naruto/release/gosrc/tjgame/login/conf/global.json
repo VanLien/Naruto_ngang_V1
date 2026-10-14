@@ -1,0 +1,18 @@
+{
+  "cn": {
+    "game_key_prefix": ["game.cn"],
+    "rmb_return": true,
+    "newest": 3,
+    "maintain": false,
+    "maintain_servers": [],
+    "maintain_billboard": "服务器维护时间16:00-19:00",
+
+    "white_list_enable": false,
+    "white_list_billboard": "即将上线，请耐心等待",
+    "white_list": {
+      "com_lzl_jxjjb": ["192.168.1.95"]
+    },
+
+    "register_disable": []
+  }
+}

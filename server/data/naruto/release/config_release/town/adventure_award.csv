@@ -1,0 +1,15 @@
+﻿VariableName,awardType,awards,needExplorationPoint,randomBelongID
+Defaults,0,{},0,0
+ID,awardType,awards,needExplorationPoint,randomBelongID
+101,1,{gold=100},,
+102,1,{gold=101},,
+103,1,{gold=102},,
+201,2,{lib=10131},50,1
+202,2,{lib=10131},50,1
+203,2,{lib=10131},50,1
+204,2,{lib=10131},50,2
+205,2,{lib=10131},50,2
+206,2,{libs=<10131;10132;10133;10134>},50,3
+207,2,{libs=<10131;10132;10133;10134>},50,3
+208,2,{libs=<10131;10132;10133;10134>},50,4
+209,2,{libs=<10131;10132;10133;10134>},50,4

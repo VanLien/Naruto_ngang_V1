@@ -1,0 +1,5 @@
+﻿VariableName,damageFormula,hpFormula,skillHit,skillId,skillPower,weatherId
+Defaults,0,0,0,,0,
+ID,damageFormula,hpFormula,skillHit,skillId,skillPower,weatherId
+1,,,,17,,1
+2,,,,20,,2

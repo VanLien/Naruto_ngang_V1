@@ -1,0 +1,8 @@
+﻿VariableName,CDTime,fix,name,recommendAttr,robot1,robot2,robot3,robot4,spine,weight
+Defaults,0,0,,<>,0,1,2,3,,0
+ID,CDTime,fix,name,recommendAttr,robot1,robot2,robot3,robot4,spine,weight
+1,,0.75,Lôi,<3>,2181,2081,2071,1051,18ys/huizhang1.skel,100
+2,,0.75,Thổ,<1>,2041,2061,2211,1151,18ys/huizhang1.skel,100
+3,,0.75,Phong,<5>,2111,2201,2121,1171,18ys/huizhang1.skel,100
+4,,0.75,Thủy,<2>,2021,2031,2091,1131,18ys/huizhang1.skel,100
+5,,0.75,Hỏa,<4>,2141,2151,2191,1141,18ys/huizhang1.skel,100

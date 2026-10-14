@@ -1,0 +1,9 @@
+﻿VariableName,award,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType,type
+Defaults,{},,,0,0,{},0,0
+ID,award,desc,goTo,huodongID,taskParam,taskSpecialParam,taskType,type
+1,{8118=3;gold=50000},Đăng nhập hôm nay,,101056,1,,17,5
+2,{8118=3;gold=50000;22111=1},Nâng cấp Pokémon bất kỳ 10 lần,strengthen,101056,10,,36,5
+3,{8118=3;gold=50000;22111=1},Chiến đấu trong Đấu Trường tổng cộng 5 lần,arena,101056,5,,41,5
+4,{8118=3;gold=50000;22111=1},Thách đấu ải Elite 10 lần,20000,101056,10,,30,5
+5,{8118=3;gold=50000;22111=1},Sử dụng tính năng Tích Lũy Kho Báu (Treasure) 5 lần,gainGold,101056,5,,18,5
+6,{8118=3;gold=50000;22111=1},Tiêu hao tổng cộng 200 vàng,,101056,200,,21,5

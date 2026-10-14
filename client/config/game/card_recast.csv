@@ -1,0 +1,10 @@
+﻿VariableName,costItems,lockNum
+Defaults,{},0
+ID,costItems,lockNum
+1,{19=5;gold=10000;rmb=0},
+2,{19=5;gold=10000;rmb=50},1
+3,{19=5;gold=10000;rmb=120},2
+4,{19=5;gold=10000;rmb=200},3
+5,{19=5;gold=10000;rmb=350},4
+6,{19=5;gold=10000;rmb=550},5
+7,{19=5;gold=10000;rmb=550},6

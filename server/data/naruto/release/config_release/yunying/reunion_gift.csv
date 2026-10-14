@@ -1,0 +1,24 @@
+﻿VariableName,huodongID,item,name,target,type
+Defaults,0,{},,0,0
+ID,huodongID,item,name,target,type
+1,101016,{rmb=1200;514=50;500=10},Gói Tái Hợp,,1
+2,101016,{519=3;gold=500000;rmb=300},Gói Liên Kết Tài Khoản,1,2
+3,101016,{520=3;gold=300000;rmb=300},Gói Liên Kết Tài Khoản,2,2
+4,101017,{rmb=1500;514=100;500=20},Gói Tái Hợp,,1
+5,101017,{519=3;gold=500000;rmb=400},Gói Liên Kết Tài Khoản,1,2
+6,101017,{520=3;gold=300000;rmb=300},Gói Liên Kết Tài Khoản,2,2
+7,101018,{rmb=1800;514=150;500=30},Gói Tái Hợp,,1
+8,101018,{519=3;gold=500000;rmb=500},Gói Liên Kết Tài Khoản,1,2
+9,101018,{520=3;gold=300000;rmb=300},Gói Liên Kết Tài Khoản,2,2
+101,1001,{519=3;gold=300000;rmb=100;503=3},Gói Tái Hợp,,1
+102,1001,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,1,2
+103,1001,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,2,2
+201,1002,{519=3;gold=300000;rmb=150;503=3},Gói Tái Hợp,,1
+202,1002,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,1,2
+203,1002,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,2,2
+301,1003,{519=3;gold=300000;rmb=200;503=3},Gói Tái Hợp,,1
+302,1003,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,1,2
+303,1003,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,2,2
+401,1004,{519=3;gold=300000;rmb=250;503=3},Gói Tái Hợp,,1
+402,1004,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,1,2
+403,1004,{rmb=50;gold=300000;502=2;501=1},Gói Liên Kết Tài Khoản,2,2

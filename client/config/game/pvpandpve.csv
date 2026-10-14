@@ -1,0 +1,18 @@
+﻿VariableName,desc,flag,goTo,lockbg1,nameRes,serverDayInfo,sortIndex,title,type,unionFeature,unlockFeature
+Defaults,,0,,,,,0,,,,
+ID,desc,flag,goTo,lockbg1,nameRes,serverDayInfo,sortIndex,title,type,unionFeature,unlockFeature
+1,,,activityGate,city/adventure/activityselect/img_rcfb@.png,,,1,Phó bản phần thưởng,pve,,activityGate
+2,,,endlessTower,city/adventure/activityselect/img_wxtz@.png,,,2,Con đường trưởng thành,pve,,endlessTower
+3,,,dispatchTask,city/adventure/activityselect/img_pq@.png,,,3,Nhiệm vụ hộ tống,pve,,dispatchTask
+4,,,randomTower,city/adventure/activityselect/img_ytly@.png,,,5,Huấn luyện đặc biệt Đội Ám Bộ,pve,,randomTower
+5,,,cloneBattle,city/adventure/activityselect/img_ystz@.png,,,4,Thử thách Ảo cảnh,pve,,cloneBattle
+7,,,gymChallenge,city/adventure/activityselect/img_dgtz.png,,,7,Thử thách Dojo,pve,,gym
+8,,,hunting,city/adventure/activityselect/img_sldd@.png,,,8,Nhiệm vụ thám hiểm ninja,pve,,hunting
+10,,,mimicry,city/adventure/activityselect/img_ntdz@.png,,,10,Khu vực hắc ám sâu thẳm,pve,,mimicry
+101,,,arena,city/pvp/img_jjc.png,,,1,Đấu trường,pvp,,arena
+102,,,unionFight,city/pvp/img_ghz.png,,{funcType=less;sevCsv=csv.union_fight.base[1].servOpenDays},6,Chiến tổ chức,pvp,unionFight,unionFight
+103,,,craft,city/pvp/img_sydh.png,,{funcType=less;sevCsv=csv.craft.base[1].servOpenDays},3,Giải đấu ninja,pvp,,craft
+104,,,crossCraft,city/pvp/img_kfsydh.png,,{funcType=less;sevCsv=csv.cross.craft.base[1].servOpenDays},4,Giải đấu ninja liên server,pvp,,crossCraft
+105,,,crossArena,city/pvp/img_kfjjc.png,,{funcType=less;sevCsv=csv.cross.arena.base[1].servOpenDays},2,Đấu trường liên server,pvp,,crossArena
+106,,,onlineFight,city/pvp/img_dzjjc.png,,{funcType=less;sevCsv=csv.cross.online_fight.base[1].servOpenDays},5,Đấu trường đối chiến,pvp,,onlineFight
+107,,,crossMine,city/pvp/img_kfzyz.png,,{funcType=less;sevCsv=csv.cross.mine.base[1].servOpenDays},7,Trung tâm thương mại liên server,pvp,,crossMine

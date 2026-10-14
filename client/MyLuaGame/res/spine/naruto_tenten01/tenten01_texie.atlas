@@ -1,0 +1,370 @@
+
+tenten01_texie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1tenwp13
+  rotate: false
+  xy: 61, 159
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+21006202_tips_1_biyan
+  rotate: false
+  xy: 125, 97
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+21006202_tips_1_bozi
+  rotate: false
+  xy: 945, 485
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+21006202_tips_1_er
+  rotate: false
+  xy: 468, 233
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+21006202_tips_1_fabao1
+  rotate: true
+  xy: 270, 171
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+21006202_tips_1_kuabu
+  rotate: false
+  xy: 516, 402
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+21006202_tips_1_shangshen
+  rotate: false
+  xy: 516, 299
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+21006202_tips_1_shangshendicen
+  rotate: false
+  xy: 598, 344
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+21006202_tips_1_tou
+  rotate: false
+  xy: 2, 30
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+21006202_tips_1_wuguan
+  rotate: true
+  xy: 232, 164
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youbi1
+  rotate: true
+  xy: 611, 411
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youbi2
+  rotate: false
+  xy: 125, 113
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youdatui
+  rotate: true
+  xy: 611, 452
+  size: 58, 118
+  orig: 58, 118
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youjiao
+  rotate: false
+  xy: 61, 85
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youliuhai1
+  rotate: false
+  xy: 717, 414
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youliuhai2
+  rotate: true
+  xy: 845, 455
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youliuhai3
+  rotate: true
+  xy: 945, 473
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youliuhai4
+  rotate: true
+  xy: 195, 118
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youshou
+  rotate: false
+  xy: 219, 134
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+21006202_tips_1_youtui1
+  rotate: false
+  xy: 161, 194
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuobi1
+  rotate: true
+  xy: 516, 261
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuobi2
+  rotate: false
+  xy: 346, 218
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuoliuhai1
+  rotate: false
+  xy: 598, 360
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuoliuhai2
+  rotate: false
+  xy: 731, 416
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuoshou
+  rotate: false
+  xy: 49, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuotui1
+  rotate: true
+  xy: 276, 216
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuotui1_1
+  rotate: true
+  xy: 731, 453
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+21006202_tips_1_zuotui2
+  rotate: false
+  xy: 2, 101
+  size: 57, 151
+  orig: 57, 151
+  offset: 0, 0
+  index: -1
+21006202_tips_2_baozi1
+  rotate: false
+  xy: 243, 143
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+21006202_tips_2_baozi2
+  rotate: false
+  xy: 744, 435
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+21006202_tips_2_shanshen
+  rotate: false
+  xy: 845, 468
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+21006202_tips_2_tou
+  rotate: false
+  xy: 161, 116
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+21006202_tips_2_toujing1
+  rotate: false
+  xy: 610, 394
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+21006202_tips_2_wuguan
+  rotate: false
+  xy: 70, 8
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youer
+  rotate: true
+  xy: 981, 487
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youjiao
+  rotate: false
+  xy: 195, 128
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youliihai1
+  rotate: true
+  xy: 611, 402
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youliihai2
+  rotate: false
+  xy: 93, 62
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youliihai3
+  rotate: true
+  xy: 90, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youshou
+  rotate: true
+  xy: 304, 178
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youtui1
+  rotate: true
+  xy: 61, 30
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youtui2
+  rotate: false
+  xy: 396, 225
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+21006202_tips_2_youxiu1
+  rotate: false
+  xy: 103, 91
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuojiao
+  rotate: true
+  xy: 434, 231
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuoliuhai1
+  rotate: true
+  xy: 70, 2
+  size: 4, 18
+  orig: 4, 18
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuoliuhai2
+  rotate: false
+  xy: 587, 274
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuoshou
+  rotate: true
+  xy: 981, 495
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuotui1
+  rotate: false
+  xy: 161, 164
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuotui2
+  rotate: false
+  xy: 2, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuotuikuabu
+  rotate: false
+  xy: 898, 473
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+21006202_tips_2_zuoxiu1
+  rotate: true
+  xy: 276, 194
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 254
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

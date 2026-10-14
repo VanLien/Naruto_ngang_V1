@@ -1,0 +1,377 @@
+
+yugito00_ui.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youmuren_bianzi
+  rotate: true
+  xy: 1373, 200
+  size: 37, 149
+  orig: 37, 149
+  offset: 0, 0
+  index: -1
+youmuren_bianzi2
+  rotate: true
+  xy: 1197, 213
+  size: 41, 174
+  orig: 41, 174
+  offset: 0, 0
+  index: -1
+youmuren_biyan
+  rotate: false
+  xy: 744, 6
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+youmuren_body1
+  rotate: false
+  xy: 2, 66
+  size: 279, 188
+  orig: 279, 188
+  offset: 0, 0
+  index: -1
+youmuren_body2
+  rotate: true
+  xy: 1357, 142
+  size: 56, 135
+  orig: 56, 135
+  offset: 0, 0
+  index: -1
+youmuren_body3
+  rotate: true
+  xy: 283, 79
+  size: 175, 277
+  orig: 175, 277
+  offset: 0, 0
+  index: -1
+youmuren_body4
+  rotate: true
+  xy: 562, 82
+  size: 71, 171
+  orig: 71, 171
+  offset: 0, 0
+  index: -1
+youmuren_body5
+  rotate: true
+  xy: 565, 34
+  size: 46, 149
+  orig: 46, 149
+  offset: 0, 0
+  index: -1
+youmuren_body6
+  rotate: true
+  xy: 562, 155
+  size: 99, 213
+  orig: 99, 213
+  offset: 0, 0
+  index: -1
+youmuren_tou1
+  rotate: true
+  xy: 777, 152
+  size: 102, 138
+  orig: 102, 138
+  offset: 0, 0
+  index: -1
+youmuren_tou10
+  rotate: false
+  xy: 716, 30
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+youmuren_tou11
+  rotate: false
+  xy: 794, 42
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+youmuren_tou12
+  rotate: true
+  xy: 1528, 126
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+youmuren_tou2
+  rotate: false
+  xy: 917, 160
+  size: 134, 94
+  orig: 134, 94
+  offset: 0, 0
+  index: -1
+youmuren_tou3
+  rotate: false
+  xy: 1081, 117
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
+youmuren_tou4
+  rotate: false
+  xy: 1494, 126
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+youmuren_tou5
+  rotate: true
+  xy: 926, 45
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+youmuren_tou6
+  rotate: false
+  xy: 171, 22
+  size: 93, 42
+  orig: 93, 42
+  offset: 0, 0
+  index: -1
+youmuren_tou7
+  rotate: true
+  xy: 699, 2
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+youmuren_tou8
+  rotate: true
+  xy: 1286, 135
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+youmuren_tou9
+  rotate: true
+  xy: 1327, 136
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+youmuren_ybozi
+  rotate: false
+  xy: 1009, 95
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+youmuren_youshou1
+  rotate: true
+  xy: 1053, 173
+  size: 81, 142
+  orig: 81, 142
+  offset: 0, 0
+  index: -1
+youmuren_youshou10
+  rotate: true
+  xy: 1610, 208
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+youmuren_youshou11
+  rotate: true
+  xy: 1053, 160
+  size: 11, 140
+  orig: 11, 140
+  offset: 0, 0
+  index: -1
+youmuren_youshou116
+  rotate: false
+  xy: 926, 94
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+youmuren_youshou12
+  rotate: true
+  xy: 1241, 132
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+youmuren_youshou13
+  rotate: true
+  xy: 565, 20
+  size: 12, 132
+  orig: 12, 132
+  offset: 0, 0
+  index: -1
+youmuren_youshou14
+  rotate: false
+  xy: 1373, 239
+  size: 186, 15
+  orig: 186, 15
+  offset: 0, 0
+  index: -1
+youmuren_youshou15
+  rotate: true
+  xy: 1561, 243
+  size: 11, 160
+  orig: 11, 160
+  offset: 0, 0
+  index: -1
+youmuren_youshou2
+  rotate: true
+  xy: 440, 18
+  size: 59, 123
+  orig: 59, 123
+  offset: 0, 0
+  index: -1
+youmuren_youshou3
+  rotate: false
+  xy: 2, 8
+  size: 167, 56
+  orig: 167, 56
+  offset: 0, 0
+  index: -1
+youmuren_youshou4
+  rotate: true
+  xy: 1197, 125
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+youmuren_youshou5
+  rotate: false
+  xy: 1174, 118
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+youmuren_youshou6
+  rotate: false
+  xy: 851, 48
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+youmuren_youshou7
+  rotate: true
+  xy: 1841, 217
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+youmuren_youshou8
+  rotate: true
+  xy: 565, 2
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+youmuren_youshou9
+  rotate: true
+  xy: 1723, 243
+  size: 11, 152
+  orig: 11, 152
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou1
+  rotate: false
+  xy: 283, 2
+  size: 155, 75
+  orig: 155, 75
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou10
+  rotate: true
+  xy: 171, 2
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou11
+  rotate: true
+  xy: 1561, 229
+  size: 12, 106
+  orig: 12, 106
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou12
+  rotate: true
+  xy: 1764, 217
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou13
+  rotate: true
+  xy: 1669, 230
+  size: 11, 93
+  orig: 11, 93
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou14
+  rotate: true
+  xy: 440, 4
+  size: 12, 116
+  orig: 12, 116
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou15
+  rotate: true
+  xy: 735, 81
+  size: 10, 114
+  orig: 10, 114
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou2
+  rotate: false
+  xy: 735, 93
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou3
+  rotate: true
+  xy: 1197, 156
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou4
+  rotate: true
+  xy: 1081, 73
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou5
+  rotate: true
+  xy: 1524, 201
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou6
+  rotate: false
+  xy: 1528, 146
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou7
+  rotate: true
+  xy: 1554, 207
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou8
+  rotate: true
+  xy: 227, 2
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+youmuren_zuoshou9
+  rotate: true
+  xy: 1877, 244
+  size: 10, 115
+  orig: 10, 115
+  offset: 0, 0
+  index: -1

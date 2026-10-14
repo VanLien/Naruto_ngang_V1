@@ -1,0 +1,15 @@
+﻿VariableName,activeSkill,block,blockPower,breakBlock,classify,cure,damage,damageAdd,damageDeepen,damageReduce,damageSub,defence,defenceIgnore,dodge,fight_soul,hit,hp,hpRecover,level,mp1,mp1Recover,mp2,mp2Recover,natureRestraint,rebound,roleForce,roleId,skills,specialDamage,specialDefence,specialDefenceIgnore,speed,star,strike,strikeDamage,strikeResistance,suckBlood,ultimateAdd,ultimateSub
+Defaults,0,1,1,1,0,1,1,1,1,1,1,1,1,0,{},10000,1,1,90,600,1,1,1,0,0,,,{},1,1,1,1,5,1,15000,1,0,0,0
+ID,activeSkill,block,blockPower,breakBlock,classify,cure,damage,damageAdd,damageDeepen,damageReduce,damageSub,defence,defenceIgnore,dodge,fight_soul,hit,hp,hpRecover,level,mp1,mp1Recover,mp2,mp2Recover,natureRestraint,rebound,roleForce,roleId,skills,specialDamage,specialDefence,specialDefenceIgnore,speed,star,strike,strikeDamage,strikeResistance,suckBlood,ultimateAdd,ultimateSub
+1,,,,,3,,50000,,,,,0,0,,,,750000,,,,,,,,,1,30001,,50000,0,0,1500,,0,,,,,
+2,,,,,3,,55000,,,,,0,0,,,,1950000,,,,,,,,,1,30002,,55000,0,0,1100,,0,,,,,
+3,,,,,3,,50000,,,,,0,0,,,,1200000,,,,,,,,,1,30003,,50000,0,0,1400,,0,,,,,
+4,,,,,3,,50000,,,,,0,0,,,,360000,,,,,,,,,1,30004,,50000,0,0,900,,0,,,,,
+5,,,,,3,,50000,,,,,0,0,,,,1800000,,,,,,,,,1,30005,,50000,0,0,600,,0,,,,,
+6,,,,,3,,50000,,,,,0,0,,,,390000,,,,,,,,,1,30006,,50000,0,0,100,,0,,,,,
+7,,,,,3,,50000,,,,,0,0,,,,1200000,,,,,,,,,2,30007,,50000,0,0,1200,,0,,,,,
+8,,,,,3,,50000,,,,,0,0,,,,1200000,,,,,,,,,2,30008,,50000,0,0,800,,0,,,,,
+9,,,,,3,,50000,,,,,0,0,,,,800000,,,,,,,,,2,30009,,50000,0,0,1300,,0,,,,,
+10,,,,,3,,50000,,,,,0,0,,,,800000,,,,,,,,,2,30010,,50000,0,0,0,,0,,,,,
+11,,,,,3,,50000,,,,,0,0,,,,2400000,,,,,,,,,2,30011,,50000,0,0,700,,0,,,,,
+12,,,,,3,,50000,,,,,0,0,,,,360000,,,,,,,,,2,30012,,50000,0,0,1000,,0,,,,,

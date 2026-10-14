@@ -1,0 +1,97 @@
+
+nitaiduizhan.png
+size: 1759,1534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 0, 1214
+  size: 1040, 320
+  orig: 1040, 322
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: true
+  xy: 1041, 822
+  size: 712, 511
+  orig: 712, 511
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 964, 295
+  size: 480, 526
+  orig: 490, 526
+  offset: 10, 0
+  index: -1
+chengshi
+  rotate: true
+  xy: 1445, 171
+  size: 647, 310
+  orig: 647, 339
+  offset: 0, 5
+  index: -1
+ditai
+  rotate: false
+  xy: 0, 506
+  size: 963, 315
+  orig: 964, 315
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 480, 25
+  size: 480, 395
+  orig: 507, 427
+  offset: 6, 0
+  index: -1
+guang_zhu1_0
+  rotate: false
+  xy: 922, 840
+  size: 77, 373
+  orig: 77, 384
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 0, 36
+  size: 479, 469
+  orig: 506, 503
+  offset: 11, 23
+  index: -1
+hei
+  rotate: true
+  xy: 1744, 1510
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+huzhao
+  rotate: false
+  xy: 0, 825
+  size: 480, 388
+  orig: 507, 388
+  offset: 6, 0
+  index: -1
+wangge
+  rotate: false
+  xy: 481, 852
+  size: 440, 361
+  orig: 440, 361
+  offset: 0, 0
+  index: -1
+y4a
+  rotate: false
+  xy: 876, 0
+  size: 749, 170
+  orig: 798, 171
+  offset: 32, 1
+  index: -1
+yun8
+  rotate: true
+  xy: 1553, 819
+  size: 715, 190
+  orig: 725, 195
+  offset: 0, 0
+  index: -1

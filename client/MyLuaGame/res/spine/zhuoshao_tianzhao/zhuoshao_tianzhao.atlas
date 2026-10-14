@@ -1,0 +1,69 @@
+
+zhuoshao_tianzhao.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sf0
+  rotate: false
+  xy: 844, 45
+  size: 158, 133
+  orig: 158, 133
+  offset: 0, 0
+  index: -1
+sf1
+  rotate: false
+  xy: 529, 27
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+sf2
+  rotate: false
+  xy: 2, 2
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+sf3
+  rotate: true
+  xy: 358, 26
+  size: 152, 169
+  orig: 152, 169
+  offset: 0, 0
+  index: -1
+sf4
+  rotate: true
+  xy: 179, 20
+  size: 158, 177
+  orig: 158, 177
+  offset: 0, 0
+  index: -1
+sf6
+  rotate: true
+  xy: 1004, 38
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+sf7
+  rotate: true
+  xy: 1156, 37
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+sf8
+  rotate: false
+  xy: 1302, 49
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+sf9
+  rotate: false
+  xy: 696, 32
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+yuanxingsaoguang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunadaoju
+  rotate: false
+  xy: 2, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+
+yuanxingsaoguang2.png
+size: 32,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/zdsl_slgy2
+  rotate: false
+  xy: 2, 2
+  size: 16, 362
+  orig: 16, 362
+  offset: 0, 0
+  index: -1

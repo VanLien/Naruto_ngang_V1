@@ -1,0 +1,95 @@
+
+quantihudun_dax.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_1
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shockwave_4
+  rotate: false
+  xy: 1745, 1735
+  size: 250, 250
+  orig: 256, 256
+  offset: 3, 3
+  index: -1
+ssn_sk2_buff_0029
+  rotate: false
+  xy: 0, 1048
+  size: 870, 937
+  orig: 1099, 1152
+  offset: 82, 96
+  index: -1
+ssn_sk2_buff_0030
+  rotate: false
+  xy: 0, 130
+  size: 871, 916
+  orig: 1099, 1152
+  offset: 79, 97
+  index: -1
+ssn_sk2_buff_0031
+  rotate: false
+  xy: 873, 138
+  size: 873, 916
+  orig: 1099, 1152
+  offset: 76, 96
+  index: -1
+ssn_sk2_buff_0032
+  rotate: false
+  xy: 872, 1056
+  size: 871, 929
+  orig: 1099, 1152
+  offset: 78, 96
+  index: -1
+
+quantihudun_dax2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssn_sk2_buff_0028
+  rotate: false
+  xy: 0, 0
+  size: 861, 913
+  orig: 1099, 1152
+  offset: 91, 95
+  index: -1
+ssn_sk2_buff_0033
+  rotate: true
+  xy: 866, 983
+  size: 851, 922
+  orig: 1099, 1152
+  offset: 98, 96
+  index: -1
+ssn_sk2_buff_0034
+  rotate: true
+  xy: 866, 116
+  size: 865, 878
+  orig: 1099, 1152
+  offset: 85, 96
+  index: -1
+ssn_sk2_buff_0035
+  rotate: false
+  xy: 0, 915
+  size: 864, 919
+  orig: 1099, 1152
+  offset: 88, 96
+  index: -1
+
+quantihudun_dax3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssn_sk2_buff_0036
+  rotate: false
+  xy: 0, 0
+  size: 860, 871
+  orig: 1099, 1152
+  offset: 91, 95
+  index: -1

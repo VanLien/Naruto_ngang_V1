@@ -1,0 +1,15 @@
+﻿VariableName,addTimes,desc,huodongID,taskParam,taskSpecialParam,taskType
+Defaults,0,,0,9999,{},0
+ID,addTimes,desc,huodongID,taskParam,taskSpecialParam,taskType
+1,1,Đăng nhập vào game hôm nay,1001,1,,17
+2,1,Sử dụng tính năng Tầm Bảo (Treasure) 5 lần hôm nay,1001,5,,18
+3,1,Khiêu chiến đấu trường 5 lần hôm nay,1001,5,,41
+11,1,Dùng thể lực (Stamina) đạt 100 hôm nay,1001,100,,28
+12,1,Dùng thể lực (Stamina) đạt 300 hôm nay,1001,300,,28
+13,1,Dùng thể lực (Stamina) đạt 600 hôm nay,1001,600,,28
+14,1,Dùng thể lực (Stamina) đạt 900 hôm nay,1001,900,,28
+15,1,Dùng thể lực (Stamina) đạt 1200 hôm nay,1001,1200,,28
+21,1,Nạp 60 vàng hôm nay,1001,60,,22
+22,1,Nạp 300 vàng hôm nay,1001,300,,22
+31,1,Tiêu 200 vàng hôm nay,1001,200,,21
+32,1,Tiêu 500 vàng hôm nay,1001,500,,21

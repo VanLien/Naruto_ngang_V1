@@ -1,0 +1,13 @@
+{
+  "agent.dev.1": {
+    "debug": true,
+    "nsqlookupd":"http://192.168.1.125:4161/",
+    "nsqd_tcp_addresses": [
+      "192.168.1.125:4150",
+      "192.168.1.125:4140"
+    ],
+    "services":[
+      {"name":  "anticheat.dev.1"}
+    ]
+  }
+}

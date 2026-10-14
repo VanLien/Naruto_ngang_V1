@@ -1,0 +1,42 @@
+{
+  "crosslobby.vn.1": {
+    "nsqd_tcp_addresses": ["180.93.98.5:4150"],
+    "nsqlookupd": "http://180.93.98.5:4161/",
+    "services": [
+      {
+        "dependent": [],
+        "name": "crosslobby.vn.1"
+      }
+    ]
+  },
+  "crosslobby.en.1": {
+    "nsqd_tcp_addresses": ["15.235.218.69:4150"],
+    "nsqlookupd": "http://15.235.218.69:4161/",
+    "services": [
+      {
+        "dependent": [],
+        "name": "crosslobby.en.1"
+      }
+    ]
+  },
+  "crosslobby.dev.1": {
+    "nsqd_tcp_addresses": ["110.172.29.223:4150"],
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dependent": [],
+        "name": "crosslobby.dev.1"
+      }
+    ]
+  },
+  "crosslobby.th.1": {
+    "nsqd_tcp_addresses": ["15.235.181.86:4150"],
+    "nsqlookupd": "http://15.235.181.86:4161/",
+    "services": [
+      {
+        "dependent": [],
+        "name": "crosslobby.th.1"
+      }
+    ]
+  }
+}

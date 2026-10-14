@@ -1,0 +1,9 @@
+﻿VariableName,desc,effect,group,icon,name,quality,type
+Defaults,,0,1,,,1,
+ID,desc,effect,group,icon,name,quality,type
+1,Hồi phục 100% HP cho đơn vị chỉ định,100,,city/adventure/random_tower/icon/icon_xingxiangskill_1.png,Hồi phục HP đơn mục tiêu,3,1
+2,Hồi phục 30% HP cho toàn bộ đơn vị phe ta,30,,city/adventure/random_tower/icon/icon_xingxiangskill_1.png,Hồi phục HP toàn đội,5,2
+3,Hồi sinh 1 nhân vật đã tử trận,,,city/adventure/random_tower/icon/icon_xingxiangskill_10.png,Hồi sinh đơn mục tiêu,2,3
+4,Hồi phục 100% HP cho đơn vị chỉ định,100,2,city/adventure/random_tower/icon/icon_xingxiangskill_1.png,Hồi phục HP đơn mục tiêu,3,1
+5,Hồi phục 30% HP cho toàn bộ đơn vị phe ta,30,2,city/adventure/random_tower/icon/icon_xingxiangskill_1.png,Hồi phục HP toàn đội,5,2
+6,Hồi sinh 1 nhân vật đã tử trận,,2,city/adventure/random_tower/icon/icon_xingxiangskill_10.png,Hồi sinh đơn mục tiêu,2,3

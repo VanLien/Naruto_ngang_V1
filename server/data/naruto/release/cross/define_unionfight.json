@@ -1,0 +1,12 @@
+{
+    "crossunionfight.vn.1": {
+        "nsqd_tcp_addresses": ["180.93.98.5:4150"],
+        "nsqlookupd": "http://180.93.98.5:4161/",
+        "services": [
+          {
+            "dependent": ["crossdb.vn.1","anticheat"],
+            "name": "crossunionfight.vn.1"
+          }
+        ]
+      }
+}

@@ -1,0 +1,89 @@
+
+hongbao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiqiu
+  rotate: false
+  xy: 1284, 288
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+hongbaogai
+  rotate: false
+  xy: 1078, 232
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+hongbaoshen
+  rotate: true
+  xy: 2, 2
+  size: 408, 536
+  orig: 408, 536
+  offset: 0, 0
+  index: -1
+huangbaogai
+  rotate: false
+  xy: 1078, 52
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+huangbaoshen
+  rotate: true
+  xy: 540, 2
+  size: 408, 536
+  orig: 408, 536
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 1284, 164
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+
+hongbao2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_xt_g_0017
+  rotate: false
+  xy: 442, 82
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+TX/flare_Fire
+  rotate: false
+  xy: 235, 36
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+TX/sg1
+  rotate: false
+  xy: 2, 2
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+TX/xing1
+  rotate: false
+  xy: 603, 173
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+TX/zdsl_slgy2
+  rotate: true
+  xy: 603, 228
+  size: 13, 290
+  orig: 13, 290
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "channels": {
+    "none": ["game.dev", "game.beta", "game.cn", "game.cn_qd", "game.cn_ht"],
+    "tc": ["game.cn"],
+    "tc_qd": ["game.cn_qd"],
+    "tc_beta": ["game.beta"]
+  },
+  "servers": {
+    "game.shenhe.1": ["none", "tc", "tc_qd"],
+    "game.dev.2": ["tc", "tc_beta"],
+    "game.dev.4": []
+  }
+}

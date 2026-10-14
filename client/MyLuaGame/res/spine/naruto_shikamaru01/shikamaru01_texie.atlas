@@ -1,0 +1,237 @@
+
+shikamaru01_texie.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 514, 122
+  size: 210, 128
+  orig: 210, 128
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 950, 2
+  size: 370, 147
+  orig: 370, 147
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1877, 20
+  size: 153, 216
+  orig: 153, 216
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 2, 105
+  size: 403, 510
+  orig: 403, 510
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1661, 27
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+clothes1
+  rotate: true
+  xy: 1359, 5
+  size: 206, 300
+  orig: 206, 300
+  offset: 0, 0
+  index: -1
+clothes2
+  rotate: true
+  xy: 2, 10
+  size: 93, 237
+  orig: 93, 237
+  offset: 0, 0
+  index: -1
+clothes3
+  rotate: false
+  xy: 1877, 238
+  size: 165, 270
+  orig: 165, 270
+  offset: 0, 0
+  index: -1
+clothes4
+  rotate: false
+  xy: 1434, 243
+  size: 240, 265
+  orig: 240, 265
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1028, 279
+  size: 229, 281
+  orig: 229, 281
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 857, 151
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 241, 2
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1676, 364
+  size: 173, 144
+  orig: 173, 144
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 1125, 205
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 1322, 69
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+l_fingers
+  rotate: true
+  xy: 1125, 165
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1
+l_forearm
+  rotate: false
+  xy: 1284, 213
+  size: 148, 64
+  orig: 148, 64
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 990, 159
+  size: 91, 133
+  orig: 91, 133
+  offset: 0, 0
+  index: -1
+l_mmao
+  rotate: false
+  xy: 291, 3
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+l_xiu_down
+  rotate: false
+  xy: 1311, 312
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+l_xiu_up
+  rotate: true
+  xy: 820, 13
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1028, 252
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+neck_down
+  rotate: false
+  xy: 654, 10
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+neck_up
+  rotate: false
+  xy: 1311, 410
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1322, 103
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+nose2
+  rotate: false
+  xy: 1318, 151
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 1676, 244
+  size: 78, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 1756, 278
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+r_forearm
+  rotate: false
+  xy: 241, 21
+  size: 257, 82
+  orig: 257, 82
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 500, 12
+  size: 91, 152
+  orig: 91, 152
+  offset: 0, 0
+  index: -1
+r_mmao
+  rotate: false
+  xy: 1247, 163
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+r_xiu_down
+  rotate: false
+  xy: 726, 125
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 514, 252
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1

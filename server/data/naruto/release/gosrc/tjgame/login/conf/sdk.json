@@ -1,0 +1,25 @@
+{
+  "tc": {
+    "appid": "10054",
+    "appkey": "fff18b83431fa3a83b9de80c1e413bde",
+    "appsecret": "8faa31dc49e6e615e1ac8e945cfd6f58",
+    "verifyURL": "http://test.tiancigame.cn/api/server/check_user",
+    "verifyURL_test": "http://test.tiancigame.cn/api/server/check_user",
+    "verifyURL_formal": "http://service.tiancigame.cn/api/server/check_user"
+  },
+  "zd": {
+    "cpid": "tjshuma",
+    "gameid": "tjkoudaijuexing",
+    "channelid": "julan001",
+    "pn": "ioa.air.demo.tjbkm",
+    "appsecret": "P44Mulm1PBjSn1dSelOPa9pOqDmTznS3",
+    "verifyURL": "http://account.jodoplay.com/usercenter/loginverify"
+  },
+  "lp": {
+    "siteCode": "FKDJXIOS",
+    "gameCode": "FKDJX",
+    "key": "6k3WXNqoiFq9IxDL",
+    "key1": "nv7RhbzdcfjiOxJA",
+    "key2": "hqAV2rHxgFfTUfiI"
+  }
+}

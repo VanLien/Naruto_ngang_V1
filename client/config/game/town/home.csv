@@ -1,0 +1,7 @@
+﻿VariableName,cardNum,defaultIDs,furnitureLimitNum,notice1,notice2,reply
+Defaults,0,{wall=71001;floor=70001},999,,,0
+ID,cardNum,defaultIDs,furnitureLimitNum,notice1,notice2,reply
+1,5,,,,,10
+2,5,,,Trong khu nghỉ ngơi có thể đặt 5 nhẫn giả,Nhẫn giả hồi phục thể lực với tốc độ 3 điểm/h,10
+3,8,,,Trong khu nghỉ ngơi có thể đặt 8 nhẫn giả,Nhẫn giả hồi phục thể lực với tốc độ 5 điểm/h,10
+4,8,,,Trong khu nghỉ ngơi có thể đặt 8 nhẫn giả,Nhẫn giả hồi phục thể lực với tốc độ 5 điểm/h,10

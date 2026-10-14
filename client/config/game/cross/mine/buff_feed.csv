@@ -1,0 +1,7 @@
+﻿VariableName,costCoin13,dayFeedTimesLimit,feedExp,feedVip,roleFeedAward,serverFeedAward
+Defaults,,,,0,,
+ID,costCoin13,dayFeedTimesLimit,feedExp,feedVip,roleFeedAward,serverFeedAward
+1,400,5,50,,{gold=7500},{gold=5000}
+2,1000,5,100,,{gold=15000},{gold=10000}
+3,2500,5,200,,{gold=30000},{gold=20000}
+4,6000,5,400,5,{gold=60000},{gold=40000}

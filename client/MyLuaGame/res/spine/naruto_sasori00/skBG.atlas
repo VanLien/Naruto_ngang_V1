@@ -1,0 +1,34 @@
+
+skBG.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+col_white
+  rotate: false
+  xy: 260, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ramp_v_3
+  rotate: false
+  xy: 260, 69
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rift_9
+  rotate: false
+  xy: 2, 82
+  size: 256, 115
+  orig: 256, 115
+  offset: 0, 0
+  index: -1
+rift_stabed
+  rotate: false
+  xy: 2, 2
+  size: 256, 78
+  orig: 256, 78
+  offset: 0, 0
+  index: -1

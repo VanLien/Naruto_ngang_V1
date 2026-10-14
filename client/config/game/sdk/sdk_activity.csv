@@ -1,0 +1,7 @@
+﻿VariableName,beginDate,beginTime,code,day,endDate,endTime,name,prefix,signKey
+Defaults,20160101,500,,7,20990101,500,,,
+ID,beginDate,beginTime,code,day,endDate,endTime,name,prefix,signKey
+1,20241101,0,39Ao,3,20241107,0,Sự kiện điểm danh Double 11,sg,873C29E7E18F47E6
+2,20241105,0,eSA3,14,20241208,0,Sự kiện điểm danh Double 11,dx,4BFEC93F68344E82
+3,20241219,0,7n2j,14,20250119,0,Sự kiện điểm danh Giáng Sinh - Năm Mới,dx,841FF36DEC734841
+4,20250125,0,DiUY,14,20250225,0,Sự kiện điểm danh Tết Xuân,dx,DBA499198A6F4696

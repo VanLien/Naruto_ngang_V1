@@ -1,0 +1,69 @@
+
+kaiping.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/juanzhoudi1
+  rotate: false
+  xy: 2, 240
+  size: 506, 256
+  orig: 506, 256
+  offset: 0, 0
+  index: -1
+images/modian02
+  rotate: false
+  xy: 2, 41
+  size: 253, 197
+  orig: 253, 197
+  offset: 0, 0
+  index: -1
+images/modian03
+  rotate: false
+  xy: 510, 224
+  size: 202, 125
+  orig: 202, 125
+  offset: 0, 0
+  index: -1
+images/modian04
+  rotate: false
+  xy: 487, 59
+  size: 169, 163
+  orig: 169, 163
+  offset: 0, 0
+  index: -1
+images/moji02
+  rotate: false
+  xy: 257, 40
+  size: 228, 198
+  orig: 228, 198
+  offset: 0, 0
+  index: -1
+images/motiao01
+  rotate: false
+  xy: 510, 351
+  size: 510, 57
+  orig: 510, 57
+  offset: 0, 0
+  index: -1
+images/motiao02
+  rotate: false
+  xy: 510, 410
+  size: 510, 86
+  orig: 510, 86
+  offset: 0, 0
+  index: -1
+images/shoulibiao01
+  rotate: false
+  xy: 714, 233
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+images/shoulijian1
+  rotate: false
+  xy: 2, 2
+  size: 198, 37
+  orig: 198, 37
+  offset: 0, 0
+  index: -1

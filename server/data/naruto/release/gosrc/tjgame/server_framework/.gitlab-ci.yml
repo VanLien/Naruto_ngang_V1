@@ -1,0 +1,37 @@
+stages:
+  - build
+  - test
+
+image: golang:1.13.5-stretch
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  
+before_script:
+  - which go
+  - export GO111MODULE=on
+  - export GOPROXY=https://goproxy.io
+  - go version
+  - go env
+  - pwd
+  - ls -l
+  - git config --global http."sslVerify" false
+
+build:
+    stage: build
+    script:
+        - cd ..
+        - rm -f -r ugorji_go
+        - git clone https://robot:robot@git.tianji-game.com/tjgame/ugorji_go.git
+        
+util_coverage:
+    stage: test
+    script:
+        - go test -covermode=atomic -coverprofile=a.out  ./test/... ./tj/...
+        - go tool cover -html=a.out -o coverage.html
+        - ls -l
+    artifacts:
+        expire_in: 1 week
+        paths:
+            - tj/util/coverage.html
+

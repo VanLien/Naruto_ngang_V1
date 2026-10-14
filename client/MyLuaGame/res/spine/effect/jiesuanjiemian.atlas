@@ -1,0 +1,145 @@
+
+jiesuanjiemian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zdsl_slgy2
+  rotate: false
+  xy: 2, 2
+  size: 390, 202
+  orig: 390, 202
+  offset: 0, 0
+  index: -1
+
+jiesuanjiemian2.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+djhd/dj_1
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_2
+  rotate: false
+  xy: 103, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_3
+  rotate: false
+  xy: 204, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_4
+  rotate: false
+  xy: 305, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_5
+  rotate: false
+  xy: 406, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_6
+  rotate: false
+  xy: 507, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_7
+  rotate: false
+  xy: 608, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_8
+  rotate: false
+  xy: 709, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_9
+  rotate: false
+  xy: 810, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+djhd/dj_s1
+  rotate: false
+  xy: 911, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s2
+  rotate: false
+  xy: 994, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s3
+  rotate: false
+  xy: 1077, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s4
+  rotate: false
+  xy: 1160, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s5
+  rotate: false
+  xy: 1243, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s6
+  rotate: false
+  xy: 1326, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s7
+  rotate: false
+  xy: 1409, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s8
+  rotate: false
+  xy: 1492, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+djhd/dj_s9
+  rotate: false
+  xy: 1575, 20
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1

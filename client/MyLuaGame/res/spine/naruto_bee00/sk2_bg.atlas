@@ -1,0 +1,41 @@
+
+sk2_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bg_ramp_v_1
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_glow_12
+  rotate: false
+  xy: 2, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_swirl_15
+  rotate: false
+  xy: 284, 196
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+swirl_16
+  rotate: false
+  xy: 2, 166
+  size: 280, 286
+  orig: 280, 286
+  offset: 0, 0
+  index: -1
+swirl_4
+  rotate: false
+  xy: 542, 324
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

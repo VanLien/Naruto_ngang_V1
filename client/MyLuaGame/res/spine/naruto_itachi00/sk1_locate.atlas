@@ -1,0 +1,104 @@
+
+sk1_locate.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_12_000
+  rotate: false
+  xy: 416, 280
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_001
+  rotate: false
+  xy: 244, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_002
+  rotate: false
+  xy: 310, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_003
+  rotate: false
+  xy: 416, 214
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_004
+  rotate: false
+  xy: 374, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_005
+  rotate: false
+  xy: 440, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_006
+  rotate: false
+  xy: 376, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_12_007
+  rotate: false
+  xy: 442, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_ball_4
+  rotate: false
+  xy: 2, 244
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_blackFlame_0_001
+  rotate: false
+  xy: 260, 346
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+fx_blackFlame_0_002
+  rotate: false
+  xy: 384, 346
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+fx_blackFlame_0_003
+  rotate: true
+  xy: 260, 222
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+fx_eye_0
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+fx_shockwave_28
+  rotate: false
+  xy: 244, 92
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,37 @@
+{
+  "account.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "alias": ["giftdb.dev.1", "paymentdb.dev.1"],
+        "dbname": "account",
+        "mongodb": "110.172.29.223:27018",
+        "name": "accountdb.dev.1"
+      }
+    ]
+  },
+  "gift.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dbname": "gift",
+        "mongodb": "110.172.29.223:27018",
+        "name": "giftdb.dev.1"
+      }
+    ]
+  },
+
+  "paymentdb.dev.1": {
+    "mainnsqd": "110.172.29.223:4150",
+    "nsqlookupd": "http://110.172.29.223:4161/",
+    "services": [
+      {
+        "dbname": "order",
+        "mongodb": "110.172.29.223:27018",
+        "name": "paymentdb.dev.1"
+      }
+    ]
+  }
+}

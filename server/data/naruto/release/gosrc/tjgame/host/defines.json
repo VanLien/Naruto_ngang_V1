@@ -1,0 +1,122 @@
+{
+  "storage.dev.2":{
+    "debug":true,
+    "nsqlookupd":"http://192.168.1.125:4161/",
+    "nsqd_tcp_addresses": [
+        "192.168.1.125:4150",
+        "192.168.1.125:4140"
+    ],
+    "services":[
+      {
+        "name":"storage.dev.2",
+        "mongodb":"192.168.1.96:27018",
+        "dbname":"game_dev2"
+      }
+    ]
+  },
+  "pvp.dev.2":{
+    "debug":true,
+    "nsqlookupd":"http://192.168.1.125:4161/",
+    "nsqd_tcp_addresses": [
+        "192.168.1.125:4150",
+        "192.168.1.125:4140"
+    ],
+    "services": [
+      {
+        "dependent": [
+          "storage.dev.2"
+        ],
+        "name": "pvp.dev.2"
+      },
+      {
+        "dependent": [
+          "storage.dev.2"
+        ],
+        "name": "arena.dev.2"
+      },
+      {
+        "dependent": [
+          "anticheat",
+          "storage.dev.2",
+          "game.dev.2"
+        ],
+        "name": "craft.dev.2"
+      },
+      {
+        "dependent": [
+          "anticheat",
+          "storage.dev.2",
+          "game.dev.2"
+        ],
+        "name": "union_fight.dev.2"
+      },
+      {
+        "dependent": [
+          "storage.dev.2"
+        ],
+        "name": "union.dev.2"
+      },
+      {
+        "dependent": [
+          "storage.dev.2"
+        ],
+        "name": "clone.dev.2"
+      }
+    ]
+  },
+  "cross.dev.1":{
+    "debug": true,
+    "nsqd_tcp_addresses": [
+      "192.168.1.125:4150",
+      "192.168.1.125:4140"
+    ],
+    "nsqlookupd": "http://192.168.1.125:4161/",
+    "services": [
+      {
+        "dependent": [
+          "anticheat",
+          "crossdb.dev.1"
+        ],
+        "name": "crosscraft.dev.1"
+      },
+      {
+        "dependent": [
+          "anticheat",
+          "crossdb.dev.1"
+        ],
+        "name": "crossarena.dev.1"
+      }
+    ]
+  },
+  "onlinefight.dev.1":{
+    "debug": true,
+    "nsqd_tcp_addresses": [
+      "192.168.1.125:4150",
+      "192.168.1.125:4140"
+    ],
+    "nsqlookupd": "http://192.168.1.125:4161/",
+    "services": [
+      {
+        "dependent": [
+          "online_fight_forward",
+          "crossdb.dev.1"
+        ],
+        "name": "onlinefight.dev.1"
+      }
+    ]
+  },
+    "crosslobby.dev.1":{
+    "debug": true,
+    "nsqd_tcp_addresses": [
+      "192.168.1.125:4150",
+      "192.168.1.125:4140"
+    ],
+    "nsqlookupd": "http://192.168.1.125:4161/",
+    "services": [
+      {
+        "dependent": [],
+        "name": "crosslobby.dev.1"
+      }
+    ]
+  }
+}

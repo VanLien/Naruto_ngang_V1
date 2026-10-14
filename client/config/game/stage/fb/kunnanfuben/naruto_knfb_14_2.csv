@@ -1,0 +1,4 @@
+﻿VariableName,frameScale,opp_x_speed,opp_y_speed,res,resType,scale,x,x_speed,xlength,xloop,y,y_speed,ylength,yloop
+Defaults,1,0,0,,1,2,0,0,0,0,0,0,757,1
+ID,frameScale,opp_x_speed,opp_y_speed,res,resType,scale,x,x_speed,xlength,xloop,y,y_speed,ylength,yloop
+1,,,,battle/scene/battle_map_21.png,,,,,1136,1,,,,

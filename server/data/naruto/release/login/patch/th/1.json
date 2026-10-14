@@ -1,0 +1,15 @@
+{
+	"files": [{
+		"name": "res/version.plist",
+		"size": 1112,
+		"md5": "4a29b78f3c1a44670220468b0db15911",
+		"patch": 1
+	}, {
+		"name": "res/img/connecting.png",
+		"size": 4150,
+		"md5": "67a120c97d023d5ca812adb01de721b0",
+		"patch": 1
+	}],
+	"svn_version": "54539",
+	"git_version": "175bed51520de09c6020d19bcaecc21834fcd51b"
+}

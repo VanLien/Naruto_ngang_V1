@@ -1,0 +1,128 @@
+# nginx configuration by winginx.com
+
+autoindex off;
+
+
+location = /logout.html {
+  rewrite ^(.*)$ /thoat.php;
+}
+
+location = /thoat.html {
+  rewrite ^(.*)$ /thoat.php;
+}
+
+location = /security.html {
+  rewrite ^(.*)$ /security.php;
+}
+
+location /change {
+  rewrite ^/changepass.html$ /changepass.php;
+  rewrite ^/changepass2.html$ /changepass2.php;
+}
+
+location = /topup.html {
+  rewrite ^(.*)$ /topup.php;
+}
+
+location = /momo.html {
+  rewrite ^(.*)$ /momo.php;
+}
+
+location = /atm.html {
+  rewrite ^(.*)$ /atm.php;
+}
+
+location = /card.html {
+  rewrite ^(.*)$ /card.php;
+}
+
+location = /history.html {
+  rewrite ^(.*)$ /history.php;
+}
+
+location = /login.html {
+  rewrite ^(.*)$ /login.php;
+}
+
+location = /register.html {
+  rewrite ^(.*)$ /register.php;
+}
+
+location /dang {
+  rewrite ^/dang-ky-nhanh.html$ /register.php;
+}
+
+location = /forgot.html {
+  rewrite ^(.*)$ /forgot.php;
+}
+
+location /update {
+  rewrite ^/update-password-2.html$ /updatepass2.php;
+}
+
+location /thong {
+  rewrite ^/thong-tin-tai-khoan.html$ /userinfo.php;
+}
+
+location /nap {
+  rewrite ^/nap-the.html$ /napthe.php;
+}
+
+location /lich {
+  rewrite ^/lich-su.html$ /lich-su.php;
+}
+
+location = /recharge.html {
+  rewrite ^(.*)$ /recharge.php;
+}
+
+location = /index.html {
+  rewrite ^(.*)$ /index.php;
+}
+
+location = /tranfer.html {
+  rewrite ^(.*)$ /tranfer.php;
+}
+
+location = /ref.html {
+  rewrite ^(.*)$ /ref.php;
+}
+
+location = /buycode.html {
+  rewrite ^(.*)$ /ajax/buycode.php;
+}
+
+location = /shopcode.html {
+  rewrite ^(.*)$ /shopcode.php;
+}
+
+location = /updateUser.html {
+  rewrite ^(.*)$ /updateUser.php;
+}
+
+location /fix {
+  rewrite ^/fix-game.html$ /fix-game.php;
+}
+
+location /tim {
+  rewrite ^/tim-lai-mat-khau.html$ /forgot.php;
+}
+
+location = /chonnv.html {
+  rewrite ^(.*)$ /chonnv.php;
+}
+
+location = /tichluy.html {
+  rewrite ^(.*)$ /tichluy.php;
+}
+
+location = /bxh.html {
+  rewrite ^(.*)$ /bxh.php;
+}
+
+location = /tichnap.html {
+  rewrite ^(.*)$ /tichluy.php;
+}
+location = /nap-tien.html {
+       rewrite ^(.*)$ /atm_invoice.php;
+}

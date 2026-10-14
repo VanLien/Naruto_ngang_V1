@@ -1,0 +1,27 @@
+
+hinata02_sk2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect1/bagua_3
+  rotate: false
+  xy: 2, 2
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+effect1/bagua_4
+  rotate: false
+  xy: 2, 73
+  size: 446, 172
+  orig: 446, 172
+  offset: 0, 0
+  index: -1
+effect1/bdii_0
+  rotate: false
+  xy: 450, 165
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1

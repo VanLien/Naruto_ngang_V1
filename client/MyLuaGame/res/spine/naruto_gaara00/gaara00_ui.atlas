@@ -1,0 +1,230 @@
+
+gaara00_ui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiz
+  rotate: false
+  xy: 1467, 456
+  size: 206, 54
+  orig: 206, 54
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 68, 16
+  size: 88, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 1467, 439
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+face4
+  rotate: true
+  xy: 1443, 354
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: true
+  xy: 2, 217
+  size: 293, 612
+  orig: 293, 612
+  offset: 0, 0
+  index: -1
+kouzi
+  rotate: false
+  xy: 1463, 399
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+kouzi2
+  rotate: false
+  xy: 1244, 254
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 1018, 267
+  size: 32, 143
+  orig: 32, 143
+  offset: 0, 0
+  index: -1
+liantiao
+  rotate: true
+  xy: 158, 18
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+majia
+  rotate: true
+  xy: 2, 43
+  size: 172, 276
+  orig: 172, 276
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 616, 254
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 1985, 448
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: true
+  xy: 1289, 267
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+shouzhi3
+  rotate: true
+  xy: 1346, 271
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+shouzhi4
+  rotate: false
+  xy: 1463, 365
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 219, 19
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 486, 112
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 1861, 432
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 616, 217
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 1408, 319
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 1163, 314
+  size: 89, 196
+  orig: 89, 196
+  offset: 0, 0
+  index: -1
+youer
+  rotate: true
+  xy: 1254, 310
+  size: 127, 152
+  orig: 127, 152
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 478, 2
+  size: 75, 108
+  orig: 75, 108
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 280, 121
+  size: 204, 94
+  orig: 204, 94
+  offset: 0, 0
+  index: -1
+youxiasheng
+  rotate: false
+  xy: 1018, 301
+  size: 143, 209
+  orig: 143, 209
+  offset: 0, 0
+  index: -1
+youxiasheng2
+  rotate: false
+  xy: 1163, 239
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+youzhu
+  rotate: false
+  xy: 616, 235
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 280, 43
+  size: 76, 196
+  orig: 76, 196
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 555, 18
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 1675, 430
+  size: 184, 80
+  orig: 184, 80
+  offset: 0, 0
+  index: -1
+zuoxiaobi2
+  rotate: true
+  xy: 2, 2
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+zuoxiasheng
+  rotate: true
+  xy: 1254, 439
+  size: 71, 211
+  orig: 71, 211
+  offset: 0, 0
+  index: -1

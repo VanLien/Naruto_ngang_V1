@@ -1,0 +1,4 @@
+﻿VariableName,autoSignVIP,betRateFixCoin,betRateFixGold,championBetCoin,championBetGold,damageScoreRatio,failAward,maxBetWinCoin,maxBetWinGold,minBetRateCoin,minBetRateGold,preBetCoin,preBetExtraAward,preBetGold,servOpenDays,top4BetCoin,top4BetExtraAward,top4BetGold,winAward
+Defaults,3,1,1,100,50000,1000,{6018=1},1500,1500000,2,2.5,100,{},50000,1,100,{},50000,{6017=1}
+ID,autoSignVIP,betRateFixCoin,betRateFixGold,championBetCoin,championBetGold,damageScoreRatio,failAward,maxBetWinCoin,maxBetWinGold,minBetRateCoin,minBetRateGold,preBetCoin,preBetExtraAward,preBetGold,servOpenDays,top4BetCoin,top4BetExtraAward,top4BetGold,winAward
+1,,,,200,300000,,,,,,,,{gold=300000;coin8=200},200000,,,{gold=300000;coin8=300},200000,

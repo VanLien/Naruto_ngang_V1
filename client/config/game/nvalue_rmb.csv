@@ -1,0 +1,9 @@
+﻿VariableName,locknum,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,totalCostRmb
+Defaults,0,25,0.05,0.1,20,0.005,80000
+ID,locknum,probEffectInterval,probInit,probLimit,probMiniTimes,probStep,totalCostRmb
+1,,,,,,,2000
+2,1,,,,,,4000
+3,2,,,,,,8000
+4,3,,,,,,20000
+5,4,,,,,,40000
+6,5,,,,,,

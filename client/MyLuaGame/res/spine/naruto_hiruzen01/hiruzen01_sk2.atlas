@@ -1,0 +1,20 @@
+
+hiruzen01_sk2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect1/san1
+  rotate: false
+  xy: 2, 2
+  size: 970, 369
+  orig: 970, 369
+  offset: 0, 0
+  index: -1
+effect1/tkkk
+  rotate: false
+  xy: 974, 24
+  size: 970, 347
+  orig: 970, 347
+  offset: 0, 0
+  index: -1

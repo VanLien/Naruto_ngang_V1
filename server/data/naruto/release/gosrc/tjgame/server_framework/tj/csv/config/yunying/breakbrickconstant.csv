@@ -1,0 +1,4 @@
+变量名,life,normalBuffP,rigidityBallDuration,speedUpBallDuration,slowDownBallDuration,reversePlankDuration,maxSplitBallCount,splitBallAngle,plantScales,ballSpeed,speedUpPower,slowDownPower,plantSpeed,plantDragSpeed,plantAnglePower,minShootAngle,buffDropSpeed,sceneMoveSpeed,sceneMoveCount,brickStartPos
+默认值,,,,,,,,,,,,,,,,,,,,
+ID,生命值（每局球的个数）,普通方块掉落buff概率,刚性球buff持续时间,加速球buff持续时间,减速球buff持续时间,反向板buff持续时间,最大分散球值,分散球角度,伸缩板范围,球速,加速球量,减速球量,挡板移动速度,拖动挡板移动速度,挡板偏移角度加成,最小发射角度限制,buff道具下落速度,屏幕移动速度,屏幕移动量(一次移动几个宽度的砖块),砖块的初始位置
+1,3,0.1,7,10,10,5,3,<30;60>,<0.6; 0.8; 1; 1.3; 1.5>,430,1.5,0.7,700,2000,60,25,<250;350>,200,2,{x = 45; y = 40}

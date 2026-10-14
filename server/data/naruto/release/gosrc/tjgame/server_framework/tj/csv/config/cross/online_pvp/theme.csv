@@ -1,0 +1,11 @@
+变量名,effects,_beizhu,res,icon,desc,diff
+默认值,<>,,"""""",00ShuMa/SSPP_res/playmethod/txt_bqwjn.png,"""""",{x=0;y=0}
+ID,主题效果类型,备注,客户端加载资源,主界面主题icon,玩法文字说明,偏移量
+1,<1>,无限小技能,00ShuMa/SSPP_res/playmethod/bg_wxjn.png,00ShuMa/SSPP_res/playmethod/txt_wxjn.png,,
+2,<2>,开启基因,00ShuMa/SSPP_res/playmethod/bg_kqjy.png,00ShuMa/SSPP_res/playmethod/txt_kqjy.png,所有上阵的数码兽都开启了基因突破Ⅳ,
+3,<3>,回怒加快,00ShuMa/SSPP_res/playmethod/bg_kshn.png,00ShuMa/SSPP_res/playmethod/txt_kshn.png,,{x=0;y=40}
+4,<4>,开场满怒气,00ShuMa/SSPP_res/playmethod/bg_kcmn.png,00ShuMa/SSPP_res/playmethod/txt_kcmn.png,,
+5,<5>,攻防技,00ShuMa/SSPP_res/playmethod/bg_gfjkz.png,00ShuMa/SSPP_res/playmethod/txt_gfjkz.png,,
+6,<6>,扳选,00ShuMa/SSPP_res/playmethod/bg_bxtz.png,00ShuMa/SSPP_res/playmethod/txt_bxtz.png,,
+7,<7>,选卡,00ShuMa/SSPP_res/playmethod/bg_xktz.png,00ShuMa/SSPP_res/playmethod/txt_xktz.png,,
+8,<8>,固定,00ShuMa/SSPP_res/playmethod/bg_gdxz.png,00ShuMa/SSPP_res/playmethod/txt_gdxk.png,,

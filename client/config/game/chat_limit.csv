@@ -1,0 +1,14 @@
+﻿VariableName,correction,gateStarSum
+Defaults,1,0
+ID,correction,gateStarSum
+1,0.02,3
+2,0.05,40
+3,0.15,50
+4,0.2,70
+5,0.4,90
+6,0.55,110
+7,0.65,130
+8,0.75,150
+9,0.85,170
+10,0.95,190
+11,,999999

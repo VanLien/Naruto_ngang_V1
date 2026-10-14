@@ -1,0 +1,8 @@
+﻿VariableName,cardCD,costSeqID,helditemCDs,helditemNum,icon,levelSeqID,name,open,preID,preLevel,unlockLevel,unlockParams
+Defaults,0,0,{},1,,0,,{},0,0,99,{}
+ID,cardCD,costSeqID,helditemCDs,helditemNum,icon,levelSeqID,name,open,preID,preLevel,unlockLevel,unlockParams
+1,10800,1,{1=10800},,,1,Ấn phong ấn tam giác,,,,80,{1=15}
+2,10800,2,{1=10800},,,2,Kết giới phong ấn ba tầng,,1,20,85,{1=15}
+3,10800,3,{1=10800;2=10800},2,,3,Ấn phong ấn Tứ Thần,,2,20,90,{1=15;2=25}
+4,10800,4,{1=10800;2=10800},2,,4,Ấn phong ấn Quỷ,,3,20,95,{1=15;2=25}
+5,10800,5,{1=10800;2=10800},2,,5,Ấn phong ấn Ngũ Hành,,4,20,100,{1=15;2=25}

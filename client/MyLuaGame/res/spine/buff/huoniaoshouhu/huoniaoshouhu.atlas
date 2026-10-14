@@ -1,0 +1,104 @@
+
+huoniaoshouhu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo_q3
+  rotate: false
+  xy: 2, 2
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+huo_q4
+  rotate: false
+  xy: 766, 188
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+huo_q5
+  rotate: false
+  xy: 135, 2
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+huo_q6
+  rotate: false
+  xy: 268, 2
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+huo_q7
+  rotate: false
+  xy: 401, 2
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+sf0
+  rotate: false
+  xy: 2, 325
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf1
+  rotate: false
+  xy: 2, 139
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf2
+  rotate: false
+  xy: 193, 325
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf3
+  rotate: false
+  xy: 193, 139
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf4
+  rotate: false
+  xy: 384, 325
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf6
+  rotate: false
+  xy: 384, 139
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf7
+  rotate: false
+  xy: 575, 325
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf8
+  rotate: false
+  xy: 575, 139
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1
+sf9
+  rotate: false
+  xy: 766, 325
+  size: 189, 184
+  orig: 189, 184
+  offset: 0, 0
+  index: -1

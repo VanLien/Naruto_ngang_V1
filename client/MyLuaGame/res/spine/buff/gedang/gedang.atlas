@@ -1,0 +1,62 @@
+
+gedang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_020001
+  rotate: false
+  xy: 722, 330
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+attack_020003
+  rotate: true
+  xy: 277, 52
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+attack_020005
+  rotate: true
+  xy: 532, 155
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+attack_020007
+  rotate: true
+  xy: 444, 2
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+lan_gq
+  rotate: false
+  xy: 2, 73
+  size: 273, 422
+  orig: 273, 422
+  offset: 0, 0
+  index: -1
+momian_fg
+  rotate: false
+  xy: 277, 205
+  size: 253, 290
+  orig: 253, 290
+  offset: 0, 0
+  index: -1
+shouji14_2
+  rotate: false
+  xy: 532, 308
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
+wm_dd
+  rotate: false
+  xy: 875, 375
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+hudun.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fangyu_0001
+  rotate: false
+  xy: 157, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0002
+  rotate: false
+  xy: 334, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0003
+  rotate: false
+  xy: 511, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0004
+  rotate: false
+  xy: 688, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0005
+  rotate: false
+  xy: 865, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0006
+  rotate: false
+  xy: 1042, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/fangyu_0007
+  rotate: false
+  xy: 1219, 29
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+images/lan_gq
+  rotate: false
+  xy: 2, 2
+  size: 153, 176
+  orig: 153, 176
+  offset: 0, 0
+  index: -1

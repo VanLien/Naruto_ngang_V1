@@ -1,0 +1,13 @@
+.searchinput::-webkit-input-placeholder{text-align:center;}
+.searchinput:-moz-placeholder{text-align:center;}
+.searchinput::-moz-placeholder{text-align:center;}
+.searchinput:-ms-input-placeholder{text-align:center;}
+.ui-autocomplete{left:0!important;border-top:5px solid #E6E6E6}
+.ui-menu-item{width:100%;border-bottom:1px solid #ccc;max-width:668px}
+.gamesugges{float:left;vertical-align:top!important;margin:0;padding:0;width:100%;background:#fff;}
+.gamesugges > *{vertical-align:top!important;margin:0;padding:0;}
+.gamesugges img{width:50px;margin:5px 10px 5px 0px;vertical-align:top;}
+.gamesugges a{font-weight:500;padding-top:7px}
+.typesearch{font-size:11px;padding-top:8px;}
+h3.typesearch{font-size:10px;font-weight:100}
+.ui-helper-hidden-accessible{display:none}
