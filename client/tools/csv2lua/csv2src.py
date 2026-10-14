@@ -4,16 +4,16 @@
 # csv路径名去掉.csv后缀后，将分隔符替换为.，即为lua table变量名
 # 如bullet\fire.csv -> bullet.fire = {...}
 
-# CSV specification
-# 1 at the beginning is not left blank, in units of lines.
-# 2 can contain or not include column names, and if column names are included, they will be in the first line of the file.
-# 3 A line of data does not span lines and has no blank lines.
-# 4 A comma (ie,) is used as a separator, and the column is empty to express its existence.
-# If there is a half-width comma (that is, ,) in column 5, use half-width quotation marks (that is, ',') to enclose the field value.
-# If there is a half-width quotation mark (ie ") in column 6, it should be replaced with a half-width double quotation mark ("") to escape, and the half-width quotation mark (ie "") should be used to enclose the field value.
-# 7 When reading and writing files, quotes and commas operate in reverse.
-# 8 The internal code format is not limited, it can be ASCII, Unicode or others.
-# 9 does not support special characters
+# CSV 规范
+# 1 开头是不留空，以行为单位。
+# 2 可含或不含列名，含列名则居文件第一行。
+# 3 一行数据不跨行，无空行。
+# 4 以半角逗号（即,）作分隔符，列为空也要表达其存在。
+# 5 列内容如存在半角逗号（即,）则用半角引号（即','）将该字段值包含起来。
+# 6 列内容如存在半角引号（即"）则应替换成半角双引号（""）转义，并用半角引号（即""）将该字段值包含起来。
+# 7 文件读写时引号，逗号操作规则互逆。
+# 8 内码格式不限，可为 ASCII、Unicode 或者其他。
+# 9 不支持特殊字符
 
 import os
 import re
@@ -28,7 +28,7 @@ import datetime
 
 import rule
 
-USED_LANGUAGE = ['tw', 'en', 'vn', 'th', 'kr','in']
+USED_LANGUAGE = ['tw', 'en', 'vn', 'th', 'kr']
 MODIFY_FILENAME = "LastModifyList.txt"
 TABLE_SLIM_REDUNDANCY = True # lua table冗余优化， FOR_LUA为真时可开启
 VALUE_CROP = True # 单元格内容根据rule进行裁剪
@@ -83,7 +83,7 @@ def u2utf8(s):
 	return s.encode('utf8')
 
 def excepStr(fileName, row, col, sLine, sCol, id=None, field=None, reason=None):
-	return utf2local("Exception: %s (%d, %d)\r\nException row: %s%s\r\nException column: %s%s\r\nException reason: %s\r\n" % (fileName, row, col, " 【%s】 " % u2utf8(id) if id else "", sLine, " 【%s】 " % u2utf8(field) if field else "", u2utf8(sCol), u2utf8(reason) if reason else ""))
+	return utf2local("异常：%s (%d, %d)\r\n异常行：%s%s\r\n异常列：%s%s\r\n异常原因：%s\r\n" % (fileName, row, col, " 【%s】 " % u2utf8(id) if id else "", sLine, " 【%s】 " % u2utf8(field) if field else "", u2utf8(sCol), u2utf8(reason) if reason else ""))
 
 # 注意没更改过的配表，不能产生diff
 def uuidname():
@@ -192,8 +192,6 @@ item支持嵌套
 '''
 def isArray(s):
 	s = strSys2User(s)
-	if u"và" in s:
-		return False
 	return s[0] == '<' and s[-1] == '>'
 
 '''
@@ -206,8 +204,6 @@ value支持嵌套
 '''
 def isMap(s):
 	s = strSys2User(s)
-	if u"month" in s:
-		return  False
 	return s[0] == '{' and s[-1] == '}'
 
 def whatType(s):
@@ -240,12 +236,9 @@ def readCsv(fileName):
 	if isBOMUTF8:
 		lines[0] = lines[0][3:]
 	ret = []
-	print "processing: %s BOM: %s"%(fileName,str(isBOMUTF8))
 	for x in lines:
-		#ret.append(x.decode('utf8'))
 		if isBOMUTF8:
 			ret.append(x.decode('utf8'))
-
 		else:
 			ret.append(x.decode('gbk'))
 	return ret
@@ -334,7 +327,7 @@ def parseCsv(fileName, keys, vars, defs, lines):
 	if len(varList) != len(keyList):
 		for i in range(max(len(varList), len(keyList))):
 			print varList[i], keyList[i].decode('gbk')
-		print excepStr(fileName, 0, 0, "", "", reason=u"The length of the first line and the third line are inconsistent")
+		print excepStr(fileName, 0, 0, "", "", reason=u"第一行与第三行长度不一致")
 		raise Exception("varList %d, keyList %d, there length must be equal!" % (len(varList), len(keyList)))
 
 	varFilter = None
@@ -453,7 +446,7 @@ def parseCsv(fileName, keys, vars, defs, lines):
 				elemType = whatType(validMat[row][col])
 				if not isCompatibility(elemType, defType):
 					print '!!! ', validMat[row][col], showTypeString(elemType) , '->', defList[col], showTypeString(defType)
-					print excepStr(fileName, row, col, "", validMat[row][col], id=validMat[row][0], field=varList[col], reason=u"does not match the default value type")
+					print excepStr(fileName, row, col, "", validMat[row][col], id=validMat[row][0], field=varList[col], reason=u"与默认值类型不匹配")
 					raise Exception("elem type not compatible with default type")
 
 		# 空列忽略
@@ -819,9 +812,8 @@ def replaceUUID(csvName, data, forceReplace = None):
 
 				# 直接使用__predefine_t__
 				elif skipSlim:
-					#table多次使用的添加注释，注意elem变短，查找\r\n问题
+					# table多次使用的添加注释，注意elem变短，查找\r\n问题
 					elem, p = elemAppendComment(elem, p - 15, src)
-					
 
 				else:
 					if dataKey not in g_dataMap:
@@ -1015,7 +1007,7 @@ def makeLua(csvName, keyList, strMat, defList, hasRepeat):
 			raise e
 
 	if len(data) == 0:
-		print 'Warning', csvName, utf2local('The matching table data is empty, language %s' % LANGUAGE)
+		print 'Warning', csvName, utf2local('对应配表数据为空, 语言 %s' % LANGUAGE)
 
 	global g_dataMap # 为了查看diff方便，映射一个表 __data_t__val[idx1] = __predefine_t__[idx2]
 	global g_dataMapLen # 记录使用了定义空间的大小
@@ -1047,7 +1039,7 @@ def listFiles(rootDir, ext = None):
 	for root, dirs, files in list_dirs:
 		for f in files:
 			if not f[0].isalnum():
-				print f, utf2local('The format of the file name is wrong, ignore')
+				print f, utf2local('文件名格式不对，忽略')
 				continue
 			pf = os.path.join(root, f)
 			if not ext is None:
@@ -1066,7 +1058,7 @@ def listFiles(rootDir, ext = None):
 			flag = True
 			for reF in IGNORE_FILES:
 				if re.search(reF, pf):
-					print pf, 'ignore file'
+					print pf, '文件忽略'
 					flag = False
 					break
 			if flag:
@@ -1153,7 +1145,7 @@ def checkModify(fileList):
 		modifyDict[key] = int(value.strip())
 	modifyListFile.close()
 	hasNewFile = False
-	## Is there any file deletion, if there is, or it is not under the windows system, all will be regenerated
+	## 有无文件删减，如果有，或者不在windows系统下，则全部重新生成
 	for fileName in fileList:
 		if not modifyDict.get(fileName):
 			hasNewFile = True
@@ -1171,10 +1163,10 @@ def main():
 
 	now = datetime.datetime.now()
 
-	print utf2local('csv2src working directory:'), os.getcwd()
-	print utf2local('csv2src configuration source directory:'), SRC_PATH
-	print utf2local('csv2src output file:'), LUA_FILE_NAME
-	print utf2local('csv2src language:'), LANGUAGE
+	print utf2local('csv2src工作目录：'), os.getcwd()
+	print utf2local('csv2src配置源目录：'), SRC_PATH
+	print utf2local('csv2src输出文件：'), LUA_FILE_NAME
+	print utf2local('csv2src语言：'), LANGUAGE
 	if not LANGUAGE:
 		VALUE_CROP = False
 
@@ -1210,12 +1202,12 @@ def main():
 			continue
 
 		if isinstance(lines[0], list):
-			if lines[0][0].strip() != u'VariableName':
-				print fileName, utf2local('The first line is not "variable name", the file cannot be generated!')
+			if lines[0][0].strip() != u'变量名':
+				print fileName, utf2local('第一行不是“变量名”，文件无法被生成！')
 				continue
 		else:
-			if lines[0].split(',')[0].strip() != u'VariableName':
-				print fileName, utf2local('The first line is not "variable name", the file cannot be generated!')
+			if lines[0].split(',')[0].strip() != u'变量名':
+				print fileName, utf2local('第一行不是“变量名”，文件无法被生成！')
 				continue
 
 		# 默认值
@@ -1256,7 +1248,7 @@ def main():
 
 		except Exception, e:
 			# raise
-			print fileName, utf2local('The file cannot be generated! (Check if there are more invalid columns)')
+			print fileName, utf2local('文件无法被生成！(检查是否多了无效列)')
 			print '[', '-'*50, 'begin exception'
 			# print lines
 			print e
@@ -1278,14 +1270,10 @@ if __name__ == '__main__':
 
 	global SRC_PATH, LANGUAGE
 	SRC_PATH = "../../../config_dev"
-	#SRC_PATH = "D:/3.Python/telegram_bot/lua_to_csv/game_dev_convert"
-	#SRC_PATH = "D:/MegaHuyenThoai/lua2csv/csv_final_config"
-	#SRC_PATH = "D:/3.Python/telegram_bot/lua_to_csv/game_dev"
-	#LANGUAGE = 'vn'
+	LANGUAGE = 'cn'
 
 	main()
-	# "D:\MegaHuyenThoai\lua2csv\csv_final_config\cross\online_fight\cards.csv" not trans
-	#"D:\MegaHuyenThoai\lua2csv\csv_final_config\brave_challenge\cards.csv" not trans
+
 	# from luacfg import *
 	# TABLE_SLIM_REDUNDANCY = False
 

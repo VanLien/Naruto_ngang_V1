@@ -1,4 +1,4 @@
-﻿#-*- coding=utf-8 -*-
+#-*- coding=utf-8 -*-
 # csv2py
 
 import os
@@ -14,9 +14,9 @@ if __name__ == '__main__':
 		os.remove(cfg.LUA_FILE_NAME)
 	except Exception, e:
 		pass
-		
+
 	if len(sys.argv) > 1:
 		cfg.LANGUAGE = sys.argv[1]
-	
+
 	csv2src.__dict__.update(cfg.__dict__)
 	csv2src.main()

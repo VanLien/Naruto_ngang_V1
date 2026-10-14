@@ -1,4 +1,4 @@
-﻿#-*- coding=utf-8 -*-
+#-*- coding=utf-8 -*-
 # csv2py
 # 生成py的配置
 '''
@@ -10,7 +10,7 @@ import datetime
 
 SRC_PATH = '../../config/game/'
 SRC_FILE_LIST = None
-LUA_FILE_NAME = '../../cn_config_csv.py'
+LUA_FILE_NAME = './cn_config_csv.py'
 LUA_MODULE_NAME = 'csv'
 PY_NAMETUPLE = True
 FOR_LUA = False
